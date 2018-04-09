@@ -1,0 +1,399 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "gardenjpeg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Maua Mazuri Yapendeza.wav",
+                "from": "2",
+                "segmentation": [
+                  {
+                    "end": "88",
+                    "start": "2",
+                    "word": "Maua"
+                  },
+                  {
+                    "end": "189",
+                    "start": "89",
+                    "word": "mazuri"
+                  },
+                  {
+                    "end": "342",
+                    "start": "190",
+                    "word": "yapendeza"
+                  }
+                ],
+                "until": "342",
+                "utterances": "Maua Mazuri Yapendeza"
+              }
+            ],
+            "sentence": "Maua Mazuri Yapendeza"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Maua Mazuri Yapendeza.wav",
+                "from": "2",
+                "segmentation": [
+                  {
+                    "end": "88",
+                    "start": "2",
+                    "word": "Maua"
+                  },
+                  {
+                    "end": "189",
+                    "start": "89",
+                    "word": "mazuri"
+                  },
+                  {
+                    "end": "342",
+                    "start": "190",
+                    "word": "yapendeza"
+                  }
+                ],
+                "until": "342",
+                "utterances": "Maua mazuri yapendeza"
+              }
+            ],
+            "sentence": "Maua mazuri yapendeza"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ukiyatazama yanameremeta.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "178",
+                    "start": "21",
+                    "word": "Ukiyatazama"
+                  },
+                  {
+                    "end": "370",
+                    "start": "208",
+                    "word": "yanameremeta"
+                  }
+                ],
+                "until": "370",
+                "utterances": "Ukiyatazama yanameremeta"
+              }
+            ],
+            "sentence": "Ukiyatazama, yanameremeta"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Maua Mazuri Yapendeza.wav",
+                "from": "2",
+                "segmentation": [
+                  {
+                    "end": "88",
+                    "start": "2",
+                    "word": "Maua"
+                  },
+                  {
+                    "end": "189",
+                    "start": "89",
+                    "word": "mazuri"
+                  },
+                  {
+                    "end": "342",
+                    "start": "190",
+                    "word": "yapendeza"
+                  }
+                ],
+                "until": "342",
+                "utterances": "Maua mazuri yapendeza"
+              }
+            ],
+            "sentence": "Maua mazuri yapendeza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gardenjpeg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Maua Mazuri Yapendeza.wav",
+                "from": "2",
+                "segmentation": [
+                  {
+                    "end": "88",
+                    "start": "2",
+                    "word": "Maua"
+                  },
+                  {
+                    "end": "189",
+                    "start": "89",
+                    "word": "mazuri"
+                  },
+                  {
+                    "end": "342",
+                    "start": "190",
+                    "word": "yapendeza"
+                  }
+                ],
+                "until": "342",
+                "utterances": "Maua mazuri yapendeza"
+              }
+            ],
+            "sentence": "Maua mazuri yapendeza"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ukiyatazama yanameremeta.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "178",
+                    "start": "21",
+                    "word": "Ukiyatazama"
+                  },
+                  {
+                    "end": "370",
+                    "start": "208",
+                    "word": "yanameremeta"
+                  }
+                ],
+                "until": "370",
+                "utterances": "Ukiyatazama yanameremeta"
+              }
+            ],
+            "sentence": "Ukiyatazama, yanameremeta"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Maua Mazuri Yapendeza.wav",
+                "from": "2",
+                "segmentation": [
+                  {
+                    "end": "88",
+                    "start": "2",
+                    "word": "Maua"
+                  },
+                  {
+                    "end": "189",
+                    "start": "89",
+                    "word": "mazuri"
+                  },
+                  {
+                    "end": "342",
+                    "start": "190",
+                    "word": "yapendeza"
+                  }
+                ],
+                "until": "342",
+                "utterances": "Maua mazuri yapendeza"
+              }
+            ],
+            "sentence": "Maua mazuri yapendeza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bee_flowerjpeg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nzu nzu nzu.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "40",
+                    "start": "21",
+                    "word": "Nzu"
+                  },
+                  {
+                    "end": "112",
+                    "start": "68",
+                    "word": "nzu"
+                  },
+                  {
+                    "end": "148",
+                    "start": "113",
+                    "word": "nzu"
+                  }
+                ],
+                "until": "148",
+                "utterances": "Nzu nzu nzu"
+              }
+            ],
+            "sentence": "Nzu nzu nzu"
+          },
+          {
+            "narration": [
+              {
+                "audio": "We mama nyuki lia we.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "36",
+                    "start": "20",
+                    "word": "We"
+                  },
+                  {
+                    "end": "75",
+                    "start": "37",
+                    "word": "mama"
+                  },
+                  {
+                    "end": "126",
+                    "start": "76",
+                    "word": "nyuki"
+                  },
+                  {
+                    "end": "170",
+                    "start": "127",
+                    "word": "lia"
+                  },
+                  {
+                    "end": "200",
+                    "start": "171",
+                    "word": "we"
+                  }
+                ],
+                "until": "200",
+                "utterances": "We mama nyuki lia we"
+              }
+            ],
+            "sentence": "We mama nyuki lia we"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Toka mbali kutafuta ua zuri kwa chakula.wav",
+                "from": "22",
+                "segmentation": [
+                  {
+                    "end": "57",
+                    "start": "22",
+                    "word": "Toka"
+                  },
+                  {
+                    "end": "112",
+                    "start": "58",
+                    "word": "mbali"
+                  },
+                  {
+                    "end": "202",
+                    "start": "113",
+                    "word": "kutafuta"
+                  },
+                  {
+                    "end": "246",
+                    "start": "203",
+                    "word": "ua"
+                  },
+                  {
+                    "end": "296",
+                    "start": "247",
+                    "word": "zuri"
+                  },
+                  {
+                    "end": "318",
+                    "start": "297",
+                    "word": "kwa"
+                  },
+                  {
+                    "end": "392",
+                    "start": "319",
+                    "word": "chakula"
+                  }
+                ],
+                "until": "392",
+                "utterances": "Toka mbali kutafuta ua zuri kwa chakula"
+              }
+            ],
+            "sentence": "Toka mbali kutafuta ua zuri kwa chakula"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nzu nzu nzu.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "40",
+                    "start": "21",
+                    "word": "Nzu"
+                  },
+                  {
+                    "end": "112",
+                    "start": "68",
+                    "word": "nzu"
+                  },
+                  {
+                    "end": "148",
+                    "start": "113",
+                    "word": "nzu"
+                  }
+                ],
+                "until": "148",
+                "utterances": "Nzu nzu nzu"
+              }
+            ],
+            "sentence": "Nzu nzu nzu"
+          },
+          {
+            "narration": [
+              {
+                "audio": "We mama nyuki lia we.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "36",
+                    "start": "20",
+                    "word": "We"
+                  },
+                  {
+                    "end": "75",
+                    "start": "37",
+                    "word": "mama"
+                  },
+                  {
+                    "end": "126",
+                    "start": "76",
+                    "word": "nyuki"
+                  },
+                  {
+                    "end": "170",
+                    "start": "127",
+                    "word": "lia"
+                  },
+                  {
+                    "end": "200",
+                    "start": "171",
+                    "word": "we"
+                  }
+                ],
+                "until": "200",
+                "utterances": "We mama nyuki lia we"
+              }
+            ],
+            "sentence": "We mama nyuki lia we"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "Maua Mazuri Flowers Song"
+}

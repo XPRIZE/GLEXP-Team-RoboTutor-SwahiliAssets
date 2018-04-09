@@ -75,3 +75,22 @@ each story has its own audio files
 each story has its own folder with storydata.json and image files
 
 ---
+
+
+### CodeDrop1_Songs
+Stories that are classified as "songs", in both lit and math matrix.
+
+##### story and image files
+each story has its own folder with storydata.json and image files
+
+
+##### audio files
+each story has its own audio files
+
+
+---
+
+### CodeDrop1_UtilityAudio
+TODO
+
+---

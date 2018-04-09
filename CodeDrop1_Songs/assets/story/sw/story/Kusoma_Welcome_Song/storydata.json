@@ -1,0 +1,257 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kitabujpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kusoma.wav",
+                "from": "141",
+                "segmentation": [
+                  {
+                    "end": "193",
+                    "start": "141",
+                    "word": "Kusoma"
+                  }
+                ],
+                "until": "193",
+                "utterances": "Kusoma"
+              }
+            ],
+            "sentence": "Kusoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jichojpeg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kusoma kusoma kunataka macho yaone.wav",
+                "from": "1",
+                "segmentation": [
+                  {
+                    "end": "102",
+                    "start": "1",
+                    "word": "Kusoma"
+                  },
+                  {
+                    "end": "198",
+                    "start": "103",
+                    "word": "kusoma"
+                  },
+                  {
+                    "end": "301",
+                    "start": "199",
+                    "word": "kunataka"
+                  },
+                  {
+                    "end": "356",
+                    "start": "302",
+                    "word": "macho"
+                  },
+                  {
+                    "end": "420",
+                    "start": "357",
+                    "word": "yaone"
+                  }
+                ],
+                "until": "420",
+                "utterances": "Kusoma kusoma kunataka macho yaone"
+              }
+            ],
+            "sentence": "Kusoma kusoma kunataka macho yaone"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sikiojpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Masikio yasikie.wav",
+                "from": "1",
+                "segmentation": [
+                  {
+                    "end": "169",
+                    "start": "1",
+                    "word": "Masikio"
+                  },
+                  {
+                    "end": "261",
+                    "start": "170",
+                    "word": "yasikie"
+                  }
+                ],
+                "until": "261",
+                "utterances": "Masikio yasikie"
+              }
+            ],
+            "sentence": "Masikio yasikie"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mdomojpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Na mdomo useme.wav",
+                "from": "22",
+                "segmentation": [
+                  {
+                    "end": "48",
+                    "start": "22",
+                    "word": "Na"
+                  },
+                  {
+                    "end": "126",
+                    "start": "49",
+                    "word": "mdomo"
+                  },
+                  {
+                    "end": "223",
+                    "start": "174",
+                    "word": "useme"
+                  }
+                ],
+                "until": "223",
+                "utterances": "Na mdomo useme"
+              }
+            ],
+            "sentence": "Na mdomo useme"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jichojpeg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kusoma kusoma kunataka macho yaone.wav",
+                "from": "1",
+                "segmentation": [
+                  {
+                    "end": "102",
+                    "start": "1",
+                    "word": "Kusoma"
+                  },
+                  {
+                    "end": "198",
+                    "start": "103",
+                    "word": "kusoma"
+                  },
+                  {
+                    "end": "301",
+                    "start": "199",
+                    "word": "kunataka"
+                  },
+                  {
+                    "end": "356",
+                    "start": "302",
+                    "word": "macho"
+                  },
+                  {
+                    "end": "420",
+                    "start": "357",
+                    "word": "yaone"
+                  }
+                ],
+                "until": "420",
+                "utterances": "Kusoma kusoma kunataka macho yaone"
+              }
+            ],
+            "sentence": "Kusoma kusoma kunataka macho yaone"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sikiojpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Masikio yasikie.wav",
+                "from": "1",
+                "segmentation": [
+                  {
+                    "end": "169",
+                    "start": "1",
+                    "word": "Masikio"
+                  },
+                  {
+                    "end": "261",
+                    "start": "170",
+                    "word": "yasikie"
+                  }
+                ],
+                "until": "261",
+                "utterances": "Masikio yasikie"
+              }
+            ],
+            "sentence": "Masikio yasikie"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mdomojpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Na mdomo useme.wav",
+                "from": "22",
+                "segmentation": [
+                  {
+                    "end": "48",
+                    "start": "22",
+                    "word": "Na"
+                  },
+                  {
+                    "end": "126",
+                    "start": "49",
+                    "word": "mdomo"
+                  },
+                  {
+                    "end": "223",
+                    "start": "174",
+                    "word": "useme"
+                  }
+                ],
+                "until": "223",
+                "utterances": "Na mdomo useme"
+              }
+            ],
+            "sentence": "Na mdomo useme"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "kusoma welcome song"
+}

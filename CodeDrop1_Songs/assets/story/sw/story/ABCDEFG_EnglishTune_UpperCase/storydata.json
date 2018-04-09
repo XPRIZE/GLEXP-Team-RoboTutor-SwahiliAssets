@@ -1,0 +1,372 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "A B CH D E F G_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "A B CH D E F G.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "50",
+                    "start": "19",
+                    "word": "A"
+                  },
+                  {
+                    "end": "87",
+                    "start": "51",
+                    "word": "B"
+                  },
+                  {
+                    "end": "135",
+                    "start": "88",
+                    "word": "CH"
+                  },
+                  {
+                    "end": "169",
+                    "start": "136",
+                    "word": "D"
+                  },
+                  {
+                    "end": "209",
+                    "start": "184",
+                    "word": "E"
+                  },
+                  {
+                    "end": "256",
+                    "start": "210",
+                    "word": "F"
+                  },
+                  {
+                    "end": "278",
+                    "start": "257",
+                    "word": "G"
+                  }
+                ],
+                "until": "278",
+                "utterances": "A B CH D E F G"
+              }
+            ],
+            "sentence": "A B CH D E F G"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "H I J K L M N O P_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "H I J K L M N O P.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "53",
+                    "start": "21",
+                    "word": "H"
+                  },
+                  {
+                    "end": "56",
+                    "start": "54",
+                    "word": "I"
+                  },
+                  {
+                    "end": "127",
+                    "start": "57",
+                    "word": "J"
+                  },
+                  {
+                    "end": "166",
+                    "start": "128",
+                    "word": "K"
+                  },
+                  {
+                    "end": "195",
+                    "start": "167",
+                    "word": "L"
+                  },
+                  {
+                    "end": "215",
+                    "start": "196",
+                    "word": "M"
+                  },
+                  {
+                    "end": "234",
+                    "start": "216",
+                    "word": "N"
+                  },
+                  {
+                    "end": "265",
+                    "start": "235",
+                    "word": "O"
+                  },
+                  {
+                    "end": "287",
+                    "start": "266",
+                    "word": "P"
+                  }
+                ],
+                "until": "287",
+                "utterances": "H I J K L M N O P"
+              }
+            ],
+            "sentence": "H I J K L M N O P"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "R S_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "R S.wav",
+                "from": "18",
+                "segmentation": [
+                  {
+                    "end": "96",
+                    "start": "18",
+                    "word": "R"
+                  },
+                  {
+                    "end": "136",
+                    "start": "97",
+                    "word": "S"
+                  }
+                ],
+                "until": "136",
+                "utterances": "R S"
+              }
+            ],
+            "sentence": "R S"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "T U V_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "T U V.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "30",
+                    "start": "21",
+                    "word": "T"
+                  },
+                  {
+                    "end": "50",
+                    "start": "31",
+                    "word": "U"
+                  },
+                  {
+                    "end": "70",
+                    "start": "51",
+                    "word": "V"
+                  }
+                ],
+                "until": "70",
+                "utterances": "T U V"
+              }
+            ],
+            "sentence": "T U V"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "W_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "W.wav",
+                "from": "17",
+                "segmentation": [
+                  {
+                    "end": "33",
+                    "start": "17",
+                    "word": "W"
+                  }
+                ],
+                "until": "33",
+                "utterances": "W"
+              }
+            ],
+            "sentence": "W"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Y Z_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Y Z.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "35",
+                    "start": "21",
+                    "word": "Y"
+                  },
+                  {
+                    "end": "137",
+                    "start": "102",
+                    "word": "Z"
+                  }
+                ],
+                "until": "137",
+                "utterances": "Y Z"
+              }
+            ],
+            "sentence": "Y Z"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "A B CH D E F G_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "A B CH D E F G.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "50",
+                    "start": "19",
+                    "word": "A"
+                  },
+                  {
+                    "end": "87",
+                    "start": "51",
+                    "word": "B"
+                  },
+                  {
+                    "end": "135",
+                    "start": "88",
+                    "word": "CH"
+                  },
+                  {
+                    "end": "169",
+                    "start": "136",
+                    "word": "D"
+                  },
+                  {
+                    "end": "209",
+                    "start": "184",
+                    "word": "E"
+                  },
+                  {
+                    "end": "256",
+                    "start": "210",
+                    "word": "F"
+                  },
+                  {
+                    "end": "278",
+                    "start": "257",
+                    "word": "G"
+                  }
+                ],
+                "until": "278",
+                "utterances": "A B CH D E F G"
+              }
+            ],
+            "sentence": "A B CH D E F G"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "H I J K L M N O P_txtjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "H I J K L M N O P.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "53",
+                    "start": "21",
+                    "word": "H"
+                  },
+                  {
+                    "end": "56",
+                    "start": "54",
+                    "word": "I"
+                  },
+                  {
+                    "end": "127",
+                    "start": "57",
+                    "word": "J"
+                  },
+                  {
+                    "end": "166",
+                    "start": "128",
+                    "word": "K"
+                  },
+                  {
+                    "end": "195",
+                    "start": "167",
+                    "word": "L"
+                  },
+                  {
+                    "end": "215",
+                    "start": "196",
+                    "word": "M"
+                  },
+                  {
+                    "end": "234",
+                    "start": "216",
+                    "word": "N"
+                  },
+                  {
+                    "end": "265",
+                    "start": "235",
+                    "word": "O"
+                  },
+                  {
+                    "end": "287",
+                    "start": "266",
+                    "word": "P"
+                  }
+                ],
+                "until": "287",
+                "utterances": "H I J K L M N O P"
+              }
+            ],
+            "sentence": "H I J K L M N O P"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ABCDEFG_EnglishTune_UpperCase"
+}

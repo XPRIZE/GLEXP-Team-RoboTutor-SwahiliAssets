@@ -1,0 +1,31 @@
+A B CH D E F G
+
+{"A B CH D E F G"_txt.jpg}
+
+H I J K L M N O P
+
+{"H I J K L M N O P"_txt.jpg}
+
+R S
+
+{"R S"_txt.jpg}
+
+T U V
+
+{"T U V"_txt.jpg}
+
+W
+
+{"W"_txt.jpg}
+
+Y Z
+
+{"Y Z"_txt.jpg}
+
+A B CH D E F G
+
+{"A B CH D E F G"_txt.jpg}
+
+H I J K L M N O P
+
+{"H I J K L M N O P"_txt.jpg}

@@ -1,0 +1,180 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "numbersjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Najua kuhesabu.wav",
+                "from": "51",
+                "segmentation": [
+                  {
+                    "end": "83",
+                    "start": "51",
+                    "word": "Najua"
+                  },
+                  {
+                    "end": "142",
+                    "start": "84",
+                    "word": "kuhesabu"
+                  }
+                ],
+                "until": "142",
+                "utterances": "Najua kuhesabu"
+              }
+            ],
+            "sentence": "Najua kuhesabu"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Najua kuhesabu namba.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "75",
+                    "start": "20",
+                    "word": "Najua"
+                  },
+                  {
+                    "end": "182",
+                    "start": "76",
+                    "word": "kuhesabu"
+                  },
+                  {
+                    "end": "273",
+                    "start": "183",
+                    "word": "namba"
+                  }
+                ],
+                "until": "273",
+                "utterances": "Najua kuhesabu namba"
+              }
+            ],
+            "sentence": "Najua kuhesabu namba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "123png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Moja mbili tatu.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "70",
+                    "start": "20",
+                    "word": "Moja"
+                  },
+                  {
+                    "end": "119",
+                    "start": "71",
+                    "word": "mbili"
+                  },
+                  {
+                    "end": "181",
+                    "start": "138",
+                    "word": "tatu"
+                  }
+                ],
+                "until": "181",
+                "utterances": "Moja mbili tatu"
+              }
+            ],
+            "sentence": "Moja, mbili, tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4567png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nne tano sita saba.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "43",
+                    "start": "21",
+                    "word": "Nne"
+                  },
+                  {
+                    "end": "122",
+                    "start": "44",
+                    "word": "tano"
+                  },
+                  {
+                    "end": "161",
+                    "start": "123",
+                    "word": "sita"
+                  },
+                  {
+                    "end": "234",
+                    "start": "162",
+                    "word": "saba"
+                  }
+                ],
+                "until": "234",
+                "utterances": "Nne tano sita saba"
+              }
+            ],
+            "sentence": "Nne, tano, sita, saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "8910png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nane tisa kumi.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "71",
+                    "start": "19",
+                    "word": "Nane"
+                  },
+                  {
+                    "end": "133",
+                    "start": "72",
+                    "word": "tisa"
+                  },
+                  {
+                    "end": "186",
+                    "start": "134",
+                    "word": "kumi"
+                  }
+                ],
+                "until": "186",
+                "utterances": "Nane tisa kumi"
+              }
+            ],
+            "sentence": "Nane, tisa, kumi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "Najua kuhesa Numbers Song"
+}

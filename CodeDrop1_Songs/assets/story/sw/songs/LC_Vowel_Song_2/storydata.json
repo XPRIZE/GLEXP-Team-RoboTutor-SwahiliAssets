@@ -1,0 +1,477 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "a_mangojpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hiyo ndiyo a a a a.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "64",
+                    "start": "20",
+                    "word": "Hiyo"
+                  },
+                  {
+                    "end": "137",
+                    "start": "65",
+                    "word": "ndiyo"
+                  },
+                  {
+                    "end": "219",
+                    "start": "138",
+                    "word": "a"
+                  },
+                  {
+                    "end": "306",
+                    "start": "256",
+                    "word": "a"
+                  },
+                  {
+                    "end": "364",
+                    "start": "307",
+                    "word": "a"
+                  },
+                  {
+                    "end": "438",
+                    "start": "365",
+                    "word": "a"
+                  }
+                ],
+                "until": "438",
+                "utterances": "Hiyo ndiyo a a a a"
+              }
+            ],
+            "sentence": "Hiyo ndiyo a, a a a"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Iko kama embe a a a.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "74",
+                    "start": "21",
+                    "word": "Iko"
+                  },
+                  {
+                    "end": "125",
+                    "start": "75",
+                    "word": "kama"
+                  },
+                  {
+                    "end": "209",
+                    "start": "126",
+                    "word": "embe"
+                  },
+                  {
+                    "end": "304",
+                    "start": "257",
+                    "word": "a"
+                  },
+                  {
+                    "end": "358",
+                    "start": "305",
+                    "word": "a"
+                  },
+                  {
+                    "end": "428",
+                    "start": "359",
+                    "word": "a"
+                  }
+                ],
+                "until": "428",
+                "utterances": "Iko kama embe a a a"
+              }
+            ],
+            "sentence": "Iko kama embe, a a a"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "e_tailjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hiyo ndiyo e e e e.wav",
+                "from": "1",
+                "segmentation": [
+                  {
+                    "end": "66",
+                    "start": "1",
+                    "word": "Hiyo"
+                  },
+                  {
+                    "end": "137",
+                    "start": "67",
+                    "word": "ndiyo"
+                  },
+                  {
+                    "end": "148",
+                    "start": "142",
+                    "word": "e"
+                  },
+                  {
+                    "end": "289",
+                    "start": "259",
+                    "word": "e"
+                  },
+                  {
+                    "end": "327",
+                    "start": "322",
+                    "word": "e"
+                  },
+                  {
+                    "end": "330",
+                    "start": "328",
+                    "word": "e"
+                  }
+                ],
+                "until": "330",
+                "utterances": "Hiyo ndiyo e e e e"
+              }
+            ],
+            "sentence": "Hiyo ndiyo e, e e e"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ina mkia chini e e e.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "56",
+                    "start": "20",
+                    "word": "Ina"
+                  },
+                  {
+                    "end": "121",
+                    "start": "57",
+                    "word": "mkia"
+                  },
+                  {
+                    "end": "212",
+                    "start": "122",
+                    "word": "chini"
+                  },
+                  {
+                    "end": "299",
+                    "start": "252",
+                    "word": "e"
+                  },
+                  {
+                    "end": "320",
+                    "start": "300",
+                    "word": "e"
+                  },
+                  {
+                    "end": "323",
+                    "start": "321",
+                    "word": "e"
+                  }
+                ],
+                "until": "323",
+                "utterances": "Ina mkia chini e e e"
+              }
+            ],
+            "sentence": "Ina mkia chini, e e e"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_matchjpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hiyo ndiyo i i i i.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "67",
+                    "start": "20",
+                    "word": "Hiyo"
+                  },
+                  {
+                    "end": "128",
+                    "start": "68",
+                    "word": "ndiyo"
+                  },
+                  {
+                    "end": "136",
+                    "start": "129",
+                    "word": "i"
+                  },
+                  {
+                    "end": "213",
+                    "start": "140",
+                    "word": "i"
+                  },
+                  {
+                    "end": "304",
+                    "start": "259",
+                    "word": "i"
+                  },
+                  {
+                    "end": "426",
+                    "start": "377",
+                    "word": "i"
+                  }
+                ],
+                "until": "426",
+                "utterances": "Hiyo ndiyo i i i i"
+              }
+            ],
+            "sentence": "Hiyo ndiyo i, i i i"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ina kofia juu i i i.wav",
+                "from": "22",
+                "segmentation": [
+                  {
+                    "end": "50",
+                    "start": "22",
+                    "word": "Ina"
+                  },
+                  {
+                    "end": "119",
+                    "start": "51",
+                    "word": "kofia"
+                  },
+                  {
+                    "end": "145",
+                    "start": "120",
+                    "word": "juu"
+                  },
+                  {
+                    "end": "252",
+                    "start": "247",
+                    "word": "i"
+                  },
+                  {
+                    "end": "306",
+                    "start": "301",
+                    "word": "i"
+                  },
+                  {
+                    "end": "310",
+                    "start": "307",
+                    "word": "i"
+                  }
+                ],
+                "until": "310",
+                "utterances": "Ina kofia juu i i i"
+              }
+            ],
+            "sentence": "Ina kofia juu, i i i"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "o_balljpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hiyo ndiyo o o o o.wav",
+                "from": "18",
+                "segmentation": [
+                  {
+                    "end": "75",
+                    "start": "18",
+                    "word": "Hiyo"
+                  },
+                  {
+                    "end": "134",
+                    "start": "76",
+                    "word": "ndiyo"
+                  },
+                  {
+                    "end": "215",
+                    "start": "135",
+                    "word": "o"
+                  },
+                  {
+                    "end": "228",
+                    "start": "216",
+                    "word": "o"
+                  },
+                  {
+                    "end": "302",
+                    "start": "258",
+                    "word": "o"
+                  },
+                  {
+                    "end": "434",
+                    "start": "376",
+                    "word": "o"
+                  }
+                ],
+                "until": "434",
+                "utterances": "Hiyo ndiyo o o o o"
+              }
+            ],
+            "sentence": "Hiyo ndiyo o, o o o"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Iko kama mpira o o o.wav",
+                "from": "20",
+                "segmentation": [
+                  {
+                    "end": "76",
+                    "start": "20",
+                    "word": "Iko"
+                  },
+                  {
+                    "end": "125",
+                    "start": "77",
+                    "word": "kama"
+                  },
+                  {
+                    "end": "225",
+                    "start": "126",
+                    "word": "mpira"
+                  },
+                  {
+                    "end": "311",
+                    "start": "261",
+                    "word": "o"
+                  },
+                  {
+                    "end": "370",
+                    "start": "325",
+                    "word": "o"
+                  },
+                  {
+                    "end": "449",
+                    "start": "385",
+                    "word": "o"
+                  }
+                ],
+                "until": "449",
+                "utterances": "Iko kama mpira o o o"
+              }
+            ],
+            "sentence": "Iko kama mpira, o o o"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "u_cuppng",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hiyo ndiyo u u u u.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "78",
+                    "start": "19",
+                    "word": "Hiyo"
+                  },
+                  {
+                    "end": "274",
+                    "start": "147",
+                    "word": "ndiyo"
+                  },
+                  {
+                    "end": "298",
+                    "start": "275",
+                    "word": "u"
+                  },
+                  {
+                    "end": "336",
+                    "start": "330",
+                    "word": "u"
+                  },
+                  {
+                    "end": "356",
+                    "start": "337",
+                    "word": "u"
+                  },
+                  {
+                    "end": "444",
+                    "start": "391",
+                    "word": "u"
+                  }
+                ],
+                "until": "444",
+                "utterances": "Hiyo ndiyo u u u u"
+              }
+            ],
+            "sentence": "Hiyo ndiyo u, u u u"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Iko kama kikombe u u u.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "75",
+                    "start": "21",
+                    "word": "Iko"
+                  },
+                  {
+                    "end": "121",
+                    "start": "76",
+                    "word": "kama"
+                  },
+                  {
+                    "end": "220",
+                    "start": "122",
+                    "word": "kikombe"
+                  },
+                  {
+                    "end": "238",
+                    "start": "221",
+                    "word": "u"
+                  },
+                  {
+                    "end": "363",
+                    "start": "340",
+                    "word": "u"
+                  },
+                  {
+                    "end": "443",
+                    "start": "403",
+                    "word": "u"
+                  }
+                ],
+                "until": "443",
+                "utterances": "Iko kama kikombe u u u"
+              }
+            ],
+            "sentence": "Iko kama kikombe, u u u"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "Hiyo Ndio a"
+}
