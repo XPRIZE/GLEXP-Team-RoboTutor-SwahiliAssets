@@ -93,6 +93,14 @@ each story has its own audio files
 
 ---
 
+### CodeDrop1_LitAudio
+A huuuuge folder of many of the single words needed for the Literacy Matrix
+
+##### audio files
+one single folder of thousands of audio files
+
+---
+
 ### CodeDrop1_UtilityAudio
 TODO
 
