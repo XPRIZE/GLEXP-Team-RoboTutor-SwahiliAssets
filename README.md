@@ -18,10 +18,6 @@ Hint: run `tree -d <asset_dir> | more` in your terminal to view the structure of
 ### CodeDrop1_LitStories
 "Stories" in the Literacy Matrix
 
-##### audio files
-shared_lit audio
-
-
 ##### story files
 
 - HF (high-frequency words)
@@ -32,6 +28,12 @@ shared_lit audio
 - syl (syllables)
 - vow (vowels)
 
+
+
+##### audio files
+shared_lit audio
+
+
 ##### image files
 shared_literacy images
 
@@ -39,10 +41,6 @@ shared_literacy images
 ---
 ### CodeDrop1_NumberStories
 "Stories" in the Math Matrix.
-
-##### audio files
-shared_math audio
-
 
 ##### story files
 
@@ -59,6 +57,11 @@ shared_math audio
 - 100..900 (100 to 900)
 
 
+
+##### audio files
+shared_math audio
+
+
 ##### image files
 shared_math images
  
@@ -67,12 +70,12 @@ shared_math images
 ### CodeDrop1_ReadingStories
 "Stories" that are read, both in the Stories matrix and in the Literacy Matrix.
 
+##### story and image files
+each story has its own folder with storydata.json and image files
+
 ##### audio files
 each story has its own audio files
 
-
-##### story and image files
-each story has its own folder with storydata.json and image files
 
 ---
 
