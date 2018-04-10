@@ -1,1163 +1,968 @@
 {
-  "authors": "Michael Oguttu",
-  "copyright": "Copyright (c) Text: Uganda Community Libraries Association (UgCLA) Artwork: African Storybook Initiative, 2014",
+  "authors": "Noni",
+  "copyright": "Copyright (c) Pratham Books, 2007",
   "data": [
     {
-      "image": "level2_8_page_02_image_0001.jpg",
+      "image": "level1_8_page_02_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "yayeri_mashuhuri_anaamka_mapema_sana_kila_asubuhi.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 116,
-                    "start": 20,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 218,
-                    "start": 117,
-                    "word": "mashuhuri"
-                  },
-                  {
-                    "end": 351,
-                    "start": 253,
-                    "word": "anaamka"
-                  },
-                  {
-                    "end": 436,
-                    "start": 352,
-                    "word": "mapema"
-                  },
-                  {
-                    "end": 528,
-                    "start": 446,
-                    "word": "sana"
-                  },
-                  {
-                    "end": 585,
-                    "start": 529,
-                    "word": "kila"
-                  },
-                  {
-                    "end": 675,
-                    "start": 586,
-                    "word": "asubuhi"
-                  }
-                ],
-                "until": 675,
-                "utterances": "Yayeri mashuhuri anaamka mapema sana kila asubuhi"
-              }
-            ],
-            "sentence": "Yayeri mashuhuri anaamka mapema sana kila asubuhi."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
+                "audio": "sote_tulienda_katika_sherehe_ya_dasara.mp3",
                 "from": 21,
                 "segmentation": [
                   {
-                    "end": 166,
+                    "end": 74,
                     "start": 21,
-                    "word": "Tunajiuliza"
+                    "word": "Sote"
                   },
                   {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
+                    "end": 163,
+                    "start": 75,
+                    "word": "tulienda"
                   },
                   {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
+                    "end": 228,
+                    "start": 164,
+                    "word": "katika"
                   },
                   {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
+                    "end": 289,
+                    "start": 229,
+                    "word": "sherehe"
                   },
                   {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
+                    "end": 310,
+                    "start": 290,
+                    "word": "ya"
                   },
                   {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
+                    "end": 384,
+                    "start": 311,
+                    "word": "Dasara"
                   }
                 ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
+                "until": 384,
+                "utterances": "Sote tulienda katika sherehe ya Dasara"
               }
             ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
+            "sentence": "Sote tulienda katika sherehe ya Dasara."
           }
         ]
       ]
     },
     {
-      "image": "level2_8_page_03_image_0001.jpg",
+      "image": "level1_8_page_03_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "anashukuru_kwa_usiku_uliopita.mp3",
-                "from": 21,
+                "audio": "papa_alimnunulia_chintu_miwani_ya_kupendeza.mp3",
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": 145,
-                    "start": 21,
-                    "word": "Anashukuru"
+                    "end": 65,
+                    "start": 2,
+                    "word": "Papa"
                   },
                   {
                     "end": 193,
-                    "start": 146,
-                    "word": "kwa"
-                  },
-                  {
-                    "end": 273,
-                    "start": 194,
-                    "word": "usiku"
-                  },
-                  {
-                    "end": 369,
-                    "start": 274,
-                    "word": "uliopita"
-                  }
-                ],
-                "until": 369,
-                "utterances": "Anashukuru kwa usiku uliopita"
-              }
-            ],
-            "sentence": "Anashukuru kwa usiku uliopita."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_04_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anatandika_kitanda_chake_vizuri_sana.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 147,
-                    "start": 20,
-                    "word": "Anatandika"
-                  },
-                  {
-                    "end": 225,
-                    "start": 148,
-                    "word": "kitanda"
-                  },
-                  {
-                    "end": 296,
-                    "start": 226,
-                    "word": "chake"
-                  },
-                  {
-                    "end": 404,
-                    "start": 317,
-                    "word": "vizuri"
-                  },
-                  {
-                    "end": 460,
-                    "start": 405,
-                    "word": "sana"
-                  }
-                ],
-                "until": 460,
-                "utterances": "Anatandika kitanda chake vizuri sana"
-              }
-            ],
-            "sentence": "Anatandika kitanda chake vizuri sana."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_05_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anawasalimu_wazazi_wake_na_mababu_zake.mp3",
-                "from": 30,
-                "segmentation": [
-                  {
-                    "end": 183,
-                    "start": 30,
-                    "word": "Anawasalimu"
+                    "start": 76,
+                    "word": "alimnunulia"
                   },
                   {
                     "end": 252,
-                    "start": 184,
-                    "word": "wazazi"
+                    "start": 194,
+                    "word": "Chintu"
                   },
                   {
-                    "end": 311,
+                    "end": 327,
                     "start": 253,
-                    "word": "wake"
-                  },
-                  {
-                    "end": 335,
-                    "start": 312,
-                    "word": "na"
-                  },
-                  {
-                    "end": 435,
-                    "start": 336,
-                    "word": "mababu"
-                  },
-                  {
-                    "end": 499,
-                    "start": 436,
-                    "word": "zake"
-                  }
-                ],
-                "until": 499,
-                "utterances": "Anawasalimu wazazi wake na mababu zake"
-              }
-            ],
-            "sentence": "Anawasalimu wazazi wake na mababu zake."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_06_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anaosha_uso_wake_kwa_sabuni_ya_bluu.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 122,
-                    "start": 21,
-                    "word": "Anaosha"
-                  },
-                  {
-                    "end": 167,
-                    "start": 139,
-                    "word": "uso"
-                  },
-                  {
-                    "end": 225,
-                    "start": 168,
-                    "word": "wake"
-                  },
-                  {
-                    "end": 251,
-                    "start": 226,
-                    "word": "kwa"
-                  },
-                  {
-                    "end": 335,
-                    "start": 252,
-                    "word": "sabuni"
-                  },
-                  {
-                    "end": 349,
-                    "start": 336,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 416,
-                    "start": 350,
-                    "word": "bluu"
-                  }
-                ],
-                "until": 416,
-                "utterances": "Anaosha uso wake kwa sabuni ya bluu"
-              }
-            ],
-            "sentence": "Anaosha uso wake kwa sabuni ya bluu."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_07_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anapiga_mswaki_meno_yake_na_mswaki_aina_ya_lughano.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 118,
-                    "start": 21,
-                    "word": "Anapiga"
-                  },
-                  {
-                    "end": 205,
-                    "start": 119,
-                    "word": "mswaki"
-                  },
-                  {
-                    "end": 263,
-                    "start": 206,
-                    "word": "meno"
-                  },
-                  {
-                    "end": 319,
-                    "start": 264,
-                    "word": "yake"
-                  },
-                  {
-                    "end": 345,
-                    "start": 320,
-                    "word": "na"
-                  },
-                  {
-                    "end": 428,
-                    "start": 346,
-                    "word": "mswaki"
-                  },
-                  {
-                    "end": 494,
-                    "start": 429,
-                    "word": "aina"
-                  },
-                  {
-                    "end": 521,
-                    "start": 495,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 614,
-                    "start": 522,
-                    "word": "lughano"
-                  }
-                ],
-                "until": 614,
-                "utterances": "Anapiga mswaki meno yake na mswaki aina ya lughano"
-              }
-            ],
-            "sentence": "Anapiga mswaki meno yake na mswaki aina ya lughano."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_08_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anaoga_kwa_maji_baridi.mp3",
-                "from": 31,
-                "segmentation": [
-                  {
-                    "end": 108,
-                    "start": 31,
-                    "word": "Anaoga"
-                  },
-                  {
-                    "end": 144,
-                    "start": 109,
-                    "word": "kwa"
-                  },
-                  {
-                    "end": 198,
-                    "start": 145,
-                    "word": "maji"
-                  },
-                  {
-                    "end": 284,
-                    "start": 199,
-                    "word": "baridi"
-                  }
-                ],
-                "until": 284,
-                "utterances": "Anaoga kwa maji baridi"
-              }
-            ],
-            "sentence": "Anaoga kwa maji baridi."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_09_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anavaa_sare_ya_shule_ya_rangi_ya_machungwa.mp3",
-                "from": 22,
-                "segmentation": [
-                  {
-                    "end": 104,
-                    "start": 22,
-                    "word": "Anavaa"
-                  },
-                  {
-                    "end": 168,
-                    "start": 105,
-                    "word": "sare"
-                  },
-                  {
-                    "end": 180,
-                    "start": 169,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 227,
-                    "start": 181,
-                    "word": "shule"
-                  },
-                  {
-                    "end": 262,
-                    "start": 228,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 325,
-                    "start": 263,
-                    "word": "rangi"
-                  },
-                  {
-                    "end": 339,
-                    "start": 326,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 434,
-                    "start": 340,
-                    "word": "machungwa"
-                  }
-                ],
-                "until": 434,
-                "utterances": "Anavaa sare ya shule ya rangi ya machungwa"
-              }
-            ],
-            "sentence": "Anavaa sare ya shule ya rangi ya machungwa."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_10_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anavaa_viatu_vyake_vyeusi.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 111,
-                    "start": 20,
-                    "word": "Anavaa"
-                  },
-                  {
-                    "end": 189,
-                    "start": 112,
-                    "word": "viatu"
-                  },
-                  {
-                    "end": 250,
-                    "start": 190,
-                    "word": "vyake"
+                    "word": "miwani"
                   },
                   {
                     "end": 334,
-                    "start": 251,
-                    "word": "vyeusi"
-                  }
-                ],
-                "until": 334,
-                "utterances": "Anavaa viatu vyake vyeusi"
-              }
-            ],
-            "sentence": "Anavaa viatu vyake vyeusi."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_11_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anafika_shuleni_mapema.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 105,
-                    "start": 21,
-                    "word": "Anafika"
-                  },
-                  {
-                    "end": 173,
-                    "start": 106,
-                    "word": "shuleni"
-                  },
-                  {
-                    "end": 287,
-                    "start": 174,
-                    "word": "mapema"
-                  }
-                ],
-                "until": 287,
-                "utterances": "Anafika shuleni mapema"
-              }
-            ],
-            "sentence": "Anafika shuleni mapema."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
-                  },
-                  {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
-                  },
-                  {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
-                  }
-                ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
-              }
-            ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_12_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anajifunza_masomo_ya_sayansi_ya_kijamii_na_hesabu.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 149,
-                    "start": 20,
-                    "word": "Anajifunza"
-                  },
-                  {
-                    "end": 231,
-                    "start": 150,
-                    "word": "masomo"
-                  },
-                  {
-                    "end": 248,
-                    "start": 232,
+                    "start": 328,
                     "word": "ya"
                   },
                   {
-                    "end": 383,
-                    "start": 249,
-                    "word": "sayansi"
-                  },
-                  {
-                    "end": 459,
-                    "start": 434,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 600,
-                    "start": 460,
-                    "word": "kijamii"
-                  },
-                  {
-                    "end": 644,
-                    "start": 623,
-                    "word": "na"
-                  },
-                  {
-                    "end": 731,
-                    "start": 645,
-                    "word": "hesabu"
+                    "end": 433,
+                    "start": 335,
+                    "word": "kupendeza"
                   }
                 ],
-                "until": 731,
-                "utterances": "Anajifunza masomo ya sayansi ya kijamii na hesabu"
+                "until": 433,
+                "utterances": "Papa alimnunulia Chintu miwani ya kupendeza"
               }
             ],
-            "sentence": "Anajifunza masomo ya sayansi, ya kijamii na hesabu."
+            "sentence": "Papa alimnunulia Chintu miwani ya kupendeza."
           }
         ],
         [
           {
             "narration": [
               {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
-                "from": 21,
+                "audio": "mama_alininunulia_kofia_ya_rangi_ya_samawati_iliyong_aa_mno.mp3",
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": 166,
-                    "start": 21,
-                    "word": "Tunajiuliza"
+                    "end": 65,
+                    "start": 19,
+                    "word": "Mama"
                   },
                   {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
+                    "end": 241,
+                    "start": 82,
+                    "word": "alininunulia"
                   },
                   {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
+                    "end": 313,
+                    "start": 242,
+                    "word": "kofia"
                   },
                   {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
+                    "end": 337,
+                    "start": 314,
+                    "word": "ya"
                   },
                   {
-                    "end": 366,
-                    "start": 350,
-                    "word": "ni"
+                    "end": 386,
+                    "start": 338,
+                    "word": "rangi"
                   },
                   {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
+                    "end": 394,
+                    "start": 387,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 504,
+                    "start": 395,
+                    "word": "samawati"
+                  },
+                  {
+                    "end": 657,
+                    "start": 541,
+                    "word": "iliyong'aa"
+                  },
+                  {
+                    "end": 708,
+                    "start": 658,
+                    "word": "mno"
                   }
                 ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
+                "until": 708,
+                "utterances": "Mama alininunulia kofia ya rangi ya samawati iliyong'aa mno"
               }
             ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
+            "sentence": "Mama alininunulia kofia ya rangi ya samawati iliyong'aa mno."
           }
-        ]
-      ]
-    },
-    {
-      "image": "level2_8_page_13_image_0001.jpg",
-      "text": [
+        ],
         [
           {
             "narration": [
               {
-                "audio": "anaimba_na_kucheza_otamenhaibuga_pamoja_na_mpira_wa_miguu.mp3",
+                "audio": "mtoto_alipata_peremende.mp3",
                 "from": 22,
                 "segmentation": [
                   {
-                    "end": 114,
+                    "end": 103,
                     "start": 22,
-                    "word": "Anaimba"
+                    "word": "Mtoto"
                   },
                   {
-                    "end": 140,
-                    "start": 115,
-                    "word": "na"
+                    "end": 209,
+                    "start": 133,
+                    "word": "alipata"
                   },
                   {
-                    "end": 229,
-                    "start": 141,
-                    "word": "kucheza"
-                  },
-                  {
-                    "end": 441,
-                    "start": 230,
-                    "word": "otamenhaibuga"
-                  },
-                  {
-                    "end": 562,
-                    "start": 497,
-                    "word": "pamoja"
-                  },
-                  {
-                    "end": 589,
-                    "start": 563,
-                    "word": "na"
-                  },
-                  {
-                    "end": 651,
-                    "start": 590,
-                    "word": "mpira"
-                  },
-                  {
-                    "end": 672,
-                    "start": 652,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 734,
-                    "start": 673,
-                    "word": "miguu"
+                    "end": 299,
+                    "start": 210,
+                    "word": "peremende"
                   }
                 ],
-                "until": 734,
-                "utterances": "Anaimba na kucheza otamenhaibuga pamoja na mpira wa miguu"
+                "until": 299,
+                "utterances": "Mtoto alipata peremende"
               }
             ],
-            "sentence": "Anaimba na kucheza otamenhaibuga, pamoja na mpira wa miguu."
+            "sentence": "Mtoto alipata peremende."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tukiwa_njiani_kwenda_nyumbani_upepo_mkali_ulivuma.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 2,
+                    "word": "Tukiwa"
+                  },
+                  {
+                    "end": 135,
+                    "start": 67,
+                    "word": "njiani"
+                  },
+                  {
+                    "end": 194,
+                    "start": 136,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 290,
+                    "start": 195,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 389,
+                    "start": 336,
+                    "word": "upepo"
+                  },
+                  {
+                    "end": 460,
+                    "start": 390,
+                    "word": "mkali"
+                  },
+                  {
+                    "end": 548,
+                    "start": 466,
+                    "word": "ulivuma"
+                  }
+                ],
+                "until": 548,
+                "utterances": "Tukiwa njiani kwenda nyumbani upepo mkali ulivuma"
+              }
+            ],
+            "sentence": "Tukiwa njiani kwenda nyumbani, upepo mkali ulivuma."
           }
         ],
         [
           {
             "narration": [
               {
-                "audio": "tunajiuliza_kwa_nini_yayeri_ni_mashuhuri.mp3",
+                "audio": "uliipeperusha_kofia_yangu_mbali.mp3",
                 "from": 21,
                 "segmentation": [
                   {
-                    "end": 166,
+                    "end": 170,
                     "start": 21,
-                    "word": "Tunajiuliza"
+                    "word": "Uliipeperusha"
                   },
                   {
-                    "end": 222,
-                    "start": 173,
-                    "word": "Kwa"
+                    "end": 235,
+                    "start": 171,
+                    "word": "kofia"
                   },
                   {
-                    "end": 292,
-                    "start": 223,
-                    "word": "nini"
+                    "end": 288,
+                    "start": 236,
+                    "word": "yangu"
                   },
                   {
-                    "end": 349,
-                    "start": 293,
-                    "word": "Yayeri"
+                    "end": 348,
+                    "start": 289,
+                    "word": "mbali"
+                  }
+                ],
+                "until": 348,
+                "utterances": "Uliipeperusha kofia yangu mbali"
+              }
+            ],
+            "sentence": "Uliipeperusha kofia yangu mbali."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kofia_yangu_ilizuiliwa_katika_matawi_ya_mti_wa_miiba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 2,
+                    "word": "Kofia"
                   },
                   {
-                    "end": 366,
-                    "start": 350,
+                    "end": 164,
+                    "start": 81,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 283,
+                    "start": 165,
+                    "word": "ilizuiliwa"
+                  },
+                  {
+                    "end": 373,
+                    "start": 295,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 455,
+                    "start": 374,
+                    "word": "matawi"
+                  },
+                  {
+                    "end": 467,
+                    "start": 456,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 514,
+                    "start": 468,
+                    "word": "mti"
+                  },
+                  {
+                    "end": 535,
+                    "start": 515,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 599,
+                    "start": 536,
+                    "word": "miiba"
+                  }
+                ],
+                "until": 599,
+                "utterances": "Kofia yangu ilizuiliwa katika matawi ya mti wa miiba"
+              }
+            ],
+            "sentence": "Kofia yangu ilizuiliwa katika matawi ya mti wa miiba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nililia_sana.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 19,
+                    "word": "Nililia"
+                  },
+                  {
+                    "end": 187,
+                    "start": 134,
+                    "word": "sana"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Nililia sana"
+              }
+            ],
+            "sentence": "Nililia sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_sikula_chakula_changu_cha_jioni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 121,
+                    "start": 39,
+                    "word": "sikula"
+                  },
+                  {
+                    "end": 190,
+                    "start": 122,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 249,
+                    "start": 191,
+                    "word": "changu"
+                  },
+                  {
+                    "end": 276,
+                    "start": 250,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 361,
+                    "start": 277,
+                    "word": "jioni"
+                  }
+                ],
+                "until": 361,
+                "utterances": "Na sikula chakula changu cha jioni"
+              }
+            ],
+            "sentence": "Na sikula chakula changu cha jioni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baadaye_usiku_ule_mwezi_ulitokezea.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 2,
+                    "word": "Baadaye"
+                  },
+                  {
+                    "end": 196,
+                    "start": 79,
+                    "word": "usiku"
+                  },
+                  {
+                    "end": 227,
+                    "start": 197,
+                    "word": "ule"
+                  },
+                  {
+                    "end": 320,
+                    "start": 272,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 448,
+                    "start": 321,
+                    "word": "ulitokezea"
+                  }
+                ],
+                "until": 448,
+                "utterances": "Baadaye usiku ule mwezi ulitokezea"
+              }
+            ],
+            "sentence": "Baadaye usiku ule, mwezi ulitokezea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "uliiangalia_kofia_yangu_pale_kwenye_mti_wa_miiba.mp3",
+                "from": 42,
+                "segmentation": [
+                  {
+                    "end": 171,
+                    "start": 42,
+                    "word": "Uliiangalia"
+                  },
+                  {
+                    "end": 234,
+                    "start": 172,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 281,
+                    "start": 235,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 328,
+                    "start": 282,
+                    "word": "pale"
+                  },
+                  {
+                    "end": 377,
+                    "start": 329,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 420,
+                    "start": 378,
+                    "word": "mti"
+                  },
+                  {
+                    "end": 441,
+                    "start": 421,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 502,
+                    "start": 442,
+                    "word": "miiba"
+                  }
+                ],
+                "until": 502,
+                "utterances": "Uliiangalia kofia yangu pale kwenye mti wa miiba"
+              }
+            ],
+            "sentence": "Uliiangalia kofia yangu pale kwenye mti wa miiba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwezi_ulijaribu_kuivaa_kofia_yangu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Mwezi"
+                  },
+                  {
+                    "end": 181,
+                    "start": 104,
+                    "word": "ulijaribu"
+                  },
+                  {
+                    "end": 269,
+                    "start": 195,
+                    "word": "kuivaa"
+                  },
+                  {
+                    "end": 332,
+                    "start": 270,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 391,
+                    "start": 333,
+                    "word": "yangu"
+                  }
+                ],
+                "until": 391,
+                "utterances": "Mwezi ulijaribu kuivaa kofia yangu"
+              }
+            ],
+            "sentence": "Mwezi ulijaribu kuivaa kofia yangu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ulitabasamu_kwa_furaha.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 178,
+                    "start": 20,
+                    "word": "Ulitabasamu"
+                  },
+                  {
+                    "end": 213,
+                    "start": 179,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 331,
+                    "start": 214,
+                    "word": "furaha"
+                  }
+                ],
+                "until": 331,
+                "utterances": "Ulitabasamu kwa furaha"
+              }
+            ],
+            "sentence": "Ulitabasamu kwa furaha."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sikuwa_na_budi_ila_kutabasamu_pia.mp3",
+                "from": 24,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 24,
+                    "word": "Sikuwa"
+                  },
+                  {
+                    "end": 123,
+                    "start": 101,
+                    "word": "na"
+                  },
+                  {
+                    "end": 187,
+                    "start": 124,
+                    "word": "budi"
+                  },
+                  {
+                    "end": 230,
+                    "start": 193,
+                    "word": "ila"
+                  },
+                  {
+                    "end": 374,
+                    "start": 231,
+                    "word": "kutabasamu"
+                  },
+                  {
+                    "end": 448,
+                    "start": 375,
+                    "word": "pia"
+                  }
+                ],
+                "until": 448,
+                "utterances": "Sikuwa na budi ila kutabasamu pia"
+              }
+            ],
+            "sentence": "Sikuwa na budi ila kutabasamu pia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baada_ya_kutoka_shule_siku_iliyofuata_mamangu_alinipa_kofia_nyingine_nyekundi_iliyong_ara_mano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 2,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 100,
+                    "start": 83,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 164,
+                    "start": 101,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 224,
+                    "start": 165,
+                    "word": "shule"
+                  },
+                  {
+                    "end": 282,
+                    "start": 225,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 415,
+                    "start": 283,
+                    "word": "iliyofuata"
+                  },
+                  {
+                    "end": 533,
+                    "start": 459,
+                    "word": "mamangu"
+                  },
+                  {
+                    "end": 620,
+                    "start": 540,
+                    "word": "alinipa"
+                  },
+                  {
+                    "end": 689,
+                    "start": 621,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 767,
+                    "start": 690,
+                    "word": "nyingine"
+                  },
+                  {
+                    "end": 908,
+                    "start": 768,
+                    "word": "nyekundi"
+                  },
+                  {
+                    "end": 1008,
+                    "start": 909,
+                    "word": "iliyong'ara"
+                  },
+                  {
+                    "end": 1081,
+                    "start": 1033,
+                    "word": "mano"
+                  }
+                ],
+                "until": 1081,
+                "utterances": "Baada ya kutoka shule siku iliyofuata mamangu alinipa kofia nyingine nyekundi iliyong'ara mano"
+              }
+            ],
+            "sentence": "Baada ya kutoka shule siku iliyofuata, mamangu alinipa kofia nyingine nyekundi iliyong'ara mano."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwezi_uliituma_mama_alisema.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Mwezi"
+                  },
+                  {
+                    "end": 200,
+                    "start": 114,
+                    "word": "uliituma"
+                  },
+                  {
+                    "end": 311,
+                    "start": 268,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 383,
+                    "start": 312,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 383,
+                "utterances": "Mwezi uliituma mama alisema"
+              }
+            ],
+            "sentence": "\"Mwezi uliituma,\" mama alisema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "usiku_huo_sote_mimi_na_mwezi_tulivaa_kofia_zetu_kisha_tukatabasamu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Usiku"
+                  },
+                  {
+                    "end": 143,
+                    "start": 85,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 232,
+                    "start": 161,
+                    "word": "sote"
+                  },
+                  {
+                    "end": 325,
+                    "start": 287,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 345,
+                    "start": 326,
+                    "word": "na"
+                  },
+                  {
+                    "end": 424,
+                    "start": 346,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 532,
+                    "start": 458,
+                    "word": "tulivaa"
+                  },
+                  {
+                    "end": 589,
+                    "start": 533,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 656,
+                    "start": 590,
+                    "word": "zetu"
+                  },
+                  {
+                    "end": 746,
+                    "start": 701,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 927,
+                    "start": 747,
+                    "word": "tukatabasamu"
+                  }
+                ],
+                "until": 927,
+                "utterances": "Usiku huo sote mimi na mwezi tulivaa kofia zetu kisha tukatabasamu"
+              }
+            ],
+            "sentence": "Usiku huo, sote, mimi na mwezi, tulivaa kofia zetu kisha tukatabasamu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tulifurahi_sana.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 163,
+                    "start": 20,
+                    "word": "Tulifurahi"
+                  },
+                  {
+                    "end": 233,
+                    "start": 164,
+                    "word": "sana"
+                  }
+                ],
+                "until": 233,
+                "utterances": "Tulifurahi sana"
+              }
+            ],
+            "sentence": "Tulifurahi sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "unadhani_jua_linahitaji_kofia.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 22,
+                    "word": "Unadhani"
+                  },
+                  {
+                    "end": 161,
+                    "start": 111,
+                    "word": "jua"
+                  },
+                  {
+                    "end": 286,
+                    "start": 162,
+                    "word": "linahitaji"
+                  },
+                  {
+                    "end": 364,
+                    "start": 287,
+                    "word": "kofia"
+                  }
+                ],
+                "until": 364,
+                "utterances": "Unadhani jua linahitaji kofia"
+              }
+            ],
+            "sentence": "Unadhani jua linahitaji kofia?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisia_ni_kofia_gani_ambayo_nimevaa_leo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 2,
+                    "word": "Kisia"
+                  },
+                  {
+                    "end": 105,
+                    "start": 85,
                     "word": "ni"
                   },
                   {
-                    "end": 488,
-                    "start": 367,
-                    "word": "mashuhuri"
+                    "end": 163,
+                    "start": 106,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 234,
+                    "start": 164,
+                    "word": "gani"
+                  },
+                  {
+                    "end": 324,
+                    "start": 264,
+                    "word": "ambayo"
+                  },
+                  {
+                    "end": 409,
+                    "start": 325,
+                    "word": "nimevaa"
+                  },
+                  {
+                    "end": 459,
+                    "start": 410,
+                    "word": "leo"
                   }
                 ],
-                "until": 488,
-                "utterances": "Tunajiuliza Kwa nini Yayeri ni mashuhuri"
+                "until": 459,
+                "utterances": "Kisia ni kofia gani ambayo nimevaa leo"
               }
             ],
-            "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\""
+            "sentence": "Kisia ni kofia gani ambayo nimevaa leo?"
           }
         ]
       ]
     }
   ],
-  "illustrators": "Vusi Malindi",
+  "illustrators": "Angie & Upesh",
   "language": "Kiswahili",
-  "level": "2",
+  "level": "1",
   "license": "CC-BY Version 3.0 Unported Licence",
-  "status": "Translated by: Kiondo Wilkins",
-  "title": "Kwa nini Yayeri ni mashuhuri?",
-  "titleimage": "level2_8_page_01_image_0001.jpg"
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Mwezi na Kofia",
+  "titleimage": "level1_8_page_01_image_0001.jpg"
 }

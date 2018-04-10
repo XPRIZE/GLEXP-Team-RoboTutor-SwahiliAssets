@@ -1,1385 +1,1531 @@
 {
-  "authors": "Nambi Sseppuuya Community Resource Centre",
-  "copyright": "Copyright (c) Text: Ugandan Community Libraries Association (UgCLA; Illusrations: African Storybook Initiative, 2014",
+  "authors": "Wesley Kipkorir Rop",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
   "data": [
     {
-      "image": "level2_21_page_02_image_0001.jpg",
+      "image": "level3_17_page_02_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "hapo_awali_palikuwa_na_panya_wawili.mp3",
-                "from": 19,
+                "audio": "kwenye_msitu_wa_miwa_paliishi_tumbili_aliyekuwa_na_huzuni_sana.mp3",
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": 73,
-                    "start": 19,
-                    "word": "Hapo"
+                    "end": 63,
+                    "start": 2,
+                    "word": "Kwenye"
                   },
                   {
-                    "end": 161,
-                    "start": 74,
-                    "word": "awali"
+                    "end": 143,
+                    "start": 64,
+                    "word": "msitu"
                   },
                   {
-                    "end": 266,
-                    "start": 197,
-                    "word": "palikuwa"
-                  },
-                  {
-                    "end": 292,
-                    "start": 267,
-                    "word": "na"
-                  },
-                  {
-                    "end": 343,
-                    "start": 293,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 426,
-                    "start": 344,
-                    "word": "wawili"
-                  }
-                ],
-                "until": 426,
-                "utterances": "Hapo awali palikuwa na panya wawili"
-              }
-            ],
-            "sentence": "Hapo awali palikuwa na panya wawili."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "mmoja_wao_aliishi_kwenye_nyika.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 80,
-                    "start": 20,
-                    "word": "Mmoja"
-                  },
-                  {
-                    "end": 136,
-                    "start": 81,
-                    "word": "wao"
-                  },
-                  {
-                    "end": 218,
-                    "start": 137,
-                    "word": "aliishi"
-                  },
-                  {
-                    "end": 264,
-                    "start": 219,
-                    "word": "kwenye"
-                  },
-                  {
-                    "end": 331,
-                    "start": 265,
-                    "word": "nyika"
-                  }
-                ],
-                "until": 331,
-                "utterances": "Mmoja wao aliishi kwenye nyika"
-              }
-            ],
-            "sentence": "Mmoja wao aliishi kwenye nyika."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_03_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "panya_mwingine_aliishi_katika_nyumba.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 57,
-                    "start": 21,
-                    "word": "Panya"
-                  },
-                  {
-                    "end": 144,
-                    "start": 58,
-                    "word": "mwingine"
-                  },
-                  {
-                    "end": 222,
-                    "start": 145,
-                    "word": "aliishi"
-                  },
-                  {
-                    "end": 284,
-                    "start": 223,
-                    "word": "katika"
-                  },
-                  {
-                    "end": 351,
-                    "start": 285,
-                    "word": "nyumba"
-                  }
-                ],
-                "until": 351,
-                "utterances": "Panya mwingine aliishi katika nyumba"
-              }
-            ],
-            "sentence": "Panya mwingine aliishi katika nyumba."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_04_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "siku_moja_panya_aliyeishi_katika_nyumba_alimwambia_panya_wa_nyika_wewe_chakula_chako_si_kizuri_using_53.mp3",
-                "from": 18,
-                "segmentation": [
-                  {
-                    "end": 64,
-                    "start": 18,
-                    "word": "Siku"
-                  },
-                  {
-                    "end": 134,
-                    "start": 65,
-                    "word": "moja"
-                  },
-                  {
-                    "end": 231,
-                    "start": 188,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 336,
-                    "start": 242,
-                    "word": "aliyeishi"
-                  },
-                  {
-                    "end": 400,
-                    "start": 337,
-                    "word": "katika"
-                  },
-                  {
-                    "end": 462,
-                    "start": 401,
-                    "word": "nyumba"
-                  },
-                  {
-                    "end": 583,
-                    "start": 478,
-                    "word": "alimwambia"
-                  },
-                  {
-                    "end": 642,
-                    "start": 584,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 657,
-                    "start": 643,
+                    "end": 162,
+                    "start": 144,
                     "word": "wa"
                   },
                   {
-                    "end": 711,
-                    "start": 658,
-                    "word": "nyika"
+                    "end": 226,
+                    "start": 163,
+                    "word": "Miwa"
                   },
                   {
-                    "end": 831,
-                    "start": 784,
-                    "word": "wewe"
+                    "end": 321,
+                    "start": 251,
+                    "word": "paliishi"
                   },
                   {
-                    "end": 962,
-                    "start": 893,
-                    "word": "chakula"
+                    "end": 397,
+                    "start": 322,
+                    "word": "tumbili"
                   },
                   {
-                    "end": 1013,
-                    "start": 963,
-                    "word": "chako"
+                    "end": 481,
+                    "start": 398,
+                    "word": "aliyekuwa"
                   },
                   {
-                    "end": 1046,
-                    "start": 1014,
-                    "word": "si"
+                    "end": 506,
+                    "start": 482,
+                    "word": "na"
                   },
                   {
-                    "end": 1141,
-                    "start": 1047,
-                    "word": "kizuri"
+                    "end": 572,
+                    "start": 507,
+                    "word": "huzuni"
                   },
                   {
-                    "end": 1262,
-                    "start": 1181,
-                    "word": "usingizi"
-                  },
-                  {
-                    "end": 1327,
-                    "start": 1263,
-                    "word": "wako"
-                  },
-                  {
-                    "end": 1416,
-                    "start": 1337,
-                    "word": "umejaa"
-                  },
-                  {
-                    "end": 1446,
-                    "start": 1417,
-                    "word": "mang"
-                  },
-                  {
-                    "end": 1497,
-                    "start": 1447,
-                    "word": "amung"
-                  },
-                  {
-                    "end": 1552,
-                    "start": 1498,
-                    "word": "amu"
-                  },
-                  {
-                    "end": 1634,
-                    "start": 1600,
-                    "word": "huku"
-                  },
-                  {
-                    "end": 1695,
-                    "start": 1635,
-                    "word": "mvua"
-                  },
-                  {
-                    "end": 1836,
-                    "start": 1696,
-                    "word": "ikikulowesha"
+                    "end": 639,
+                    "start": 573,
+                    "word": "sana"
                   }
                 ],
-                "until": 1836,
-                "utterances": "Siku moja panya aliyeishi katika nyumba alimwambia panya wa nyika wewe chakula chako si kizuri usingizi wako umejaa mang amung amu huku mvua ikikulowesha"
+                "until": 639,
+                "utterances": "Kwenye msitu wa Miwa paliishi tumbili aliyekuwa na huzuni sana"
               }
             ],
-            "sentence": "Siku moja, panya aliyeishi katika nyumba alimwambia panya wa nyika, \"wewe chakula chako si kizuri, usingizi wako umejaa mang' amung' amu huku mvua ikikulowesha.\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_05_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lakini_sisi_tunalala_fofofo_nyumba_za_watemi.mp3",
-                "from": 22,
-                "segmentation": [
-                  {
-                    "end": 89,
-                    "start": 22,
-                    "word": "Lakini"
-                  },
-                  {
-                    "end": 178,
-                    "start": 90,
-                    "word": "sisi"
-                  },
-                  {
-                    "end": 314,
-                    "start": 214,
-                    "word": "tunalala"
-                  },
-                  {
-                    "end": 462,
-                    "start": 315,
-                    "word": "fofofo"
-                  },
-                  {
-                    "end": 592,
-                    "start": 526,
-                    "word": "nyumba"
-                  },
-                  {
-                    "end": 623,
-                    "start": 593,
-                    "word": "za"
-                  },
-                  {
-                    "end": 740,
-                    "start": 624,
-                    "word": "watemi"
-                  }
-                ],
-                "until": 740,
-                "utterances": "Lakini sisi tunalala fofofo nyumba za watemi"
-              }
-            ],
-            "sentence": "\"Lakini sisi, tunalala fofofo nyumba za watemi."
+            "sentence": "Kwenye msitu wa Miwa paliishi tumbili aliyekuwa na huzuni sana."
           }
         ],
         [
           {
             "narration": [
               {
-                "audio": "tunakula_vyakula_vingi_mno.mp3",
-                "from": 21,
+                "audio": "kila_mara_alipozaa_mtoto_wake_alifariki.mp3",
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": 130,
-                    "start": 21,
-                    "word": "Tunakula"
+                    "end": 60,
+                    "start": 2,
+                    "word": "Kila"
                   },
                   {
-                    "end": 225,
-                    "start": 131,
-                    "word": "vyakula"
+                    "end": 113,
+                    "start": 61,
+                    "word": "mara"
                   },
                   {
-                    "end": 336,
-                    "start": 226,
-                    "word": "vingi"
+                    "end": 236,
+                    "start": 123,
+                    "word": "alipozaa"
                   },
                   {
-                    "end": 389,
-                    "start": 337,
-                    "word": "mno"
+                    "end": 311,
+                    "start": 264,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 378,
+                    "start": 312,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 482,
+                    "start": 379,
+                    "word": "alifariki"
                   }
                 ],
-                "until": 389,
-                "utterances": "Tunakula vyakula vingi mno"
+                "until": 482,
+                "utterances": "Kila mara alipozaa mtoto wake alifariki"
               }
             ],
-            "sentence": "Tunakula vyakula vingi mno."
-          },
+            "sentence": "Kila mara alipozaa, mtoto wake alifariki."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_03_image_0001.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
-                "audio": "afadhali_unitembelee_siku_moja_ukaone_fahari_iliyopo_wewe_mwenyewe_alisema_panya_wa_nyumba.mp3",
+                "audio": "uchungu_wa_kufiliwa_na_watoto_wake_ulimfanya_tumbili_kuruka_juu_na_chini.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 13,
+                    "word": "Uchungu"
+                  },
+                  {
+                    "end": 103,
+                    "start": 91,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 198,
+                    "start": 104,
+                    "word": "kufiliwa"
+                  },
+                  {
+                    "end": 217,
+                    "start": 199,
+                    "word": "na"
+                  },
+                  {
+                    "end": 280,
+                    "start": 218,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 332,
+                    "start": 281,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 471,
+                    "start": 385,
+                    "word": "ulimfanya"
+                  },
+                  {
+                    "end": 539,
+                    "start": 472,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 616,
+                    "start": 540,
+                    "word": "kuruka"
+                  },
+                  {
+                    "end": 725,
+                    "start": 659,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 744,
+                    "start": 726,
+                    "word": "na"
+                  },
+                  {
+                    "end": 801,
+                    "start": 745,
+                    "word": "chini"
+                  }
+                ],
+                "until": 801,
+                "utterances": "Uchungu wa kufiliwa na watoto wake ulimfanya tumbili kuruka juu na chini"
+              }
+            ],
+            "sentence": "Uchungu wa kufiliwa na watoto wake ulimfanya tumbili kuruka juu na chini."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbili_huyu_alikuwa_akirukia_tawi_hili_hadi_kwenye_lingine_akipiga_mayowe_kwi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Tumbili"
+                  },
+                  {
+                    "end": 145,
+                    "start": 89,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 233,
+                    "start": 158,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 337,
+                    "start": 242,
+                    "word": "akirukia"
+                  },
+                  {
+                    "end": 392,
+                    "start": 338,
+                    "word": "tawi"
+                  },
+                  {
+                    "end": 464,
+                    "start": 393,
+                    "word": "hili"
+                  },
+                  {
+                    "end": 552,
+                    "start": 508,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 606,
+                    "start": 553,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 706,
+                    "start": 607,
+                    "word": "lingine"
+                  },
+                   {
+                    "end": 839,
+                    "start": 707,
+                    "word": "akipiga"
+                  },
+                 {
+                    "end": 939,
+                    "start": 840,
+                    "word": "mayowe"
+                  },
+                  {
+                    "end": 1066,
+                    "start": 1000,
+                    "word": "Kwi"
+                  }
+                ],
+                "until": 1066,
+                "utterances": "Tumbili huyu alikuwa akirukia tawi hili hadi kwenye lingine, akipiga mayowe Kwi"
+              }
+            ],
+            "sentence": "Tumbili huyu alikuwa akirukia tawi hili hadi kwenye lingine, akipiga mayowe, Kwi!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbili_alikuwa_na_huzuni_wakati_wote.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 21,
+                    "word": "Tumbili"
+                  },
+                  {
+                    "end": 185,
+                    "start": 110,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 216,
+                    "start": 186,
+                    "word": "na"
+                  },
+                  {
+                    "end": 285,
+                    "start": 217,
+                    "word": "huzuni"
+                  },
+                  {
+                    "end": 377,
+                    "start": 286,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 471,
+                    "start": 378,
+                    "word": "wote"
+                  }
+                ],
+                "until": 471,
+                "utterances": "Tumbili alikuwa na huzuni wakati wote"
+              }
+            ],
+            "sentence": "Tumbili alikuwa na huzuni wakati wote."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "huzuni_wake_ulimzidi_haswa_alipowaona_akina_mama_tumbili_wengine_na_watoto_wao.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 2,
+                    "word": "Huzuni"
+                  },
+                  {
+                    "end": 132,
+                    "start": 78,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 275,
+                    "start": 168,
+                    "word": "ulimzidi"
+                  },
+                  {
+                    "end": 359,
+                    "start": 299,
+                    "word": "haswa"
+                  },
+                  {
+                    "end": 507,
+                    "start": 385,
+                    "word": "alipowaona"
+                  },
+                  {
+                    "end": 621,
+                    "start": 554,
+                    "word": "akina"
+                  },
+                  {
+                    "end": 676,
+                    "start": 622,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 742,
+                    "start": 677,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 800,
+                    "start": 743,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 820,
+                    "start": 801,
+                    "word": "na"
+                  },
+                  {
+                    "end": 878,
+                    "start": 821,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 927,
+                    "start": 879,
+                    "word": "wao"
+                  }
+                ],
+                "until": 927,
+                "utterances": "Huzuni wake ulimzidi haswa alipowaona akina mama tumbili wengine na watoto wao"
+              }
+            ],
+            "sentence": "Huzuni wake ulimzidi haswa alipowaona akina mama tumbili wengine na watoto wao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbili_mwenye_huzuni_alijiwayawaya_huku_na_huku.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 21,
+                    "word": "Tumbili"
+                  },
+                  {
+                    "end": 140,
+                    "start": 91,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 217,
+                    "start": 141,
+                    "word": "huzuni"
+                  },
+                  {
+                    "end": 382,
+                    "start": 225,
+                    "word": "alijiwayawaya"
+                  },
+                  {
+                    "end": 446,
+                    "start": 405,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 466,
+                    "start": 447,
+                    "word": "na"
+                  },
+                  {
+                    "end": 487,
+                    "start": 467,
+                    "word": "huku"
+                  }
+                ],
+                "until": 487,
+                "utterances": "Tumbili mwenye huzuni alijiwayawaya huku na huku"
+              }
+            ],
+            "sentence": "Tumbili mwenye huzuni alijiwayawaya huku na huku."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alijiwayawaya_kwenye_tawi_hili_na_lile.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 183,
+                    "start": 21,
+                    "word": "Alijiwayawaya"
+                  },
+                  {
+                    "end": 229,
+                    "start": 184,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 289,
+                    "start": 230,
+                    "word": "tawi"
+                  },
+                  {
+                    "end": 358,
+                    "start": 290,
+                    "word": "hili"
+                  },
+                  {
+                    "end": 385,
+                    "start": 359,
+                    "word": "na"
+                  },
+                  {
+                    "end": 437,
+                    "start": 386,
+                    "word": "lile"
+                  }
+                ],
+                "until": 437,
+                "utterances": "Alijiwayawaya kwenye tawi hili na lile"
+              }
+            ],
+            "sentence": "Alijiwayawaya kwenye tawi hili na lile!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_zilipita_na_tumbili_alizidi_kulia_zaidi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 244,
+                    "start": 99,
+                    "word": "zilipita"
+                  },
+                  {
+                    "end": 280,
+                    "start": 264,
+                    "word": "na"
+                  },
+                  {
+                    "end": 355,
+                    "start": 281,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 439,
+                    "start": 360,
+                    "word": "alizidi"
+                  },
+                  {
+                    "end": 523,
+                    "start": 440,
+                    "word": "kulia"
+                  },
+                  {
+                    "end": 602,
+                    "start": 524,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 602,
+                "utterances": "Siku zilipita na tumbili alizidi kulia zaidi"
+              }
+            ],
+            "sentence": "Siku zilipita na tumbili alizidi kulia zaidi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "halafu_alizaa_tena.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 20,
+                    "word": "Halafu"
+                  },
+                  {
+                    "end": 241,
+                    "start": 166,
+                    "word": "alizaa"
+                  },
+                  {
+                    "end": 297,
+                    "start": 242,
+                    "word": "tena"
+                  }
+                ],
+                "until": 297,
+                "utterances": "Halafu alizaa tena"
+              }
+            ],
+            "sentence": "Halafu, alizaa tena."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliamua_kumpeleka_mtoto_wake_njiani_ili_wapita_njia_wamwone_na_kumtakia_heri.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 124,
+                    "start": 20,
+                    "word": "Aliamua"
+                  },
+                  {
+                    "end": 221,
+                    "start": 125,
+                    "word": "kumpeleka"
+                  },
+                  {
+                    "end": 282,
+                    "start": 222,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 329,
+                    "start": 283,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 418,
+                    "start": 330,
+                    "word": "njiani"
+                  },
+                  {
+                    "end": 506,
+                    "start": 471,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 567,
+                    "start": 507,
+                    "word": "wapita"
+                  },
+                  {
+                    "end": 613,
+                    "start": 568,
+                    "word": "njia"
+                  },
+                  {
+                    "end": 723,
+                    "start": 614,
+                    "word": "wamwone"
+                  },
+                  {
+                    "end": 766,
+                    "start": 753,
+                    "word": "na"
+                  },
+                  {
+                    "end": 866,
+                    "start": 767,
+                    "word": "kumtakia"
+                  },
+                  {
+                    "end": 925,
+                    "start": 867,
+                    "word": "heri"
+                  }
+                ],
+                "until": 925,
+                "utterances": "Aliamua kumpeleka mtoto wake njiani ili wapita njia wamwone na kumtakia heri"
+              }
+            ],
+            "sentence": "Aliamua kumpeleka mtoto wake njiani ili wapita njia wamwone na kumtakia heri."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbili_alishuka_na_kumweka_mtotowe_njiani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 2,
+                    "word": "Tumbili"
+                  },
+                  {
+                    "end": 185,
+                    "start": 103,
+                    "word": "alishuka"
+                  },
+                  {
+                    "end": 210,
+                    "start": 186,
+                    "word": "na"
+                  },
+                  {
+                    "end": 295,
+                    "start": 211,
+                    "word": "kumweka"
+                  },
+                  {
+                    "end": 358,
+                    "start": 296,
+                    "word": "mtotowe"
+                  },
+                  {
+                    "end": 452,
+                    "start": 389,
+                    "word": "njiani"
+                  }
+                ],
+                "until": 452,
+                "utterances": "Tumbili alishuka na kumweka mtotowe njiani"
+              }
+            ],
+            "sentence": "Tumbili alishuka na kumweka mtotowe njiani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakati_huo_mwindaji_alikuwa_akirejea_nyumbani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 20,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 129,
+                    "start": 76,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 245,
+                    "start": 159,
+                    "word": "mwindaji"
+                  },
+                  {
+                    "end": 332,
+                    "start": 250,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 438,
+                    "start": 344,
+                    "word": "akirejea"
+                  },
+                  {
+                    "end": 525,
+                    "start": 439,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 525,
+                "utterances": "Wakati huo mwindaji alikuwa akirejea nyumbani"
+              }
+            ],
+            "sentence": "Wakati huo, mwindaji alikuwa akirejea nyumbani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimwona_mtoto_wa_tumbili_akilala_kando_ya_njia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 21,
+                    "word": "Alimwona"
+                  },
+                  {
+                    "end": 198,
+                    "start": 132,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 217,
+                    "start": 199,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 301,
+                    "start": 218,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 382,
+                    "start": 305,
+                    "word": "akilala"
+                  },
+                  {
+                    "end": 437,
+                    "start": 383,
+                    "word": "kando"
+                  },
+                  {
+                    "end": 455,
+                    "start": 438,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 506,
+                    "start": 456,
+                    "word": "njia"
+                  }
+                ],
+                "until": 506,
+                "utterances": "Alimwona mtoto wa tumbili akilala kando ya njia"
+              }
+            ],
+            "sentence": "Alimwona mtoto wa tumbili akilala kando ya njia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwindaji_alimbeba_mwana_tumbili_hadi_nyumbani_kwake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 116,
+                    "start": 21,
+                    "word": "Mwindaji"
+                  },
+                  {
+                    "end": 245,
+                    "start": 123,
+                    "word": "alimbeba"
+                  },
+                  {
+                    "end": 338,
+                    "start": 291,
+                    "word": "mwana"
+                  },
+                  {
+                    "end": 414,
+                    "start": 339,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 475,
+                    "start": 415,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 530,
+                    "start": 476,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 585,
+                    "start": 531,
+                    "word": "kwake"
+                  }
+                ],
+                "until": 585,
+                "utterances": "Mwindaji alimbeba mwana tumbili hadi nyumbani kwake"
+              }
+            ],
+            "sentence": "Mwindaji alimbeba mwana tumbili hadi nyumbani kwake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipofika_nyumbani_wavulana_wake_watatu_walifurahi_kumwona_mwana_tumbili.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 22,
+                    "word": "Alipofika"
+                  },
+                  {
+                    "end": 220,
+                    "start": 114,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 327,
+                    "start": 264,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 370,
+                    "start": 328,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 433,
+                    "start": 371,
+                    "word": "watatu"
+                  },
+                  {
+                    "end": 567,
+                    "start": 434,
+                    "word": "walifurahi"
+                  },
+                  {
+                    "end": 651,
+                    "start": 568,
+                    "word": "kumwona"
+                  },
+                  {
+                    "end": 704,
+                    "start": 652,
+                    "word": "mwana"
+                  },
+                  {
+                    "end": 778,
+                    "start": 705,
+                    "word": "tumbili"
+                  }
+                ],
+                "until": 778,
+                "utterances": "Alipofika nyumbani wavulana wake watatu walifurahi kumwona mwana tumbili"
+              }
+            ],
+            "sentence": "Alipofika nyumbani, wavulana wake watatu walifurahi kumwona mwana tumbili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "watatu_hao_waliimba_mrushe_juu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 2,
+                    "word": "Watatu"
+                  },
+                  {
+                    "end": 117,
+                    "start": 73,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 231,
+                    "start": 118,
+                    "word": "waliimba"
+                  },
+                  {
+                    "end": 335,
+                    "start": 280,
+                    "word": "Mrushe"
+                  },
+                  {
+                    "end": 428,
+                    "start": 360,
+                    "word": "juu"
+                  }
+                ],
+                "until": 428,
+                "utterances": "Watatu hao waliimba Mrushe juu"
+              }
+            ],
+            "sentence": "Watatu hao waliimba: Mrushe juu!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mrushe_chini.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 19,
+                    "word": "Mrushe"
+                  },
+                  {
+                    "end": 192,
+                    "start": 95,
+                    "word": "chini"
+                  }
+                ],
+                "until": 192,
+                "utterances": "Mrushe chini"
+              }
+            ],
+            "sentence": "Mrushe chini!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mrushe_kwangu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "Mrushe"
+                  },
+                  {
+                    "end": 146,
+                    "start": 95,
+                    "word": "kwangu"
+                  }
+                ],
+                "until": 146,
+                "utterances": "Mrushe kwangu"
+              }
+            ],
+            "sentence": "Mrushe kwangu!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mrushe_kwake.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 19,
+                    "word": "Mrushe"
+                  },
+                  {
+                    "end": 170,
+                    "start": 84,
+                    "word": "kwake"
+                  }
+                ],
+                "until": 170,
+                "utterances": "Mrushe kwake"
+              }
+            ],
+            "sentence": "Mrushe kwake!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwana_tumbili_alirushwa_kutoka_kwa_mmoja_hadi_mwingine.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 21,
+                    "word": "Mwana"
+                  },
+                  {
+                    "end": 166,
+                    "start": 69,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 288,
+                    "start": 219,
+                    "word": "alirushwa"
+                  },
+                  {
+                    "end": 412,
+                    "start": 326,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 451,
+                    "start": 413,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 536,
+                    "start": 452,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 597,
+                    "start": 537,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 677,
+                    "start": 598,
+                    "word": "mwingine"
+                  }
+                ],
+                "until": 677,
+                "utterances": "Mwana tumbili alirushwa kutoka kwa mmoja hadi mwingine"
+              }
+            ],
+            "sentence": "Mwana tumbili alirushwa kutoka kwa mmoja hadi mwingine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wavulana_wale_walipoendelea_kucheza_na_mwana_tumbili_tumbili_alijificha_mtini_na_kuangalia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 20,
+                    "word": "Wavulana"
+                  },
+                  {
+                    "end": 150,
+                    "start": 96,
+                    "word": "wale"
+                  },
+                  {
+                    "end": 298,
+                    "start": 151,
+                    "word": "walipoendelea"
+                  },
+                  {
+                    "end": 372,
+                    "start": 299,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 392,
+                    "start": 373,
+                    "word": "na"
+                  },
+                  {
+                    "end": 434,
+                    "start": 393,
+                    "word": "mwana"
+                  },
+                  {
+                    "end": 523,
+                    "start": 435,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 640,
+                    "start": 561,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 752,
+                    "start": 645,
+                    "word": "alijificha"
+                  },
+                  {
+                    "end": 825,
+                    "start": 753,
+                    "word": "mtini"
+                  },
+                  {
+                    "end": 844,
+                    "start": 826,
+                    "word": "na"
+                  },
+                  {
+                    "end": 944,
+                    "start": 845,
+                    "word": "kuangalia"
+                  }
+                ],
+                "until": 944,
+                "utterances": "Wavulana wale walipoendelea kucheza na mwana tumbili tumbili alijificha mtini na kuangalia"
+              }
+            ],
+            "sentence": "Wavulana wale walipoendelea kucheza na mwana tumbili, tumbili alijificha mtini na kuangalia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliogopa_kuwa_mtoto_huyu_naye_angefariki_kama_wengine.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 134,
+                    "start": 21,
+                    "word": "Aliogopa"
+                  },
+                  {
+                    "end": 189,
+                    "start": 135,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 266,
+                    "start": 190,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 320,
+                    "start": 288,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 436,
+                    "start": 369,
+                    "word": "naye"
+                  },
+                  {
+                    "end": 531,
+                    "start": 437,
+                    "word": "angefariki"
+                  },
+                  {
+                    "end": 579,
+                    "start": 532,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 659,
+                    "start": 580,
+                    "word": "wengine"
+                  }
+                ],
+                "until": 659,
+                "utterances": "Aliogopa kuwa mtoto huyu naye angefariki kama wengine"
+              }
+            ],
+            "sentence": "Aliogopa kuwa mtoto huyu naye angefariki kama wengine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_17_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mara_mke_wa_mwindaji_aliwaona_watoto_wakicheza_na_tumbili_mtoto.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 21,
+                    "word": "Mara"
+                  },
+                  {
+                    "end": 137,
+                    "start": 75,
+                    "word": "mke"
+                  },
+                  {
+                    "end": 157,
+                    "start": 138,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 258,
+                    "start": 158,
+                    "word": "mwindaji"
+                  },
+                  {
+                    "end": 359,
+                    "start": 262,
+                    "word": "aliwaona"
+                  },
+                  {
+                    "end": 439,
+                    "start": 360,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 556,
+                    "start": 479,
+                    "word": "wakicheza"
+                  },
+                  {
+                    "end": 588,
+                    "start": 557,
+                    "word": "na"
+                  },
+                  {
+                    "end": 685,
+                    "start": 607,
+                    "word": "tumbili"
+                  },
+                  {
+                    "end": 749,
+                    "start": 686,
+                    "word": "mtoto"
+                  }
+                ],
+                "until": 749,
+                "utterances": "Mara mke wa mwindaji aliwaona watoto wakicheza na tumbili mtoto"
+              }
+            ],
+            "sentence": "Mara mke wa mwindaji aliwaona watoto wakicheza na tumbili mtoto."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliwaonya_kuwa_waangalifu.mp3",
                 "from": 21,
                 "segmentation": [
                   {
                     "end": 132,
                     "start": 21,
-                    "word": "Afadhali"
+                    "word": "Aliwaonya"
                   },
                   {
-                    "end": 246,
-                    "start": 144,
-                    "word": "unitembelee"
+                    "end": 260,
+                    "start": 143,
+                    "word": "Kuwa"
                   },
                   {
-                    "end": 329,
-                    "start": 277,
-                    "word": "siku"
-                  },
-                  {
-                    "end": 386,
-                    "start": 330,
-                    "word": "moja"
-                  },
-                  {
-                    "end": 506,
-                    "start": 441,
-                    "word": "ukaone"
-                  },
-                  {
-                    "end": 637,
-                    "start": 507,
-                    "word": "fahari"
-                  },
-                  {
-                    "end": 786,
-                    "start": 688,
-                    "word": "iliyopo"
-                  },
-                  {
-                    "end": 846,
-                    "start": 787,
-                    "word": "wewe"
-                  },
-                  {
-                    "end": 952,
-                    "start": 847,
-                    "word": "mwenyewe"
-                  },
-                  {
-                    "end": 1092,
-                    "start": 1007,
-                    "word": "alisema"
-                  },
-                  {
-                    "end": 1148,
-                    "start": 1093,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 1165,
-                    "start": 1149,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 1228,
-                    "start": 1166,
-                    "word": "nyumba"
+                    "end": 366,
+                    "start": 261,
+                    "word": "waangalifu"
                   }
                 ],
-                "until": 1228,
-                "utterances": "Afadhali unitembelee siku moja ukaone fahari iliyopo wewe mwenyewe alisema panya wa nyumba"
+                "until": 366,
+                "utterances": "Aliwaonya Kuwa waangalifu"
               }
             ],
-            "sentence": "Afadhali unitembelee siku moja ukaone fahari iliyopo wewe mwenyewe,\" alisema panya wa nyumba."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "leo_hii_hii_usiku_akajibu_panya_wa_nyika.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 76,
-                    "start": 21,
-                    "word": "Leo"
-                  },
-                  {
-                    "end": 133,
-                    "start": 77,
-                    "word": "hii"
-                  },
-                  {
-                    "end": 200,
-                    "start": 134,
-                    "word": "hii"
-                  },
-                  {
-                    "end": 280,
-                    "start": 201,
-                    "word": "usiku"
-                  },
-                  {
-                    "end": 399,
-                    "start": 323,
-                    "word": "akajibu"
-                  },
-                  {
-                    "end": 451,
-                    "start": 400,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 467,
-                    "start": 452,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 527,
-                    "start": 468,
-                    "word": "nyika"
-                  }
-                ],
-                "until": 527,
-                "utterances": "Leo hii hii usiku akajibu panya wa nyika"
-              }
-            ],
-            "sentence": "\"Leo hii hii usiku,\" akajibu panya wa nyika."
+            "sentence": "Aliwaonya, \"Kuwa waangalifu!"
           },
           {
             "narration": [
               {
-                "audio": "niko_tayari_kama_mrija_unaosubiri_kinwaji.mp3",
-                "from": 18,
-                "segmentation": [
-                  {
-                    "end": 72,
-                    "start": 18,
-                    "word": "Niko"
-                  },
-                  {
-                    "end": 147,
-                    "start": 73,
-                    "word": "tayari"
-                  },
-                  {
-                    "end": 198,
-                    "start": 148,
-                    "word": "kama"
-                  },
-                  {
-                    "end": 280,
-                    "start": 199,
-                    "word": "mrija"
-                  },
-                  {
-                    "end": 402,
-                    "start": 281,
-                    "word": "unaosubiri"
-                  },
-                  {
-                    "end": 508,
-                    "start": 403,
-                    "word": "kinwaji"
-                  }
-                ],
-                "until": 508,
-                "utterances": "Niko tayari kama mrija unaosubiri kinwaji"
-              }
-            ],
-            "sentence": "\"Niko tayari kama mrija unaosubiri kinwaji.\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_06_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "wakati_huo_huo_mwenye_nyumba_alikasirika_ajabu_akifoka_matusi_panya_hawa_wanaokula_chakula_changu_wa_20.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 94,
-                    "start": 21,
-                    "word": "Wakati"
-                  },
-                  {
-                    "end": 178,
-                    "start": 123,
-                    "word": "huo"
-                  },
-                  {
-                    "end": 223,
-                    "start": 179,
-                    "word": "huo"
-                  },
-                  {
-                    "end": 309,
-                    "start": 267,
-                    "word": "mwenye"
-                  },
-                  {
-                    "end": 361,
-                    "start": 310,
-                    "word": "nyumba"
-                  },
-                  {
-                    "end": 501,
-                    "start": 373,
-                    "word": "alikasirika"
-                  },
-                  {
-                    "end": 631,
-                    "start": 570,
-                    "word": "ajabu"
-                  },
-                  {
-                    "end": 754,
-                    "start": 645,
-                    "word": "akifoka"
-                  },
-                  {
-                    "end": 836,
-                    "start": 755,
-                    "word": "matusi"
-                  },
-                  {
-                    "end": 972,
-                    "start": 932,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 1018,
-                    "start": 973,
-                    "word": "hawa"
-                  },
-                  {
-                    "end": 1101,
-                    "start": 1019,
-                    "word": "wanaokula"
-                  },
-                  {
-                    "end": 1152,
-                    "start": 1102,
-                    "word": "chakula"
-                  },
-                  {
-                    "end": 1200,
-                    "start": 1153,
-                    "word": "changu"
-                  },
-                  {
-                    "end": 1356,
-                    "start": 1239,
-                    "word": "wataona"
-                  },
-                  {
-                    "end": 1389,
-                    "start": 1357,
-                    "word": "cha"
-                  },
-                  {
-                    "end": 1448,
-                    "start": 1390,
-                    "word": "mtema"
-                  },
-                  {
-                    "end": 1534,
-                    "start": 1449,
-                    "word": "kuni"
-                  }
-                ],
-                "until": 1534,
-                "utterances": "Wakati huo huo mwenye nyumba alikasirika ajabu akifoka matusi panya hawa wanaokula chakula changu wataona cha mtema kuni"
-              }
-            ],
-            "sentence": "Wakati huo huo mwenye nyumba alikasirika ajabu akifoka matusi, \"panya hawa wanaokula chakula changu, wataona cha mtema kuni!\""
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "ndipo_akawategea_mtego_uliyojaa_sukari.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 86,
-                    "start": 21,
-                    "word": "Ndipo"
-                  },
-                  {
-                    "end": 230,
-                    "start": 103,
-                    "word": "akawategea"
-                  },
-                  {
-                    "end": 294,
-                    "start": 231,
-                    "word": "mtego"
-                  },
-                  {
-                    "end": 403,
-                    "start": 308,
-                    "word": "uliyojaa"
-                  },
-                  {
-                    "end": 525,
-                    "start": 404,
-                    "word": "sukari"
-                  }
-                ],
-                "until": 525,
-                "utterances": "Ndipo akawategea mtego uliyojaa sukari"
-              }
-            ],
-            "sentence": "Ndipo akawategea mtego uliyojaa sukari."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_07_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "panya_waliingia_nyumbani_kula_vitamu_vilivyomo.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 72,
-                    "start": 21,
-                    "word": "Panya"
-                  },
-                  {
-                    "end": 167,
-                    "start": 73,
-                    "word": "waliingia"
-                  },
-                  {
-                    "end": 248,
-                    "start": 168,
-                    "word": "nyumbani"
-                  },
-                  {
-                    "end": 291,
-                    "start": 249,
-                    "word": "kula"
-                  },
-                  {
-                    "end": 370,
-                    "start": 292,
-                    "word": "vitamu"
-                  },
-                  {
-                    "end": 458,
-                    "start": 371,
-                    "word": "vilivyomo"
-                  }
-                ],
-                "until": 458,
-                "utterances": "Panya waliingia nyumbani kula vitamu vilivyomo"
-              }
-            ],
-            "sentence": "Panya waliingia nyumbani kula vitamu vilivyomo."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "waliingia_wakicheka_chu.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 113,
-                    "start": 21,
-                    "word": "Waliingia"
-                  },
-                  {
-                    "end": 218,
-                    "start": 114,
-                    "word": "wakicheka"
-                  },
-                  {
-                    "end": 302,
-                    "start": 253,
-                    "word": "chu"
-                  }
-                ],
-                "until": 302,
-                "utterances": "Waliingia wakicheka chu"
-              }
-            ],
-            "sentence": "Waliingia wakicheka, \"chu..."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_08_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "walipoufikia_mtego_panya_wa_nyumba_alisema_wacha_nionje_sukari.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 161,
-                    "start": 20,
-                    "word": "Walipoufikia"
-                  },
-                  {
-                    "end": 230,
-                    "start": 162,
-                    "word": "mtego"
-                  },
-                  {
-                    "end": 314,
-                    "start": 276,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 331,
-                    "start": 315,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 381,
-                    "start": 332,
-                    "word": "nyumba"
-                  },
-                  {
-                    "end": 479,
-                    "start": 382,
-                    "word": "alisema"
-                  },
-                  {
-                    "end": 608,
-                    "start": 541,
-                    "word": "wacha"
-                  },
-                  {
-                    "end": 681,
-                    "start": 609,
-                    "word": "nionje"
-                  },
-                  {
-                    "end": 761,
-                    "start": 682,
-                    "word": "sukari"
-                  }
-                ],
-                "until": 761,
-                "utterances": "Walipoufikia mtego panya wa nyumba alisema wacha nionje sukari"
-              }
-            ],
-            "sentence": "Walipoufikia mtego, panya wa nyumba alisema, \"wacha nionje sukari ..."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tazama_vitamu_vitamu_tunavyokula_hapa.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 99,
-                    "start": 21,
-                    "word": "Tazama"
-                  },
-                  {
-                    "end": 158,
-                    "start": 100,
-                    "word": "vitamu"
-                  },
-                  {
-                    "end": 223,
-                    "start": 159,
-                    "word": "vitamu"
-                  },
-                  {
-                    "end": 317,
-                    "start": 224,
-                    "word": "tunavyokula"
-                  },
-                  {
-                    "end": 363,
-                    "start": 318,
-                    "word": "hapa"
-                  }
-                ],
-                "until": 363,
-                "utterances": "Tazama vitamu vitamu tunavyokula hapa"
-              }
-            ],
-            "sentence": "Tazama vitamu vitamu tunavyokula hapa.\""
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_09_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lakini_kabla_panya_hajapata_kugusa_sukari_mtego_ukamnasa_kichwa.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 87,
-                    "start": 20,
-                    "word": "Lakini"
-                  },
-                  {
-                    "end": 146,
-                    "start": 88,
-                    "word": "kabla"
-                  },
-                  {
-                    "end": 202,
-                    "start": 147,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 273,
-                    "start": 203,
-                    "word": "hajapata"
-                  },
-                  {
-                    "end": 336,
-                    "start": 274,
-                    "word": "kugusa"
-                  },
-                  {
-                    "end": 460,
-                    "start": 337,
-                    "word": "sukari"
-                  },
-                  {
-                    "end": 575,
-                    "start": 496,
-                    "word": "mtego"
-                  },
-                  {
-                    "end": 722,
-                    "start": 582,
-                    "word": "ukamnasa"
-                  },
-                  {
-                    "end": 782,
-                    "start": 723,
-                    "word": "kichwa"
-                  }
-                ],
-                "until": 782,
-                "utterances": "Lakini kabla panya hajapata kugusa sukari mtego ukamnasa kichwa"
-              }
-            ],
-            "sentence": "Lakini kabla panya hajapata kugusa sukari, mtego ukamnasa kichwa."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "macho_yake_yakabubujika_kama_mbilinganyi.mp3",
-                "from": 18,
-                "segmentation": [
-                  {
-                    "end": 96,
-                    "start": 18,
-                    "word": "Macho"
-                  },
-                  {
-                    "end": 160,
-                    "start": 97,
-                    "word": "yake"
-                  },
-                  {
-                    "end": 328,
-                    "start": 161,
-                    "word": "yakabubujika"
-                  },
-                  {
-                    "end": 380,
-                    "start": 329,
-                    "word": "kama"
-                  },
-                  {
-                    "end": 494,
-                    "start": 381,
-                    "word": "mbilinganyi"
-                  }
-                ],
-                "until": 494,
-                "utterances": "Macho yake yakabubujika kama mbilinganyi"
-              }
-            ],
-            "sentence": "Macho yake yakabubujika kama mbilinganyi."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_10_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "panya_wa_nyika_akamtazama_ameduwaa.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 66,
-                    "start": 20,
-                    "word": "Panya"
-                  },
-                  {
-                    "end": 84,
-                    "start": 67,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 138,
-                    "start": 85,
-                    "word": "nyika"
-                  },
-                  {
-                    "end": 280,
-                    "start": 155,
-                    "word": "akamtazama"
-                  },
-                  {
-                    "end": 443,
-                    "start": 304,
-                    "word": "ameduwaa"
-                  }
-                ],
-                "until": 443,
-                "utterances": "Panya wa nyika akamtazama ameduwaa"
-              }
-            ],
-            "sentence": "Panya wa nyika akamtazama ameduwaa."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "akasema_e.mp3",
-                "from": 13,
-                "segmentation": [
-                  {
-                    "end": 95,
-                    "start": 13,
-                    "word": "Akasema"
-                  },
-                  {
-                    "end": 168,
-                    "start": 149,
-                    "word": "E"
-                  }
-                ],
-                "until": 168,
-                "utterances": "Akasema E"
-              }
-            ],
-            "sentence": "Akasema, \"E..."
-          },
-          {
-            "narration": [
-              {
-                "audio": "heee_rafiki_yangu_kitamu_kipi_ulichokula_kikayafanya_macho_yabubujike.mp3",
+                "audio": "hebu_mlete_hapa.mp3",
                 "from": 2,
                 "segmentation": [
                   {
-                    "end": 39,
+                    "end": 59,
                     "start": 2,
-                    "word": "heee"
+                    "word": "Hebu"
                   },
                   {
-                    "end": 227,
-                    "start": 134,
-                    "word": "rafiki"
+                    "end": 110,
+                    "start": 60,
+                    "word": "mlete"
                   },
                   {
-                    "end": 274,
-                    "start": 228,
-                    "word": "yangu"
-                  },
-                  {
-                    "end": 342,
-                    "start": 275,
-                    "word": "kitamu"
-                  },
-                  {
-                    "end": 375,
-                    "start": 343,
-                    "word": "kipi"
-                  },
-                  {
-                    "end": 500,
-                    "start": 380,
-                    "word": "ulichokula"
-                  },
-                  {
-                    "end": 670,
-                    "start": 557,
-                    "word": "kikayafanya"
-                  },
-                  {
-                    "end": 726,
-                    "start": 671,
-                    "word": "macho"
-                  },
-                  {
-                    "end": 824,
-                    "start": 727,
-                    "word": "yabubujike"
+                    "end": 167,
+                    "start": 111,
+                    "word": "hapa"
                   }
                 ],
-                "until": 824,
-                "utterances": "heee rafiki yangu kitamu kipi ulichokula kikayafanya macho yabubujike"
+                "until": 167,
+                "utterances": "Hebu mlete hapa"
               }
             ],
-            "sentence": "heee rafiki yangu kitamu kipi ulichokula kikayafanya macho yabubujike?\""
+            "sentence": "Hebu mlete hapa.\""
           }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "level3_17_page_12_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "lakini_panya_wa_nyumba_akashindwa_kujibu.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 85,
-                    "start": 20,
-                    "word": "Lakini"
-                  },
-                  {
-                    "end": 143,
-                    "start": 86,
-                    "word": "panya"
-                  },
-                  {
-                    "end": 160,
-                    "start": 144,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 214,
-                    "start": 161,
-                    "word": "nyumba"
-                  },
-                  {
-                    "end": 315,
-                    "start": 215,
-                    "word": "akashindwa"
-                  },
-                  {
-                    "end": 387,
-                    "start": 316,
-                    "word": "kujibu"
-                  }
-                ],
-                "until": 387,
-                "utterances": "Lakini panya wa nyumba akashindwa kujibu"
-              }
-            ],
-            "sentence": "Lakini panya wa nyumba akashindwa kujibu."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_21_page_12_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "panya_wa_nyika_akaondoka_akikejeli_du.mp3",
+                "audio": "alimchukuwa_mwana_tumbili_mikononi_mwake_na_kumbariki.mp3",
                 "from": 21,
                 "segmentation": [
                   {
-                    "end": 61,
+                    "end": 130,
                     "start": 21,
-                    "word": "Panya"
+                    "word": "Alimchukuwa"
                   },
                   {
-                    "end": 75,
-                    "start": 62,
-                    "word": "wa"
+                    "end": 172,
+                    "start": 131,
+                    "word": "mwana"
                   },
                   {
-                    "end": 125,
-                    "start": 76,
-                    "word": "nyika"
+                    "end": 240,
+                    "start": 173,
+                    "word": "tumbili"
                   },
                   {
-                    "end": 245,
-                    "start": 126,
-                    "word": "akaondoka"
+                    "end": 321,
+                    "start": 241,
+                    "word": "mikononi"
                   },
                   {
-                    "end": 344,
-                    "start": 256,
-                    "word": "akikejeli"
+                    "end": 381,
+                    "start": 322,
+                    "word": "mwake"
                   },
                   {
-                    "end": 462,
-                    "start": 401,
-                    "word": "Du"
+                    "end": 436,
+                    "start": 424,
+                    "word": "na"
+                  },
+                  {
+                    "end": 556,
+                    "start": 437,
+                    "word": "kumbariki"
                   }
                 ],
-                "until": 462,
-                "utterances": "Panya wa nyika akaondoka akikejeli Du"
+                "until": 556,
+                "utterances": "Alimchukuwa mwana tumbili mikononi mwake na kumbariki"
               }
             ],
-            "sentence": "Panya wa nyika akaondoka akikejeli, \"Du!"
-          },
-          {
-            "narration": [
-              {
-                "audio": "umekula_vizuri_kiasi_siviwezi_vitamu_hivyo_unavyohimidi.mp3",
-                "from": 30,
-                "segmentation": [
-                  {
-                    "end": 99,
-                    "start": 30,
-                    "word": "Umekula"
-                  },
-                  {
-                    "end": 168,
-                    "start": 100,
-                    "word": "vizuri"
-                  },
-                  {
-                    "end": 222,
-                    "start": 169,
-                    "word": "kiasi"
-                  },
-                  {
-                    "end": 340,
-                    "start": 223,
-                    "word": "siviwezi"
-                  },
-                  {
-                    "end": 412,
-                    "start": 341,
-                    "word": "vitamu"
-                  },
-                  {
-                    "end": 477,
-                    "start": 413,
-                    "word": "hivyo"
-                  },
-                  {
-                    "end": 661,
-                    "start": 511,
-                    "word": "unavyohimidi"
-                  }
-                ],
-                "until": 661,
-                "utterances": "Umekula vizuri kiasi siviwezi vitamu hivyo unavyohimidi"
-              }
-            ],
-            "sentence": "Umekula vizuri kiasi siviwezi vitamu hivyo unavyohimidi.\""
+            "sentence": "Alimchukuwa mwana tumbili mikononi mwake na kumbariki."
           }
         ]
       ]
     },
     {
-      "image": "level2_21_page_13_image_0001.jpg",
+      "image": "level3_17_page_13_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "kuwepo_nyumbani_kunako_chakaa_mradi_kwako_ni_bora_kuliko_kuwepo_nyumbani_kuzuri_sana_angalau_ni_nyum_17.mp3",
-                "from": 117,
+                "audio": "alipomweka_mwana_tumbili_chini_tumbili_alikimbia_kwa_furaha.mp3",
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": 198,
-                    "start": 117,
-                    "word": "Kuwepo"
+                    "end": 131,
+                    "start": 2,
+                    "word": "Alipomweka"
                   },
                   {
-                    "end": 271,
-                    "start": 199,
-                    "word": "nyumbani"
+                    "end": 177,
+                    "start": 132,
+                    "word": "mwana"
                   },
                   {
-                    "end": 338,
-                    "start": 272,
-                    "word": "kunako"
+                    "end": 247,
+                    "start": 178,
+                    "word": "tumbili"
                   },
                   {
-                    "end": 420,
-                    "start": 339,
-                    "word": "chakaa"
+                    "end": 319,
+                    "start": 248,
+                    "word": "chini"
                   },
                   {
-                    "end": 515,
-                    "start": 454,
-                    "word": "mradi"
+                    "end": 422,
+                    "start": 356,
+                    "word": "tumbili"
                   },
                   {
-                    "end": 588,
-                    "start": 516,
-                    "word": "kwako"
+                    "end": 525,
+                    "start": 427,
+                    "word": "alikimbia"
                   },
                   {
-                    "end": 649,
-                    "start": 625,
-                    "word": "ni"
+                    "end": 558,
+                    "start": 526,
+                    "word": "kwa"
                   },
                   {
-                    "end": 696,
-                    "start": 650,
-                    "word": "bora"
-                  },
-                  {
-                    "end": 767,
-                    "start": 697,
-                    "word": "kuliko"
-                  },
-                  {
-                    "end": 836,
-                    "start": 768,
-                    "word": "kuwepo"
-                  },
-                  {
-                    "end": 906,
-                    "start": 837,
-                    "word": "nyumbani"
-                  },
-                  {
-                    "end": 977,
-                    "start": 907,
-                    "word": "kuzuri"
-                  },
-                  {
-                    "end": 1047,
-                    "start": 978,
-                    "word": "sana"
-                  },
-                  {
-                    "end": 1189,
-                    "start": 1103,
-                    "word": "angalau"
-                  },
-                  {
-                    "end": 1207,
-                    "start": 1190,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 1253,
-                    "start": 1208,
-                    "word": "nyumba"
-                  },
-                  {
-                    "end": 1271,
-                    "start": 1254,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 1350,
-                    "start": 1272,
-                    "word": "jirani"
-                  },
-                  {
-                    "end": 1399,
-                    "start": 1351,
-                    "word": "yako"
+                    "end": 636,
+                    "start": 559,
+                    "word": "furaha"
                   }
                 ],
-                "until": 1399,
-                "utterances": "Kuwepo nyumbani kunako chakaa mradi kwako ni bora kuliko kuwepo nyumbani kuzuri sana angalau ni nyumba ya jirani yako"
+                "until": 636,
+                "utterances": "Alipomweka mwana tumbili chini tumbili alikimbia kwa furaha"
               }
             ],
-            "sentence": "Kuwepo nyumbani kunako chakaa mradi kwako ni bora kuliko kuwepo nyumbani kuzuri sana angalau ni nyumba ya jirani yako."
+            "sentence": "Alipomweka mwana tumbili chini, tumbili alikimbia kwa furaha."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimbeba_mwanawe_kifuani_na_kwenda_mtini.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 129,
+                    "start": 22,
+                    "word": "Alimbeba"
+                  },
+                  {
+                    "end": 214,
+                    "start": 130,
+                    "word": "mwanawe"
+                  },
+                  {
+                    "end": 332,
+                    "start": 215,
+                    "word": "kifuani"
+                  },
+                  {
+                    "end": 353,
+                    "start": 333,
+                    "word": "na"
+                  },
+                  {
+                    "end": 429,
+                    "start": 354,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 516,
+                    "start": 430,
+                    "word": "mtini"
+                  }
+                ],
+                "until": 516,
+                "utterances": "Alimbeba mwanawe kifuani na kwenda mtini"
+              }
+            ],
+            "sentence": "Alimbeba mwanawe kifuani na kwenda mtini."
           }
         ]
       ]
     }
   ],
-  "illustrators": "Zablon Alex Nguku",
+  "illustrators": "Jesse Breytenbach",
   "language": "Kiswahili",
-  "level": "2",
+  "level": "3",
   "license": "CC-BY Version 3.0 Unported Licence",
-  "status": "Translated by: Pete Mhunzi",
-  "title": "Panya",
-  "titleimage": "level2_21_page_01_image_0001.jpg"
+  "status": "Translated by: Baraka fatma",
+  "title": "Mwana wa Tumbili",
+  "titleimage": "level3_17_page_01_image_0001.jpg"
 }

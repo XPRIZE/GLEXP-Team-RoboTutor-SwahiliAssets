@@ -1,54 +1,99 @@
 {
-  "level": "2", 
+  "level": "1", 
   "questions": [
     {
       "distractor": {
         "nonsensical": [
-          "mbaya", 
-          "nzuri", 
-          "tule"
+          "lake", 
+          "hao", 
+          "mimi"
         ], 
         "nonsensical_english": [
-          "bad", 
-          "good", 
-          "poor"
+          "her", 
+          "mentioned", 
+          "I"
         ], 
         "plausible": null, 
         "ungrammatical": [
-          "kichwa", 
-          "baridi", 
-          "mamangu"
+          "kama", 
+          "mtu", 
+          "mti"
         ], 
         "ungrammatical_english": [
-          "arrogant", 
-          "wind", 
-          "mother"
+          "fluid", 
+          "human being", 
+          "post"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Hii ni kamba ya kuruka.", 
-      "stem": "Hii ni kamba ya", 
-      "target": "kuruka"
+      "sentence": "Ninampenda mwalimu wangu.", 
+      "stem": "Ninampenda mwalimu", 
+      "target": "wangu"
     }, 
     {
       "distractor": {
         "nonsensical": null, 
         "plausible": null, 
         "ungrammatical": [
-          "tena", 
-          "siku", 
-          "katika"
+          "majani", 
+          "mwingine", 
+          "mwalimu"
         ], 
         "ungrammatical_english": [
-          "furthermore", 
-          "everyday", 
-          "with"
+          "game", 
+          "someone", 
+          "Master"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Mumbi anaruka kamba pekee yake.", 
-      "stem": "Mumbi anaruka kamba pekee", 
-      "target": "yake"
+      "sentence": "Yeye ni mrembo mno.", 
+      "stem": "Yeye ni mrembo", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Yeye ni mwalimu mzuri.", 
+      "stem": "Yeye ni mwalimu", 
+      "target": "mzuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "zama", 
+          "mchezo", 
+          "toa"
+        ], 
+        "nonsensical_english": [
+          "sink", 
+          "mockery", 
+          "spend"
+        ], 
+        "plausible": [
+          "toa", 
+          "mchezo", 
+          "povu"
+        ], 
+        "plausible_english": [
+          "produce", 
+          "joke", 
+          "froth"
+        ], 
+        "ungrammatical": [
+          "aa", 
+          "dhaifu", 
+          "naam"
+        ], 
+        "ungrammatical_english": [
+          "ah", 
+          "sickly", 
+          "course"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ni mtu mwema na mwenye subira.", 
+      "stem": "Ni mtu mwema na mwenye", 
+      "target": "subira"
     }, 
     {
       "distractor": {
@@ -56,188 +101,151 @@
         "plausible": null, 
         "ungrammatical": [
           "wakati", 
-          "cha", 
-          "kuwa"
+          "mama", 
+          "lakini"
         ], 
         "ungrammatical_english": [
-          "opportunity", 
-          "revere", 
-          "because"
+          "season", 
+          "maam", 
+          "nevertheless"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Mumbi ameshikiwa kamba na rafiki yake.", 
-      "stem": "Mumbi ameshikiwa kamba na rafiki", 
-      "target": "yake"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": "u", 
-      "sentence": "Sasa Mumbi anasoma kitabu", 
-      "stem": "Sasa Mumbi anasoma", 
-      "target": "kitab"
+      "sentence": "Alivyosuka nywele zake zinapendeza sana.", 
+      "stem": "Alivyosuka nywele zake zinapendeza", 
+      "target": "sana"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "yao", 
-          "huo", 
-          "pale"
+          "duni", 
+          "madirisha", 
+          "rununu"
         ], 
         "nonsensical_english": [
-          "their", 
-          "that", 
-          "there"
+          "low", 
+          "square", 
+          "mobile"
         ], 
         "plausible": [
-          "pale", 
-          "yao", 
-          "huo"
+          "madirisha", 
+          "duni", 
+          "rununu"
         ], 
         "plausible_english": [
-          "there", 
-          "theirs", 
-          "this"
+          "square", 
+          "useless", 
+          "mobile"
         ], 
         "ungrammatical": [
-          "sauti", 
-          "mno", 
-          "ndege"
+          "toa", 
+          "changarawe", 
+          "ngome"
         ], 
         "ungrammatical_english": [
-          "raise", 
-          "too", 
-          "omen"
+          "take", 
+          "gravel", 
+          "fortification"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Mumbi anawaaga rafiki zake.", 
-      "stem": "Mumbi anawaaga rafiki", 
-      "target": "zake"
+      "sentence": "Amezipamba na shanga za rangirangi.", 
+      "stem": "Amezipamba na shanga za", 
+      "target": "rangirangi"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "kijana", 
-          "kaka", 
-          "mafuta"
+          "mungu", 
+          "damu", 
+          "samawati"
         ], 
         "nonsensical_english": [
-          "young", 
-          "eggshell", 
-          "ingratiating"
+          "fate", 
+          "menstruation", 
+          "sky"
         ], 
         "plausible": null, 
         "ungrammatical": [
-          "kutoa", 
-          "acha", 
-          "ndipo"
+          "hizi", 
+          "huwa", 
+          "ana"
         ], 
         "ungrammatical_english": [
-          "to", 
-          "divorce", 
-          "then"
+          "endanger", 
+          "possibly", 
+          "have"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Mumbi anaosha vyomba jikoni.", 
-      "stem": "Mumbi anaosha vyomba", 
-      "target": "jikoni"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Mumbi anaandika ubaoni.", 
-      "stem": "Mumbi anaandika", 
-      "target": "ubaoni"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Sasa Mumbi anakula matunda.", 
-      "stem": "Sasa Mumbi anakula", 
-      "target": "matunda"
+      "sentence": "Shanga zake ni za rangi za kijani, nyeupe, nyekundu, na manjano.", 
+      "stem": "Shanga zake ni za rangi za kijani, nyeupe, nyekundu, na", 
+      "target": "manjano"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "bibi", 
-          "kutoka", 
-          "mkubwa"
+          "lake", 
+          "chake", 
+          "yangu"
         ], 
         "nonsensical_english": [
-          "madam", 
-          "Exodus", 
-          "manager"
+          "his", 
+          "her", 
+          "my"
         ], 
         "plausible": null, 
         "ungrammatical": [
-          "kama", 
-          "kabla", 
+          "ili", 
+          "tena", 
           "sasa"
         ], 
         "ungrammatical_english": [
-          "that", 
-          "before", 
-          "fashion"
+          "order", 
+          "afterwards", 
+          "up-to-date"
         ]
       }, 
-      "punctuation": ".", 
-      "sentence": "Sasa ni usiku.", 
-      "stem": "Sasa ni", 
-      "target": "usiku"
+      "punctuation": "?", 
+      "sentence": "Mama, tafadhali nisukie nywele zangu ziwe kama za mwalimu wangu?", 
+      "stem": "Mama, tafadhali nisukie nywele zangu ziwe kama za mwalimu", 
+      "target": "wangu"
     }, 
     {
       "distractor": null, 
       "punctuation": ".", 
-      "sentence": "Mumbi analala.", 
-      "stem": "Mumbi", 
-      "target": "analala"
+      "sentence": "Ningekuwa na umri zaidi, ningezipamba nywele zangu kwa shanga.", 
+      "stem": "Ningekuwa na umri zaidi, ningezipamba nywele zangu kwa", 
+      "target": "shanga"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "rinda", 
-          "huzuni", 
-          "kiongozi"
+          "mimi", 
+          "hao", 
+          "lake"
         ], 
         "nonsensical_english": [
-          "pleat", 
-          "sadness", 
-          "leadership"
+          "I", 
+          "those", 
+          "his"
         ], 
-        "plausible": [
-          "malishoni", 
-          "mwerevu", 
-          "mjomba"
-        ], 
-        "plausible_english": [
-          "pasturage", 
-          "cheat", 
-          "nephew"
-        ], 
+        "plausible": null, 
         "ungrammatical": [
-          "vingi", 
-          "kuliko", 
-          "pa"
+          "maji", 
+          "mamba", 
+          "chini"
         ], 
         "ungrammatical_english": [
-          "abundance", 
-          "regards", 
-          "of"
+          "brine", 
+          "leech", 
+          "low"
         ]
       }, 
-      "punctuation": ".", 
-      "sentence": "Mama anamzungumzia Mumbi.", 
-      "stem": "Mama anamzungumzia", 
-      "target": "Mumbi"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Mumbi anafikiria.", 
-      "stem": "Mumbi", 
-      "target": "anafikiria"
+      "punctuation": "!", 
+      "sentence": "Nitakua sawa kabisa na mwalimu wangu!", 
+      "stem": "Nitakua sawa kabisa na mwalimu", 
+      "target": "wangu"
     }
   ], 
   "title": "placeholder"

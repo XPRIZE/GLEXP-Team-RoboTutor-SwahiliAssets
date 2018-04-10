@@ -2,715 +2,341 @@
   "level": "3", 
   "questions": [
     {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Hapo zamani za kale, waliishi dada wawili, Nelima na Nambuya.", 
-      "stem": "Hapo zamani za kale, waliishi dada wawili, Nelima na", 
-      "target": "Nambuya"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Wazazi wao walikuwa wamekufa.", 
-      "stem": "Wazazi wao walikuwa", 
-      "target": "wamekufa"
-    }, 
-    {
       "distractor": {
-        "nonsensical": [
-          "woga", 
-          "polisi", 
-          "uwezo"
-        ], 
-        "nonsensical_english": [
-          "timidity", 
-          "police", 
-          "power"
-        ], 
-        "plausible": [
-          "mwana", 
-          "mwangaza", 
-          "mchanga"
-        ], 
-        "plausible_english": [
-          "daughter", 
-          "solution", 
-          "new"
-        ], 
+        "nonsensical": null, 
+        "plausible": null, 
         "ungrammatical": [
-          "vuta", 
-          "wazi", 
-          "ingawa"
+          "za", 
+          "wakati", 
+          "wake"
         ], 
         "ungrammatical_english": [
-          "pull", 
-          "evident", 
-          "albeit"
+          "of", 
+          "time", 
+          "his"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Waliishi katika shamba lisilokuwa na mimea.", 
-      "stem": "Waliishi katika shamba lisilokuwa na", 
-      "target": "mimea"
+      "sentence": "Hapo kale palikuwa na mtu aliyeishi na mkewe aliyempenda sana.", 
+      "stem": "Hapo kale palikuwa na mtu aliyeishi na mkewe aliyempenda", 
+      "target": "sana"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "mto", 
-          "jua", 
-          "kazi"
+          "elimu", 
+          "kucha", 
+          "mkutano"
         ], 
         "nonsensical_english": [
-          "tributary", 
-          "know", 
-          "product"
+          "education", 
+          "warbler", 
+          "meeting"
         ], 
         "plausible": [
-          "mto", 
-          "jua", 
-          "kazi"
+          "makao", 
+          "manyatta", 
+          "mashine"
         ], 
         "plausible_english": [
-          "bay", 
-          "midday", 
-          "work"
+          "residence", 
+          "homestead", 
+          "machine"
         ], 
         "ungrammatical": [
-          "karibu", 
-          "kila", 
-          "kisha"
+          "dogo", 
+          "mashimo", 
+          "yu"
         ], 
         "ungrammatical_english": [
-          "welcome", 
-          "all", 
-          "thereafter"
+          "small", 
+          "holes", 
+          "he"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Hapakuwa na mvua wala chakula.", 
-      "stem": "Hapakuwa na mvua wala", 
-      "target": "chakula"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Aliyetaka chakula alilazimika kwenda mbali kukipata.", 
-      "stem": "Aliyetaka chakula alilazimika kwenda mbali", 
-      "target": "kukipata"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Nelima alikuwa mnyenyekevu, mnyamavu aliyependa kusaidia.", 
-      "stem": "Nelima alikuwa mnyenyekevu, mnyamavu aliyependa", 
-      "target": "kusaidia"
+      "sentence": "Siku moja alikwenda msituni kwa matembezi.", 
+      "stem": "Siku moja alikwenda msituni kwa", 
+      "target": "matembezi"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "hiki", 
-          "nani", 
-          "mwangu"
+          "bado", 
+          "bila", 
+          "njiani"
         ], 
         "nonsensical_english": [
-          "this", 
-          "whom", 
-          "my"
+          "not ready", 
+          "without", 
+          "along"
         ], 
         "plausible": null, 
         "ungrammatical": [
-          "safari", 
-          "kibuyu", 
-          "uchungu"
+          "baridi", 
+          "majani", 
+          "ndugu"
         ], 
         "ungrammatical_english": [
-          "moment", 
-          "calabash", 
-          "dejection"
+          "chill", 
+          "green", 
+          "fellow"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Dadake Nambuya alikuwa mwenye kiburi na hakumsikiza yeyote.", 
-      "stem": "Dadake Nambuya alikuwa mwenye kiburi na hakumsikiza", 
-      "target": "yeyote"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Hakuwajali watu wengine.", 
-      "stem": "Hakuwajali watu", 
-      "target": "wengine"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Siku moja dada hao waliamka na kugundua kwamba hawakuwa na chochote cha kula.", 
-      "stem": "Siku moja dada hao waliamka na kugundua kwamba hawakuwa na chochote cha", 
-      "target": "kula"
+      "sentence": "Njiani alikutana na msichana mmoja mwembamba na mrembo mno.", 
+      "stem": "Njiani alikutana na msichana mmoja mwembamba na mrembo", 
+      "target": "mno"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "mto", 
-          "jua", 
-          "kazi"
+          "kwanza", 
+          "kila", 
+          "kidogo"
         ], 
         "nonsensical_english": [
-          "stream", 
-          "sunny", 
-          "job"
+          "first", 
+          "daily", 
+          "little"
         ], 
         "plausible": [
-          "kazi", 
-          "jua", 
-          "mto"
+          "kila", 
+          "mbali", 
+          "kidogo"
         ], 
         "plausible_english": [
-          "job", 
-          "midday", 
-          "riverbend"
+          "each", 
+          "entirely", 
+          "few"
         ], 
         "ungrammatical": [
-          "pamoja", 
-          "hapo", 
-          "tu"
+          "mti", 
+          "chakula", 
+          "kwamba"
         ], 
         "ungrammatical_english": [
-          "collective", 
-          "then", 
-          "us"
+          "fruit-tree", 
+          "dinner", 
+          "order"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Walilazimika kutafuta chakula.", 
-      "stem": "Walilazimika kutafuta", 
-      "target": "chakula"
+      "sentence": "Alimpenda papo hapo.", 
+      "stem": "Alimpenda papo", 
+      "target": "hapo"
     }, 
     {
       "distractor": {
-        "nonsensical": [
-          "salama", 
-          "tamu", 
-          "kawaida"
-        ], 
-        "nonsensical_english": [
-          "safely", 
-          "confectionery", 
-          "normally"
-        ], 
-        "plausible": [
-          "mwisho", 
-          "salama", 
-          "kawaida"
-        ], 
-        "plausible_english": [
-          "death", 
-          "safety", 
-          "regular"
-        ], 
+        "nonsensical": null, 
+        "plausible": null, 
         "ungrammatical": [
-          "ambayo", 
-          "mambo", 
-          "mwa"
+          "la", 
+          "cha", 
+          "kwamba"
         ], 
         "ungrammatical_english": [
-          "that", 
-          "fanciful", 
-          "of"
+          "it", 
+          "light", 
+          "that"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Kwa hivyo Nelima na Nambuya walikwenda kila mmoja upande tofauti.", 
-      "stem": "Kwa hivyo Nelima na Nambuya walikwenda kila mmoja upande", 
-      "target": "tofauti"
+      "sentence": "Msichana vile vile alimkubali mara moja.", 
+      "stem": "Msichana vile vile alimkubali mara", 
+      "target": "moja"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "upepo", 
+          "mtoto", 
+          "ndovu"
+        ], 
+        "ungrammatical_english": [
+          "change", 
+          "infant", 
+          "elephant"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Lakini, msichana alimwambia kuwa alikuwa na titi moja tu.", 
+      "stem": "Lakini, msichana alimwambia kuwa alikuwa na titi moja", 
+      "target": "tu"
     }, 
     {
       "distractor": null, 
       "punctuation": ".", 
-      "sentence": "Wakati huo huo, paliishi mwanamke mkongwe kwa jina Netasile.", 
-      "stem": "Wakati huo huo, paliishi mwanamke mkongwe kwa jina", 
-      "target": "Netasile"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "njama", 
-          "jasusi", 
-          "tone"
-        ], 
-        "nonsensical_english": [
-          "council", 
-          "traitor", 
-          "drop"
-        ], 
-        "plausible": [
-          "uwanja", 
-          "upweke", 
-          "usafiri"
-        ], 
-        "plausible_english": [
-          "field", 
-          "loneliness", 
-          "travelling"
-        ], 
-        "ungrammatical": [
-          "kadhaa", 
-          "majuto", 
-          "oka"
-        ], 
-        "ungrammatical_english": [
-          "unspecified", 
-          "conscience", 
-          "bake"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Aliaminiwa kupeana utajiri.", 
-      "stem": "Aliaminiwa kupeana", 
-      "target": "utajiri"
+      "sentence": "Kwa hivyo alimwambia aende nyumbani, akate titi moja la mkewe amletee.", 
+      "stem": "Kwa hivyo alimwambia aende nyumbani, akate titi moja la mkewe", 
+      "target": "amletee"
     }, 
     {
       "distractor": null, 
       "punctuation": ".", 
-      "sentence": "Netasile alikuwa na ugonjwa wa ukoma na mwili wake ulijaa vidonda.", 
-      "stem": "Netasile alikuwa na ugonjwa wa ukoma na mwili wake ulijaa", 
-      "target": "vidonda"
+      "sentence": "Kwa njia hii angekuwa na matiti mawili hivyo wangeoana.", 
+      "stem": "Kwa njia hii angekuwa na matiti mawili hivyo", 
+      "target": "wangeoana"
     }, 
     {
       "distractor": {
-        "nonsensical": [
-          "hiki", 
-          "je", 
-          "nani"
-        ], 
-        "nonsensical_english": [
-          "this", 
-          "what", 
-          "who"
-        ], 
-        "plausible": [
-          "huyu", 
-          "lake", 
-          "ambacho"
-        ], 
-        "plausible_english": [
-          "this", 
-          "his", 
-          "which"
-        ], 
+        "nonsensical": null, 
+        "plausible": null, 
         "ungrammatical": [
-          "macho", 
-          "njiwa", 
-          "mlima"
+          "sana", 
+          "kisha", 
+          "wakati"
         ], 
         "ungrammatical_english": [
-          "blink", 
-          "dove", 
-          "volcano"
+          "most", 
+          "if", 
+          "whenever"
         ]
       }, 
-      "punctuation": "?", 
-      "sentence": "Nambuya alipatana na mwanamke huyo aliyemwita, \"Mwanangu, u hali gani?", 
-      "stem": "Nambuya alipatana na mwanamke huyo aliyemwita, \"Mwanangu, u hali", 
-      "target": "gani"
+      "punctuation": ".", 
+      "sentence": "Mwanamme alikimbia kwa kasi, akachukuwa kisu, akamrukia mkewe mpendwa na kukata titi lake mara moja.", 
+      "stem": "Mwanamme alikimbia kwa kasi, akachukuwa kisu, akamrukia mkewe mpendwa na kukata titi lake mara", 
+      "target": "moja"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Aliharakisha kwenda msituni alikomwacha mpenzi wake mpya.", 
+      "stem": "Aliharakisha kwenda msituni alikomwacha mpenzi wake", 
+      "target": "mpya"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Lakini hakuwapo.", 
+      "stem": "Lakini", 
+      "target": "hakuwapo"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "chungu", 
+          "hao", 
+          "hadithi"
+        ], 
+        "ungrammatical_english": [
+          "acrid", 
+          "those", 
+          "describe"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Aliliita jina lake kwa sauti, lakini ilikuwa kimya tu.", 
+      "stem": "Aliliita jina lake kwa sauti, lakini ilikuwa kimya", 
+      "target": "tu"
     }, 
     {
       "distractor": null, 
       "punctuation": "?", 
-      "sentence": "Unatoka wapi?", 
-      "stem": "Unatoka", 
-      "target": "wapi"
+      "sentence": "Kisha alisikia sauti ikisema, \"Kwa nini unaita?", 
+      "stem": "Kisha alisikia sauti ikisema, \"Kwa nini", 
+      "target": "unaita"
     }, 
     {
       "distractor": null, 
       "punctuation": "?\"", 
-      "sentence": "Unakwenda wapi?\"", 
-      "stem": "Unakwenda", 
-      "target": "wapi"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Nambuya alijibu maswali yote.", 
-      "stem": "Nambuya alijibu maswali", 
-      "target": "yote"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".\"", 
-      "sentence": "Kisha mwanamke akasema, \"Njoo unibebe unipeleke nyumbani kwangu nami nitakwambia la kufanya.\"", 
-      "stem": "Kisha mwanamke akasema, \"Njoo unibebe unipeleke nyumbani kwangu nami nitakwambia la", 
-      "target": "kufanya"
+      "sentence": "Kwani hujui kwamba uko katika msitu wa Musambwa kwa Libeeletwela?\"", 
+      "stem": "Kwani hujui kwamba uko katika msitu wa Musambwa kwa", 
+      "target": "Libeeletwela"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "adhabu", 
-          "risasi", 
-          "anga"
+          "ua", 
+          "panda", 
+          "hifadhi"
         ], 
         "nonsensical_english": [
-          "penalty", 
-          "gun", 
-          "brilliance"
+          "courtyard", 
+          "sling", 
+          "save"
         ], 
         "plausible": [
-          "haja", 
-          "chuma", 
-          "chungwa"
+          "zama", 
+          "afya", 
+          "panga"
         ], 
         "plausible_english": [
-          "relieve", 
-          "rail", 
-          "tend"
+          "epoch", 
+          "health", 
+          "prickly"
         ], 
         "ungrammatical": [
-          "nono", 
-          "kuu", 
-          "karibuni"
+          "ambavyo", 
+          "ovyo", 
+          "maarufu"
         ], 
         "ungrammatical_english": [
-          "fat", 
-          "great", 
-          "welcome"
+          "that", 
+          "excessively", 
+          "esteemed"
         ]
       }, 
-      "punctuation": ".", 
-      "sentence": "Nambuya alimwonyesha kiburi.", 
-      "stem": "Nambuya alimwonyesha", 
-      "target": "kiburi"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": null, 
-        "plausible": null, 
-        "ungrammatical": [
-          "sweta", 
-          "kisa", 
-          "kushinda"
-        ], 
-        "ungrammatical_english": [
-          "pullover", 
-          "matter", 
-          "day"
-        ]
-      }, 
-      "punctuation": ".\"", 
-      "sentence": "Alisema, \"Heri nife kuliko niguse vile vidonda vyako.\"", 
-      "stem": "Alisema, \"Heri nife kuliko niguse vile vidonda", 
-      "target": "vyako"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": null, 
-        "plausible": null, 
-        "ungrammatical": [
-          "nchi", 
-          "machela", 
-          "shada"
-        ], 
-        "ungrammatical_english": [
-          "nation", 
-          "hammock", 
-          "tuft"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Yule mwanamke alikimya na kumtakia safari njema.", 
-      "stem": "Yule mwanamke alikimya na kumtakia safari", 
-      "target": "njema"
+      "punctuation": "...", 
+      "sentence": "Mtu yule aliposikia hivyo, alikimbia nyumbani kwa kasi kama risasi...", 
+      "stem": "Mtu yule aliposikia hivyo, alikimbia nyumbani kwa kasi kama", 
+      "target": "risasi"
     }, 
     {
       "distractor": null, 
       "punctuation": ".", 
-      "sentence": "Nambuya alitembea hadi akafika mahali walipokuwa jongoo, nyoka, mabuu na wadudu wengine.", 
-      "stem": "Nambuya alitembea hadi akafika mahali walipokuwa jongoo, nyoka, mabuu na wadudu", 
-      "target": "wengine"
+      "sentence": "Alimpata mkewe tayari akiwa amefariki.", 
+      "stem": "Alimpata mkewe tayari akiwa", 
+      "target": "amefariki"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Alihuzunika sana kwa ajili ya yale alikuwa amefanya.", 
+      "stem": "Alihuzunika sana kwa ajili ya yale alikuwa", 
+      "target": "amefanya"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "jua", 
-          "kazi", 
-          "mto"
+          "kitendo", 
+          "ujuzi", 
+          "umbo"
         ], 
         "nonsensical_english": [
-          "midday", 
-          "decoration", 
-          "delta"
+          "practices", 
+          "expertise", 
+          "appearance"
         ], 
         "plausible": [
-          "jua", 
-          "mto", 
-          "kazi"
+          "kucha", 
+          "kuuliza", 
+          "kukata"
         ], 
         "plausible_english": [
-          "grasp", 
-          "tributary", 
-          "art"
+          "warbler", 
+          "question", 
+          "shortcut"
         ], 
         "ungrammatical": [
-          "kubwa", 
-          "hivyo", 
-          "tena"
+          "ina", 
+          "tuli", 
+          "tazama"
         ], 
         "ungrammatical_english": [
-          "significant", 
-          "way", 
-          "then"
+          "certainly", 
+          "still", 
+          "test"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Alikuwa amechoka na kudhoofika kwa kukosa chakula.", 
-      "stem": "Alikuwa amechoka na kudhoofika kwa kukosa", 
-      "target": "chakula"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Alipoketi chini kupumzika, wadudu hawa walianza kumuuma.", 
-      "stem": "Alipoketi chini kupumzika, wadudu hawa walianza", 
-      "target": "kumuuma"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": null, 
-        "plausible": null, 
-        "ungrammatical": [
-          "kama", 
-          "kwamba", 
-          "yeye"
-        ], 
-        "ungrammatical_english": [
-          "approximately", 
-          "order", 
-          "it"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Njiani, Nelima alimkuta mwanamke yule yule.", 
-      "stem": "Njiani, Nelima alimkuta mwanamke yule", 
-      "target": "yule"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": null, 
-        "plausible": null, 
-        "ungrammatical": [
-          "kwenda", 
-          "katika", 
-          "cha"
-        ], 
-        "ungrammatical_english": [
-          "to", 
-          "while", 
-          "fear"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Alifurahi kumwona Netasile kwani alikuwa binadamu wa kwanza kukutana naye tangu aanze safari yake.", 
-      "stem": "Alifurahi kumwona Netasile kwani alikuwa binadamu wa kwanza kukutana naye tangu aanze safari", 
-      "target": "yake"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "maridadi", 
-          "wingi", 
-          "manjano"
-        ], 
-        "nonsensical_english": [
-          "elegant", 
-          "quantity", 
-          "turmeric"
-        ], 
-        "plausible": [
-          "tano", 
-          "kali", 
-          "namna"
-        ], 
-        "plausible_english": [
-          "limekiln", 
-          "vehement", 
-          "quality"
-        ], 
-        "ungrammatical": [
-          "hizi", 
-          "kutoa", 
-          "asante"
-        ], 
-        "ungrammatical_english": [
-          "execrate", 
-          "to", 
-          "thank you"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Mwanamke alimwita na kumuuliza maswali yale yale.", 
-      "stem": "Mwanamke alimwita na kumuuliza maswali yale", 
-      "target": "yale"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "huyu", 
-          "langu", 
-          "je"
-        ], 
-        "nonsensical_english": [
-          "this", 
-          "my", 
-          "what"
-        ], 
-        "plausible": null, 
-        "ungrammatical": [
-          "hebu", 
-          "jambo", 
-          "sherehe"
-        ], 
-        "ungrammatical_english": [
-          "content", 
-          "wonder", 
-          "merrymaking"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Nelima alikubali kumpeleka nyumbani kwake.", 
-      "stem": "Nelima alikubali kumpeleka nyumbani", 
-      "target": "kwake"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "\"Umefanya kile wengi wemekosa kufanya,\" mwanamke alisema.", 
-      "stem": "\"Umefanya kile wengi wemekosa kufanya,\" mwanamke", 
-      "target": "alisema"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Alimpa Nelima kijiti na kumwambia arudi nyumbani ambako angekuta kila kitu alichotaka.", 
-      "stem": "Alimpa Nelima kijiti na kumwambia arudi nyumbani ambako angekuta kila kitu", 
-      "target": "alichotaka"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "ukali", 
-          "umbo", 
-          "soko"
-        ], 
-        "nonsensical_english": [
-          "austerity", 
-          "appearance", 
-          "trading"
-        ], 
-        "plausible": [
-          "mkutano", 
-          "mnyenyekevu", 
-          "msamaha"
-        ], 
-        "plausible_english": [
-          "discussion", 
-          "quiet", 
-          "pardon"
-        ], 
-        "ungrammatical": [
-          "kumbe", 
-          "simama", 
-          "oa"
-        ], 
-        "ungrammatical_english": [
-          "instead", 
-          "steadfast", 
-          "marry"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Nelima alimshukuru mwanamke huyo mkongwe.", 
-      "stem": "Nelima alimshukuru mwanamke huyo", 
-      "target": "mkongwe"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "dhaifu", 
-          "dogo", 
-          "geni"
-        ], 
-        "nonsensical_english": [
-          "bad-temper", 
-          "junior", 
-          "new"
-        ], 
-        "plausible": null, 
-        "ungrammatical": [
-          "ukingo", 
-          "mfano", 
-          "magharibi"
-        ], 
-        "ungrammatical_english": [
-          "margin", 
-          "model", 
-          "prayers"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Alikimbia nyumbani na kupata nyumba mpya iliyojaa kila kitu pamoja na chakula kingi.", 
-      "stem": "Alikimbia nyumbani na kupata nyumba mpya iliyojaa kila kitu pamoja na chakula", 
-      "target": "kingi"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Akawa mwanamke tajiri zaidi nchini.", 
-      "stem": "Akawa mwanamke tajiri zaidi", 
-      "target": "nchini"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Lakini aliomboleza kumpoteza dadake.", 
-      "stem": "Lakini aliomboleza kumpoteza", 
-      "target": "dadake"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "kitu", 
-          "shimo", 
-          "bibi"
-        ], 
-        "nonsensical_english": [
-          "object", 
-          "pit", 
-          "Mrs"
-        ], 
-        "plausible": [
-          "nafaka", 
-          "ndugu", 
-          "njiwa"
-        ], 
-        "plausible_english": [
-          "grain", 
-          "comrade", 
-          "pigeon"
-        ], 
-        "ungrammatical": [
-          "hivi", 
-          "kubwa", 
-          "nani"
-        ], 
-        "ungrammatical_english": [
-          "this", 
-          "total", 
-          "who"
-        ]
-      }, 
-      "punctuation": ".\"", 
-      "sentence": "Alisema, \"Asiyesikia ushauri aliishia ndani ya kinywa cha ndovu.\"", 
-      "stem": "Alisema, \"Asiyesikia ushauri aliishia ndani ya kinywa cha", 
-      "target": "ndovu"
+      "sentence": "Naye alitaka kufa.", 
+      "stem": "Naye alitaka", 
+      "target": "kufa"
     }
   ], 
   "title": "placeholder"

@@ -1,498 +1,527 @@
 {
-  "authors": "Madhav Chavan",
-  "copyright": "Copyright (c) Pratham Books, 2014",
+  "authors": "Ruth Odondi",
+  "copyright": "Copyright (c) African Storybook Initiative and Molteno Institute, 2014",
   "data": [
     {
-      "image": "level1_10_page_02_image_0001.jpg",
+      "image": "level1_9_page_02_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "kwa_nini_mtoto_analia.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 33,
-                    "start": 2,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 83,
-                    "start": 34,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 152,
-                    "start": 84,
-                    "word": "mtoto"
-                  },
-                  {
-                    "end": 267,
-                    "start": 153,
-                    "word": "analia"
-                  }
-                ],
-                "until": 267,
-                "utterances": "Kwa nini mtoto analia"
-              }
-            ],
-            "sentence": "Kwa nini mtoto analia?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level1_10_page_03_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "nadhani_anahisi_njaa.mp3",
+                "audio": "jina_langu_ni_ndalo.mp3",
                 "from": 19,
                 "segmentation": [
                   {
-                    "end": 107,
+                    "end": 61,
                     "start": 19,
-                    "word": "Nadhani"
+                    "word": "Jina"
                   },
                   {
-                    "end": 204,
-                    "start": 111,
-                    "word": "anahisi"
+                    "end": 113,
+                    "start": 62,
+                    "word": "langu"
                   },
                   {
-                    "end": 260,
-                    "start": 205,
-                    "word": "njaa"
+                    "end": 138,
+                    "start": 114,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 200,
+                    "start": 139,
+                    "word": "Ndalo"
                   }
                 ],
-                "until": 260,
-                "utterances": "Nadhani anahisi njaa"
+                "until": 200,
+                "utterances": "Jina langu ni Ndalo"
               }
             ],
-            "sentence": "Nadhani anahisi njaa."
+            "sentence": "Jina langu ni Ndalo."
           }
         ]
       ]
     },
     {
-      "image": "level1_10_page_04_image_0001.jpg",
+      "image": "level1_9_page_03_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "kwa_nini_mvulana_amehuzunika.mp3",
+                "audio": "baba_yangu_amemfuga_ng_ombe_mmoja_anayeitwa_pendo.mp3",
                 "from": 2,
                 "segmentation": [
                   {
-                    "end": 30,
+                    "end": 56,
                     "start": 2,
-                    "word": "Kwa"
+                    "word": "Baba"
                   },
                   {
-                    "end": 82,
-                    "start": 31,
-                    "word": "nini"
+                    "end": 133,
+                    "start": 57,
+                    "word": "yangu"
                   },
                   {
-                    "end": 159,
-                    "start": 83,
-                    "word": "mvulana"
+                    "end": 237,
+                    "start": 134,
+                    "word": "amemfuga"
                   },
                   {
                     "end": 296,
-                    "start": 160,
-                    "word": "amehuzunika"
-                  }
-                ],
-                "until": 296,
-                "utterances": "Kwa nini mvulana amehuzunika"
-              }
-            ],
-            "sentence": "Kwa nini mvulana amehuzunika?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level1_10_page_05_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "nadhani_anamkosa_baba_yake.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 88,
-                    "start": 20,
-                    "word": "Nadhani"
-                  },
-                  {
-                    "end": 207,
-                    "start": 102,
-                    "word": "anamkosa"
-                  },
-                  {
-                    "end": 257,
-                    "start": 208,
-                    "word": "baba"
-                  },
-                  {
-                    "end": 324,
-                    "start": 258,
-                    "word": "yake"
-                  }
-                ],
-                "until": 324,
-                "utterances": "Nadhani anamkosa baba yake"
-              }
-            ],
-            "sentence": "Nadhani anamkosa baba yake."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level1_10_page_06_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kwa_nini_msichana_amefurahi.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 33,
-                    "start": 2,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 78,
-                    "start": 34,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 158,
-                    "start": 79,
-                    "word": "msichana"
-                  },
-                  {
-                    "end": 330,
-                    "start": 182,
-                    "word": "amefurahi"
-                  }
-                ],
-                "until": 330,
-                "utterances": "Kwa nini msichana amefurahi"
-              }
-            ],
-            "sentence": "Kwa nini msichana amefurahi?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level1_10_page_07_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kwa_sababu_ana_rinda_jipya.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 31,
-                    "start": 2,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 105,
-                    "start": 32,
-                    "word": "sababu"
-                  },
-                  {
-                    "end": 159,
-                    "start": 121,
-                    "word": "ana"
-                  },
-                  {
-                    "end": 239,
-                    "start": 160,
-                    "word": "rinda"
-                  },
-                  {
-                    "end": 334,
-                    "start": 240,
-                    "word": "jipya"
-                  }
-                ],
-                "until": 334,
-                "utterances": "Kwa sababu ana rinda jipya"
-              }
-            ],
-            "sentence": "Kwa sababu ana rinda jipya."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level1_10_page_08_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kwa_nini_mzee_anacheka.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 32,
-                    "start": 2,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 80,
-                    "start": 33,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 143,
-                    "start": 81,
-                    "word": "mzee"
-                  },
-                  {
-                    "end": 289,
-                    "start": 151,
-                    "word": "anacheka"
-                  }
-                ],
-                "until": 289,
-                "utterances": "Kwa nini mzee anacheka"
-              }
-            ],
-            "sentence": "Kwa nini mzee anacheka?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level1_10_page_09_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kwa_sababu_amesoma_kichekesho.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 38,
-                    "start": 2,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 109,
-                    "start": 39,
-                    "word": "sababu"
-                  },
-                  {
-                    "end": 236,
-                    "start": 128,
-                    "word": "amesoma"
-                  },
-                  {
-                    "end": 366,
-                    "start": 237,
-                    "word": "kichekesho"
-                  }
-                ],
-                "until": 366,
-                "utterances": "Kwa sababu amesoma kichekesho"
-              }
-            ],
-            "sentence": "Kwa sababu amesoma kichekesho."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level1_10_page_10_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kwa_nini_mama_huyu_anatabasamu.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 33,
-                    "start": 2,
-                    "word": "Kwa"
-                  },
-                  {
-                    "end": 81,
-                    "start": 34,
-                    "word": "nini"
-                  },
-                  {
-                    "end": 131,
-                    "start": 82,
-                    "word": "mama"
-                  },
-                  {
-                    "end": 180,
-                    "start": 132,
-                    "word": "huyu"
+                    "start": 238,
+                    "word": "ng'ombe"
                   },
                   {
                     "end": 362,
-                    "start": 191,
-                    "word": "anatabasamu"
+                    "start": 297,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 467,
+                    "start": 363,
+                    "word": "anayeitwa"
+                  },
+                  {
+                    "end": 533,
+                    "start": 468,
+                    "word": "Pendo"
                   }
                 ],
-                "until": 362,
-                "utterances": "Kwa nini mama huyu anatabasamu"
+                "until": 533,
+                "utterances": "Baba yangu amemfuga ng'ombe mmoja anayeitwa Pendo"
               }
             ],
-            "sentence": "Kwa nini mama huyu anatabasamu?"
+            "sentence": "Baba yangu amemfuga ng'ombe mmoja anayeitwa Pendo."
           }
         ]
       ]
     },
     {
-      "image": "level1_10_page_11_image_0001.jpg",
+      "image": "level1_9_page_04_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "watoto_wake_wanasoma_kimya_kimya.mp3",
+                "audio": "pendo_anapenda_kula_nyasi_siku_nzima.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 21,
+                    "word": "Pendo"
+                  },
+                  {
+                    "end": 165,
+                    "start": 69,
+                    "word": "anapenda"
+                  },
+                  {
+                    "end": 210,
+                    "start": 166,
+                    "word": "kula"
+                  },
+                  {
+                    "end": 269,
+                    "start": 211,
+                    "word": "nyasi"
+                  },
+                  {
+                    "end": 322,
+                    "start": 270,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 382,
+                    "start": 323,
+                    "word": "nzima"
+                  }
+                ],
+                "until": 382,
+                "utterances": "Pendo anapenda kula nyasi siku nzima"
+              }
+            ],
+            "sentence": "Pendo anapenda kula nyasi siku nzima."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_9_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakati_mwingine_tunampa_nafaka.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 172,
+                    "start": 82,
+                    "word": "mwingine"
+                  },
+                  {
+                    "end": 289,
+                    "start": 205,
+                    "word": "tunampa"
+                  },
+                  {
+                    "end": 369,
+                    "start": 290,
+                    "word": "nafaka"
+                  }
+                ],
+                "until": 369,
+                "utterances": "Wakati mwingine tunampa nafaka"
+              }
+            ],
+            "sentence": "Wakati mwingine tunampa nafaka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_9_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pendo_pia_hunywa_maji_mengi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 21,
+                    "word": "Pendo"
+                  },
+                  {
+                    "end": 113,
+                    "start": 61,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 168,
+                    "start": 114,
+                    "word": "hunywa"
+                  },
+                  {
+                    "end": 214,
+                    "start": 169,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 302,
+                    "start": 215,
+                    "word": "mengi"
+                  }
+                ],
+                "until": 302,
+                "utterances": "Pendo pia hunywa maji mengi"
+              }
+            ],
+            "sentence": "Pendo pia hunywa maji mengi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_9_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi_ninampenda_pendo.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 21,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 188,
+                    "start": 70,
+                    "word": "ninampenda"
+                  },
+                  {
+                    "end": 251,
+                    "start": 189,
+                    "word": "Pendo"
+                  }
+                ],
+                "until": 251,
+                "utterances": "Mimi ninampenda Pendo"
+              }
+            ],
+            "sentence": "Mimi ninampenda Pendo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_9_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tunamtunza_pendo_na_anatusaidia.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 166,
+                    "start": 22,
+                    "word": "Tunamtunza"
+                  },
+                  {
+                    "end": 247,
+                    "start": 167,
+                    "word": "Pendo"
+                  },
+                  {
+                    "end": 290,
+                    "start": 275,
+                    "word": "na"
+                  },
+                  {
+                    "end": 449,
+                    "start": 312,
+                    "word": "anatusaidia"
+                  }
+                ],
+                "until": 449,
+                "utterances": "Tunamtunza Pendo na anatusaidia"
+              }
+            ],
+            "sentence": "Tunamtunza Pendo na anatusaidia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_9_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anatupa_maziwa_mengi.mp3",
                 "from": 21,
                 "segmentation": [
                   {
                     "end": 113,
                     "start": 21,
-                    "word": "Watoto"
+                    "word": "Anatupa"
                   },
                   {
-                    "end": 164,
+                    "end": 210,
                     "start": 114,
-                    "word": "wake"
+                    "word": "maziwa"
                   },
                   {
-                    "end": 277,
-                    "start": 165,
-                    "word": "wanasoma"
-                  },
-                  {
-                    "end": 358,
-                    "start": 278,
-                    "word": "kimya"
-                  },
-                  {
-                    "end": 453,
-                    "start": 359,
-                    "word": "kimya"
+                    "end": 331,
+                    "start": 211,
+                    "word": "mengi"
                   }
                 ],
-                "until": 453,
-                "utterances": "Watoto wake wanasoma kimya kimya"
+                "until": 331,
+                "utterances": "Anatupa maziwa mengi"
               }
             ],
-            "sentence": "Watoto wake wanasoma kimya kimya."
+            "sentence": "Anatupa maziwa mengi."
           }
         ]
       ]
     },
     {
-      "image": "level1_10_page_12_image_0001.jpg",
+      "image": "level1_9_page_11_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "mama_huyu_anahisi_nini.mp3",
+                "audio": "baba_yangu_huuza_baadhi_ya_maziwa_na_kuninunulia_vitabu_vya_hadithi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 2,
+                    "word": "Baba"
+                  },
+                  {
+                    "end": 110,
+                    "start": 57,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 194,
+                    "start": 133,
+                    "word": "huuza"
+                  },
+                  {
+                    "end": 273,
+                    "start": 195,
+                    "word": "baadhi"
+                  },
+                  {
+                    "end": 283,
+                    "start": 274,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 367,
+                    "start": 284,
+                    "word": "maziwa"
+                  },
+                  {
+                    "end": 443,
+                    "start": 419,
+                    "word": "na"
+                  },
+                  {
+                    "end": 571,
+                    "start": 444,
+                    "word": "kuninunulia"
+                  },
+                  {
+                    "end": 643,
+                    "start": 572,
+                    "word": "vitabu"
+                  },
+                  {
+                    "end": 673,
+                    "start": 644,
+                    "word": "vya"
+                  },
+                  {
+                    "end": 761,
+                    "start": 674,
+                    "word": "hadithi"
+                  }
+                ],
+                "until": 761,
+                "utterances": "Baba yangu huuza baadhi ya maziwa na kuninunulia vitabu vya hadithi"
+              }
+            ],
+            "sentence": "Baba yangu huuza baadhi ya maziwa na kuninunulia vitabu vya hadithi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_9_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi_ninapenda_kusoma_hadithi.mp3",
                 "from": 21,
                 "segmentation": [
                   {
-                    "end": 74,
+                    "end": 64,
                     "start": 21,
-                    "word": "Mama"
+                    "word": "Mimi"
                   },
                   {
-                    "end": 145,
-                    "start": 75,
-                    "word": "huyu"
+                    "end": 152,
+                    "start": 65,
+                    "word": "ninapenda"
                   },
                   {
-                    "end": 265,
+                    "end": 230,
                     "start": 153,
-                    "word": "anahisi"
+                    "word": "kusoma"
                   },
                   {
-                    "end": 377,
-                    "start": 266,
-                    "word": "nini"
+                    "end": 313,
+                    "start": 231,
+                    "word": "hadithi"
                   }
                 ],
-                "until": 377,
-                "utterances": "Mama huyu anahisi nini"
+                "until": 313,
+                "utterances": "Mimi ninapenda kusoma hadithi"
               }
             ],
-            "sentence": "Mama huyu anahisi nini?"
+            "sentence": "Mimi ninapenda kusoma hadithi."
           }
         ]
       ]
     },
     {
-      "image": "level1_10_page_13_image_0001.jpg",
+      "image": "level1_9_page_13_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "nadhani_anaona_haya.mp3",
-                "from": 19,
+                "audio": "je_umefahamu_kwa_nini_ninampenda_ng_ombe_wetu_pendo.mp3",
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": 120,
-                    "start": 19,
-                    "word": "Nadhani"
+                    "end": 61,
+                    "start": 2,
+                    "word": "Je"
                   },
                   {
-                    "end": 229,
-                    "start": 125,
-                    "word": "anaona"
+                    "end": 225,
+                    "start": 105,
+                    "word": "umefahamu"
                   },
                   {
-                    "end": 294,
-                    "start": 230,
-                    "word": "haya"
+                    "end": 255,
+                    "start": 226,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 311,
+                    "start": 256,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 425,
+                    "start": 312,
+                    "word": "ninampenda"
+                  },
+                  {
+                    "end": 474,
+                    "start": 426,
+                    "word": "ng'ombe"
+                  },
+                  {
+                    "end": 518,
+                    "start": 475,
+                    "word": "wetu"
+                  },
+                  {
+                    "end": 590,
+                    "start": 519,
+                    "word": "Pendo"
                   }
                 ],
-                "until": 294,
-                "utterances": "Nadhani anaona haya"
+                "until": 590,
+                "utterances": "Je umefahamu kwa nini ninampenda ng'ombe wetu Pendo"
               }
             ],
-            "sentence": "Nadhani anaona haya."
+            "sentence": "Je, umefahamu kwa nini ninampenda ng'ombe wetu Pendo?"
           }
         ]
       ]
     }
   ],
-  "illustrators": "Rijuta Ghate",
+  "illustrators": "Rob Owen",
   "language": "Kiswahili",
   "level": "1",
   "license": "CC-BY Version 3.0 Unported Licence",
-  "status": "Translated by: Mutugi Kamundi",
-  "title": "Niambie ... sasa! Furaha na huzuni",
-  "titleimage": "level1_10_page_01_image_0001.jpg"
+  "title": "Ng'ombe wetu",
+  "titleimage": "level1_9_page_01_image_0001.jpg"
 }

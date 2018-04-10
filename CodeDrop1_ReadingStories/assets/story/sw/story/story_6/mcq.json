@@ -3,201 +3,297 @@
   "questions": [
     {
       "distractor": null, 
-      "punctuation": "?", 
-      "sentence": "Kwa nini mtoto analia?", 
-      "stem": "Kwa nini mtoto", 
-      "target": "analia"
+      "punctuation": ".", 
+      "sentence": "Jina langu ni Ndalo.", 
+      "stem": "Jina langu ni", 
+      "target": "Ndalo"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "baridi", 
-          "hadithi", 
-          "shule"
+          "vitabu", 
+          "umbo", 
+          "mwavuli"
         ], 
         "nonsensical_english": [
-          "frost", 
-          "relate", 
-          "withdraw"
+          "literature", 
+          "shape", 
+          "parasol"
         ], 
         "plausible": [
-          "hadithi", 
-          "baba", 
-          "baridi"
+          "ulimwengu", 
+          "sabuni", 
+          "chumvi"
         ], 
         "plausible_english": [
-          "story", 
-          "watchman", 
-          "gentleness"
+          "surroundings", 
+          "soap", 
+          "salt"
+        ], 
+        "ungrammatical": [
+          "naam", 
+          "dogo", 
+          "polepole"
+        ], 
+        "ungrammatical_english": [
+          "sorry", 
+          "slight", 
+          "slowly"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Baba yangu amemfuga ng'ombe mmoja anayeitwa Pendo.", 
+      "stem": "Baba yangu amemfuga ng'ombe mmoja anayeitwa", 
+      "target": "Pendo"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mwangaza", 
+          "umri", 
+          "angani"
+        ], 
+        "nonsensical_english": [
+          "window", 
+          "time", 
+          "cosmos"
+        ], 
+        "plausible": [
+          "ndoto", 
+          "nyasi", 
+          "nina"
+        ], 
+        "plausible_english": [
+          "dreaming", 
+          "reed", 
+          "mother"
         ], 
         "ungrammatical": [
           "kabisa", 
-          "ambayo", 
-          "hapa"
+          "zetu", 
+          "gani"
         ], 
         "ungrammatical_english": [
-          "absolutely", 
-          "that", 
-          "here"
+          "definitely", 
+          "ours", 
+          "what"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Nadhani anahisi njaa.", 
-      "stem": "Nadhani anahisi", 
-      "target": "njaa"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": "?", 
-      "sentence": "Kwa nini mvulana amehuzunika?", 
-      "stem": "Kwa nini mvulana", 
-      "target": "amehuzunika"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": null, 
-        "plausible": null, 
-        "ungrammatical": [
-          "kuwa", 
-          "tena", 
-          "kisha"
-        ], 
-        "ungrammatical_english": [
-          "that", 
-          "then", 
-          "afterwards"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Nadhani anamkosa baba yake.", 
-      "stem": "Nadhani anamkosa baba", 
-      "target": "yake"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": "?", 
-      "sentence": "Kwa nini msichana amefurahi?", 
-      "stem": "Kwa nini msichana", 
-      "target": "amefurahi"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Kwa sababu ana rinda jipya.", 
-      "stem": "Kwa sababu ana rinda", 
-      "target": "jipya"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": "?", 
-      "sentence": "Kwa nini mzee anacheka?", 
-      "stem": "Kwa nini mzee", 
-      "target": "anacheka"
+      "sentence": "Pendo anapenda kula nyasi siku nzima.", 
+      "stem": "Pendo anapenda kula nyasi siku", 
+      "target": "nzima"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "golikipa", 
-          "ukatili", 
-          "kabati"
+          "dereva", 
+          "mwangaza", 
+          "mrembo"
         ], 
         "nonsensical_english": [
-          "initiative", 
-          "massacre", 
-          "cupboard"
+          "driver", 
+          "window", 
+          "beautiful"
         ], 
-        "plausible": null, 
+        "plausible": [
+          "nywele", 
+          "nzima", 
+          "nina"
+        ], 
+        "plausible_english": [
+          "hair", 
+          "whole", 
+          "have"
+        ], 
         "ungrammatical": [
-          "pumua", 
-          "duni", 
-          "madirisha"
+          "hili", 
+          "pa", 
+          "kule"
         ], 
         "ungrammatical_english": [
-          "breathe", 
-          "unimportant", 
-          "check"
+          "this", 
+          "carry", 
+          "place"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Kwa sababu amesoma kichekesho.", 
-      "stem": "Kwa sababu amesoma", 
-      "target": "kichekesho"
+      "sentence": "Wakati mwingine tunampa nafaka.", 
+      "stem": "Wakati mwingine tunampa", 
+      "target": "nafaka"
     }, 
     {
       "distractor": null, 
-      "punctuation": "?", 
-      "sentence": "Kwa nini mama huyu anatabasamu?", 
-      "stem": "Kwa nini mama huyu", 
-      "target": "anatabasamu"
+      "punctuation": ".", 
+      "sentence": "Pendo pia hunywa maji mengi.", 
+      "stem": "Pendo pia hunywa maji", 
+      "target": "mengi"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "tamu", 
-          "kasi", 
-          "tofauti"
+          "miwani", 
+          "pendo", 
+          "keki"
         ], 
         "nonsensical_english": [
-          "nice", 
-          "hurry", 
-          "discrepancy"
+          "spectacles", 
+          "affection", 
+          "pastry"
         ], 
-        "plausible": null, 
+        "plausible": [
+          "ulimwengu", 
+          "ajali", 
+          "upole"
+        ], 
+        "plausible_english": [
+          "surroundings", 
+          "fate", 
+          "gentleness"
+        ], 
         "ungrammatical": [
-          "kuliko", 
-          "kuna", 
-          "ndiyo"
+          "dhaifu", 
+          "polepole", 
+          "dogo"
         ], 
         "ungrammatical_english": [
-          "surpassing", 
-          "grate", 
-          "is"
+          "powerless", 
+          "kind", 
+          "sub"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Watoto wake wanasoma kimya kimya.", 
-      "stem": "Watoto wake wanasoma kimya", 
-      "target": "kimya"
+      "sentence": "Mimi ninampenda Pendo.", 
+      "stem": "Mimi ninampenda", 
+      "target": "Pendo"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Tunamtunza Pendo na anatusaidia.", 
+      "stem": "Tunamtunza Pendo na", 
+      "target": "anatusaidia"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Anatupa maziwa mengi.", 
+      "stem": "Anatupa maziwa", 
+      "target": "mengi"
     }, 
     {
       "distractor": {
-        "nonsensical": null, 
-        "plausible": null, 
+        "nonsensical": [
+          "baba", 
+          "kazi", 
+          "panya"
+        ], 
+        "nonsensical_english": [
+          "forebear", 
+          "work", 
+          "mouse"
+        ], 
+        "plausible": [
+          "baridi", 
+          "kazi", 
+          "panya"
+        ], 
+        "plausible_english": [
+          "air", 
+          "obligation", 
+          "incision"
+        ], 
         "ungrammatical": [
-          "moto", 
-          "katika", 
-          "mamba"
+          "kwani", 
+          "kabisa", 
+          "mno"
         ], 
         "ungrammatical_english": [
-          "heat", 
-          "end", 
-          "snake"
+          "since", 
+          "quite", 
+          "very"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Baba yangu huuza baadhi ya maziwa na kuninunulia vitabu vya hadithi.", 
+      "stem": "Baba yangu huuza baadhi ya maziwa na kuninunulia vitabu vya", 
+      "target": "hadithi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kazi", 
+          "baridi", 
+          "njaa"
+        ], 
+        "nonsensical_english": [
+          "occupation", 
+          "damp", 
+          "hungry"
+        ], 
+        "plausible": [
+          "kazi", 
+          "baridi", 
+          "jua"
+        ], 
+        "plausible_english": [
+          "art", 
+          "damp", 
+          "sun"
+        ], 
+        "ungrammatical": [
+          "kubwa", 
+          "yao", 
+          "kwani"
+        ], 
+        "ungrammatical_english": [
+          "weighty", 
+          "their", 
+          "for"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mimi ninapenda kusoma hadithi.", 
+      "stem": "Mimi ninapenda kusoma", 
+      "target": "hadithi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "umbo", 
+          "kikombe", 
+          "pendo"
+        ], 
+        "nonsensical_english": [
+          "form", 
+          "goblet", 
+          "liking"
+        ], 
+        "plausible": [
+          "ajali", 
+          "mbingu", 
+          "ulimwengu"
+        ], 
+        "plausible_english": [
+          "accident", 
+          "clouds", 
+          "universe"
+        ], 
+        "ungrammatical": [
+          "dogo", 
+          "dhaifu", 
+          "polepole"
+        ], 
+        "ungrammatical_english": [
+          "young", 
+          "infirm", 
+          "slowly"
         ]
       }, 
       "punctuation": "?", 
-      "sentence": "Mama huyu anahisi nini?", 
-      "stem": "Mama huyu anahisi", 
-      "target": "nini"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": null, 
-        "plausible": null, 
-        "ungrammatical": [
-          "ghafla", 
-          "kuliko", 
-          "punde"
-        ], 
-        "ungrammatical_english": [
-          "unexpectedly", 
-          "than", 
-          "presently"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Nadhani anaona haya.", 
-      "stem": "Nadhani anaona", 
-      "target": "haya"
+      "sentence": "Je, umefahamu kwa nini ninampenda ng'ombe wetu Pendo?", 
+      "stem": "Je, umefahamu kwa nini ninampenda ng'ombe wetu", 
+      "target": "Pendo"
     }
   ], 
   "title": "placeholder"

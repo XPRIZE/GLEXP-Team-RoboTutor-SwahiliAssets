@@ -1,1283 +1,939 @@
 {
-  "authors": "Mozambican folktale",
-  "copyright": "Copyright (c) Mozambican Writers, 2014",
+  "authors": "Geoffrey Thiiru",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
   "data": [
     {
-      "image": "level3_8_page_02_image_0001.jpg",
+      "image": "level3_3_page_02_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "hapo_zamani_za_kale_sungura_alikuwa_rafiki_mkubwa_wa_kima_mwenye_rangi_ya_kijani_kibichi.mp3",
-                "from": 17,
-                "segmentation": [
-                  {
-                    "end": 75,
-                    "start": 17,
-                    "word": "Hapo"
-                  },
-                  {
-                    "end": 142,
-                    "start": 76,
-                    "word": "zamani"
-                  },
-                  {
-                    "end": 164,
-                    "start": 143,
-                    "word": "za"
-                  },
-                  {
-                    "end": 234,
-                    "start": 165,
-                    "word": "kale"
-                  },
-                  {
-                    "end": 331,
-                    "start": 264,
-                    "word": "Sungura"
-                  },
-                  {
-                    "end": 415,
-                    "start": 346,
-                    "word": "alikuwa"
-                  },
-                  {
-                    "end": 485,
-                    "start": 416,
-                    "word": "rafiki"
-                  },
-                  {
-                    "end": 576,
-                    "start": 486,
-                    "word": "mkubwa"
-                  },
-                  {
-                    "end": 593,
-                    "start": 577,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 649,
-                    "start": 594,
-                    "word": "Kima"
-                  },
-                  {
-                    "end": 735,
-                    "start": 692,
-                    "word": "mwenye"
-                  },
-                  {
-                    "end": 785,
-                    "start": 736,
-                    "word": "rangi"
-                  },
-                  {
-                    "end": 793,
-                    "start": 786,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 859,
-                    "start": 794,
-                    "word": "kijani"
-                  },
-                  {
-                    "end": 940,
-                    "start": 860,
-                    "word": "kibichi"
-                  }
-                ],
-                "until": 940,
-                "utterances": "Hapo zamani za kale Sungura alikuwa rafiki mkubwa wa Kima mwenye rangi ya kijani kibichi"
-              }
-            ],
-            "sentence": "Hapo zamani za kale, Sungura alikuwa rafiki mkubwa wa Kima mwenye rangi ya kijani kibichi."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_03_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "siku_moja_sungura_alisema_hebu_twende_matembezi_tukatafute_chakula.mp3",
+                "audio": "hapo_zamani_za_kale_palikuwa_na_jimbi_na_sungura.mp3",
                 "from": 19,
-                "segmentation": [
-                  {
-                    "end": 73,
-                    "start": 19,
-                    "word": "Siku"
-                  },
-                  {
-                    "end": 133,
-                    "start": 74,
-                    "word": "moja"
-                  },
-                  {
-                    "end": 217,
-                    "start": 154,
-                    "word": "Sungura"
-                  },
-                  {
-                    "end": 306,
-                    "start": 218,
-                    "word": "alisema"
-                  },
-                  {
-                    "end": 401,
-                    "start": 355,
-                    "word": "Hebu"
-                  },
-                  {
-                    "end": 454,
-                    "start": 402,
-                    "word": "twende"
-                  },
-                  {
-                    "end": 551,
-                    "start": 455,
-                    "word": "matembezi"
-                  },
-                  {
-                    "end": 661,
-                    "start": 552,
-                    "word": "tukatafute"
-                  },
-                  {
-                    "end": 725,
-                    "start": 662,
-                    "word": "chakula"
-                  }
-                ],
-                "until": 725,
-                "utterances": "Siku moja Sungura alisema Hebu twende matembezi tukatafute chakula"
-              }
-            ],
-            "sentence": "Siku moja Sungura alisema: Hebu twende matembezi tukatafute chakula."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "kima_alikubali_lakini_ulikuwa_mtego_kwake.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 67,
-                    "start": 2,
-                    "word": "Kima"
-                  },
-                  {
-                    "end": 190,
-                    "start": 68,
-                    "word": "alikubali"
-                  },
-                  {
-                    "end": 290,
-                    "start": 223,
-                    "word": "lakini"
-                  },
-                  {
-                    "end": 386,
-                    "start": 311,
-                    "word": "ulikuwa"
-                  },
-                  {
-                    "end": 473,
-                    "start": 387,
-                    "word": "mtego"
-                  },
-                  {
-                    "end": 535,
-                    "start": 474,
-                    "word": "kwake"
-                  }
-                ],
-                "until": 535,
-                "utterances": "Kima alikubali lakini ulikuwa mtego kwake"
-              }
-            ],
-            "sentence": "Kima alikubali, lakini ulikuwa mtego kwake!"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_04_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "walienda_katika_shamba_la_mahindi_na_kuanza_kula.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 117,
-                    "start": 21,
-                    "word": "Walienda"
-                  },
-                  {
-                    "end": 189,
-                    "start": 118,
-                    "word": "katika"
-                  },
-                  {
-                    "end": 247,
-                    "start": 190,
-                    "word": "shamba"
-                  },
-                  {
-                    "end": 268,
-                    "start": 248,
-                    "word": "la"
-                  },
-                  {
-                    "end": 355,
-                    "start": 269,
-                    "word": "mahindi"
-                  },
-                  {
-                    "end": 397,
-                    "start": 385,
-                    "word": "na"
-                  },
-                  {
-                    "end": 465,
-                    "start": 398,
-                    "word": "kuanza"
-                  },
-                  {
-                    "end": 518,
-                    "start": 466,
-                    "word": "kula"
-                  }
-                ],
-                "until": 518,
-                "utterances": "Walienda katika shamba la mahindi na kuanza kula"
-              }
-            ],
-            "sentence": "Walienda katika shamba la mahindi na kuanza kula."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_05_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lakini_sungura_mwakili_alikuwa_amezungumza_na_mwenye_shamba_kumshika_kima_ili_kuonyesha_kuwa_alikuwa_7.mp3",
-                "from": 23,
-                "segmentation": [
-                  {
-                    "end": 92,
-                    "start": 23,
-                    "word": "Lakini"
-                  },
-                  {
-                    "end": 165,
-                    "start": 93,
-                    "word": "Sungura"
-                  },
-                  {
-                    "end": 241,
-                    "start": 166,
-                    "word": "mwakili"
-                  },
-                  {
-                    "end": 378,
-                    "start": 304,
-                    "word": "alikuwa"
-                  },
-                  {
-                    "end": 498,
-                    "start": 389,
-                    "word": "amezungumza"
-                  },
-                  {
-                    "end": 520,
-                    "start": 499,
-                    "word": "na"
-                  },
-                  {
-                    "end": 565,
-                    "start": 521,
-                    "word": "mwenye"
-                  },
-                  {
-                    "end": 626,
-                    "start": 566,
-                    "word": "shamba"
-                  },
-                  {
-                    "end": 758,
-                    "start": 676,
-                    "word": "kumshika"
-                  },
-                  {
-                    "end": 819,
-                    "start": 759,
-                    "word": "Kima"
-                  },
-                  {
-                    "end": 882,
-                    "start": 853,
-                    "word": "ili"
-                  },
-                  {
-                    "end": 966,
-                    "start": 883,
-                    "word": "kuonyesha"
-                  },
-                  {
-                    "end": 1028,
-                    "start": 967,
-                    "word": "kuwa"
-                  },
-                  {
-                    "end": 1154,
-                    "start": 1072,
-                    "word": "alikuwa"
-                  },
-                  {
-                    "end": 1231,
-                    "start": 1155,
-                    "word": "mjinga"
-                  }
-                ],
-                "until": 1231,
-                "utterances": "Lakini Sungura mwakili alikuwa amezungumza na mwenye shamba kumshika Kima ili kuonyesha kuwa alikuwa mjinga"
-              }
-            ],
-            "sentence": "Lakini Sungura mwakili alikuwa amezungumza na mwenye shamba, kumshika Kima ili kuonyesha kuwa alikuwa mjinga."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_06_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sungura_mwakili_aianza_kupiga_kelele_wezi.mp3",
-                "from": 48,
-                "segmentation": [
-                  {
-                    "end": 123,
-                    "start": 48,
-                    "word": "Sungura"
-                  },
-                  {
-                    "end": 203,
-                    "start": 124,
-                    "word": "mwakili"
-                  },
-                  {
-                    "end": 299,
-                    "start": 231,
-                    "word": "aianza"
-                  },
-                  {
-                    "end": 359,
-                    "start": 300,
-                    "word": "kupiga"
-                  },
-                  {
-                    "end": 409,
-                    "start": 360,
-                    "word": "kelele"
-                  },
-                  {
-                    "end": 551,
-                    "start": 469,
-                    "word": "Wezi"
-                  }
-                ],
-                "until": 551,
-                "utterances": "Sungura mwakili aianza kupiga kelele Wezi"
-              }
-            ],
-            "sentence": "Sungura mwakili aianza kupiga kelele: Wezi!"
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "mahindi_yako_ameisha_yote.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 109,
-                    "start": 21,
-                    "word": "Mahindi"
-                  },
-                  {
-                    "end": 154,
-                    "start": 110,
-                    "word": "yako"
-                  },
-                  {
-                    "end": 238,
-                    "start": 155,
-                    "word": "ameisha"
-                  },
-                  {
-                    "end": 320,
-                    "start": 239,
-                    "word": "yote"
-                  }
-                ],
-                "until": 320,
-                "utterances": "Mahindi yako ameisha yote"
-              }
-            ],
-            "sentence": "Mahindi yako ameisha yote!"
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "kisha_akaruka_akatoroka_na_kwenda_zake.mp3",
-                "from": 2,
                 "segmentation": [
                   {
                     "end": 62,
-                    "start": 2,
-                    "word": "Kisha"
+                    "start": 19,
+                    "word": "Hapo"
                   },
                   {
-                    "end": 170,
-                    "start": 76,
-                    "word": "akaruka"
+                    "end": 118,
+                    "start": 63,
+                    "word": "zamani"
                   },
                   {
-                    "end": 346,
-                    "start": 230,
-                    "word": "akatoroka"
+                    "end": 139,
+                    "start": 119,
+                    "word": "za"
                   },
                   {
-                    "end": 385,
-                    "start": 373,
+                    "end": 188,
+                    "start": 140,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 314,
+                    "start": 246,
+                    "word": "palikuwa"
+                  },
+                  {
+                    "end": 337,
+                    "start": 315,
                     "word": "na"
                   },
                   {
-                    "end": 429,
-                    "start": 386,
-                    "word": "kwenda"
+                    "end": 394,
+                    "start": 338,
+                    "word": "Jimbi"
                   },
                   {
-                    "end": 478,
-                    "start": 430,
-                    "word": "zake"
-                  }
-                ],
-                "until": 478,
-                "utterances": "Kisha akaruka akatoroka na kwenda zake"
-              }
-            ],
-            "sentence": "Kisha akaruka, akatoroka na kwenda zake."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_07_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ghafla_wenyewe_walifika_na_kumpata_kima_akijaribu_kutoroka.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 94,
-                    "start": 21,
-                    "word": "Ghafla"
-                  },
-                  {
-                    "end": 192,
-                    "start": 133,
-                    "word": "wenyewe"
-                  },
-                  {
-                    "end": 275,
-                    "start": 193,
-                    "word": "walifika"
-                  },
-                  {
-                    "end": 296,
-                    "start": 276,
+                    "end": 426,
+                    "start": 414,
                     "word": "na"
                   },
                   {
-                    "end": 372,
-                    "start": 297,
-                    "word": "kumpata"
-                  },
-                  {
-                    "end": 424,
-                    "start": 373,
-                    "word": "Kima"
-                  },
-                  {
-                    "end": 527,
-                    "start": 436,
-                    "word": "akijaribu"
-                  },
-                  {
-                    "end": 619,
-                    "start": 528,
-                    "word": "kutoroka"
+                    "end": 492,
+                    "start": 427,
+                    "word": "Sungura"
                   }
                 ],
-                "until": 619,
-                "utterances": "Ghafla wenyewe walifika na kumpata Kima akijaribu kutoroka"
+                "until": 492,
+                "utterances": "Hapo zamani za kale palikuwa na Jimbi na Sungura"
               }
             ],
-            "sentence": "Ghafla, wenyewe walifika na kumpata Kima akijaribu kutoroka."
+            "sentence": "Hapo zamani za kale, palikuwa na Jimbi na Sungura."
           }
         ],
         [
           {
             "narration": [
               {
-                "audio": "kwa_vile_ana_mkia_mrefu_ulimzuia_kwenda_kwa_kasi.mp3",
-                "from": 2,
+                "audio": "walikuwa_marafiki_wakubwa.mp3",
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": 36,
-                    "start": 2,
-                    "word": "Kwa"
+                    "end": 102,
+                    "start": 20,
+                    "word": "Walikuwa"
                   },
                   {
-                    "end": 94,
-                    "start": 37,
-                    "word": "vile"
+                    "end": 193,
+                    "start": 103,
+                    "word": "marafiki"
                   },
                   {
-                    "end": 129,
-                    "start": 95,
-                    "word": "ana"
+                    "end": 280,
+                    "start": 194,
+                    "word": "wakubwa"
+                  }
+                ],
+                "until": 280,
+                "utterances": "Walikuwa marafiki wakubwa"
+              }
+            ],
+            "sentence": "Walikuwa marafiki wakubwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_3_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "usiku_mmoja_sungura_alimtembelea_jimbi_na_familia_yake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "Usiku"
                   },
                   {
-                    "end": 187,
-                    "start": 130,
-                    "word": "mkia"
+                    "end": 151,
+                    "start": 77,
+                    "word": "mmoja"
                   },
                   {
                     "end": 263,
-                    "start": 188,
-                    "word": "mrefu"
+                    "start": 181,
+                    "word": "Sungura"
                   },
                   {
-                    "end": 435,
-                    "start": 326,
-                    "word": "ulimzuia"
+                    "end": 393,
+                    "start": 264,
+                    "word": "alimtembelea"
                   },
                   {
-                    "end": 484,
-                    "start": 436,
-                    "word": "kwenda"
+                    "end": 448,
+                    "start": 394,
+                    "word": "Jimbi"
                   },
                   {
-                    "end": 528,
-                    "start": 485,
-                    "word": "kwa"
+                    "end": 513,
+                    "start": 498,
+                    "word": "na"
                   },
                   {
-                    "end": 591,
-                    "start": 529,
-                    "word": "kasi"
+                    "end": 605,
+                    "start": 514,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 636,
+                    "start": 606,
+                    "word": "yake"
                   }
                 ],
-                "until": 591,
-                "utterances": "Kwa vile ana mkia mrefu ulimzuia kwenda kwa kasi"
+                "until": 636,
+                "utterances": "Usiku mmoja Sungura alimtembelea Jimbi na familia yake"
               }
             ],
-            "sentence": "Kwa vile ana mkia mrefu, ulimzuia kwenda kwa kasi."
+            "sentence": "Usiku mmoja, Sungura alimtembelea Jimbi na familia yake."
           }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_08_image_0001.jpg",
-      "text": [
+        ],
         [
           {
             "narration": [
               {
-                "audio": "wenyewe_walimfuata_wakipiga_kelele_simama.mp3",
+                "audio": "walifurahia_chakula_cha_jioni_pamoja.mp3",
                 "from": 21,
                 "segmentation": [
                   {
-                    "end": 90,
+                    "end": 153,
                     "start": 21,
-                    "word": "Wenyewe"
+                    "word": "Walifurahia"
                   },
                   {
-                    "end": 208,
-                    "start": 91,
-                    "word": "walimfuata"
-                  },
-                  {
-                    "end": 295,
-                    "start": 209,
-                    "word": "wakipiga"
-                  },
-                  {
-                    "end": 346,
-                    "start": 296,
-                    "word": "kelele"
-                  },
-                  {
-                    "end": 487,
-                    "start": 392,
-                    "word": "Simama"
-                  }
-                ],
-                "until": 487,
-                "utterances": "Wenyewe walimfuata wakipiga kelele Simama"
-              }
-            ],
-            "sentence": "Wenyewe walimfuata wakipiga kelele: Simama!"
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "tulikuona_wewe_ni_yule_kima.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 146,
-                    "start": 20,
-                    "word": "Tulikuona"
-                  },
-                  {
-                    "end": 198,
-                    "start": 163,
-                    "word": "wewe"
-                  },
-                  {
-                    "end": 227,
-                    "start": 199,
-                    "word": "ni"
-                  },
-                  {
-                    "end": 258,
-                    "start": 228,
-                    "word": "yule"
-                  },
-                  {
-                    "end": 315,
-                    "start": 259,
-                    "word": "Kima"
-                  }
-                ],
-                "until": 315,
-                "utterances": "Tulikuona wewe ni yule Kima"
-              }
-            ],
-            "sentence": "Tulikuona, wewe ni yule Kima."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_09_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "walimshika_na_kuanza_kumpiga.mp3",
-                "from": 19,
-                "segmentation": [
-                  {
-                    "end": 148,
-                    "start": 19,
-                    "word": "Walimshika"
-                  },
-                  {
-                    "end": 168,
-                    "start": 156,
-                    "word": "na"
-                  },
-                  {
-                    "end": 229,
-                    "start": 169,
-                    "word": "kuanza"
-                  },
-                  {
-                    "end": 335,
-                    "start": 230,
-                    "word": "kumpiga"
-                  }
-                ],
-                "until": 335,
-                "utterances": "Walimshika na kuanza kumpiga"
-              }
-            ],
-            "sentence": "Walimshika na kuanza kumpiga."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_10_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "hakustahimili_uchungu_hivyo_alisema_nilikuwa_na_rafiki_yangu_sungura.mp3",
-                "from": 19,
-                "segmentation": [
-                  {
-                    "end": 180,
-                    "start": 19,
-                    "word": "Hakustahimili"
-                  },
-                  {
-                    "end": 301,
-                    "start": 181,
-                    "word": "uchungu"
-                  },
-                  {
-                    "end": 342,
-                    "start": 302,
-                    "word": "hivyo"
-                  },
-                  {
-                    "end": 435,
-                    "start": 343,
-                    "word": "alisema"
-                  },
-                  {
-                    "end": 575,
-                    "start": 496,
-                    "word": "Nilikuwa"
-                  },
-                  {
-                    "end": 599,
-                    "start": 576,
-                    "word": "na"
-                  },
-                  {
-                    "end": 674,
-                    "start": 600,
-                    "word": "rafiki"
-                  },
-                  {
-                    "end": 711,
-                    "start": 675,
-                    "word": "yangu"
-                  },
-                  {
-                    "end": 794,
-                    "start": 712,
-                    "word": "Sungura"
-                  }
-                ],
-                "until": 794,
-                "utterances": "Hakustahimili uchungu hivyo alisema Nilikuwa na rafiki yangu Sungura"
-              }
-            ],
-            "sentence": "Hakustahimili uchungu hivyo alisema: Nilikuwa na rafiki yangu Sungura."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "ni_yeye_aliyenialika.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 47,
-                    "start": 20,
-                    "word": "Ni"
-                  },
-                  {
-                    "end": 88,
-                    "start": 48,
-                    "word": "yeye"
-                  },
-                  {
-                    "end": 249,
-                    "start": 99,
-                    "word": "aliyenialika"
-                  }
-                ],
-                "until": 249,
-                "utterances": "Ni yeye aliyenialika"
-              }
-            ],
-            "sentence": "Ni yeye aliyenialika."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_11_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "hata_hivyo_wenyewe_waliukata_mkia_wake_na_kumwambia_nenda_kamwambie_rafiki_yako_kuwa_tuliukata_mkia__4.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 63,
-                    "start": 20,
-                    "word": "Hata"
-                  },
-                  {
-                    "end": 144,
-                    "start": 64,
-                    "word": "hivyo"
-                  },
-                  {
-                    "end": 254,
-                    "start": 186,
-                    "word": "wenyewe"
-                  },
-                  {
-                    "end": 373,
-                    "start": 255,
-                    "word": "waliukata"
-                  },
-                  {
-                    "end": 438,
-                    "start": 374,
-                    "word": "mkia"
-                  },
-                  {
-                    "end": 515,
-                    "start": 439,
-                    "word": "wake"
-                  },
-                  {
-                    "end": 565,
-                    "start": 554,
-                    "word": "na"
-                  },
-                  {
-                    "end": 666,
-                    "start": 566,
-                    "word": "kumwambia"
-                  },
-                  {
-                    "end": 806,
-                    "start": 745,
-                    "word": "Nenda"
-                  },
-                  {
-                    "end": 896,
-                    "start": 807,
-                    "word": "kamwambie"
-                  },
-                  {
-                    "end": 957,
-                    "start": 897,
-                    "word": "rafiki"
-                  },
-                  {
-                    "end": 993,
-                    "start": 958,
-                    "word": "yako"
-                  },
-                  {
-                    "end": 1042,
-                    "start": 1013,
-                    "word": "kuwa"
-                  },
-                  {
-                    "end": 1162,
-                    "start": 1043,
-                    "word": "tuliukata"
-                  },
-                  {
-                    "end": 1215,
-                    "start": 1163,
-                    "word": "mkia"
-                  },
-                  {
-                    "end": 1268,
-                    "start": 1216,
-                    "word": "wako"
-                  }
-                ],
-                "until": 1268,
-                "utterances": "Hata hivyo wenyewe waliukata mkia wake na kumwambia Nenda kamwambie rafiki yako kuwa tuliukata mkia wako"
-              }
-            ],
-            "sentence": "Hata hivyo, wenyewe waliukata mkia wake na kumwambia: Nenda kamwambie rafiki yako kuwa tuliukata mkia wako!"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level3_8_page_12_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "walipoondoka_sungura_alinyemelea_na_kuuchukuwa_mkia_wa_kima_na_kuupika.mp3",
-                "from": 19,
-                "segmentation": [
-                  {
-                    "end": 172,
-                    "start": 19,
-                    "word": "Walipoondoka"
-                  },
-                  {
-                    "end": 266,
-                    "start": 205,
-                    "word": "Sungura"
-                  },
-                  {
-                    "end": 430,
-                    "start": 280,
-                    "word": "alinyemelea"
-                  },
-                  {
-                    "end": 486,
-                    "start": 471,
-                    "word": "na"
-                  },
-                  {
-                    "end": 591,
-                    "start": 487,
-                    "word": "kuuchukuwa"
-                  },
-                  {
-                    "end": 650,
-                    "start": 592,
-                    "word": "mkia"
-                  },
-                  {
-                    "end": 667,
-                    "start": 651,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 727,
-                    "start": 668,
-                    "word": "Kima"
-                  },
-                  {
-                    "end": 776,
-                    "start": 763,
-                    "word": "na"
-                  },
-                  {
-                    "end": 866,
-                    "start": 777,
-                    "word": "kuupika"
-                  }
-                ],
-                "until": 866,
-                "utterances": "Walipoondoka Sungura alinyemelea na kuuchukuwa mkia wa Kima na kuupika"
-              }
-            ],
-            "sentence": "Walipoondoka, Sungura alinyemelea na kuuchukuwa mkia wa Kima na kuupika."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "kisha_sungura_akamualika_kima_kwa_chakula_cha_mchana.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 64,
-                    "start": 2,
-                    "word": "Kisha"
-                  },
-                  {
-                    "end": 132,
-                    "start": 65,
-                    "word": "Sungura"
-                  },
-                  {
-                    "end": 260,
-                    "start": 145,
-                    "word": "akamualika"
-                  },
-                  {
-                    "end": 321,
-                    "start": 261,
-                    "word": "kima"
-                  },
-                  {
-                    "end": 374,
-                    "start": 322,
-                    "word": "kwa"
-                  },
-                  {
-                    "end": 434,
-                    "start": 375,
+                    "end": 228,
+                    "start": 154,
                     "word": "chakula"
                   },
                   {
-                    "end": 459,
-                    "start": 435,
+                    "end": 251,
+                    "start": 229,
                     "word": "cha"
                   },
                   {
-                    "end": 527,
-                    "start": 460,
-                    "word": "mchana"
+                    "end": 315,
+                    "start": 252,
+                    "word": "jioni"
+                  },
+                  {
+                    "end": 393,
+                    "start": 316,
+                    "word": "pamoja"
                   }
                 ],
-                "until": 527,
-                "utterances": "Kisha Sungura akamualika kima kwa chakula cha mchana"
+                "until": 393,
+                "utterances": "Walifurahia chakula cha jioni pamoja"
               }
             ],
-            "sentence": "Kisha Sungura akamualika kima kwa chakula cha mchana."
+            "sentence": "Walifurahia chakula cha jioni pamoja."
           }
         ]
       ]
     },
     {
-      "image": "level3_8_page_13_image_0001.jpg",
+      "image": "level3_3_page_04_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "mwisho_wa_mlo_sungura_alimwuliza_kima_ikiwa_alijua_alichokula.mp3",
-                "from": 21,
+                "audio": "wakati_wa_kwenda_kulala_ulifika.mp3",
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": 68,
-                    "start": 21,
-                    "word": "Mwisho"
+                    "end": 80,
+                    "start": 20,
+                    "word": "Wakati"
                   },
                   {
-                    "end": 90,
-                    "start": 69,
+                    "end": 98,
+                    "start": 81,
                     "word": "wa"
                   },
                   {
-                    "end": 153,
-                    "start": 91,
-                    "word": "mlo"
+                    "end": 143,
+                    "start": 99,
+                    "word": "kwenda"
                   },
                   {
-                    "end": 243,
-                    "start": 177,
-                    "word": "Sungura"
+                    "end": 219,
+                    "start": 144,
+                    "word": "kulala"
                   },
                   {
-                    "end": 355,
-                    "start": 244,
-                    "word": "alimwuliza"
-                  },
-                  {
-                    "end": 415,
-                    "start": 356,
-                    "word": "Kima"
-                  },
-                  {
-                    "end": 512,
-                    "start": 452,
-                    "word": "ikiwa"
-                  },
-                  {
-                    "end": 596,
-                    "start": 513,
-                    "word": "alijua"
-                  },
-                  {
-                    "end": 709,
-                    "start": 597,
-                    "word": "alichokula"
+                    "end": 340,
+                    "start": 260,
+                    "word": "ulifika"
                   }
                 ],
-                "until": 709,
-                "utterances": "Mwisho wa mlo Sungura alimwuliza Kima ikiwa alijua alichokula"
+                "until": 340,
+                "utterances": "Wakati wa kwenda kulala ulifika"
               }
             ],
-            "sentence": "Mwisho wa mlo Sungura alimwuliza Kima ikiwa alijua alichokula."
+            "sentence": "Wakati wa kwenda kulala ulifika."
           }
         ],
         [
           {
             "narration": [
               {
-                "audio": "kima_mjinga_alijibu_la_sijui.mp3",
-                "from": 2,
+                "audio": "sungura_aliona_kwamba_jimbi_na_familia_yake_walipolala_vichwa_vyao_vilifichwa.mp3",
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": 59,
-                    "start": 2,
-                    "word": "Kima"
+                    "end": 106,
+                    "start": 21,
+                    "word": "Sungura"
                   },
                   {
-                    "end": 129,
-                    "start": 60,
-                    "word": "mjinga"
+                    "end": 200,
+                    "start": 119,
+                    "word": "aliona"
                   },
                   {
-                    "end": 217,
-                    "start": 130,
-                    "word": "alijibu"
+                    "end": 261,
+                    "start": 201,
+                    "word": "kwamba"
                   },
                   {
-                    "end": 305,
-                    "start": 263,
-                    "word": "La"
+                    "end": 358,
+                    "start": 309,
+                    "word": "Jimbi"
                   },
                   {
-                    "end": 402,
-                    "start": 319,
-                    "word": "sijui"
+                    "end": 430,
+                    "start": 418,
+                    "word": "na"
+                  },
+                  {
+                    "end": 519,
+                    "start": 431,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 543,
+                    "start": 520,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 651,
+                    "start": 544,
+                    "word": "walipolala"
+                  },
+                  {
+                    "end": 759,
+                    "start": 707,
+                    "word": "vichwa"
+                  },
+                  {
+                    "end": 824,
+                    "start": 760,
+                    "word": "vyao"
+                  },
+                  {
+                    "end": 971,
+                    "start": 874,
+                    "word": "vilifichwa"
                   }
                 ],
-                "until": 402,
-                "utterances": "Kima mjinga alijibu La sijui"
+                "until": 971,
+                "utterances": "Sungura aliona kwamba Jimbi na familia yake walipolala vichwa vyao vilifichwa"
               }
             ],
-            "sentence": "Kima mjinga alijibu: La, sijui!"
+            "sentence": "Sungura aliona kwamba Jimbi na familia yake walipolala, vichwa vyao vilifichwa."
           }
         ]
       ]
     },
     {
-      "image": "level3_8_page_14_image_0001.jpg",
+      "image": "level3_3_page_05_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sungura_alimwambia_kuwa_alikuwa_amekula_mkia_wake_mwenyewe_kisha_akatoroka.mp3",
+                "audio": "sungura_aliona_kwamba_jimbi_na_familia_yake_walilala_fofofo.mp3",
                 "from": 20,
                 "segmentation": [
                   {
-                    "end": 92,
+                    "end": 93,
                     "start": 20,
                     "word": "Sungura"
                   },
                   {
-                    "end": 213,
-                    "start": 104,
-                    "word": "alimwambia"
+                    "end": 178,
+                    "start": 106,
+                    "word": "aliona"
                   },
                   {
-                    "end": 274,
-                    "start": 214,
-                    "word": "kuwa"
+                    "end": 233,
+                    "start": 179,
+                    "word": "kwamba"
                   },
                   {
-                    "end": 398,
-                    "start": 313,
-                    "word": "alikuwa"
+                    "end": 301,
+                    "start": 234,
+                    "word": "Jimbi"
                   },
                   {
-                    "end": 493,
-                    "start": 409,
-                    "word": "amekula"
+                    "end": 357,
+                    "start": 346,
+                    "word": "na"
                   },
                   {
-                    "end": 552,
-                    "start": 494,
-                    "word": "mkia"
+                    "end": 421,
+                    "start": 358,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 479,
+                    "start": 422,
+                    "word": "yake"
                   },
                   {
                     "end": 604,
-                    "start": 553,
-                    "word": "wake"
+                    "start": 518,
+                    "word": "walilala"
                   },
                   {
-                    "end": 682,
+                    "end": 741,
                     "start": 605,
-                    "word": "mwenyewe"
-                  },
-                  {
-                    "end": 768,
-                    "start": 726,
-                    "word": "kisha"
-                  },
-                  {
-                    "end": 886,
-                    "start": 769,
-                    "word": "akatoroka"
+                    "word": "fofofo"
                   }
                 ],
-                "until": 886,
-                "utterances": "Sungura alimwambia kuwa alikuwa amekula mkia wake mwenyewe kisha akatoroka"
+                "until": 741,
+                "utterances": "Sungura aliona kwamba Jimbi na familia yake walilala fofofo"
               }
             ],
-            "sentence": "Sungura alimwambia kuwa alikuwa amekula mkia wake mwenyewe kisha akatoroka."
+            "sentence": "Sungura aliona kwamba Jimbi na familia yake walilala fofofo."
           }
         ],
         [
           {
             "narration": [
               {
-                "audio": "kutoka_siku_hiyo_walikuwa_maadui.mp3",
+                "audio": "yeye_hakuweza_kulala_usiku_kucha.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 20,
+                    "word": "Yeye"
+                  },
+                  {
+                    "end": 178,
+                    "start": 79,
+                    "word": "hakuweza"
+                  },
+                  {
+                    "end": 258,
+                    "start": 179,
+                    "word": "kulala"
+                  },
+                  {
+                    "end": 335,
+                    "start": 259,
+                    "word": "usiku"
+                  },
+                  {
+                    "end": 390,
+                    "start": 336,
+                    "word": "kucha"
+                  }
+                ],
+                "until": 390,
+                "utterances": "Yeye hakuweza kulala usiku kucha"
+              }
+            ],
+            "sentence": "Yeye hakuweza kulala usiku kucha."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_3_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "asubuhi_sungura_alitaka_kujua_siri_ya_jimbi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 21,
+                    "word": "Asubuhi"
+                  },
+                  {
+                    "end": 169,
+                    "start": 106,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 254,
+                    "start": 170,
+                    "word": "alitaka"
+                  },
+                  {
+                    "end": 320,
+                    "start": 255,
+                    "word": "kujua"
+                  },
+                  {
+                    "end": 386,
+                    "start": 321,
+                    "word": "siri"
+                  },
+                  {
+                    "end": 395,
+                    "start": 387,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 452,
+                    "start": 396,
+                    "word": "Jimbi"
+                  }
+                ],
+                "until": 452,
+                "utterances": "Asubuhi Sungura alitaka kujua siri ya Jimbi"
+              }
+            ],
+            "sentence": "Asubuhi Sungura alitaka kujua siri ya Jimbi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ninyi_huweka_wapi_vichwa_vyenu_usiku.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 20,
+                    "word": "Ninyi"
+                  },
+                  {
+                    "end": 151,
+                    "start": 82,
+                    "word": "huweka"
+                  },
+                  {
+                    "end": 201,
+                    "start": 152,
+                    "word": "wapi"
+                  },
+                  {
+                    "end": 246,
+                    "start": 202,
+                    "word": "vichwa"
+                  },
+                  {
+                    "end": 302,
+                    "start": 247,
+                    "word": "vyenu"
+                  },
+                  {
+                    "end": 401,
+                    "start": 316,
+                    "word": "usiku"
+                  }
+                ],
+                "until": 401,
+                "utterances": "Ninyi huweka wapi vichwa vyenu usiku"
+              }
+            ],
+            "sentence": "\"Ninyi huweka wapi vichwa vyenu usiku?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_3_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jimbi_aliamua_kumchezea_shere_sungura.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 18,
+                    "word": "Jimbi"
+                  },
+                  {
+                    "end": 219,
+                    "start": 123,
+                    "word": "aliamua"
+                  },
+                  {
+                    "end": 327,
+                    "start": 220,
+                    "word": "kumchezea"
+                  },
+                  {
+                    "end": 387,
+                    "start": 328,
+                    "word": "shere"
+                  },
+                  {
+                    "end": 474,
+                    "start": 388,
+                    "word": "Sungura"
+                  }
+                ],
+                "until": 474,
+                "utterances": "Jimbi aliamua kumchezea shere Sungura"
+              }
+            ],
+            "sentence": "Jimbi aliamua kumchezea shere Sungura."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alisema_rafiki_yangu_sisi_ndege_tuna_siri_ya_kulala.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 22,
+                    "word": "Alisema"
+                  },
+                  {
+                    "end": 207,
+                    "start": 150,
+                    "word": "Rafiki"
+                  },
+                  {
+                    "end": 253,
+                    "start": 208,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 356,
+                    "start": 300,
+                    "word": "sisi"
+                  },
+                  {
+                    "end": 422,
+                    "start": 357,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 520,
+                    "start": 484,
+                    "word": "tuna"
+                  },
+                  {
+                    "end": 577,
+                    "start": 521,
+                    "word": "siri"
+                  },
+                  {
+                    "end": 585,
+                    "start": 578,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 656,
+                    "start": 586,
+                    "word": "kulala"
+                  }
+                ],
+                "until": 656,
+                "utterances": "Alisema Rafiki yangu sisi ndege tuna siri ya kulala"
+              }
+            ],
+            "sentence": "Alisema, \"Rafiki yangu, sisi ndege tuna siri ya kulala."
+          },
+          {
+            "narration": [
+              {
+                "audio": "wakati_wa_kulala_sisi_hukata_vichwa_vyetu.mp3",
                 "from": 2,
                 "segmentation": [
                   {
                     "end": 65,
                     "start": 2,
-                    "word": "Kutoka"
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 83,
+                    "start": 66,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 158,
+                    "start": 84,
+                    "word": "kulala"
+                  },
+                  {
+                    "end": 263,
+                    "start": 207,
+                    "word": "sisi"
+                  },
+                  {
+                    "end": 342,
+                    "start": 264,
+                    "word": "hukata"
+                  },
+                  {
+                    "end": 385,
+                    "start": 343,
+                    "word": "vichwa"
+                  },
+                  {
+                    "end": 425,
+                    "start": 386,
+                    "word": "vyetu"
+                  }
+                ],
+                "until": 425,
+                "utterances": "Wakati wa kulala sisi hukata vichwa vyetu"
+              }
+            ],
+            "sentence": "Wakati wa kulala, sisi hukata vichwa vyetu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "bila_vichwa_sisi_hulala_vyema_kabisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 2,
+                    "word": "Bila"
                   },
                   {
                     "end": 115,
-                    "start": 66,
-                    "word": "siku"
+                    "start": 50,
+                    "word": "vichwa"
                   },
                   {
-                    "end": 178,
-                    "start": 116,
-                    "word": "hiyo"
+                    "end": 202,
+                    "start": 153,
+                    "word": "sisi"
                   },
                   {
-                    "end": 285,
-                    "start": 214,
-                    "word": "walikuwa"
+                    "end": 269,
+                    "start": 203,
+                    "word": "hulala"
                   },
                   {
-                    "end": 369,
-                    "start": 286,
-                    "word": "maadui"
+                    "end": 371,
+                    "start": 270,
+                    "word": "vyema"
+                  },
+                  {
+                    "end": 446,
+                    "start": 372,
+                    "word": "kabisa"
                   }
                 ],
-                "until": 369,
-                "utterances": "Kutoka siku hiyo walikuwa maadui"
+                "until": 446,
+                "utterances": "Bila vichwa sisi hulala vyema kabisa"
               }
             ],
-            "sentence": "Kutoka siku hiyo, walikuwa maadui!"
+            "sentence": "Bila vichwa, sisi hulala vyema kabisa.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_3_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisha_asubuhi_sisi_huvirejesha_vichwa_vyetu_mwilini_jimbi_alieleza.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 21,
+                    "word": "Kisha"
+                  },
+                  {
+                    "end": 181,
+                    "start": 68,
+                    "word": "asubuhi"
+                  },
+                  {
+                    "end": 260,
+                    "start": 209,
+                    "word": "sisi"
+                  },
+                  {
+                    "end": 375,
+                    "start": 261,
+                    "word": "huvirejesha"
+                  },
+                  {
+                    "end": 429,
+                    "start": 376,
+                    "word": "vichwa"
+                  },
+                  {
+                    "end": 486,
+                    "start": 430,
+                    "word": "vyetu"
+                  },
+                  {
+                    "end": 562,
+                    "start": 487,
+                    "word": "mwilini"
+                  },
+                  {
+                    "end": 648,
+                    "start": 615,
+                    "word": "Jimbi"
+                  },
+                  {
+                    "end": 763,
+                    "start": 666,
+                    "word": "alieleza"
+                  }
+                ],
+                "until": 763,
+                "utterances": "Kisha asubuhi sisi huvirejesha vichwa vyetu mwilini Jimbi alieleza"
+              }
+            ],
+            "sentence": "\"Kisha asubuhi, sisi huvirejesha vichwa vyetu mwilini,\" Jimbi alieleza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_3_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sungura_alikwenda_nyumbani_na_kuiambia_familia_yake_siri_ya_kuku.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 21,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 205,
+                    "start": 106,
+                    "word": "alikwenda"
+                  },
+                  {
+                    "end": 301,
+                    "start": 206,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 356,
+                    "start": 343,
+                    "word": "na"
+                  },
+                  {
+                    "end": 483,
+                    "start": 357,
+                    "word": "kuiambia"
+                  },
+                  {
+                    "end": 580,
+                    "start": 484,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 613,
+                    "start": 581,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 708,
+                    "start": 653,
+                    "word": "siri"
+                  },
+                  {
+                    "end": 722,
+                    "start": 709,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 784,
+                    "start": 723,
+                    "word": "kuku"
+                  }
+                ],
+                "until": 784,
+                "utterances": "Sungura alikwenda nyumbani na kuiambia familia yake siri ya kuku"
+              }
+            ],
+            "sentence": "Sungura alikwenda nyumbani na kuiambia familia yake siri ya kuku."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "familia_ya_sungura_iliamua_kujaribu_wao_wenyewe.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 2,
+                    "word": "Familia"
+                  },
+                  {
+                    "end": 125,
+                    "start": 101,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 201,
+                    "start": 126,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 302,
+                    "start": 202,
+                    "word": "iliamua"
+                  },
+                  {
+                    "end": 451,
+                    "start": 345,
+                    "word": "kujaribu"
+                  },
+                  {
+                    "end": 483,
+                    "start": 452,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 562,
+                    "start": 484,
+                    "word": "wenyewe"
+                  }
+                ],
+                "until": 562,
+                "utterances": "Familia ya Sungura iliamua kujaribu wao wenyewe"
+              }
+            ],
+            "sentence": "Familia ya Sungura iliamua kujaribu wao wenyewe!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "unafikiri_nini_kilichotokea.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 123,
+                    "start": 21,
+                    "word": "Unafikiri"
+                  },
+                  {
+                    "end": 167,
+                    "start": 124,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 322,
+                    "start": 168,
+                    "word": "kilichotokea"
+                  }
+                ],
+                "until": 322,
+                "utterances": "Unafikiri nini kilichotokea"
+              }
+            ],
+            "sentence": "Unafikiri nini kilichotokea?"
           }
         ]
       ]
     }
   ],
-  "illustrators": "Horacio Jose Cossa",
+  "illustrators": "Duane Arthur",
   "language": "Kiswahili",
   "level": "3",
-  "license": "CC-BY Version 3.0 Unported Licence",
-  "status": "Translated by: Brigid Simiyu",
-  "title": "Kima kijani kibichi ala mkia wake",
-  "titleimage": "level3_8_page_01_image_0001.jpg"
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "status": "Translated by: Ursula Nafula",
+  "title": "Jimbi na Sungura",
+  "titleimage": "level3_3_page_01_image_0001.jpg"
 }

@@ -1,297 +1,191 @@
 {
-  "level": "2", 
+  "level": "1", 
   "questions": [
     {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Katika kijiji chetu panaishi Bwana Kiio.", 
-      "stem": "Katika kijiji chetu panaishi Bwana", 
-      "target": "Kiio"
-    }, 
-    {
       "distractor": {
         "nonsensical": null, 
         "plausible": null, 
         "ungrammatical": [
-          "moyo", 
-          "ila", 
-          "jogoo"
+          "taja", 
+          "ambazo", 
+          "kisia"
         ], 
         "ungrammatical_english": [
-          "center", 
-          "disgrace", 
-          "cock"
+          "cite", 
+          "that", 
+          "estimate"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Bwana Kiio ana paka wa madoa meusi na meupe kwa jina Safi.", 
-      "stem": "Bwana Kiio ana paka wa madoa meusi na meupe kwa jina", 
-      "target": "Safi"
+      "sentence": "Jina langu ni Simo.", 
+      "stem": "Jina langu ni", 
+      "target": "Simo"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nina marifiki wanne.", 
+      "stem": "Nina marifiki", 
+      "target": "wanne"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Majina yao ni Zizo, Lele, Sisa na Ayanda.", 
+      "stem": "Majina yao ni Zizo, Lele, Sisa na", 
+      "target": "Ayanda"
     }, 
     {
       "distractor": {
         "nonsensical": [
-          "vyema", 
-          "muhimu", 
-          "kule"
+          "simu", 
+          "baridi", 
+          "gari"
         ], 
         "nonsensical_english": [
-          "good", 
-          "particularly", 
+          "telegraph", 
+          "cold", 
+          "locomotive"
+        ], 
+        "plausible": [
+          "mkono", 
+          "simu", 
+          "baridi"
+        ], 
+        "plausible_english": [
+          "branch", 
+          "phone", 
+          "mildness"
+        ], 
+        "ungrammatical": [
+          "punde", 
+          "wetu", 
+          "kabisa"
+        ], 
+        "ungrammatical_english": [
+          "little", 
+          "ours", 
+          "quite"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Rafiki yangu Zizo, anapenda kucheza mpira.", 
+      "stem": "Rafiki yangu Zizo, anapenda kucheza", 
+      "target": "mpira"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Rafiki yangu Lele, anapenda kuogelea.", 
+      "stem": "Rafiki yangu Lele, anapenda", 
+      "target": "kuogelea"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "\".", 
+      "sentence": "Rafiki yangu Sisa, anapenda kucheza \"mchezo wa kujificha\".", 
+      "stem": "Rafiki yangu Sisa, anapenda kucheza \"mchezo wa", 
+      "target": "kujificha"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Rafiki yangu Ayanda, anapenda kusoma.", 
+      "stem": "Rafiki yangu Ayanda, anapenda", 
+      "target": "kusoma"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Napenda kufanya vitu vyote wanavyopenda kufanya.", 
+      "stem": "Napenda kufanya vitu vyote wanavyopenda", 
+      "target": "kufanya"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nacheza mpira na Zizo.", 
+      "stem": "Nacheza mpira na", 
+      "target": "Zizo"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Naogelea kwenye bwawa na Lele.", 
+      "stem": "Naogelea kwenye bwawa na", 
+      "target": "Lele"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nacheza mchezo wa kujificha na Sisa.", 
+      "stem": "Nacheza mchezo wa kujificha na", 
+      "target": "Sisa"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Wewe pia njoo.", 
+      "stem": "Wewe pia", 
+      "target": "njoo"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mrembo", 
+          "bibi", 
+          "mahali"
+        ], 
+        "nonsensical_english": [
+          "dandy", 
+          "lady", 
+          "situation"
+        ], 
+        "plausible": [
+          "mzee", 
+          "mrembo", 
+          "mahali"
+        ], 
+        "plausible_english": [
+          "ancestor", 
+          "decoration", 
           "place"
         ], 
-        "plausible": [
-          "vyema", 
-          "vizuri", 
-          "kuu"
-        ], 
-        "plausible_english": [
-          "fine", 
-          "good", 
-          "elder"
-        ], 
         "ungrammatical": [
-          "haya", 
-          "kina", 
-          "pa"
+          "wao", 
+          "hapo", 
+          "karibu"
         ], 
         "ungrammatical_english": [
-          "shame", 
-          "syllable", 
-          "give"
+          "their", 
+          "there", 
+          "come"
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "Bwana Kiio anapoenda kazini, anaacha mlango wazi.", 
-      "stem": "Bwana Kiio anapoenda kazini, anaacha mlango", 
-      "target": "wazi"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Safi anakaa katikati ya mlango na kuilinda nyumba ya Bwana Kiio.", 
-      "stem": "Safi anakaa katikati ya mlango na kuilinda nyumba ya Bwana", 
-      "target": "Kiio"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "huyo", 
-          "huo", 
-          "yao"
-        ], 
-        "nonsensical_english": [
-          "that", 
-          "that", 
-          "theirs"
-        ], 
-        "plausible": [
-          "pale", 
-          "huyo", 
-          "huo"
-        ], 
-        "plausible_english": [
-          "that", 
-          "this", 
-          "that"
-        ], 
-        "ungrammatical": [
-          "mamake", 
-          "mke", 
-          "kitu"
-        ], 
-        "ungrammatical_english": [
-          "mother", 
-          "woman", 
-          "matter"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Mbwa wa jirani akikaribia, Safi anamkodolea macho na kumunyooshea kucha zake.", 
-      "stem": "Mbwa wa jirani akikaribia, Safi anamkodolea macho na kumunyooshea kucha", 
-      "target": "zake"
+      "sentence": "Wewe pia ni rafiki.", 
+      "stem": "Wewe pia ni", 
+      "target": "rafiki"
     }, 
     {
       "distractor": {
         "nonsensical": null, 
         "plausible": null, 
         "ungrammatical": [
-          "kuhusu", 
-          "macho", 
-          "nzuri"
+          "mvulana", 
+          "wakati", 
+          "maji"
         ], 
         "ungrammatical_english": [
-          "concerning", 
-          "look", 
-          "good"
+          "bachelor", 
+          "whenever", 
+          "hydraulic"
         ]
       }, 
-      "punctuation": ".", 
-      "sentence": "Mbwa anatoroka na kurudi kwao.", 
-      "stem": "Mbwa anatoroka na kurudi", 
-      "target": "kwao"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Jirani akitokezea, Safi yu tayari kumkwaruza.", 
-      "stem": "Jirani akitokezea, Safi yu tayari", 
-      "target": "kumkwaruza"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "pale", 
-          "huyo", 
-          "yao"
-        ], 
-        "nonsensical_english": [
-          "afterwards", 
-          "this", 
-          "their"
-        ], 
-        "plausible": [
-          "pale", 
-          "huyo", 
-          "huo"
-        ], 
-        "plausible_english": [
-          "that", 
-          "this", 
-          "that"
-        ], 
-        "ungrammatical": [
-          "nyumba", 
-          "kuwa", 
-          "hadithi"
-        ], 
-        "ungrammatical_english": [
-          "house", 
-          "because", 
-          "report"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Jirani anageuka mbio na kwenda zake.", 
-      "stem": "Jirani anageuka mbio na kwenda", 
-      "target": "zake"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Safi akihisi njaa, anafunga mlango kwa kuusukuma.", 
-      "stem": "Safi akihisi njaa, anafunga mlango kwa", 
-      "target": "kuusukuma"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "lake", 
-          "wao", 
-          "hao"
-        ], 
-        "nonsensical_english": [
-          "his", 
-          "their", 
-          "mentioned"
-        ], 
-        "plausible": null, 
-        "ungrammatical": [
-          "nguo", 
-          "bi", 
-          "kelele"
-        ], 
-        "ungrammatical_english": [
-          "dress", 
-          "with", 
-          "uproar"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Anaingia ndani na kula chakula chake.", 
-      "stem": "Anaingia ndani na kula chakula", 
-      "target": "chake"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "Safi akimaliza, anaruka juu ya sofa na kulala.", 
-      "stem": "Safi akimaliza, anaruka juu ya sofa na", 
-      "target": "kulala"
-    }, 
-    {
-      "distractor": null, 
-      "punctuation": "!", 
-      "sentence": "Unachosikia ni: Purr!", 
-      "stem": "Unachosikia ni:", 
-      "target": "Purr"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "fisi", 
-          "siku", 
-          "mama"
-        ], 
-        "nonsensical_english": [
-          "otter", 
-          "day", 
-          "stepmother"
-        ], 
-        "plausible": null, 
-        "ungrammatical": [
-          "kila", 
-          "wote", 
-          "kuwa"
-        ], 
-        "ungrammatical_english": [
-          "entire", 
-          "everybody", 
-          "that"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Bwana Kiio akiwasili, Safi hujinyoosha kwa furaha na kumkaribisha nyumbani.", 
-      "stem": "Bwana Kiio akiwasili, Safi hujinyoosha kwa furaha na kumkaribisha", 
-      "target": "nyumbani"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "werevu", 
-          "hospitali", 
-          "bilauri"
-        ], 
-        "nonsensical_english": [
-          "penetration", 
-          "clinic", 
-          "tumbler"
-        ], 
-        "plausible": [
-          "wimbi", 
-          "werevu", 
-          "mswaki"
-        ], 
-        "plausible_english": [
-          "wave", 
-          "acuteness", 
-          "toothbrush"
-        ], 
-        "ungrammatical": [
-          "ata", 
-          "taja", 
-          "kimanjano"
-        ], 
-        "ungrammatical_english": [
-          "stop", 
-          "nominate", 
-          "yellow"
-        ]
-      }, 
-      "punctuation": ".", 
-      "sentence": "Bwana Kiio na Safi wanaketi karibu na moto kila mmoja akisoma gazeti.", 
-      "stem": "Bwana Kiio na Safi wanaketi karibu na moto kila mmoja akisoma", 
-      "target": "gazeti"
+      "punctuation": "?", 
+      "sentence": "Unapenda nini?", 
+      "stem": "Unapenda", 
+      "target": "nini"
     }
   ], 
   "title": "placeholder"

@@ -1,50 +1,30 @@
-Kwa Nini Yayeri Ni Mashuhuri
-
-Yayeri mashuhuri anaamka mapema sana kila asubuhi.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anashukuru kwa usiku uliopita.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anatandika kitanda chake vizuri sana.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anawasalimu wazazi wake na mababu zake.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anaosha uso wake kwa sabuni ya bluu.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anapiga mswaki meno yake na mswaki aina ya lughano.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anaoga kwa maji baridi.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anavaa sare ya shule ya rangi ya machungwa.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anavaa viatu vyake vyeusi.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anafika shuleni mapema.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anajifunza masomo ya sayansi, ya kijamii na hesabu.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
-Anaimba na kucheza otamenhaibuga, pamoja na mpira wa miguu.
-
-Tunajiuliza, "Kwa nini Yayeri ni mashuhuri?"
-
+Mwezi Na Kofia
+
+restart
+
+Sote tulienda katika sherehe ya Darasa.
+Papa alimnunulia Chintu miwani ya kupendeza.
+again
+
+Mama alininunulia kofia ya rangi ya samawati iliyong'aa mno.
+Mtoto alipata peremende.
+Tukiwa njiani kwenda nyumbani, upepo mkali ulivuma.
+yet again
+
+Uliipeperusha kofia yangu mbali.
+Kofia yangu ilizuiliwa katika matawi ya mti wa miiba.
+Nililia sana.
+Na sikula chakula changu cha jioni.
+Baadaye usiku ule, mwezi ulitokezea.
+Uliiangalia kofia yangu pale kwenye mti wa miiba.
+Mwezi ulijaribu kuivaa kofia yangu.
+Ulitabasamu kwa furaha.
+Sikuwa na budi ila kutabasamu pia.
+Baada ya kutoka shule siku iliyofuata, mamangu alinipa kofia nyingine nyekundu iliyong'ara mno.
+"Mwezi uliituma," mama alisema.
+Usiku huo, sote, mimi na mwezi, tulivaa kofia zetu kisha tukatabasamu.
+Tulifurahi sana.
+Unadhani jua linahitaji kofia?
+Kisia ni kofia gani ambayo nimevaa leo?
+
+

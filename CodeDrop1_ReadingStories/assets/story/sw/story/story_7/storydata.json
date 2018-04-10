@@ -1,832 +1,623 @@
 {
-  "authors": "Ursula Nafula",
-  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "authors": "Zimbili Dlamini and Hlengiwe Zondi",
+  "copyright": "Copyright (c) African Storybook Initiative and Molteno Institute, 2014",
   "data": [
     {
-      "image": "level2_20_page_02_image_0001.jpg",
+      "image": "level1_4_page_02_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "katika_kijiji_chetu_panaishi_bwana_kiio.mp3",
-                "from": 20,
+                "audio": "jina_langu_ni_simo.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 17,
+                    "word": "Jina"
+                  },
+                  {
+                    "end": 108,
+                    "start": 63,
+                    "word": "langu"
+                  },
+                  {
+                    "end": 132,
+                    "start": 109,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 183,
+                    "start": 133,
+                    "word": "Simo"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Jina langu ni Simo"
+              }
+            ],
+            "sentence": "Jina langu ni Simo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nina_marifiki_wanne.mp3",
+                "from": 53,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 53,
+                    "word": "Nina"
+                  },
+                  {
+                    "end": 198,
+                    "start": 100,
+                    "word": "marifiki"
+                  },
+                  {
+                    "end": 269,
+                    "start": 199,
+                    "word": "wanne"
+                  }
+                ],
+                "until": 269,
+                "utterances": "Nina marifiki wanne"
+              }
+            ],
+            "sentence": "Nina marifiki wanne."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "majina_yao_ni_zizo_lele_sisa_na_ayanda.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 21,
+                    "word": "Majina"
+                  },
+                  {
+                    "end": 125,
+                    "start": 81,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 143,
+                    "start": 126,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 224,
+                    "start": 144,
+                    "word": "Zizo"
+                  },
+                  {
+                    "end": 316,
+                    "start": 263,
+                    "word": "Lele"
+                  },
+                  {
+                    "end": 411,
+                    "start": 350,
+                    "word": "Sisa"
+                  },
+                  {
+                    "end": 458,
+                    "start": 435,
+                    "word": "na"
+                  },
+                  {
+                    "end": 525,
+                    "start": 459,
+                    "word": "Ayanda"
+                  }
+                ],
+                "until": 525,
+                "utterances": "Majina yao ni Zizo Lele Sisa na Ayanda"
+              }
+            ],
+            "sentence": "Majina yao ni Zizo, Lele, Sisa na Ayanda."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki_yangu_zizo_anapenda_kucheza_mpira.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 21,
+                    "word": "Rafiki"
+                  },
+                  {
+                    "end": 135,
+                    "start": 98,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 215,
+                    "start": 136,
+                    "word": "Zizo"
+                  },
+                  {
+                    "end": 313,
+                    "start": 234,
+                    "word": "anapenda"
+                  },
+                  {
+                    "end": 382,
+                    "start": 314,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 457,
+                    "start": 383,
+                    "word": "mpira"
+                  }
+                ],
+                "until": 457,
+                "utterances": "Rafiki yangu Zizo anapenda kucheza mpira"
+              }
+            ],
+            "sentence": "Rafiki yangu Zizo, anapenda kucheza mpira."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki_yangu_lele_anapenda_kuogelea.mp3",
+                "from": 24,
                 "segmentation": [
                   {
                     "end": 78,
-                    "start": 20,
-                    "word": "Katika"
+                    "start": 24,
+                    "word": "Rafiki"
                   },
                   {
                     "end": 139,
                     "start": 79,
-                    "word": "kijiji"
+                    "word": "yangu"
                   },
                   {
-                    "end": 216,
+                    "end": 194,
                     "start": 140,
-                    "word": "chetu"
+                    "word": "Lele"
                   },
                   {
-                    "end": 331,
-                    "start": 257,
-                    "word": "panaishi"
+                    "end": 302,
+                    "start": 221,
+                    "word": "anapenda"
                   },
                   {
-                    "end": 375,
-                    "start": 332,
-                    "word": "Bwana"
-                  },
-                  {
-                    "end": 452,
-                    "start": 376,
-                    "word": "Kiio"
+                    "end": 416,
+                    "start": 303,
+                    "word": "kuogelea"
                   }
                 ],
-                "until": 452,
-                "utterances": "Katika kijiji chetu panaishi Bwana Kiio"
+                "until": 416,
+                "utterances": "Rafiki yangu Lele anapenda kuogelea"
               }
             ],
-            "sentence": "Katika kijiji chetu panaishi Bwana Kiio."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "bwana_kiio_ana_paka_wa_madoa_meusi_na_meupe_kwa_jina_safi.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 56,
-                    "start": 20,
-                    "word": "Bwana"
-                  },
-                  {
-                    "end": 138,
-                    "start": 57,
-                    "word": "Kiio"
-                  },
-                  {
-                    "end": 221,
-                    "start": 188,
-                    "word": "ana"
-                  },
-                  {
-                    "end": 284,
-                    "start": 222,
-                    "word": "paka"
-                  },
-                  {
-                    "end": 306,
-                    "start": 285,
-                    "word": "wa"
-                  },
-                  {
-                    "end": 378,
-                    "start": 307,
-                    "word": "madoa"
-                  },
-                  {
-                    "end": 462,
-                    "start": 379,
-                    "word": "meusi"
-                  },
-                  {
-                    "end": 481,
-                    "start": 463,
-                    "word": "na"
-                  },
-                  {
-                    "end": 563,
-                    "start": 482,
-                    "word": "meupe"
-                  },
-                  {
-                    "end": 622,
-                    "start": 594,
-                    "word": "kwa"
-                  },
-                  {
-                    "end": 674,
-                    "start": 623,
-                    "word": "jina"
-                  },
-                  {
-                    "end": 756,
-                    "start": 675,
-                    "word": "Safi"
-                  }
-                ],
-                "until": 756,
-                "utterances": "Bwana Kiio ana paka wa madoa meusi na meupe kwa jina Safi"
-              }
-            ],
-            "sentence": "Bwana Kiio ana paka wa madoa meusi na meupe kwa jina Safi."
+            "sentence": "Rafiki yangu Lele, anapenda kuogelea."
           }
         ]
       ]
     },
     {
-      "image": "level2_20_page_03_image_0001.jpg",
+      "image": "level1_4_page_07_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "bwana_kiio_anapoenda_kazini_anaacha_mlango_wazi.mp3",
-                "from": 21,
+                "audio": "rafiki_yangu_sisa_anapenda_kucheza_mchezo_wa_kujificha.mp3",
+                "from": 24,
                 "segmentation": [
                   {
-                    "end": 55,
-                    "start": 21,
-                    "word": "Bwana"
+                    "end": 95,
+                    "start": 24,
+                    "word": "Rafiki"
                   },
                   {
-                    "end": 128,
-                    "start": 56,
-                    "word": "Kiio"
+                    "end": 136,
+                    "start": 96,
+                    "word": "yangu"
                   },
                   {
-                    "end": 232,
-                    "start": 129,
-                    "word": "anapoenda"
+                    "end": 209,
+                    "start": 137,
+                    "word": "Sisa"
                   },
                   {
-                    "end": 326,
-                    "start": 233,
-                    "word": "kazini"
+                    "end": 328,
+                    "start": 245,
+                    "word": "anapenda"
                   },
                   {
-                    "end": 445,
-                    "start": 371,
-                    "word": "anaacha"
+                    "end": 407,
+                    "start": 329,
+                    "word": "kucheza"
                   },
                   {
                     "end": 505,
-                    "start": 446,
-                    "word": "mlango"
+                    "start": 430,
+                    "word": "mchezo"
                   },
                   {
-                    "end": 580,
+                    "end": 526,
                     "start": 506,
-                    "word": "wazi"
-                  }
-                ],
-                "until": 580,
-                "utterances": "Bwana Kiio anapoenda kazini anaacha mlango wazi"
-              }
-            ],
-            "sentence": "Bwana Kiio anapoenda kazini, anaacha mlango wazi."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_20_page_04_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "safi_anakaa_katikati_ya_mlango_na_kuilinda_nyumba_ya_bwana_kiio.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 87,
-                    "start": 20,
-                    "word": "Safi"
-                  },
-                  {
-                    "end": 181,
-                    "start": 98,
-                    "word": "anakaa"
-                  },
-                  {
-                    "end": 290,
-                    "start": 182,
-                    "word": "katikati"
-                  },
-                  {
-                    "end": 298,
-                    "start": 291,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 384,
-                    "start": 299,
-                    "word": "mlango"
-                  },
-                  {
-                    "end": 443,
-                    "start": 425,
-                    "word": "na"
-                  },
-                  {
-                    "end": 529,
-                    "start": 444,
-                    "word": "kuilinda"
-                  },
-                  {
-                    "end": 583,
-                    "start": 530,
-                    "word": "nyumba"
-                  },
-                  {
-                    "end": 603,
-                    "start": 584,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 649,
-                    "start": 604,
-                    "word": "Bwana"
-                  },
-                  {
-                    "end": 726,
-                    "start": 650,
-                    "word": "Kiio"
-                  }
-                ],
-                "until": 726,
-                "utterances": "Safi anakaa katikati ya mlango na kuilinda nyumba ya Bwana Kiio"
-              }
-            ],
-            "sentence": "Safi anakaa katikati ya mlango na kuilinda nyumba ya Bwana Kiio."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_20_page_05_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mbwa_wa_jirani_akikaribia_safi_anamkodolea_macho_na_kumunyooshea_kucha_zake.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 68,
-                    "start": 21,
-                    "word": "Mbwa"
-                  },
-                  {
-                    "end": 86,
-                    "start": 69,
                     "word": "wa"
                   },
                   {
-                    "end": 165,
-                    "start": 87,
-                    "word": "jirani"
-                  },
-                  {
-                    "end": 307,
-                    "start": 170,
-                    "word": "akikaribia"
-                  },
-                  {
-                    "end": 404,
-                    "start": 350,
-                    "word": "Safi"
-                  },
-                  {
-                    "end": 587,
-                    "start": 427,
-                    "word": "anamkodolea"
-                  },
-                  {
-                    "end": 656,
-                    "start": 588,
-                    "word": "macho"
-                  },
-                  {
-                    "end": 709,
-                    "start": 697,
-                    "word": "na"
-                  },
-                  {
-                    "end": 849,
-                    "start": 710,
-                    "word": "kumunyooshea"
-                  },
-                  {
-                    "end": 921,
-                    "start": 850,
-                    "word": "kucha"
-                  },
-                  {
-                    "end": 999,
-                    "start": 922,
-                    "word": "zake"
-                  }
-                ],
-                "until": 999,
-                "utterances": "Mbwa wa jirani akikaribia Safi anamkodolea macho na kumunyooshea kucha zake"
-              }
-            ],
-            "sentence": "Mbwa wa jirani akikaribia, Safi anamkodolea macho na kumunyooshea kucha zake."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_20_page_06_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mbwa_anatoroka_na_kurudi_kwao.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 76,
-                    "start": 21,
-                    "word": "Mbwa"
-                  },
-                  {
-                    "end": 227,
-                    "start": 93,
-                    "word": "anatoroka"
-                  },
-                  {
-                    "end": 255,
-                    "start": 245,
-                    "word": "na"
-                  },
-                  {
-                    "end": 320,
-                    "start": 256,
-                    "word": "kurudi"
-                  },
-                  {
-                    "end": 364,
-                    "start": 321,
-                    "word": "kwao"
-                  }
-                ],
-                "until": 364,
-                "utterances": "Mbwa anatoroka na kurudi kwao"
-              }
-            ],
-            "sentence": "Mbwa anatoroka na kurudi kwao."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_20_page_07_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jirani_akitokezea_safi_yu_tayari_kumkwaruza.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 103,
-                    "start": 2,
-                    "word": "Jirani"
-                  },
-                  {
-                    "end": 263,
-                    "start": 113,
-                    "word": "akitokezea"
-                  },
-                  {
-                    "end": 397,
-                    "start": 299,
-                    "word": "Safi"
-                  },
-                  {
-                    "end": 422,
-                    "start": 398,
-                    "word": "yu"
-                  },
-                  {
-                    "end": 520,
-                    "start": 423,
-                    "word": "tayari"
-                  },
-                  {
-                    "end": 666,
-                    "start": 521,
-                    "word": "kumkwaruza"
-                  }
-                ],
-                "until": 666,
-                "utterances": "Jirani akitokezea Safi yu tayari kumkwaruza"
-              }
-            ],
-            "sentence": "Jirani akitokezea, Safi yu tayari kumkwaruza."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_20_page_08_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jirani_anageuka_mbio_na_kwenda_zake.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 101,
-                    "start": 2,
-                    "word": "Jirani"
-                  },
-                  {
-                    "end": 216,
-                    "start": 108,
-                    "word": "anageuka"
-                  },
-                  {
-                    "end": 289,
-                    "start": 217,
-                    "word": "mbio"
-                  },
-                  {
-                    "end": 348,
-                    "start": 336,
-                    "word": "na"
-                  },
-                  {
-                    "end": 403,
-                    "start": 349,
-                    "word": "kwenda"
-                  },
-                  {
-                    "end": 456,
-                    "start": 404,
-                    "word": "zake"
-                  }
-                ],
-                "until": 456,
-                "utterances": "Jirani anageuka mbio na kwenda zake"
-              }
-            ],
-            "sentence": "Jirani anageuka mbio na kwenda zake."
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_20_page_09_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "safi_akihisi_njaa_anafunga_mlango_kwa_kuusukuma.mp3",
-                "from": 19,
-                "segmentation": [
-                  {
-                    "end": 93,
-                    "start": 19,
-                    "word": "Safi"
-                  },
-                  {
-                    "end": 184,
-                    "start": 99,
-                    "word": "akihisi"
-                  },
-                  {
-                    "end": 257,
-                    "start": 185,
-                    "word": "njaa"
-                  },
-                  {
-                    "end": 386,
-                    "start": 300,
-                    "word": "anafunga"
-                  },
-                  {
-                    "end": 461,
-                    "start": 387,
-                    "word": "mlango"
-                  },
-                  {
-                    "end": 485,
-                    "start": 462,
-                    "word": "kwa"
-                  },
-                  {
                     "end": 632,
-                    "start": 486,
-                    "word": "kuusukuma"
+                    "start": 527,
+                    "word": "kujificha"
                   }
                 ],
                 "until": 632,
-                "utterances": "Safi akihisi njaa anafunga mlango kwa kuusukuma"
+                "utterances": "Rafiki yangu Sisa anapenda kucheza mchezo wa kujificha"
               }
             ],
-            "sentence": "Safi akihisi njaa, anafunga mlango kwa kuusukuma."
+            "sentence": "Rafiki yangu Sisa, anapenda kucheza \"mchezo wa kujificha\"."
           }
         ]
       ]
     },
     {
-      "image": "level2_20_page_10_image_0001.jpg",
+      "image": "level1_4_page_08_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "anaingia_ndani_na_kula_chakula_chake.mp3",
-                "from": 21,
+                "audio": "rafiki_yangu_ayanda_anapenda_kusoma.mp3",
+                "from": 59,
                 "segmentation": [
                   {
-                    "end": 139,
-                    "start": 21,
-                    "word": "Anaingia"
+                    "end": 118,
+                    "start": 59,
+                    "word": "Rafiki"
                   },
                   {
-                    "end": 201,
-                    "start": 140,
-                    "word": "ndani"
+                    "end": 189,
+                    "start": 119,
+                    "word": "yangu"
                   },
                   {
-                    "end": 223,
-                    "start": 202,
-                    "word": "na"
+                    "end": 261,
+                    "start": 190,
+                    "word": "Ayanda"
                   },
                   {
-                    "end": 281,
-                    "start": 224,
-                    "word": "kula"
+                    "end": 386,
+                    "start": 303,
+                    "word": "anapenda"
                   },
                   {
-                    "end": 358,
-                    "start": 282,
-                    "word": "chakula"
-                  },
-                  {
-                    "end": 432,
-                    "start": 359,
-                    "word": "chake"
+                    "end": 466,
+                    "start": 387,
+                    "word": "kusoma"
                   }
                 ],
-                "until": 432,
-                "utterances": "Anaingia ndani na kula chakula chake"
+                "until": 466,
+                "utterances": "Rafiki yangu Ayanda anapenda kusoma"
               }
             ],
-            "sentence": "Anaingia ndani na kula chakula chake."
+            "sentence": "Rafiki yangu Ayanda, anapenda kusoma."
           }
         ]
       ]
     },
     {
-      "image": "level2_20_page_11_image_0001.jpg",
+      "image": "level1_4_page_09_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "safi_akimaliza_anaruka_juu_ya_sofa_na_kulala.mp3",
-                "from": 20,
+                "audio": "napenda_kufanya_vitu_vyote_wanavyopenda_kufanya.mp3",
+                "from": 48,
                 "segmentation": [
                   {
-                    "end": 94,
-                    "start": 20,
-                    "word": "Safi"
-                  },
-                  {
-                    "end": 251,
-                    "start": 100,
-                    "word": "akimaliza"
-                  },
-                  {
-                    "end": 388,
-                    "start": 294,
-                    "word": "anaruka"
-                  },
-                  {
-                    "end": 458,
-                    "start": 389,
-                    "word": "juu"
-                  },
-                  {
-                    "end": 481,
-                    "start": 459,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 539,
-                    "start": 482,
-                    "word": "sofa"
-                  },
-                  {
-                    "end": 560,
-                    "start": 540,
-                    "word": "na"
-                  },
-                  {
-                    "end": 643,
-                    "start": 561,
-                    "word": "kulala"
-                  }
-                ],
-                "until": 643,
-                "utterances": "Safi akimaliza anaruka juu ya sofa na kulala"
-              }
-            ],
-            "sentence": "Safi akimaliza, anaruka juu ya sofa na kulala."
-          }
-        ],
-        [
-          {
-            "narration": [
-              {
-                "audio": "unachosikia_ni_purr.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 168,
-                    "start": 21,
-                    "word": "Unachosikia"
+                    "end": 126,
+                    "start": 48,
+                    "word": "Napenda"
                   },
                   {
                     "end": 205,
-                    "start": 169,
-                    "word": "ni"
+                    "start": 127,
+                    "word": "kufanya"
                   },
                   {
-                    "end": 298,
-                    "start": 243,
-                    "word": "Purr"
-                  }
-                ],
-                "until": 298,
-                "utterances": "Unachosikia ni Purr"
-              }
-            ],
-            "sentence": "Unachosikia ni: Purr!"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "level2_20_page_12_image_0001.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bwana_kiio_akiwasili_safi_hujinyoosha_kwa_furaha_na_kumkaribisha_nyumbani.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 69,
-                    "start": 2,
-                    "word": "Bwana"
+                    "end": 241,
+                    "start": 206,
+                    "word": "vitu"
                   },
                   {
-                    "end": 164,
-                    "start": 70,
-                    "word": "Kiio"
+                    "end": 348,
+                    "start": 273,
+                    "word": "vyote"
                   },
                   {
-                    "end": 314,
-                    "start": 181,
-                    "word": "akiwasili"
-                  },
-                  {
-                    "end": 414,
-                    "start": 346,
-                    "word": "Safi"
+                    "end": 475,
+                    "start": 380,
+                    "word": "wanavyopenda"
                   },
                   {
                     "end": 556,
-                    "start": 415,
-                    "word": "hujinyoosha"
-                  },
-                  {
-                    "end": 737,
-                    "start": 654,
-                    "word": "kwa"
-                  },
-                  {
-                    "end": 852,
-                    "start": 738,
-                    "word": "furaha"
-                  },
-                  {
-                    "end": 879,
-                    "start": 853,
-                    "word": "na"
-                  },
-                  {
-                    "end": 1008,
-                    "start": 880,
-                    "word": "kumkaribisha"
-                  },
-                  {
-                    "end": 1112,
-                    "start": 1009,
-                    "word": "nyumbani"
+                    "start": 476,
+                    "word": "kufanya"
                   }
                 ],
-                "until": 1112,
-                "utterances": "Bwana Kiio akiwasili Safi hujinyoosha kwa furaha na kumkaribisha nyumbani"
+                "until": 556,
+                "utterances": "Napenda kufanya vitu vyote wanavyopenda kufanya"
               }
             ],
-            "sentence": "Bwana Kiio akiwasili, Safi hujinyoosha kwa furaha na kumkaribisha nyumbani."
+            "sentence": "Napenda kufanya vitu vyote wanavyopenda kufanya."
           }
         ]
       ]
     },
     {
-      "image": "level2_20_page_13_image_0001.jpg",
+      "image": "level1_4_page_10_image_0001.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "bwana_kiio_na_safi_wanaketi_karibu_na_moto_kila_mmoja_akisoma_gazeti.mp3",
-                "from": 2,
+                "audio": "nacheza_mpira_na_zizo.mp3",
+                "from": 50,
                 "segmentation": [
                   {
-                    "end": 61,
-                    "start": 2,
-                    "word": "Bwana"
+                    "end": 119,
+                    "start": 50,
+                    "word": "Nacheza"
                   },
                   {
-                    "end": 127,
-                    "start": 62,
-                    "word": "Kiio"
+                    "end": 183,
+                    "start": 120,
+                    "word": "mpira"
+                  },
+                  {
+                    "end": 214,
+                    "start": 184,
+                    "word": "na"
+                  },
+                  {
+                    "end": 271,
+                    "start": 215,
+                    "word": "Zizo"
+                  }
+                ],
+                "until": 271,
+                "utterances": "Nacheza mpira na Zizo"
+              }
+            ],
+            "sentence": "Nacheza mpira na Zizo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "naogelea_kwenye_bwawa_na_lele.mp3",
+                "from": 55,
+                "segmentation": [
+                  {
+                    "end": 155,
+                    "start": 55,
+                    "word": "Naogelea"
+                  },
+                  {
+                    "end": 207,
+                    "start": 156,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 266,
+                    "start": 208,
+                    "word": "bwawa"
+                  },
+                  {
+                    "end": 289,
+                    "start": 267,
+                    "word": "na"
+                  },
+                  {
+                    "end": 325,
+                    "start": 290,
+                    "word": "Lele"
+                  }
+                ],
+                "until": 325,
+                "utterances": "Naogelea kwenye bwawa na Lele"
+              }
+            ],
+            "sentence": "Naogelea kwenye bwawa na Lele."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nacheza_mchezo_wa_kujificha_na_sisa.mp3",
+                "from": 56,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 56,
+                    "word": "Nacheza"
+                  },
+                  {
+                    "end": 187,
+                    "start": 118,
+                    "word": "mchezo"
+                  },
+                  {
+                    "end": 201,
+                    "start": 188,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 291,
+                    "start": 202,
+                    "word": "kujificha"
+                  },
+                  {
+                    "end": 318,
+                    "start": 292,
+                    "word": "na"
+                  },
+                  {
+                    "end": 378,
+                    "start": 319,
+                    "word": "Sisa"
+                  }
+                ],
+                "until": 378,
+                "utterances": "Nacheza mchezo wa kujificha na Sisa"
+              }
+            ],
+            "sentence": "Nacheza mchezo wa kujificha na Sisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wewe_pia_njoo.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 23,
+                    "word": "Wewe"
+                  },
+                  {
+                    "end": 117,
+                    "start": 70,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 185,
+                    "start": 118,
+                    "word": "njoo"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Wewe pia njoo"
+              }
+            ],
+            "sentence": "Wewe pia njoo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "wewe_pia_ni_rafiki.mp3",
+                "from": 35,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 35,
+                    "word": "Wewe"
+                  },
+                  {
+                    "end": 121,
+                    "start": 73,
+                    "word": "pia"
                   },
                   {
                     "end": 147,
-                    "start": 128,
-                    "word": "na"
+                    "start": 122,
+                    "word": "ni"
                   },
                   {
-                    "end": 206,
+                    "end": 229,
                     "start": 148,
-                    "word": "Safi"
-                  },
-                  {
-                    "end": 322,
-                    "start": 207,
-                    "word": "wanaketi"
-                  },
-                  {
-                    "end": 390,
-                    "start": 323,
-                    "word": "karibu"
-                  },
-                  {
-                    "end": 417,
-                    "start": 391,
-                    "word": "na"
-                  },
-                  {
-                    "end": 508,
-                    "start": 418,
-                    "word": "moto"
-                  },
-                  {
-                    "end": 617,
-                    "start": 554,
-                    "word": "kila"
-                  },
-                  {
-                    "end": 703,
-                    "start": 618,
-                    "word": "mmoja"
-                  },
-                  {
-                    "end": 823,
-                    "start": 715,
-                    "word": "akisoma"
-                  },
-                  {
-                    "end": 950,
-                    "start": 824,
-                    "word": "gazeti"
+                    "word": "rafiki"
                   }
                 ],
-                "until": 950,
-                "utterances": "Bwana Kiio na Safi wanaketi karibu na moto kila mmoja akisoma gazeti"
+                "until": 229,
+                "utterances": "Wewe pia ni rafiki"
               }
             ],
-            "sentence": "Bwana Kiio na Safi wanaketi karibu na moto kila mmoja akisoma gazeti."
+            "sentence": "Wewe pia ni rafiki."
+          },
+          {
+            "narration": [
+              {
+                "audio": "unapenda_nini.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 22,
+                    "word": "Unapenda"
+                  },
+                  {
+                    "end": 196,
+                    "start": 102,
+                    "word": "nini"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Unapenda nini"
+              }
+            ],
+            "sentence": "Unapenda nini?"
           }
         ]
       ]
     }
   ],
-  "illustrators": "Catherine Groenewald",
+  "illustrators": "Catherine Groenewald Pete Mhunzi",
   "language": "Kiswahili",
-  "level": "2",
+  "level": "1",
   "license": "CC-BY Version 3.0 Unported Licence",
-  "title": "Paka mwerevu",
-  "titleimage": "level2_20_page_01_image_0001.jpg"
+  "title": "Marafiki",
+  "titleimage": "level1_4_page_01_image_0001.jpg"
 }
