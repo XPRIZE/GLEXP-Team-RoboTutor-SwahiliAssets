@@ -1,0 +1,296 @@
+{
+  "author": "Leonora Kivuva",
+  "data": [
+    {
+      "image": "one_two_three.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moja_mbili_tatu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Moja"
+                  },
+                  {
+                    "end": 116,
+                    "start": 67,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 195,
+                    "start": 117,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Moja mbili tatu"
+              }
+            ],
+            "sentence": "Moja, mbili, tatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "four_five_six.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nne_tano_sita.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 22,
+                    "word": "Nne"
+                  },
+                  {
+                    "end": 116,
+                    "start": 62,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 191,
+                    "start": 117,
+                    "word": "sita"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Nne tano sita"
+              }
+            ],
+            "sentence": "Nne, tano, sita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "seven_eight_nine.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "saba_nane_tisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Saba"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "nane"
+                  },
+                  {
+                    "end": 195,
+                    "start": 119,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Saba nane tisa"
+              }
+            ],
+            "sentence": "Saba, nane, tisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zero.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sifuri_ni_bila.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 20,
+                    "word": "Sifuri"
+                  },
+                  {
+                    "end": 117,
+                    "start": 93,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 187,
+                    "start": 118,
+                    "word": "bila"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Sifuri ni bila"
+              }
+            ],
+            "sentence": "Sifuri ni bila."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "one_two_three.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moja_mbili_tatu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Moja"
+                  },
+                  {
+                    "end": 116,
+                    "start": 67,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 195,
+                    "start": 117,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Moja mbili tatu"
+              }
+            ],
+            "sentence": "Moja, mbili, tatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "four_five_six.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nne_tano_sita.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 22,
+                    "word": "Nne"
+                  },
+                  {
+                    "end": 116,
+                    "start": 62,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 191,
+                    "start": 117,
+                    "word": "sita"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Nne tano sita"
+              }
+            ],
+            "sentence": "Nne, tano, sita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "seven_eight_nine.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "saba_nane_tisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Saba"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "nane"
+                  },
+                  {
+                    "end": 195,
+                    "start": 119,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Saba nane tisa"
+              }
+            ],
+            "sentence": "Saba, nane, tisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ten_fingers.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kumi_ni_vidole.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 2,
+                    "word": "Kumi"
+                  },
+                  {
+                    "end": 84,
+                    "start": 59,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 162,
+                    "start": 85,
+                    "word": "vidole"
+                  }
+                ],
+                "until": 162,
+                "utterances": "Kumi ni vidole"
+              }
+            ],
+            "sentence": "Kumi ni vidole!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "COUNT",
+  "title": "Moja Mbili Tatu",
+  "titleimage": null
+}
