@@ -175,7 +175,12 @@
                   {
                     "end": 362,
                     "start": 294,
-                    "word": "tena,na"
+                    "word": "tena"
+                  },
+                  {
+                    "end": 434,
+                    "start": 400,
+                    "word": "na"
                   },
                   {
                     "end": 553,
@@ -184,10 +189,10 @@
                   }
                 ],
                 "until": 553,
-                "utterances": "Baada ya hiyo hana njaa tena,na anafurahi"
+                "utterances": "Baada ya hiyo hana njaa tena na anafurahi"
               }
             ],
-            "sentence": "Baada ya hiyo hana njaa tena,na anafurahi."
+            "sentence": "Baada ya hiyo hana njaa tena na anafurahi."
           }
         ]
       ]

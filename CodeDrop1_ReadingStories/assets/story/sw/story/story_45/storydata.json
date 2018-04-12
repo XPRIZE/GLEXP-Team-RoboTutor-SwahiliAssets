@@ -634,7 +634,7 @@
       ]
     },
     {
-      "image": null,
+      "image": "level4_8_page_06_image_0001.jpg",
       "text": [
         [
           {
@@ -1060,10 +1060,6 @@
       ]
     },
     {
-      "image": "level4_8_page_06_image_0001.jpg",
-      "text": []
-    },
-    {
       "image": "level4_8_page_07_image_0001.jpg",
       "text": [
         [
@@ -1305,7 +1301,7 @@
                   {
                     "end": 85,
                     "start": 2,
-                    "word": "babake"
+                    "word": "Babake"
                   },
                   {
                     "end": 218,
@@ -1314,10 +1310,10 @@
                   }
                 ],
                 "until": 218,
-                "utterances": "babake alikereka"
+                "utterances": "Babake alikereka"
               }
             ],
-            "sentence": "babake alikereka."
+            "sentence": "Babake alikereka."
           }
         ],
         [

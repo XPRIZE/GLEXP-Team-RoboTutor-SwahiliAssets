@@ -434,7 +434,7 @@
       ]
     },
     {
-      "image": null,
+      "image": "level5_2_page_03_image_0001.jpg",
       "text": [
         [
           {
@@ -1430,7 +1430,7 @@
       ]
     },
     {
-      "image": null,
+      "image": "level5_2_page_09_image_0001.jpg",
       "text": [
         [
           {
@@ -1825,10 +1825,6 @@
           }
         ]
       ]
-    },
-    {
-      "image": "level5_2_page_09_image_0001.jpg",
-      "text": []
     },
     {
       "image": "level5_2_page_10_image_0001.jpg",

@@ -148,8 +148,8 @@
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "aliwasihi marafiki zake.", 
-      "stem": "aliwasihi marafiki", 
+      "sentence": "Aliwasihi marafiki zake.", 
+      "stem": "Aliwasihi marafiki", 
       "target": "zake"
     }, 
     {
@@ -279,8 +279,8 @@
     {
       "distractor": null, 
       "punctuation": ".", 
-      "sentence": "mbwa akajibu.", 
-      "stem": "mbwa", 
+      "sentence": "Mbwa akajibu.", 
+      "stem": "Mbwa", 
       "target": "akajibu"
     }, 
     {
@@ -345,8 +345,8 @@
     {
       "distractor": null, 
       "punctuation": ".", 
-      "sentence": "mbwa akasema.", 
-      "stem": "mbwa", 
+      "sentence": "Mbwa akasema.", 
+      "stem": "Mbwa", 
       "target": "akasema"
     }, 
     {
@@ -473,8 +473,8 @@
     {
       "distractor": null, 
       "punctuation": ".", 
-      "sentence": "mbwa alisema.", 
-      "stem": "mbwa", 
+      "sentence": "Mbwa alisema.", 
+      "stem": "Mbwa", 
       "target": "alisema"
     }, 
     {
@@ -693,8 +693,8 @@
         ]
       }, 
       "punctuation": ".", 
-      "sentence": "aliita kwa sauti.", 
-      "stem": "aliita kwa", 
+      "sentence": "Aliita kwa sauti.", 
+      "stem": "Aliita kwa", 
       "target": "sauti"
     }, 
     {

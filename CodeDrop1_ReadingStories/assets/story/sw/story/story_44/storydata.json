@@ -446,7 +446,7 @@
                   {
                     "end": 94,
                     "start": 20,
-                    "word": "jamii"
+                    "word": "Jamii"
                   },
                   {
                     "end": 143,
@@ -475,10 +475,10 @@
                   }
                 ],
                 "until": 455,
-                "utterances": "jamii yake iliapa kutimiza ndoto yake"
+                "utterances": "Jamii yake iliapa kutimiza ndoto yake"
               }
             ],
-            "sentence": "jamii yake iliapa kutimiza ndoto yake."
+            "sentence": "Jamii yake iliapa kutimiza ndoto yake."
           }
         ]
       ]
@@ -602,7 +602,7 @@
                   {
                     "end": 73,
                     "start": 2,
-                    "word": "kadri"
+                    "word": "Kadri"
                   },
                   {
                     "end": 134,
@@ -651,10 +651,10 @@
                   }
                 ],
                 "until": 789,
-                "utterances": "kadri miaka ilipozidi kuyoyoma ndivyo Graca alizidi kuleta furaha kwao"
+                "utterances": "Kadri miaka ilipozidi kuyoyoma ndivyo Graca alizidi kuleta furaha kwao"
               }
             ],
-            "sentence": "kadri miaka ilipozidi kuyoyoma ndivyo Graca alizidi kuleta furaha kwao."
+            "sentence": "Kadri miaka ilipozidi kuyoyoma ndivyo Graca alizidi kuleta furaha kwao."
           },
           {
             "narration": [
@@ -1365,24 +1365,29 @@
                   {
                     "end": 389,
                     "start": 290,
-                    "word": "elimu,ujuzi"
+                    "word": "elimu"
                   },
                   {
-                    "end": 453,
+                    "end": 540,
                     "start": 434,
+                    "word": "ujuzi"
+                  },
+                  {
+                    "end": 591,
+                    "start": 567,
                     "word": "na"
                   },
                   {
                     "end": 699,
-                    "start": 567,
+                    "start": 592,
                     "word": "matumaini"
                   }
                 ],
                 "until": 699,
-                "utterances": "Lakini sasa Graca alikuwa na elimu,ujuzi na matumaini"
+                "utterances": "Lakini sasa Graca alikuwa na elimu ujuzi na matumaini"
               }
             ],
-            "sentence": "Lakini sasa Graca alikuwa na elimu,ujuzi na matumaini."
+            "sentence": "Lakini sasa Graca alikuwa na elimu, ujuzi na matumaini."
           },
           {
             "narration": [
@@ -2174,10 +2179,6 @@
         ]
       ]
     },
-    {
-      "image": "level3_19_page_13_image_0001.jpg",
-      "text": []
-    }
   ],
   "illustrators": "Karlien de Villiers and Marike le Roux",
   "language": "Kiswahili",

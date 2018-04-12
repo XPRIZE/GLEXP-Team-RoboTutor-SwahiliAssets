@@ -931,8 +931,8 @@
         ]
       }, 
       "punctuation": "...", 
-      "sentence": "wa mpwa wa mjukuu...", 
-      "stem": "wa mpwa wa", 
+      "sentence": "Wa mpwa wa mjukuu...", 
+      "stem": "Wa mpwa wa", 
       "target": "mjukuu"
     }, 
     {
@@ -960,8 +960,8 @@
         ]
       }, 
       "punctuation": "...", 
-      "sentence": "wa babu yangu...", 
-      "stem": "wa babu", 
+      "sentence": "Wa babu yangu...", 
+      "stem": "Wa babu", 
       "target": "yangu"
     }, 
     {
@@ -989,8 +989,8 @@
         ]
       }, 
       "punctuation": ".\"", 
-      "sentence": "inaishi Msitu wa Mbali.\"", 
-      "stem": "inaishi Msitu wa", 
+      "sentence": "Inaishi Msitu wa Mbali.\"", 
+      "stem": "Inaishi Msitu wa", 
       "target": "Mbali"
     }, 
     {

@@ -976,7 +976,7 @@
       ]
     },
     {
-      "image": null,
+      "image": "level3_6_page_9_image_0001.jpg",
       "text": [
         [
           {
@@ -1210,7 +1210,12 @@
             ],
             "sentence": "Wapi kwa kwenda?"
           }
-        ],
+        ]
+      ]
+    },
+        {
+      "image": "level3_6_page_9_image_0001.jpg",
+      "text": [
         [
           {
             "narration": [
@@ -1604,10 +1609,6 @@
           }
         ]
       ]
-    },
-    {
-      "image": "level3_6_page_09_image_0001.jpg",
-      "text": []
     },
     {
       "image": "level3_6_page_10_image_0001.jpg",
@@ -2575,7 +2576,7 @@
                   {
                     "end": 48,
                     "start": 21,
-                    "word": "wa"
+                    "word": "Wa"
                   },
                   {
                     "end": 102,
@@ -2594,10 +2595,10 @@
                   }
                 ],
                 "until": 227,
-                "utterances": "wa mpwa wa mjukuu"
+                "utterances": "Wa mpwa wa mjukuu"
               }
             ],
-            "sentence": "wa mpwa wa mjukuu..."
+            "sentence": "Wa mpwa wa mjukuu..."
           },
           {
             "narration": [
@@ -2608,7 +2609,7 @@
                   {
                     "end": 38,
                     "start": 19,
-                    "word": "wa"
+                    "word": "Wa"
                   },
                   {
                     "end": 83,
@@ -2622,10 +2623,10 @@
                   }
                 ],
                 "until": 175,
-                "utterances": "wa babu yangu"
+                "utterances": "Wa babu yangu"
               }
             ],
-            "sentence": "wa babu yangu..."
+            "sentence": "Wa babu yangu..."
           },
           {
             "narration": [
@@ -2636,7 +2637,7 @@
                   {
                     "end": 98,
                     "start": 21,
-                    "word": "inaishi"
+                    "word": "Inaishi"
                   },
                   {
                     "end": 159,
@@ -2655,10 +2656,10 @@
                   }
                 ],
                 "until": 241,
-                "utterances": "inaishi Msitu wa Mbali"
+                "utterances": "Inaishi Msitu wa Mbali"
               }
             ],
-            "sentence": "inaishi Msitu wa Mbali.\""
+            "sentence": "Inaishi Msitu wa Mbali.\""
           }
         ]
       ]

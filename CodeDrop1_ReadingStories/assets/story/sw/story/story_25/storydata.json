@@ -245,21 +245,21 @@
             "narration": [
               {
                 "audio": "alikuwa_na_swali_kwa_kila_mnyama_aliyemuona.mp3",
-                "from": 19,
+                "from": 195,
                 "segmentation": [
                   {
-                    "end": 74,
-                    "start": 19,
+                    "end": 274,
+                    "start": 195,
                     "word": "Alikuwa"
                   },
                   {
-                    "end": 105,
-                    "start": 75,
+                    "end": 290,
+                    "start": 275,
                     "word": "na"
                   },
                   {
                     "end": 333,
-                    "start": 275,
+                    "start": 291,
                     "word": "swali"
                   },
                   {
@@ -1190,10 +1190,6 @@
           }
         ]
       ]
-    },
-    {
-      "image": null,
-      "text": []
     },
     {
       "image": "level2_13_page_15_image_0001.jpg",
