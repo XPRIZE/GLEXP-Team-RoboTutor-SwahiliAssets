@@ -3,26 +3,51 @@
   "copyright": "",
   "data": [
     {
-      "image": "chapati.jpg",
+      "image": "chui.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "chapati.mp3",
+                "audio": "chui.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "chapati"
+                    "word": "chui"
                   }
                 ],
                 "until": -1,
-                "utterances": "chapati"
+                "utterances": "chui"
               }
             ],
-            "sentence": "CHAPATI"
+            "sentence": "CHUI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chakula.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chakula.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chakula"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chakula"
+              }
+            ],
+            "sentence": "CHAKULA"
           }
         ]
       ]
@@ -53,26 +78,26 @@
       ]
     },
     {
-      "image": "chura.jpg",
+      "image": "chungu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "chura.mp3",
+                "audio": "chungu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "chura"
+                    "word": "chungu"
                   }
                 ],
                 "until": -1,
-                "utterances": "chura"
+                "utterances": "chungu"
               }
             ],
-            "sentence": "CHURA"
+            "sentence": "CHUNGU"
           }
         ]
       ]
@@ -103,31 +128,6 @@
       ]
     },
     {
-      "image": "chapati.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chapati.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chapati"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chapati"
-              }
-            ],
-            "sentence": "CHAPATI"
-          }
-        ]
-      ]
-    },
-    {
       "image": "chai.jpg",
       "text": [
         [
@@ -148,156 +148,6 @@
               }
             ],
             "sentence": "CHAI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chakula.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chakula.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chakula"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chakula"
-              }
-            ],
-            "sentence": "CHAKULA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "choo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "choo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "choo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "choo"
-              }
-            ],
-            "sentence": "CHOO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chui.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chui.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chui"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chui"
-              }
-            ],
-            "sentence": "CHUI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chui.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chui.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chui"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chui"
-              }
-            ],
-            "sentence": "CHUI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chakula.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chakula.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chakula"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chakula"
-              }
-            ],
-            "sentence": "CHAKULA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chungu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chungu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chungu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chungu"
-              }
-            ],
-            "sentence": "CHUNGU"
           }
         ]
       ]
@@ -328,31 +178,6 @@
       ]
     },
     {
-      "image": "chai.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chai.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chai"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chai"
-              }
-            ],
-            "sentence": "CHAI"
-          }
-        ]
-      ]
-    },
-    {
       "image": "chura.jpg",
       "text": [
         [
@@ -373,6 +198,56 @@
               }
             ],
             "sentence": "CHURA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "choo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "choo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "choo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "choo"
+              }
+            ],
+            "sentence": "CHOO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chapati.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chapati.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chapati"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chapati"
+              }
+            ],
+            "sentence": "CHAPATI"
           }
         ]
       ]

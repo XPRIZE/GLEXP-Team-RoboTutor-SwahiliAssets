@@ -3,31 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "kichwa.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kichwa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "kichwa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kichwa"
-              }
-            ],
-            "sentence": "kichwa"
-          }
-        ]
-      ]
-    },
-    {
       "image": "mkono.jpg",
       "text": [
         [
@@ -48,181 +23,6 @@
               }
             ],
             "sentence": "mkono"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "tumbo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "tumbo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tumbo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tumbo"
-              }
-            ],
-            "sentence": "tumbo"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "nyayo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "nyayo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nyayo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "nyayo"
-              }
-            ],
-            "sentence": "nyayo"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "mdomo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mdomo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mdomo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mdomo"
-              }
-            ],
-            "sentence": "mdomo"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "vidole.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "vidole.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "vidole"
-                  }
-                ],
-                "until": -1,
-                "utterances": "vidole"
-              }
-            ],
-            "sentence": "vidole"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "pua.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "pua.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "pua"
-                  }
-                ],
-                "until": -1,
-                "utterances": "pua"
-              }
-            ],
-            "sentence": "pua"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "jicho.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jicho.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "jicho"
-                  }
-                ],
-                "until": -1,
-                "utterances": "jicho"
-              }
-            ],
-            "sentence": "jicho"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "meno.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "meno.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "meno"
-                  }
-                ],
-                "until": -1,
-                "utterances": "meno"
-              }
-            ],
-            "sentence": "meno"
           }
         ]
       ]
@@ -253,6 +53,31 @@
       ]
     },
     {
+      "image": "kichwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kichwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kichwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kichwa"
+              }
+            ],
+            "sentence": "kichwa"
+          }
+        ]
+      ]
+    },
+    {
       "image": "goti.jpg",
       "text": [
         [
@@ -273,6 +98,81 @@
               }
             ],
             "sentence": "goti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mdomo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mdomo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mdomo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mdomo"
+              }
+            ],
+            "sentence": "mdomo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "meno.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "meno.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "meno"
+                  }
+                ],
+                "until": -1,
+                "utterances": "meno"
+              }
+            ],
+            "sentence": "meno"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jicho.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jicho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jicho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jicho"
+              }
+            ],
+            "sentence": "jicho"
           }
         ]
       ]
@@ -303,6 +203,56 @@
       ]
     },
     {
+      "image": "tumbo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tumbo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tumbo"
+              }
+            ],
+            "sentence": "tumbo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pua"
+              }
+            ],
+            "sentence": "pua"
+          }
+        ]
+      ]
+    },
+    {
       "image": "mguu.jpg",
       "text": [
         [
@@ -323,6 +273,56 @@
               }
             ],
             "sentence": "mguu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vidole.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vidole.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vidole"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vidole"
+              }
+            ],
+            "sentence": "vidole"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyayo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyayo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyayo"
+              }
+            ],
+            "sentence": "nyayo"
           }
         ]
       ]

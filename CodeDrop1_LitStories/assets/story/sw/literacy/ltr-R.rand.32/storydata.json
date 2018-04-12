@@ -3,31 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "rafiki.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "rafiki.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "rafiki"
-                  }
-                ],
-                "until": -1,
-                "utterances": "rafiki"
-              }
-            ],
-            "sentence": "RAFIKI"
-          }
-        ]
-      ]
-    },
-    {
       "image": "ruka.jpg",
       "text": [
         [
@@ -53,51 +28,26 @@
       ]
     },
     {
-      "image": "runinga.jpg",
+      "image": "ramani.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "runinga.mp3",
+                "audio": "ramani.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "runinga"
+                    "word": "ramani"
                   }
                 ],
                 "until": -1,
-                "utterances": "runinga"
+                "utterances": "ramani"
               }
             ],
-            "sentence": "RUNINGA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "raha.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "raha.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "raha"
-                  }
-                ],
-                "until": -1,
-                "utterances": "raha"
-              }
-            ],
-            "sentence": "RAHA"
+            "sentence": "RAMANI"
           }
         ]
       ]
@@ -153,51 +103,51 @@
       ]
     },
     {
-      "image": "radhi.jpg",
+      "image": "rafiki.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "radhi.mp3",
+                "audio": "rafiki.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "radhi"
+                    "word": "rafiki"
                   }
                 ],
                 "until": -1,
-                "utterances": "radhi"
+                "utterances": "rafiki"
               }
             ],
-            "sentence": "RADHI"
+            "sentence": "RAFIKI"
           }
         ]
       ]
     },
     {
-      "image": "ramani.jpg",
+      "image": "raha.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "ramani.mp3",
+                "audio": "raha.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "ramani"
+                    "word": "raha"
                   }
                 ],
                 "until": -1,
-                "utterances": "ramani"
+                "utterances": "raha"
               }
             ],
-            "sentence": "RAMANI"
+            "sentence": "RAHA"
           }
         ]
       ]
@@ -223,6 +173,56 @@
               }
             ],
             "sentence": "RINDA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "radhi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "radhi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "radhi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "radhi"
+              }
+            ],
+            "sentence": "RADHI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "runinga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "runinga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "runinga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "runinga"
+              }
+            ],
+            "sentence": "RUNINGA"
           }
         ]
       ]

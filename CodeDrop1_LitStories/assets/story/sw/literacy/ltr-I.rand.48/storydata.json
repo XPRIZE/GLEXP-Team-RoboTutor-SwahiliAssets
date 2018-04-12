@@ -3,31 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "ishirini.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ishirini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ishirini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ishirini"
-              }
-            ],
-            "sentence": "ishirini"
-          }
-        ]
-      ]
-    },
-    {
       "image": "iliki.jpg",
       "text": [
         [
@@ -48,31 +23,6 @@
               }
             ],
             "sentence": "iliki"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ingia.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ingia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ingia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ingia"
-              }
-            ],
-            "sentence": "ingia"
           }
         ]
       ]
@@ -103,6 +53,31 @@
       ]
     },
     {
+      "image": "ingia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ingia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ingia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ingia"
+              }
+            ],
+            "sentence": "ingia"
+          }
+        ]
+      ]
+    },
+    {
       "image": "imara.jpg",
       "text": [
         [
@@ -128,26 +103,26 @@
       ]
     },
     {
-      "image": "imejaa.jpg",
+      "image": "imba.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "imejaa.mp3",
+                "audio": "imba.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "imejaa"
+                    "word": "imba"
                   }
                 ],
                 "until": -1,
-                "utterances": "imejaa"
+                "utterances": "imba"
               }
             ],
-            "sentence": "imejaa"
+            "sentence": "imba"
           }
         ]
       ]
@@ -178,26 +153,26 @@
       ]
     },
     {
-      "image": "imba.jpg",
+      "image": "imejaa.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "imba.mp3",
+                "audio": "imejaa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "imba"
+                    "word": "imejaa"
                   }
                 ],
                 "until": -1,
-                "utterances": "imba"
+                "utterances": "imejaa"
               }
             ],
-            "sentence": "imba"
+            "sentence": "imejaa"
           }
         ]
       ]

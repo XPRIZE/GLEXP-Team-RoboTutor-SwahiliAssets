@@ -3,156 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "chombo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chombo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chombo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chombo"
-              }
-            ],
-            "sentence": "chombo"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chakula.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chakula.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chakula"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chakula"
-              }
-            ],
-            "sentence": "chakula"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chapati.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chapati.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chapati"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chapati"
-              }
-            ],
-            "sentence": "chapati"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chakula.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chakula.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chakula"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chakula"
-              }
-            ],
-            "sentence": "chakula"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chura.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chura.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chura"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chura"
-              }
-            ],
-            "sentence": "chura"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chura.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chura.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chura"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chura"
-              }
-            ],
-            "sentence": "chura"
-          }
-        ]
-      ]
-    },
-    {
       "image": "chungu.jpg",
       "text": [
         [
@@ -178,101 +28,51 @@
       ]
     },
     {
-      "image": "chipsi.jpg",
+      "image": "chai.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "chipsi.mp3",
+                "audio": "chai.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "chipsi"
+                    "word": "chai"
                   }
                 ],
                 "until": -1,
-                "utterances": "chipsi"
+                "utterances": "chai"
               }
             ],
-            "sentence": "chipsi"
+            "sentence": "chai"
           }
         ]
       ]
     },
     {
-      "image": "chapati.jpg",
+      "image": "chakula.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "chapati.mp3",
+                "audio": "chakula.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "chapati"
+                    "word": "chakula"
                   }
                 ],
                 "until": -1,
-                "utterances": "chapati"
+                "utterances": "chakula"
               }
             ],
-            "sentence": "chapati"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chui.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chui.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chui"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chui"
-              }
-            ],
-            "sentence": "chui"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chui.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chui.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chui"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chui"
-              }
-            ],
-            "sentence": "chui"
+            "sentence": "chakula"
           }
         ]
       ]
@@ -303,6 +103,131 @@
       ]
     },
     {
+      "image": "chapati.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chapati.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chapati"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chapati"
+              }
+            ],
+            "sentence": "chapati"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chui.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chui.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chui"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chui"
+              }
+            ],
+            "sentence": "chui"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chura.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chura.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chura"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chura"
+              }
+            ],
+            "sentence": "chura"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chombo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chombo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chombo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chombo"
+              }
+            ],
+            "sentence": "chombo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chipsi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chipsi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chipsi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chipsi"
+              }
+            ],
+            "sentence": "chipsi"
+          }
+        ]
+      ]
+    },
+    {
       "image": "chungwa.jpg",
       "text": [
         [
@@ -323,56 +248,6 @@
               }
             ],
             "sentence": "chungwa"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chai.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chai.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chai"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chai"
-              }
-            ],
-            "sentence": "chai"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chai.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chai.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chai"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chai"
-              }
-            ],
-            "sentence": "chai"
           }
         ]
       ]

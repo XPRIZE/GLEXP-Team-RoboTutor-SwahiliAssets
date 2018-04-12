@@ -3,56 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "nyayo_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "nyayo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nyayo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "nyayo"
-              }
-            ],
-            "sentence": "nyayo"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sikio_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sikio.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sikio"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sikio"
-              }
-            ],
-            "sentence": "sikio"
-          }
-        ]
-      ]
-    },
-    {
       "image": "goti_txt.jpg",
       "text": [
         [
@@ -78,76 +28,26 @@
       ]
     },
     {
-      "image": "meno_txt.jpg",
+      "image": "pua_txt.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "meno.mp3",
+                "audio": "pua.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "meno"
+                    "word": "pua"
                   }
                 ],
                 "until": -1,
-                "utterances": "meno"
+                "utterances": "pua"
               }
             ],
-            "sentence": "meno"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bega_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bega.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bega"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bega"
-              }
-            ],
-            "sentence": "bega"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "kichwa_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kichwa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "kichwa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kichwa"
-              }
-            ],
-            "sentence": "kichwa"
+            "sentence": "pua"
           }
         ]
       ]
@@ -178,6 +78,56 @@
       ]
     },
     {
+      "image": "mguu_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mguu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mguu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mguu"
+              }
+            ],
+            "sentence": "mguu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "meno_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "meno.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "meno"
+                  }
+                ],
+                "until": -1,
+                "utterances": "meno"
+              }
+            ],
+            "sentence": "meno"
+          }
+        ]
+      ]
+    },
+    {
       "image": "mkono_txt.jpg",
       "text": [
         [
@@ -198,6 +148,31 @@
               }
             ],
             "sentence": "mkono"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyayo_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyayo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyayo"
+              }
+            ],
+            "sentence": "nyayo"
           }
         ]
       ]
@@ -228,51 +203,26 @@
       ]
     },
     {
-      "image": "mguu_txt.jpg",
+      "image": "kichwa_txt.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "mguu.mp3",
+                "audio": "kichwa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "mguu"
+                    "word": "kichwa"
                   }
                 ],
                 "until": -1,
-                "utterances": "mguu"
+                "utterances": "kichwa"
               }
             ],
-            "sentence": "mguu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "pua_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "pua.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "pua"
-                  }
-                ],
-                "until": -1,
-                "utterances": "pua"
-              }
-            ],
-            "sentence": "pua"
+            "sentence": "kichwa"
           }
         ]
       ]
@@ -323,6 +273,56 @@
               }
             ],
             "sentence": "jicho"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sikio_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sikio.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sikio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sikio"
+              }
+            ],
+            "sentence": "sikio"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bega_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bega.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bega"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bega"
+              }
+            ],
+            "sentence": "bega"
           }
         ]
       ]

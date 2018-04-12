@@ -28,31 +28,6 @@
       ]
     },
     {
-      "image": "gunia.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "gunia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "gunia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "gunia"
-              }
-            ],
-            "sentence": "GUNIA"
-          }
-        ]
-      ]
-    },
-    {
       "image": "goti.jpg",
       "text": [
         [
@@ -73,81 +48,6 @@
               }
             ],
             "sentence": "GOTI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "gogo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "gogo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "gogo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "gogo"
-              }
-            ],
-            "sentence": "GOGO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "giza.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "giza.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "giza"
-                  }
-                ],
-                "until": -1,
-                "utterances": "giza"
-              }
-            ],
-            "sentence": "GIZA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "gogo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "gogo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "gogo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "gogo"
-              }
-            ],
-            "sentence": "GOGO"
           }
         ]
       ]
@@ -203,26 +103,76 @@
       ]
     },
     {
-      "image": "godoro.jpg",
+      "image": "giza.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "godoro.mp3",
+                "audio": "giza.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "godoro"
+                    "word": "giza"
                   }
                 ],
                 "until": -1,
-                "utterances": "godoro"
+                "utterances": "giza"
               }
             ],
-            "sentence": "GODORO"
+            "sentence": "GIZA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "goli.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "goli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "goli"
+              }
+            ],
+            "sentence": "GOLI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gunia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gunia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gunia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gunia"
+              }
+            ],
+            "sentence": "GUNIA"
           }
         ]
       ]
@@ -253,51 +203,51 @@
       ]
     },
     {
-      "image": "goti.jpg",
+      "image": "godoro.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "goti.mp3",
+                "audio": "godoro.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "goti"
+                    "word": "godoro"
                   }
                 ],
                 "until": -1,
-                "utterances": "goti"
+                "utterances": "godoro"
               }
             ],
-            "sentence": "GOTI"
+            "sentence": "GODORO"
           }
         ]
       ]
     },
     {
-      "image": "goli.jpg",
+      "image": "gogo.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "goli.mp3",
+                "audio": "gogo.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "goli"
+                    "word": "gogo"
                   }
                 ],
                 "until": -1,
-                "utterances": "goli"
+                "utterances": "gogo"
               }
             ],
-            "sentence": "GOLI"
+            "sentence": "GOGO"
           }
         ]
       ]

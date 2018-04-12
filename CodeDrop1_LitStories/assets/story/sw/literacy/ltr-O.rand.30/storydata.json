@@ -3,101 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "oka.jpg",
+      "image": "ovaroli.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "oka.mp3",
+                "audio": "ovaroli.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "oka"
+                    "word": "ovaroli"
                   }
                 ],
                 "until": -1,
-                "utterances": "oka"
+                "utterances": "ovaroli"
               }
             ],
-            "sentence": "OKA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ogelea.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ogelea.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ogelea"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ogelea"
-              }
-            ],
-            "sentence": "OGELEA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "omba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "omba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "omba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "omba"
-              }
-            ],
-            "sentence": "OMBA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "oa.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "oa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "oa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "oa"
-              }
-            ],
-            "sentence": "OA"
+            "sentence": "OVAROLI"
           }
         ]
       ]
@@ -153,26 +78,51 @@
       ]
     },
     {
-      "image": "osha.jpg",
+      "image": "oka.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "osha.mp3",
+                "audio": "oka.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "osha"
+                    "word": "oka"
                   }
                 ],
                 "until": -1,
-                "utterances": "osha"
+                "utterances": "oka"
               }
             ],
-            "sentence": "OSHA"
+            "sentence": "OKA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ogelea.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ogelea.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ogelea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ogelea"
+              }
+            ],
+            "sentence": "OGELEA"
           }
         ]
       ]
@@ -203,26 +153,76 @@
       ]
     },
     {
-      "image": "ovaroli.jpg",
+      "image": "osha.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "ovaroli.mp3",
+                "audio": "osha.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "ovaroli"
+                    "word": "osha"
                   }
                 ],
                 "until": -1,
-                "utterances": "ovaroli"
+                "utterances": "osha"
               }
             ],
-            "sentence": "OVAROLI"
+            "sentence": "OSHA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "omba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "omba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "omba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "omba"
+              }
+            ],
+            "sentence": "OMBA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "oa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "oa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "oa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "oa"
+              }
+            ],
+            "sentence": "OA"
           }
         ]
       ]

@@ -3,56 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "mjoma_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mjoma.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mjoma"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mjoma"
-              }
-            ],
-            "sentence": "mjoma"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "mwalimu_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mwalimu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mwalimu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mwalimu"
-              }
-            ],
-            "sentence": "mwalimu"
-          }
-        ]
-      ]
-    },
-    {
       "image": "baba_txt.jpg",
       "text": [
         [
@@ -78,26 +28,26 @@
       ]
     },
     {
-      "image": "kinyozi_txt.jpg",
+      "image": "mjoma_txt.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "kinyozi.mp3",
+                "audio": "mjoma.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "kinyozi"
+                    "word": "mjoma"
                   }
                 ],
                 "until": -1,
-                "utterances": "kinyozi"
+                "utterances": "mjoma"
               }
             ],
-            "sentence": "kinyozi"
+            "sentence": "mjoma"
           }
         ]
       ]
@@ -128,56 +78,6 @@
       ]
     },
     {
-      "image": "mwanafunzi_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mwanafunzi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mwanafunzi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mwanafunzi"
-              }
-            ],
-            "sentence": "mwanafunzi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "babu_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "babu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "babu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "babu"
-              }
-            ],
-            "sentence": "babu"
-          }
-        ]
-      ]
-    },
-    {
       "image": "mama_txt.jpg",
       "text": [
         [
@@ -198,31 +98,6 @@
               }
             ],
             "sentence": "mama"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "shangazi_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "shangazi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "shangazi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "shangazi"
-              }
-            ],
-            "sentence": "shangazi"
           }
         ]
       ]
@@ -253,31 +128,6 @@
       ]
     },
     {
-      "image": "dada_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dada.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dada"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dada"
-              }
-            ],
-            "sentence": "dada"
-          }
-        ]
-      ]
-    },
-    {
       "image": "mkulima_txt.jpg",
       "text": [
         [
@@ -298,6 +148,156 @@
               }
             ],
             "sentence": "mkulima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwanafunzi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanafunzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwanafunzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwanafunzi"
+              }
+            ],
+            "sentence": "mwanafunzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "shangazi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shangazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "shangazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "shangazi"
+              }
+            ],
+            "sentence": "shangazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kinyozi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kinyozi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kinyozi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kinyozi"
+              }
+            ],
+            "sentence": "kinyozi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "babu_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "babu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "babu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "babu"
+              }
+            ],
+            "sentence": "babu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwalimu_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwalimu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwalimu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwalimu"
+              }
+            ],
+            "sentence": "mwalimu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dada_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dada.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dada"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dada"
+              }
+            ],
+            "sentence": "dada"
           }
         ]
       ]

@@ -3,126 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "sita.jpg",
+      "image": "sikio.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sita.mp3",
+                "audio": "sikio.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "sita"
+                    "word": "sikio"
                   }
                 ],
                 "until": -1,
-                "utterances": "sita"
+                "utterances": "sikio"
               }
             ],
-            "sentence": "sita"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "saa.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "saa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "saa"
-              }
-            ],
-            "sentence": "saa"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "simba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "simba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "simba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "simba"
-              }
-            ],
-            "sentence": "simba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sahani.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sahani.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sahani"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sahani"
-              }
-            ],
-            "sentence": "sahani"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "samaki.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "samaki.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "samaki"
-                  }
-                ],
-                "until": -1,
-                "utterances": "samaki"
-              }
-            ],
-            "sentence": "samaki"
+            "sentence": "sikio"
           }
         ]
       ]
@@ -153,26 +53,26 @@
       ]
     },
     {
-      "image": "sikio.jpg",
+      "image": "sahani.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sikio.mp3",
+                "audio": "sahani.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "sikio"
+                    "word": "sahani"
                   }
                 ],
                 "until": -1,
-                "utterances": "sikio"
+                "utterances": "sahani"
               }
             ],
-            "sentence": "sikio"
+            "sentence": "sahani"
           }
         ]
       ]
@@ -203,181 +103,6 @@
       ]
     },
     {
-      "image": "shangazi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "shangazi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "shangazi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "shangazi"
-              }
-            ],
-            "sentence": "shangazi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "swala.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "swala.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "swala"
-                  }
-                ],
-                "until": -1,
-                "utterances": "swala"
-              }
-            ],
-            "sentence": "swala"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sifuri.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sifuri.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sifuri"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sifuri"
-              }
-            ],
-            "sentence": "sifuri"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "saba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "saba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "saba"
-              }
-            ],
-            "sentence": "saba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "samaki.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "samaki.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "samaki"
-                  }
-                ],
-                "until": -1,
-                "utterances": "samaki"
-              }
-            ],
-            "sentence": "samaki"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "shangazi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "shangazi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "shangazi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "shangazi"
-              }
-            ],
-            "sentence": "shangazi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "songura.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "songura.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "songura"
-                  }
-                ],
-                "until": -1,
-                "utterances": "songura"
-              }
-            ],
-            "sentence": "songura"
-          }
-        ]
-      ]
-    },
-    {
       "image": "simba.jpg",
       "text": [
         [
@@ -398,81 +123,6 @@
               }
             ],
             "sentence": "simba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sasa.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sasa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sasa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sasa"
-              }
-            ],
-            "sentence": "sasa"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sikio.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sikio.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sikio"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sikio"
-              }
-            ],
-            "sentence": "sikio"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sitini.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sitini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sitini"
-              }
-            ],
-            "sentence": "sitini"
           }
         ]
       ]
@@ -503,51 +153,101 @@
       ]
     },
     {
-      "image": "sabini.jpg",
+      "image": "shangazi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sabini.mp3",
+                "audio": "shangazi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "sabini"
+                    "word": "shangazi"
                   }
                 ],
                 "until": -1,
-                "utterances": "sabini"
+                "utterances": "shangazi"
               }
             ],
-            "sentence": "sabini"
+            "sentence": "shangazi"
           }
         ]
       ]
     },
     {
-      "image": "sisi.jpg",
+      "image": "saa.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sisi.mp3",
+                "audio": "saa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "sisi"
+                    "word": "saa"
                   }
                 ],
                 "until": -1,
-                "utterances": "sisi"
+                "utterances": "saa"
               }
             ],
-            "sentence": "sisi"
+            "sentence": "saa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "swala.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swala.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "swala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "swala"
+              }
+            ],
+            "sentence": "swala"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "samaki.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "samaki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "samaki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "samaki"
+              }
+            ],
+            "sentence": "samaki"
           }
         ]
       ]

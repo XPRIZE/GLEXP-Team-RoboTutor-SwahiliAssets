@@ -3,6 +3,106 @@
   "copyright": "",
   "data": [
     {
+      "image": "dobi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dobi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dobi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dobi"
+              }
+            ],
+            "sentence": "DOBI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dogo"
+              }
+            ],
+            "sentence": "DOGO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "duma.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "duma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "duma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "duma"
+              }
+            ],
+            "sentence": "DUMA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dadako.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dadako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dadako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dadako"
+              }
+            ],
+            "sentence": "DADAKO"
+          }
+        ]
+      ]
+    },
+    {
       "image": "dereva.jpg",
       "text": [
         [
@@ -53,106 +153,6 @@
       ]
     },
     {
-      "image": "dudu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dudu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dudu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dudu"
-              }
-            ],
-            "sentence": "DUDU"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "dada.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dada.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dada"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dada"
-              }
-            ],
-            "sentence": "DADA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "dada.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dada.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dada"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dada"
-              }
-            ],
-            "sentence": "DADA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "duma.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "duma.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "duma"
-                  }
-                ],
-                "until": -1,
-                "utterances": "duma"
-              }
-            ],
-            "sentence": "DUMA"
-          }
-        ]
-      ]
-    },
-    {
       "image": "debe.jpg",
       "text": [
         [
@@ -173,31 +173,6 @@
               }
             ],
             "sentence": "DEBE"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "dadako.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dadako.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dadako"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dadako"
-              }
-            ],
-            "sentence": "DADAKO"
           }
         ]
       ]
@@ -228,51 +203,26 @@
       ]
     },
     {
-      "image": "dogo.jpg",
+      "image": "dudu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "dogo.mp3",
+                "audio": "dudu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "dogo"
+                    "word": "dudu"
                   }
                 ],
                 "until": -1,
-                "utterances": "dogo"
+                "utterances": "dudu"
               }
             ],
-            "sentence": "DOGO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "dobi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dobi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dobi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dobi"
-              }
-            ],
-            "sentence": "DOBI"
+            "sentence": "DUDU"
           }
         ]
       ]

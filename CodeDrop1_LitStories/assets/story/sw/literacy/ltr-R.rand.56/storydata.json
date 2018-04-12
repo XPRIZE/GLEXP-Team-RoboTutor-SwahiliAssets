@@ -3,26 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "redio.jpg",
+      "image": "rafiki.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "redio.mp3",
+                "audio": "rafiki.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "redio"
+                    "word": "rafiki"
                   }
                 ],
                 "until": -1,
-                "utterances": "redio"
+                "utterances": "rafiki"
               }
             ],
-            "sentence": "redio"
+            "sentence": "rafiki"
           }
         ]
       ]
@@ -53,56 +53,6 @@
       ]
     },
     {
-      "image": "ramani.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ramani.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ramani"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ramani"
-              }
-            ],
-            "sentence": "ramani"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "rangi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "rangi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "rangi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "rangi"
-              }
-            ],
-            "sentence": "rangi"
-          }
-        ]
-      ]
-    },
-    {
       "image": "runinga.jpg",
       "text": [
         [
@@ -123,56 +73,6 @@
               }
             ],
             "sentence": "runinga"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "rafiki.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "rafiki.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "rafiki"
-                  }
-                ],
-                "until": -1,
-                "utterances": "rafiki"
-              }
-            ],
-            "sentence": "rafiki"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "raha.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "raha.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "raha"
-                  }
-                ],
-                "until": -1,
-                "utterances": "raha"
-              }
-            ],
-            "sentence": "raha"
           }
         ]
       ]
@@ -203,6 +103,31 @@
       ]
     },
     {
+      "image": "ramani.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ramani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ramani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ramani"
+              }
+            ],
+            "sentence": "ramani"
+          }
+        ]
+      ]
+    },
+    {
       "image": "rinda.jpg",
       "text": [
         [
@@ -223,6 +148,81 @@
               }
             ],
             "sentence": "rinda"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "redio.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "redio.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "redio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "redio"
+              }
+            ],
+            "sentence": "redio"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "rangi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rangi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "rangi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "rangi"
+              }
+            ],
+            "sentence": "rangi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "raha.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "raha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "raha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "raha"
+              }
+            ],
+            "sentence": "raha"
           }
         ]
       ]

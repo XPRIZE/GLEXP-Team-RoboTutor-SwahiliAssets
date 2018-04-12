@@ -3,351 +3,51 @@
   "copyright": "",
   "data": [
     {
-      "image": "tembo_txt.jpg",
+      "image": "chui_txt.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "tembo.mp3",
+                "audio": "chui.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "tembo"
+                    "word": "chui"
                   }
                 ],
                 "until": -1,
-                "utterances": "tembo"
+                "utterances": "chui"
               }
             ],
-            "sentence": "tembo"
+            "sentence": "chui"
           }
         ]
       ]
     },
     {
-      "image": "twiga_txt.jpg",
+      "image": "ng'ombe_txt.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "twiga.mp3",
+                "audio": "ng'ombe.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "twiga"
+                    "word": "ng'ombe"
                   }
                 ],
                 "until": -1,
-                "utterances": "twiga"
+                "utterances": "ng'ombe"
               }
             ],
-            "sentence": "twiga"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "simba_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "simba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "simba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "simba"
-              }
-            ],
-            "sentence": "simba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "mbuni_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mbuni.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbuni"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mbuni"
-              }
-            ],
-            "sentence": "mbuni"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "mbuzi_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mbuzi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbuzi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mbuzi"
-              }
-            ],
-            "sentence": "mbuzi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "songura_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "songura.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "songura"
-                  }
-                ],
-                "until": -1,
-                "utterances": "songura"
-              }
-            ],
-            "sentence": "songura"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "kondoo_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kondoo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "kondoo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kondoo"
-              }
-            ],
-            "sentence": "kondoo"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "nyoka_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "nyoka.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nyoka"
-                  }
-                ],
-                "until": -1,
-                "utterances": "nyoka"
-              }
-            ],
-            "sentence": "nyoka"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "paka_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "paka.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "paka"
-                  }
-                ],
-                "until": -1,
-                "utterances": "paka"
-              }
-            ],
-            "sentence": "paka"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "farasi_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "farasi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "farasi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "farasi"
-              }
-            ],
-            "sentence": "farasi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "panya_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "panya.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "panya"
-                  }
-                ],
-                "until": -1,
-                "utterances": "panya"
-              }
-            ],
-            "sentence": "panya"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "fisi_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "fisi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "fisi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "fisi"
-              }
-            ],
-            "sentence": "fisi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bata_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bata.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bata"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bata"
-              }
-            ],
-            "sentence": "bata"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "chura_txt.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "chura.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "chura"
-                  }
-                ],
-                "until": -1,
-                "utterances": "chura"
-              }
-            ],
-            "sentence": "chura"
+            "sentence": "ng'ombe"
           }
         ]
       ]
@@ -378,51 +78,201 @@
       ]
     },
     {
-      "image": "chui_txt.jpg",
+      "image": "nyoka_txt.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "chui.mp3",
+                "audio": "nyoka.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "chui"
+                    "word": "nyoka"
                   }
                 ],
                 "until": -1,
-                "utterances": "chui"
+                "utterances": "nyoka"
               }
             ],
-            "sentence": "chui"
+            "sentence": "nyoka"
           }
         ]
       ]
     },
     {
-      "image": "ng_ombe_txt.jpg",
+      "image": "mbuzi_txt.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "ng_ombe.mp3",
+                "audio": "mbuzi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "ng'ombe"
+                    "word": "mbuzi"
                   }
                 ],
                 "until": -1,
-                "utterances": "ng'ombe"
+                "utterances": "mbuzi"
               }
             ],
-            "sentence": "ng'ombe"
+            "sentence": "mbuzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "simba_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "simba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simba"
+              }
+            ],
+            "sentence": "simba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fisi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fisi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fisi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fisi"
+              }
+            ],
+            "sentence": "fisi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "farasi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "farasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "farasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "farasi"
+              }
+            ],
+            "sentence": "farasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "songura_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "songura.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "songura"
+                  }
+                ],
+                "until": -1,
+                "utterances": "songura"
+              }
+            ],
+            "sentence": "songura"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chura_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chura.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chura"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chura"
+              }
+            ],
+            "sentence": "chura"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbuni_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbuni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbuni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbuni"
+              }
+            ],
+            "sentence": "mbuni"
           }
         ]
       ]
@@ -473,6 +323,156 @@
               }
             ],
             "sentence": "punda"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tembo_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tembo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tembo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tembo"
+              }
+            ],
+            "sentence": "tembo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kondoo_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kondoo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kondoo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kondoo"
+              }
+            ],
+            "sentence": "kondoo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "twiga_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "twiga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "twiga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "twiga"
+              }
+            ],
+            "sentence": "twiga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "paka_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "paka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "paka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "paka"
+              }
+            ],
+            "sentence": "paka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bata_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bata.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bata"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bata"
+              }
+            ],
+            "sentence": "bata"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "panya_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "panya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "panya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "panya"
+              }
+            ],
+            "sentence": "panya"
           }
         ]
       ]

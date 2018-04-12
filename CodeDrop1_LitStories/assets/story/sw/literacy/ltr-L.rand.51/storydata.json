@@ -3,26 +3,51 @@
   "copyright": "",
   "data": [
     {
-      "image": "lulu.jpg",
+      "image": "lala.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "lulu.mp3",
+                "audio": "lala.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "lulu"
+                    "word": "lala"
                   }
                 ],
                 "until": -1,
-                "utterances": "lulu"
+                "utterances": "lala"
               }
             ],
-            "sentence": "lulu"
+            "sentence": "lala"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lamba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lamba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lamba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lamba"
+              }
+            ],
+            "sentence": "lamba"
           }
         ]
       ]
@@ -53,51 +78,26 @@
       ]
     },
     {
-      "image": "limau.jpg",
+      "image": "lulu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "limau.mp3",
+                "audio": "lulu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "limau"
+                    "word": "lulu"
                   }
                 ],
                 "until": -1,
-                "utterances": "limau"
+                "utterances": "lulu"
               }
             ],
-            "sentence": "limau"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "lele.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lele.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lele"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lele"
-              }
-            ],
-            "sentence": "lele"
+            "sentence": "lulu"
           }
         ]
       ]
@@ -153,76 +153,26 @@
       ]
     },
     {
-      "image": "lamba.jpg",
+      "image": "limau.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "lamba.mp3",
+                "audio": "limau.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "lamba"
+                    "word": "limau"
                   }
                 ],
                 "until": -1,
-                "utterances": "lamba"
+                "utterances": "limau"
               }
             ],
-            "sentence": "lamba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "lala.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lala.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lala"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lala"
-              }
-            ],
-            "sentence": "lala"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "lala.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lala.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lala"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lala"
-              }
-            ],
-            "sentence": "lala"
+            "sentence": "limau"
           }
         ]
       ]

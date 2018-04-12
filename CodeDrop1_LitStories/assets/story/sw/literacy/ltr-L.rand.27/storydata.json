@@ -3,51 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "lori.jpg",
+      "image": "lamba.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "lori.mp3",
+                "audio": "lamba.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "lori"
+                    "word": "lamba"
                   }
                 ],
                 "until": -1,
-                "utterances": "lori"
+                "utterances": "lamba"
               }
             ],
-            "sentence": "LORI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "lulu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lulu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lulu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lulu"
-              }
-            ],
-            "sentence": "LULU"
+            "sentence": "LAMBA"
           }
         ]
       ]
@@ -78,6 +53,56 @@
       ]
     },
     {
+      "image": "lala.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lala.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lala"
+              }
+            ],
+            "sentence": "LALA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lulu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lulu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lulu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lulu"
+              }
+            ],
+            "sentence": "LULU"
+          }
+        ]
+      ]
+    },
+    {
       "image": "lima.jpg",
       "text": [
         [
@@ -98,81 +123,6 @@
               }
             ],
             "sentence": "LIMA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "lala.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lala.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lala"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lala"
-              }
-            ],
-            "sentence": "LALA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "lala.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lala.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lala"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lala"
-              }
-            ],
-            "sentence": "LALA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "lele.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lele.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lele"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lele"
-              }
-            ],
-            "sentence": "LELE"
           }
         ]
       ]
@@ -203,26 +153,26 @@
       ]
     },
     {
-      "image": "lamba.jpg",
+      "image": "lori.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "lamba.mp3",
+                "audio": "lori.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "lamba"
+                    "word": "lori"
                   }
                 ],
                 "until": -1,
-                "utterances": "lamba"
+                "utterances": "lori"
               }
             ],
-            "sentence": "LAMBA"
+            "sentence": "LORI"
           }
         ]
       ]

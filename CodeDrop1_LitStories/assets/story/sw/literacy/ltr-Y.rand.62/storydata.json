@@ -3,51 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "yaya.jpg",
+      "image": "yangu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "yaya.mp3",
+                "audio": "yangu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "yaya"
+                    "word": "yangu"
                   }
                 ],
                 "until": -1,
-                "utterances": "yaya"
+                "utterances": "yangu"
               }
             ],
-            "sentence": "yaya"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "yeye.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "yeye.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "yeye"
-                  }
-                ],
-                "until": -1,
-                "utterances": "yeye"
-              }
-            ],
-            "sentence": "yeye"
+            "sentence": "yangu"
           }
         ]
       ]
@@ -78,31 +53,6 @@
       ]
     },
     {
-      "image": "yadi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "yadi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "yadi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "yadi"
-              }
-            ],
-            "sentence": "yadi"
-          }
-        ]
-      ]
-    },
-    {
       "image": "yai.jpg",
       "text": [
         [
@@ -128,26 +78,26 @@
       ]
     },
     {
-      "image": "yangu.jpg",
+      "image": "yadi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "yangu.mp3",
+                "audio": "yadi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "yangu"
+                    "word": "yadi"
                   }
                 ],
                 "until": -1,
-                "utterances": "yangu"
+                "utterances": "yadi"
               }
             ],
-            "sentence": "yangu"
+            "sentence": "yadi"
           }
         ]
       ]

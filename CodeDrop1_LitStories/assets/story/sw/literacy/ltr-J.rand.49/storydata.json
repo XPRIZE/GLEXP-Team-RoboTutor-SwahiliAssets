@@ -3,81 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "jembe.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jembe.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "jembe"
-                  }
-                ],
-                "until": -1,
-                "utterances": "jembe"
-              }
-            ],
-            "sentence": "jembe"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "jiji.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jiji.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "jiji"
-                  }
-                ],
-                "until": -1,
-                "utterances": "jiji"
-              }
-            ],
-            "sentence": "jiji"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "jiwe.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jiwe.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "jiwe"
-                  }
-                ],
-                "until": -1,
-                "utterances": "jiwe"
-              }
-            ],
-            "sentence": "jiwe"
-          }
-        ]
-      ]
-    },
-    {
       "image": "jasho.jpg",
       "text": [
         [
@@ -98,56 +23,6 @@
               }
             ],
             "sentence": "jasho"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "jike.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jike.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "jike"
-                  }
-                ],
-                "until": -1,
-                "utterances": "jike"
-              }
-            ],
-            "sentence": "jike"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "jicho.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jicho.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "jicho"
-                  }
-                ],
-                "until": -1,
-                "utterances": "jicho"
-              }
-            ],
-            "sentence": "jicho"
           }
         ]
       ]
@@ -178,6 +53,31 @@
       ]
     },
     {
+      "image": "jekundu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jekundu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jekundu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jekundu"
+              }
+            ],
+            "sentence": "jekundu"
+          }
+        ]
+      ]
+    },
+    {
       "image": "joto.jpg",
       "text": [
         [
@@ -203,51 +103,76 @@
       ]
     },
     {
-      "image": "jicho.jpg",
+      "image": "jembe.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "jicho.mp3",
+                "audio": "jembe.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "jicho"
+                    "word": "jembe"
                   }
                 ],
                 "until": -1,
-                "utterances": "jicho"
+                "utterances": "jembe"
               }
             ],
-            "sentence": "jicho"
+            "sentence": "jembe"
           }
         ]
       ]
     },
     {
-      "image": "jiko.jpg",
+      "image": "jiwe.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "jiko.mp3",
+                "audio": "jiwe.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "jiko"
+                    "word": "jiwe"
                   }
                 ],
                 "until": -1,
-                "utterances": "jiko"
+                "utterances": "jiwe"
               }
             ],
-            "sentence": "jiko"
+            "sentence": "jiwe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jikoni.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jikoni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jikoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jikoni"
+              }
+            ],
+            "sentence": "jikoni"
           }
         ]
       ]
@@ -278,51 +203,76 @@
       ]
     },
     {
-      "image": "jekundu.jpg",
+      "image": "jike.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "jekundu.mp3",
+                "audio": "jike.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "jekundu"
+                    "word": "jike"
                   }
                 ],
                 "until": -1,
-                "utterances": "jekundu"
+                "utterances": "jike"
               }
             ],
-            "sentence": "jekundu"
+            "sentence": "jike"
           }
         ]
       ]
     },
     {
-      "image": "jikoni.jpg",
+      "image": "jiko.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "jikoni.mp3",
+                "audio": "jiko.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "jikoni"
+                    "word": "jiko"
                   }
                 ],
                 "until": -1,
-                "utterances": "jikoni"
+                "utterances": "jiko"
               }
             ],
-            "sentence": "jikoni"
+            "sentence": "jiko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jicho.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jicho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jicho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jicho"
+              }
+            ],
+            "sentence": "jicho"
           }
         ]
       ]

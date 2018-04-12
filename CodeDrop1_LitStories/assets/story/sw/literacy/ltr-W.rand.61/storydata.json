@@ -3,31 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "wavu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "wavu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "wavu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "wavu"
-              }
-            ],
-            "sentence": "wavu"
-          }
-        ]
-      ]
-    },
-    {
       "image": "watu.jpg",
       "text": [
         [
@@ -48,106 +23,6 @@
               }
             ],
             "sentence": "watu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "wadudu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "wadudu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "wadudu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "wadudu"
-              }
-            ],
-            "sentence": "wadudu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "wakitembea.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "wakitembea.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "wakitembea"
-                  }
-                ],
-                "until": -1,
-                "utterances": "wakitembea"
-              }
-            ],
-            "sentence": "wakitembea"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "wali.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "wali.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "wali"
-                  }
-                ],
-                "until": -1,
-                "utterances": "wali"
-              }
-            ],
-            "sentence": "wali"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "watoto.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "watoto.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "watoto"
-                  }
-                ],
-                "until": -1,
-                "utterances": "watoto"
-              }
-            ],
-            "sentence": "watoto"
           }
         ]
       ]
@@ -178,26 +53,26 @@
       ]
     },
     {
-      "image": "wakulima.jpg",
+      "image": "walimu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "wakulima.mp3",
+                "audio": "walimu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "wakulima"
+                    "word": "walimu"
                   }
                 ],
                 "until": -1,
-                "utterances": "wakulima"
+                "utterances": "walimu"
               }
             ],
-            "sentence": "wakulima"
+            "sentence": "walimu"
           }
         ]
       ]
@@ -228,51 +103,101 @@
       ]
     },
     {
-      "image": "walimu.jpg",
+      "image": "wavu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "walimu.mp3",
+                "audio": "wavu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "walimu"
+                    "word": "wavu"
                   }
                 ],
                 "until": -1,
-                "utterances": "walimu"
+                "utterances": "wavu"
               }
             ],
-            "sentence": "walimu"
+            "sentence": "wavu"
           }
         ]
       ]
     },
     {
-      "image": "wewe.jpg",
+      "image": "watoto.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "wewe.mp3",
+                "audio": "watoto.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "wewe"
+                    "word": "watoto"
                   }
                 ],
                 "until": -1,
-                "utterances": "wewe"
+                "utterances": "watoto"
               }
             ],
-            "sentence": "wewe"
+            "sentence": "watoto"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wakulima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakulima"
+              }
+            ],
+            "sentence": "wakulima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wadudu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wadudu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wadudu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wadudu"
+              }
+            ],
+            "sentence": "wadudu"
           }
         ]
       ]
@@ -298,6 +223,31 @@
               }
             ],
             "sentence": "wakiruka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wakitembea.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakitembea.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakitembea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakitembea"
+              }
+            ],
+            "sentence": "wakitembea"
           }
         ]
       ]

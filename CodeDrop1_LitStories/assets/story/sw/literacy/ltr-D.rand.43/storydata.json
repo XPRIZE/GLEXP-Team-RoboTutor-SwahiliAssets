@@ -3,81 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "dadako.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dadako.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dadako"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dadako"
-              }
-            ],
-            "sentence": "dadako"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "dada.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dada.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dada"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dada"
-              }
-            ],
-            "sentence": "dada"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "duma.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "duma.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "duma"
-                  }
-                ],
-                "until": -1,
-                "utterances": "duma"
-              }
-            ],
-            "sentence": "duma"
-          }
-        ]
-      ]
-    },
-    {
       "image": "dau.jpg",
       "text": [
         [
@@ -98,31 +23,6 @@
               }
             ],
             "sentence": "dau"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "dada.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dada.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dada"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dada"
-              }
-            ],
-            "sentence": "dada"
           }
         ]
       ]
@@ -153,26 +53,26 @@
       ]
     },
     {
-      "image": "debe.jpg",
+      "image": "dogo.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "debe.mp3",
+                "audio": "dogo.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "debe"
+                    "word": "dogo"
                   }
                 ],
                 "until": -1,
-                "utterances": "debe"
+                "utterances": "dogo"
               }
             ],
-            "sentence": "debe"
+            "sentence": "dogo"
           }
         ]
       ]
@@ -203,26 +103,26 @@
       ]
     },
     {
-      "image": "dogo.jpg",
+      "image": "debe.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "dogo.mp3",
+                "audio": "debe.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "dogo"
+                    "word": "debe"
                   }
                 ],
                 "until": -1,
-                "utterances": "dogo"
+                "utterances": "debe"
               }
             ],
-            "sentence": "dogo"
+            "sentence": "debe"
           }
         ]
       ]
@@ -273,6 +173,56 @@
               }
             ],
             "sentence": "dada"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dadako.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dadako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dadako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dadako"
+              }
+            ],
+            "sentence": "dadako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "duma.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "duma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "duma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "duma"
+              }
+            ],
+            "sentence": "duma"
           }
         ]
       ]

@@ -28,51 +28,76 @@
       ]
     },
     {
-      "image": "zeze.jpg",
+      "image": "zizi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "zeze.mp3",
+                "audio": "zizi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "zeze"
+                    "word": "zizi"
                   }
                 ],
                 "until": -1,
-                "utterances": "zeze"
+                "utterances": "zizi"
               }
             ],
-            "sentence": "zeze"
+            "sentence": "zizi"
           }
         ]
       ]
     },
     {
-      "image": "zuri.jpg",
+      "image": "zabibu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "zuri.mp3",
+                "audio": "zabibu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "zuri"
+                    "word": "zabibu"
                   }
                 ],
                 "until": -1,
-                "utterances": "zuri"
+                "utterances": "zabibu"
               }
             ],
-            "sentence": "zuri"
+            "sentence": "zabibu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zulia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zulia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zulia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zulia"
+              }
+            ],
+            "sentence": "zulia"
           }
         ]
       ]
@@ -128,6 +153,56 @@
       ]
     },
     {
+      "image": "zeze.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zeze.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zeze"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zeze"
+              }
+            ],
+            "sentence": "zeze"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zuri.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zuri.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zuri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zuri"
+              }
+            ],
+            "sentence": "zuri"
+          }
+        ]
+      ]
+    },
+    {
       "image": "zaidi.jpg",
       "text": [
         [
@@ -148,81 +223,6 @@
               }
             ],
             "sentence": "zaidi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "zulia.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "zulia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "zulia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "zulia"
-              }
-            ],
-            "sentence": "zulia"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "zabibu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "zabibu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "zabibu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "zabibu"
-              }
-            ],
-            "sentence": "zabibu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "zizi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "zizi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "zizi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "zizi"
-              }
-            ],
-            "sentence": "zizi"
           }
         ]
       ]

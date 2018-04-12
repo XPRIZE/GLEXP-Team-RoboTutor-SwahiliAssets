@@ -28,6 +28,81 @@
       ]
     },
     {
+      "image": "fagio.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fagio.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fagio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fagio"
+              }
+            ],
+            "sentence": "FAGIO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fupi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fupi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fupi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fupi"
+              }
+            ],
+            "sentence": "FUPI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "funzo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "funzo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "funzo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "funzo"
+              }
+            ],
+            "sentence": "FUNZO"
+          }
+        ]
+      ]
+    },
+    {
       "image": "fulana.jpg",
       "text": [
         [
@@ -98,131 +173,6 @@
               }
             ],
             "sentence": "FISI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "fagio.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "fagio.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "fagio"
-                  }
-                ],
-                "until": -1,
-                "utterances": "fagio"
-              }
-            ],
-            "sentence": "FAGIO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "farasi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "farasi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "farasi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "farasi"
-              }
-            ],
-            "sentence": "FARASI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "funzo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "funzo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "funzo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "funzo"
-              }
-            ],
-            "sentence": "FUNZO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "fisi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "fisi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "fisi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "fisi"
-              }
-            ],
-            "sentence": "FISI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "fupi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "fupi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "fupi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "fupi"
-              }
-            ],
-            "sentence": "FUPI"
           }
         ]
       ]

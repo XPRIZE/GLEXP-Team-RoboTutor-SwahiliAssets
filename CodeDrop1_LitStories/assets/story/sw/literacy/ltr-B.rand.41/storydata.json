@@ -3,351 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "boda boda.jpg",
+      "image": "bodaboda.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "boda boda.mp3",
+                "audio": "bodaboda.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "boda boda"
+                    "word": "bodaboda"
                   }
                 ],
                 "until": -1,
-                "utterances": "boda boda"
+                "utterances": "bodaboda"
               }
             ],
-            "sentence": "boda boda"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baba"
-              }
-            ],
-            "sentence": "baba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "boga.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "boga.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "boga"
-                  }
-                ],
-                "until": -1,
-                "utterances": "boga"
-              }
-            ],
-            "sentence": "boga"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baridi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baridi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baridi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baridi"
-              }
-            ],
-            "sentence": "baridi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "babu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "babu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "babu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "babu"
-              }
-            ],
-            "sentence": "babu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bata.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bata.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bata"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bata"
-              }
-            ],
-            "sentence": "bata"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bega.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bega.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bega"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bega"
-              }
-            ],
-            "sentence": "bega"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "basi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "basi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "basi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "basi"
-              }
-            ],
-            "sentence": "basi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baisikeli.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baisikeli.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baisikeli"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baisikeli"
-              }
-            ],
-            "sentence": "baisikeli"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baba"
-              }
-            ],
-            "sentence": "baba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "barabara.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "barabara.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "barabara"
-                  }
-                ],
-                "until": -1,
-                "utterances": "barabara"
-              }
-            ],
-            "sentence": "barabara"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "babu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "babu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "babu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "babu"
-              }
-            ],
-            "sentence": "babu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "buibui.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "buibui.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "buibui"
-                  }
-                ],
-                "until": -1,
-                "utterances": "buibui"
-              }
-            ],
-            "sentence": "buibui"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bibo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bibo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bibo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bibo"
-              }
-            ],
-            "sentence": "bibo"
+            "sentence": "bodaboda"
           }
         ]
       ]
@@ -403,31 +78,6 @@
       ]
     },
     {
-      "image": "bibi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bibi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bibi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bibi"
-              }
-            ],
-            "sentence": "bibi"
-          }
-        ]
-      ]
-    },
-    {
       "image": "baba.jpg",
       "text": [
         [
@@ -453,51 +103,101 @@
       ]
     },
     {
-      "image": "bibi.jpg",
+      "image": "barabara.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "bibi.mp3",
+                "audio": "barabara.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "bibi"
+                    "word": "barabara"
                   }
                 ],
                 "until": -1,
-                "utterances": "bibi"
+                "utterances": "barabara"
               }
             ],
-            "sentence": "bibi"
+            "sentence": "barabara"
           }
         ]
       ]
     },
     {
-      "image": "bibi.jpg",
+      "image": "buibui.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "bibi.mp3",
+                "audio": "buibui.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "bibi"
+                    "word": "buibui"
                   }
                 ],
                 "until": -1,
-                "utterances": "bibi"
+                "utterances": "buibui"
               }
             ],
-            "sentence": "bibi"
+            "sentence": "buibui"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "baisikeli.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baisikeli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "baisikeli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "baisikeli"
+              }
+            ],
+            "sentence": "baisikeli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "babu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "babu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "babu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "babu"
+              }
+            ],
+            "sentence": "babu"
           }
         ]
       ]
@@ -523,6 +223,131 @@
               }
             ],
             "sentence": "bega"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "basi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "basi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "basi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "basi"
+              }
+            ],
+            "sentence": "basi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bibi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bibi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bibi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bibi"
+              }
+            ],
+            "sentence": "bibi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "boga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "boga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "boga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "boga"
+              }
+            ],
+            "sentence": "boga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "baridi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baridi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "baridi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "baridi"
+              }
+            ],
+            "sentence": "baridi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bibo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bibo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bibo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bibo"
+              }
+            ],
+            "sentence": "bibo"
           }
         ]
       ]

@@ -3,51 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "zeze.jpg",
+      "image": "ziwa.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "zeze.mp3",
+                "audio": "ziwa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "zeze"
+                    "word": "ziwa"
                   }
                 ],
                 "until": -1,
-                "utterances": "zeze"
+                "utterances": "ziwa"
               }
             ],
-            "sentence": "ZEZE"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "zizi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "zizi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "zizi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "zizi"
-              }
-            ],
-            "sentence": "ZIZI"
+            "sentence": "ZIWA"
           }
         ]
       ]
@@ -78,26 +53,26 @@
       ]
     },
     {
-      "image": "zulia.jpg",
+      "image": "zaidi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "zulia.mp3",
+                "audio": "zaidi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "zulia"
+                    "word": "zaidi"
                   }
                 ],
                 "until": -1,
-                "utterances": "zulia"
+                "utterances": "zaidi"
               }
             ],
-            "sentence": "ZULIA"
+            "sentence": "ZAIDI"
           }
         ]
       ]
@@ -128,76 +103,51 @@
       ]
     },
     {
-      "image": "zaidi.jpg",
+      "image": "zeze.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "zaidi.mp3",
+                "audio": "zeze.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "zaidi"
+                    "word": "zeze"
                   }
                 ],
                 "until": -1,
-                "utterances": "zaidi"
+                "utterances": "zeze"
               }
             ],
-            "sentence": "ZAIDI"
+            "sentence": "ZEZE"
           }
         ]
       ]
     },
     {
-      "image": "zabibu.jpg",
+      "image": "zulia.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "zabibu.mp3",
+                "audio": "zulia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "zabibu"
+                    "word": "zulia"
                   }
                 ],
                 "until": -1,
-                "utterances": "zabibu"
+                "utterances": "zulia"
               }
             ],
-            "sentence": "ZABIBU"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ziwa.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ziwa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ziwa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ziwa"
-              }
-            ],
-            "sentence": "ZIWA"
+            "sentence": "ZULIA"
           }
         ]
       ]
@@ -223,6 +173,56 @@
               }
             ],
             "sentence": "ZURI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zizi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zizi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zizi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zizi"
+              }
+            ],
+            "sentence": "ZIZI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zabibu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zabibu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zabibu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zabibu"
+              }
+            ],
+            "sentence": "ZABIBU"
           }
         ]
       ]

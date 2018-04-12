@@ -3,26 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "haha.jpg",
+      "image": "haraka.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "haha.mp3",
+                "audio": "haraka.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "haha"
+                    "word": "haraka"
                   }
                 ],
                 "until": -1,
-                "utterances": "haha"
+                "utterances": "haraka"
               }
             ],
-            "sentence": "haha"
+            "sentence": "haraka"
           }
         ]
       ]
@@ -53,51 +53,26 @@
       ]
     },
     {
-      "image": "haraka.jpg",
+      "image": "hunywa.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "haraka.mp3",
+                "audio": "hunywa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "haraka"
+                    "word": "hunywa"
                   }
                 ],
                 "until": -1,
-                "utterances": "haraka"
+                "utterances": "hunywa"
               }
             ],
-            "sentence": "haraka"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "hamsini.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "hamsini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hamsini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "hamsini"
-              }
-            ],
-            "sentence": "hamsini"
+            "sentence": "hunywa"
           }
         ]
       ]
@@ -128,31 +103,6 @@
       ]
     },
     {
-      "image": "hoho.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "hoho.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hoho"
-                  }
-                ],
-                "until": -1,
-                "utterances": "hoho"
-              }
-            ],
-            "sentence": "hoho"
-          }
-        ]
-      ]
-    },
-    {
       "image": "helikopta.jpg",
       "text": [
         [
@@ -173,6 +123,31 @@
               }
             ],
             "sentence": "helikopta"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hoho.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hoho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hoho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hoho"
+              }
+            ],
+            "sentence": "hoho"
           }
         ]
       ]
@@ -203,26 +178,26 @@
       ]
     },
     {
-      "image": "harufu.jpg",
+      "image": "harusi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "harufu.mp3",
+                "audio": "harusi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "harufu"
+                    "word": "harusi"
                   }
                 ],
                 "until": -1,
-                "utterances": "harufu"
+                "utterances": "harusi"
               }
             ],
-            "sentence": "harufu"
+            "sentence": "harusi"
           }
         ]
       ]
@@ -253,51 +228,26 @@
       ]
     },
     {
-      "image": "hunywa.jpg",
+      "image": "harufu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "hunywa.mp3",
+                "audio": "harufu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "hunywa"
+                    "word": "harufu"
                   }
                 ],
                 "until": -1,
-                "utterances": "hunywa"
+                "utterances": "harufu"
               }
             ],
-            "sentence": "hunywa"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "harusi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "harusi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "harusi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "harusi"
-              }
-            ],
-            "sentence": "harusi"
+            "sentence": "harufu"
           }
         ]
       ]

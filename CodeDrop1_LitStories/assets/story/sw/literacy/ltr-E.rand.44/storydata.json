@@ -3,6 +3,31 @@
   "copyright": "",
   "data": [
     {
+      "image": "eupe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "eupe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "eupe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "eupe"
+              }
+            ],
+            "sentence": "eupe"
+          }
+        ]
+      ]
+    },
+    {
       "image": "embe.jpg",
       "text": [
         [
@@ -23,56 +48,6 @@
               }
             ],
             "sentence": "embe"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "erupe.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "erupe.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "erupe"
-                  }
-                ],
-                "until": -1,
-                "utterances": "erupe"
-              }
-            ],
-            "sentence": "erupe"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "endesha.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "endesha.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "endesha"
-                  }
-                ],
-                "until": -1,
-                "utterances": "endesha"
-              }
-            ],
-            "sentence": "endesha"
           }
         ]
       ]
@@ -103,76 +78,51 @@
       ]
     },
     {
-      "image": "eupe.jpg",
+      "image": "endesha.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "eupe.mp3",
+                "audio": "endesha.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "eupe"
+                    "word": "endesha"
                   }
                 ],
                 "until": -1,
-                "utterances": "eupe"
+                "utterances": "endesha"
               }
             ],
-            "sentence": "eupe"
+            "sentence": "endesha"
           }
         ]
       ]
     },
     {
-      "image": "elfu.jpg",
+      "image": "erupe.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "elfu.mp3",
+                "audio": "erupe.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "elfu"
+                    "word": "erupe"
                   }
                 ],
                 "until": -1,
-                "utterances": "elfu"
+                "utterances": "erupe"
               }
             ],
-            "sentence": "elfu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "embe.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "embe.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "embe"
-                  }
-                ],
-                "until": -1,
-                "utterances": "embe"
-              }
-            ],
-            "sentence": "embe"
+            "sentence": "erupe"
           }
         ]
       ]

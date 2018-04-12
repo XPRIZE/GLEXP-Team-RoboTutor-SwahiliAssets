@@ -3,251 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "bibo.jpg",
+      "image": "barabara.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "bibo.mp3",
+                "audio": "barabara.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "bibo"
+                    "word": "barabara"
                   }
                 ],
                 "until": -1,
-                "utterances": "bibo"
+                "utterances": "barabara"
               }
             ],
-            "sentence": "BIBO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "boga.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "boga.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "boga"
-                  }
-                ],
-                "until": -1,
-                "utterances": "boga"
-              }
-            ],
-            "sentence": "BOGA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "babu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "babu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "babu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "babu"
-              }
-            ],
-            "sentence": "BABU"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bata.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bata.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bata"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bata"
-              }
-            ],
-            "sentence": "BATA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "basi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "basi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "basi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "basi"
-              }
-            ],
-            "sentence": "BASI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baba"
-              }
-            ],
-            "sentence": "BABA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baisikeli.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baisikeli.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baisikeli"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baisikeli"
-              }
-            ],
-            "sentence": "BAISIKELI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baba"
-              }
-            ],
-            "sentence": "BABA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "buibui.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "buibui.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "buibui"
-                  }
-                ],
-                "until": -1,
-                "utterances": "buibui"
-              }
-            ],
-            "sentence": "BUIBUI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bibi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bibi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bibi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bibi"
-              }
-            ],
-            "sentence": "BIBI"
+            "sentence": "BARABARA"
           }
         ]
       ]
@@ -278,51 +53,26 @@
       ]
     },
     {
-      "image": "barabara.jpg",
+      "image": "baridi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "barabara.mp3",
+                "audio": "baridi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "barabara"
+                    "word": "baridi"
                   }
                 ],
                 "until": -1,
-                "utterances": "barabara"
+                "utterances": "baridi"
               }
             ],
-            "sentence": "BARABARA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baba"
-              }
-            ],
-            "sentence": "BABA"
+            "sentence": "BARIDI"
           }
         ]
       ]
@@ -348,31 +98,6 @@
               }
             ],
             "sentence": "BEGA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "bibi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bibi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bibi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bibi"
-              }
-            ],
-            "sentence": "BIBI"
           }
         ]
       ]
@@ -403,76 +128,51 @@
       ]
     },
     {
-      "image": "bega.jpg",
+      "image": "buibui.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "bega.mp3",
+                "audio": "buibui.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "bega"
+                    "word": "buibui"
                   }
                 ],
                 "until": -1,
-                "utterances": "bega"
+                "utterances": "buibui"
               }
             ],
-            "sentence": "BEGA"
+            "sentence": "BUIBUI"
           }
         ]
       ]
     },
     {
-      "image": "boda boda.jpg",
+      "image": "baba.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "boda boda.mp3",
+                "audio": "baba.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "boda boda"
+                    "word": "baba"
                   }
                 ],
                 "until": -1,
-                "utterances": "boda boda"
+                "utterances": "baba"
               }
             ],
-            "sentence": "BODA BODA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "baridi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "baridi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "baridi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "baridi"
-              }
-            ],
-            "sentence": "BARIDI"
+            "sentence": "BABA"
           }
         ]
       ]
@@ -503,6 +203,106 @@
       ]
     },
     {
+      "image": "basi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "basi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "basi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "basi"
+              }
+            ],
+            "sentence": "BASI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bibo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bibo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bibo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bibo"
+              }
+            ],
+            "sentence": "BIBO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bodaboda.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bodaboda.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bodaboda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bodaboda"
+              }
+            ],
+            "sentence": "BODABODA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "baisikeli.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baisikeli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "baisikeli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "baisikeli"
+              }
+            ],
+            "sentence": "BAISIKELI"
+          }
+        ]
+      ]
+    },
+    {
       "image": "bibi.jpg",
       "text": [
         [
@@ -523,6 +323,31 @@
               }
             ],
             "sentence": "BIBI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "boga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "boga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "boga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "boga"
+              }
+            ],
+            "sentence": "BOGA"
           }
         ]
       ]

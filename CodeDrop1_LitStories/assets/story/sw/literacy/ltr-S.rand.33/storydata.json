@@ -3,226 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "saba.jpg",
+      "image": "sabuni.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "saba.mp3",
+                "audio": "sabuni.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "saba"
+                    "word": "sabuni"
                   }
                 ],
                 "until": -1,
-                "utterances": "saba"
+                "utterances": "sabuni"
               }
             ],
-            "sentence": "SABA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "shangazi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "shangazi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "shangazi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "shangazi"
-              }
-            ],
-            "sentence": "SHANGAZI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sitini.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sitini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sitini"
-              }
-            ],
-            "sentence": "SITINI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sikio.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sikio.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sikio"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sikio"
-              }
-            ],
-            "sentence": "SIKIO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "simama.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "simama.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "simama"
-                  }
-                ],
-                "until": -1,
-                "utterances": "simama"
-              }
-            ],
-            "sentence": "SIMAMA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sikio.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sikio.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sikio"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sikio"
-              }
-            ],
-            "sentence": "SIKIO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sasa.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sasa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sasa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sasa"
-              }
-            ],
-            "sentence": "SASA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "swala.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "swala.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "swala"
-                  }
-                ],
-                "until": -1,
-                "utterances": "swala"
-              }
-            ],
-            "sentence": "SWALA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "samaki.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "samaki.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "samaki"
-                  }
-                ],
-                "until": -1,
-                "utterances": "samaki"
-              }
-            ],
-            "sentence": "SAMAKI"
+            "sentence": "SABUNI"
           }
         ]
       ]
@@ -253,6 +53,31 @@
       ]
     },
     {
+      "image": "sufuria.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sufuria.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sufuria"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sufuria"
+              }
+            ],
+            "sentence": "SUFURIA"
+          }
+        ]
+      ]
+    },
+    {
       "image": "samaki.jpg",
       "text": [
         [
@@ -278,101 +103,26 @@
       ]
     },
     {
-      "image": "sita.jpg",
+      "image": "simama.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sita.mp3",
+                "audio": "simama.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "sita"
+                    "word": "simama"
                   }
                 ],
                 "until": -1,
-                "utterances": "sita"
+                "utterances": "simama"
               }
             ],
-            "sentence": "SITA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "simba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "simba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "simba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "simba"
-              }
-            ],
-            "sentence": "SIMBA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sungura.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sungura.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sungura"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sungura"
-              }
-            ],
-            "sentence": "SUNGURA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "saa.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "saa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "saa"
-              }
-            ],
-            "sentence": "SAA"
+            "sentence": "SIMAMA"
           }
         ]
       ]
@@ -403,26 +153,101 @@
       ]
     },
     {
-      "image": "songura.jpg",
+      "image": "sungura.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "songura.mp3",
+                "audio": "sungura.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "songura"
+                    "word": "sungura"
                   }
                 ],
                 "until": -1,
-                "utterances": "songura"
+                "utterances": "sungura"
               }
             ],
-            "sentence": "SONGURA"
+            "sentence": "SUNGURA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sikio.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sikio.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sikio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sikio"
+              }
+            ],
+            "sentence": "SIKIO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "swala.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swala.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "swala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "swala"
+              }
+            ],
+            "sentence": "SWALA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "saa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "saa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "saa"
+              }
+            ],
+            "sentence": "SAA"
           }
         ]
       ]
@@ -448,131 +273,6 @@
               }
             ],
             "sentence": "SIMBA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sabini.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sabini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sabini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sabini"
-              }
-            ],
-            "sentence": "SABINI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sufuria.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sufuria.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sufuria"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sufuria"
-              }
-            ],
-            "sentence": "SUFURIA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sisi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sisi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sisi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sisi"
-              }
-            ],
-            "sentence": "SISI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sifuri.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sifuri.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sifuri"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sifuri"
-              }
-            ],
-            "sentence": "SIFURI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "sabuni.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sabuni.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sabuni"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sabuni"
-              }
-            ],
-            "sentence": "SABUNI"
           }
         ]
       ]

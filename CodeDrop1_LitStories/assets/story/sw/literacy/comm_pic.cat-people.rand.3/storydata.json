@@ -3,6 +3,31 @@
   "copyright": "",
   "data": [
     {
+      "image": "mkulima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkulima"
+              }
+            ],
+            "sentence": "mkulima"
+          }
+        ]
+      ]
+    },
+    {
       "image": "shangazi.jpg",
       "text": [
         [
@@ -28,26 +53,26 @@
       ]
     },
     {
-      "image": "babu.jpg",
+      "image": "mwanafunzi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "babu.mp3",
+                "audio": "mwanafunzi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "babu"
+                    "word": "mwanafunzi"
                   }
                 ],
                 "until": -1,
-                "utterances": "babu"
+                "utterances": "mwanafunzi"
               }
             ],
-            "sentence": "babu"
+            "sentence": "mwanafunzi"
           }
         ]
       ]
@@ -78,26 +103,26 @@
       ]
     },
     {
-      "image": "mkulima.jpg",
+      "image": "mwalimu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "mkulima.mp3",
+                "audio": "mwalimu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "mkulima"
+                    "word": "mwalimu"
                   }
                 ],
                 "until": -1,
-                "utterances": "mkulima"
+                "utterances": "mwalimu"
               }
             ],
-            "sentence": "mkulima"
+            "sentence": "mwalimu"
           }
         ]
       ]
@@ -128,31 +153,6 @@
       ]
     },
     {
-      "image": "bibi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bibi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bibi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bibi"
-              }
-            ],
-            "sentence": "bibi"
-          }
-        ]
-      ]
-    },
-    {
       "image": "kinyozi.jpg",
       "text": [
         [
@@ -178,26 +178,51 @@
       ]
     },
     {
-      "image": "mwanafunzi.jpg",
+      "image": "babu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "mwanafunzi.mp3",
+                "audio": "babu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "mwanafunzi"
+                    "word": "babu"
                   }
                 ],
                 "until": -1,
-                "utterances": "mwanafunzi"
+                "utterances": "babu"
               }
             ],
-            "sentence": "mwanafunzi"
+            "sentence": "babu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bibi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bibi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bibi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bibi"
+              }
+            ],
+            "sentence": "bibi"
           }
         ]
       ]
@@ -248,31 +273,6 @@
               }
             ],
             "sentence": "mama"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "mwalimu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mwalimu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mwalimu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mwalimu"
-              }
-            ],
-            "sentence": "mwalimu"
           }
         ]
       ]

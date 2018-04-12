@@ -3,26 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "farasi.jpg",
+      "image": "fisi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "farasi.mp3",
+                "audio": "fisi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "farasi"
+                    "word": "fisi"
                   }
                 ],
                 "until": -1,
-                "utterances": "farasi"
+                "utterances": "fisi"
               }
             ],
-            "sentence": "farasi"
+            "sentence": "fisi"
           }
         ]
       ]
@@ -53,51 +53,26 @@
       ]
     },
     {
-      "image": "fisi.jpg",
+      "image": "familia.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "fisi.mp3",
+                "audio": "familia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "fisi"
+                    "word": "familia"
                   }
                 ],
                 "until": -1,
-                "utterances": "fisi"
+                "utterances": "familia"
               }
             ],
-            "sentence": "fisi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "fagio.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "fagio.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "fagio"
-                  }
-                ],
-                "until": -1,
-                "utterances": "fagio"
-              }
-            ],
-            "sentence": "fagio"
+            "sentence": "familia"
           }
         ]
       ]
@@ -128,26 +103,26 @@
       ]
     },
     {
-      "image": "funzo.jpg",
+      "image": "fagio.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "funzo.mp3",
+                "audio": "fagio.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "funzo"
+                    "word": "fagio"
                   }
                 ],
                 "until": -1,
-                "utterances": "funzo"
+                "utterances": "fagio"
               }
             ],
-            "sentence": "funzo"
+            "sentence": "fagio"
           }
         ]
       ]
@@ -178,51 +153,26 @@
       ]
     },
     {
-      "image": "fisi.jpg",
+      "image": "funzo.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "fisi.mp3",
+                "audio": "funzo.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "fisi"
+                    "word": "funzo"
                   }
                 ],
                 "until": -1,
-                "utterances": "fisi"
+                "utterances": "funzo"
               }
             ],
-            "sentence": "fisi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "familia.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "familia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "familia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "familia"
-              }
-            ],
-            "sentence": "familia"
+            "sentence": "funzo"
           }
         ]
       ]

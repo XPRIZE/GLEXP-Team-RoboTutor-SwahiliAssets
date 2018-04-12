@@ -3,26 +3,51 @@
   "copyright": "",
   "data": [
     {
-      "image": "hoho.jpg",
+      "image": "helikopta.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "hoho.mp3",
+                "audio": "helikopta.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "hoho"
+                    "word": "helikopta"
                   }
                 ],
                 "until": -1,
-                "utterances": "hoho"
+                "utterances": "helikopta"
               }
             ],
-            "sentence": "HOHO"
+            "sentence": "HELIKOPTA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "harufu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "harufu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "harufu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "harufu"
+              }
+            ],
+            "sentence": "HARUFU"
           }
         ]
       ]
@@ -53,76 +78,26 @@
       ]
     },
     {
-      "image": "helikopta.jpg",
+      "image": "haraka.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "helikopta.mp3",
+                "audio": "haraka.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "helikopta"
+                    "word": "haraka"
                   }
                 ],
                 "until": -1,
-                "utterances": "helikopta"
+                "utterances": "haraka"
               }
             ],
-            "sentence": "HELIKOPTA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "haha.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "haha.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "haha"
-                  }
-                ],
-                "until": -1,
-                "utterances": "haha"
-              }
-            ],
-            "sentence": "HAHA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "hasira.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "hasira.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hasira"
-                  }
-                ],
-                "until": -1,
-                "utterances": "hasira"
-              }
-            ],
-            "sentence": "HASIRA"
+            "sentence": "HARAKA"
           }
         ]
       ]
@@ -148,56 +123,6 @@
               }
             ],
             "sentence": "HARUSI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "hamsini.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "hamsini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hamsini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "hamsini"
-              }
-            ],
-            "sentence": "HAMSINI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "haraka.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "haraka.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "haraka"
-                  }
-                ],
-                "until": -1,
-                "utterances": "haraka"
-              }
-            ],
-            "sentence": "HARAKA"
           }
         ]
       ]
@@ -253,6 +178,31 @@
       ]
     },
     {
+      "image": "hoho.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hoho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hoho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hoho"
+              }
+            ],
+            "sentence": "HOHO"
+          }
+        ]
+      ]
+    },
+    {
       "image": "hema.jpg",
       "text": [
         [
@@ -278,26 +228,26 @@
       ]
     },
     {
-      "image": "harufu.jpg",
+      "image": "hasira.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "harufu.mp3",
+                "audio": "hasira.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "harufu"
+                    "word": "hasira"
                   }
                 ],
                 "until": -1,
-                "utterances": "harufu"
+                "utterances": "hasira"
               }
             ],
-            "sentence": "HARUFU"
+            "sentence": "HASIRA"
           }
         ]
       ]

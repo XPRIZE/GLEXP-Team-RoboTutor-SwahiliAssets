@@ -3,126 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "ukulima.jpg",
+      "image": "uzi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "ukulima.mp3",
+                "audio": "uzi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "ukulima"
+                    "word": "uzi"
                   }
                 ],
                 "until": -1,
-                "utterances": "ukulima"
+                "utterances": "uzi"
               }
             ],
-            "sentence": "UKULIMA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ugali.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ugali.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ugali"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ugali"
-              }
-            ],
-            "sentence": "UGALI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ua.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ua.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ua"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ua"
-              }
-            ],
-            "sentence": "UA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ukuta.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ukuta.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ukuta"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ukuta"
-              }
-            ],
-            "sentence": "UKUTA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "udongo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "udongo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "udongo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "udongo"
-              }
-            ],
-            "sentence": "UDONGO"
+            "sentence": "UZI"
           }
         ]
       ]
@@ -153,6 +53,56 @@
       ]
     },
     {
+      "image": "ukuta.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ukuta.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ukuta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ukuta"
+              }
+            ],
+            "sentence": "UKUTA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ukulima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ukulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ukulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ukulima"
+              }
+            ],
+            "sentence": "UKULIMA"
+          }
+        ]
+      ]
+    },
+    {
       "image": "ubao.jpg",
       "text": [
         [
@@ -178,26 +128,51 @@
       ]
     },
     {
-      "image": "uzi.jpg",
+      "image": "ua.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "uzi.mp3",
+                "audio": "ua.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "uzi"
+                    "word": "ua"
                   }
                 ],
                 "until": -1,
-                "utterances": "uzi"
+                "utterances": "ua"
               }
             ],
-            "sentence": "UZI"
+            "sentence": "UA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "udongo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "udongo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "udongo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "udongo"
+              }
+            ],
+            "sentence": "UDONGO"
           }
         ]
       ]

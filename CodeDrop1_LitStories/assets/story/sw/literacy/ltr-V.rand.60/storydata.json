@@ -3,106 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "viazi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "viazi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "viazi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "viazi"
-              }
-            ],
-            "sentence": "viazi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "vidogo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "vidogo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "vidogo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "vidogo"
-              }
-            ],
-            "sentence": "vidogo"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "vidole.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "vidole.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "vidole"
-                  }
-                ],
-                "until": -1,
-                "utterances": "vidole"
-              }
-            ],
-            "sentence": "vidole"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "vitumbua.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "vitumbua.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "vitumbua"
-                  }
-                ],
-                "until": -1,
-                "utterances": "vitumbua"
-              }
-            ],
-            "sentence": "vitumbua"
-          }
-        ]
-      ]
-    },
-    {
       "image": "vipepeo.jpg",
       "text": [
         [
@@ -153,76 +53,26 @@
       ]
     },
     {
-      "image": "visu.jpg",
+      "image": "viazi.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "visu.mp3",
+                "audio": "viazi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "visu"
+                    "word": "viazi"
                   }
                 ],
                 "until": -1,
-                "utterances": "visu"
+                "utterances": "viazi"
               }
             ],
-            "sentence": "visu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "vidole.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "vidole.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "vidole"
-                  }
-                ],
-                "until": -1,
-                "utterances": "vidole"
-              }
-            ],
-            "sentence": "vidole"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "vitumbua.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "vitumbua.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "vitumbua"
-                  }
-                ],
-                "until": -1,
-                "utterances": "vitumbua"
-              }
-            ],
-            "sentence": "vitumbua"
+            "sentence": "viazi"
           }
         ]
       ]
@@ -253,6 +103,31 @@
       ]
     },
     {
+      "image": "vitumbua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vitumbua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vitumbua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vitumbua"
+              }
+            ],
+            "sentence": "vitumbua"
+          }
+        ]
+      ]
+    },
+    {
       "image": "vijiti.jpg",
       "text": [
         [
@@ -278,26 +153,76 @@
       ]
     },
     {
-      "image": "viazi.jpg",
+      "image": "vidole.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "viazi.mp3",
+                "audio": "vidole.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "viazi"
+                    "word": "vidole"
                   }
                 ],
                 "until": -1,
-                "utterances": "viazi"
+                "utterances": "vidole"
               }
             ],
-            "sentence": "viazi"
+            "sentence": "vidole"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "visu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "visu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "visu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "visu"
+              }
+            ],
+            "sentence": "visu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vidogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vidogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vidogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vidogo"
+              }
+            ],
+            "sentence": "vidogo"
           }
         ]
       ]

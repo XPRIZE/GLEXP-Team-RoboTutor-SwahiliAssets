@@ -3,76 +3,26 @@
   "copyright": "",
   "data": [
     {
-      "image": "andika.jpg",
+      "image": "asali.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "andika.mp3",
+                "audio": "asali.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "andika"
+                    "word": "asali"
                   }
                 ],
                 "until": -1,
-                "utterances": "andika"
+                "utterances": "asali"
               }
             ],
-            "sentence": "andika"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "anguka.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "anguka.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "anguka"
-                  }
-                ],
-                "until": -1,
-                "utterances": "anguka"
-              }
-            ],
-            "sentence": "anguka"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "angani.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "angani.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "angani"
-                  }
-                ],
-                "until": -1,
-                "utterances": "angani"
-              }
-            ],
-            "sentence": "angani"
+            "sentence": "asali"
           }
         ]
       ]
@@ -103,51 +53,26 @@
       ]
     },
     {
-      "image": "asali.jpg",
+      "image": "angani.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "asali.mp3",
+                "audio": "angani.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "asali"
+                    "word": "angani"
                   }
                 ],
                 "until": -1,
-                "utterances": "asali"
+                "utterances": "angani"
               }
             ],
-            "sentence": "asali"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "alicheza.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "alicheza.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "alicheza"
-                  }
-                ],
-                "until": -1,
-                "utterances": "alicheza"
-              }
-            ],
-            "sentence": "alicheza"
+            "sentence": "angani"
           }
         ]
       ]
@@ -178,26 +103,51 @@
       ]
     },
     {
-      "image": "anacheza.jpg",
+      "image": "alicheza.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "anacheza.mp3",
+                "audio": "alicheza.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "anacheza"
+                    "word": "alicheza"
                   }
                 ],
                 "until": -1,
-                "utterances": "anacheza"
+                "utterances": "alicheza"
               }
             ],
-            "sentence": "anacheza"
+            "sentence": "alicheza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "andika.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "andika.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "andika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "andika"
+              }
+            ],
+            "sentence": "andika"
           }
         ]
       ]
@@ -223,31 +173,6 @@
               }
             ],
             "sentence": "anasoma"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "arobaini.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "arobaini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "arobaini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "arobaini"
-              }
-            ],
-            "sentence": "arobaini"
           }
         ]
       ]
@@ -298,6 +223,56 @@
               }
             ],
             "sentence": "andazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anacheza.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anacheza.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anacheza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anacheza"
+              }
+            ],
+            "sentence": "anacheza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anguka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anguka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anguka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anguka"
+              }
+            ],
+            "sentence": "anguka"
           }
         ]
       ]

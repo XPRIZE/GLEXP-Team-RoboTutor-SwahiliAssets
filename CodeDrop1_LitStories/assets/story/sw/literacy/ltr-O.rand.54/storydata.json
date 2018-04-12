@@ -3,6 +3,106 @@
   "copyright": "",
   "data": [
     {
+      "image": "oka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "oka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "oka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "oka"
+              }
+            ],
+            "sentence": "oka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "omba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "omba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "omba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "omba"
+              }
+            ],
+            "sentence": "omba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ovaroli.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ovaroli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ovaroli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ovaroli"
+              }
+            ],
+            "sentence": "ovaroli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ona.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ona"
+              }
+            ],
+            "sentence": "ona"
+          }
+        ]
+      ]
+    },
+    {
       "image": "ombe.jpg",
       "text": [
         [
@@ -53,31 +153,6 @@
       ]
     },
     {
-      "image": "ona.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ona.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ona"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ona"
-              }
-            ],
-            "sentence": "ona"
-          }
-        ]
-      ]
-    },
-    {
       "image": "osha.jpg",
       "text": [
         [
@@ -103,56 +178,6 @@
       ]
     },
     {
-      "image": "oka.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "oka.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "oka"
-                  }
-                ],
-                "until": -1,
-                "utterances": "oka"
-              }
-            ],
-            "sentence": "oka"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ovaroli.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ovaroli.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ovaroli"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ovaroli"
-              }
-            ],
-            "sentence": "ovaroli"
-          }
-        ]
-      ]
-    },
-    {
       "image": "ofisi.jpg",
       "text": [
         [
@@ -173,31 +198,6 @@
               }
             ],
             "sentence": "ofisi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "omba.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "omba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "omba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "omba"
-              }
-            ],
-            "sentence": "omba"
           }
         ]
       ]

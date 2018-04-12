@@ -3,31 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "ikulu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ikulu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ikulu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ikulu"
-              }
-            ],
-            "sentence": "IKULU"
-          }
-        ]
-      ]
-    },
-    {
       "image": "imba.jpg",
       "text": [
         [
@@ -48,31 +23,6 @@
               }
             ],
             "sentence": "IMBA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "iliki.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "iliki.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "iliki"
-                  }
-                ],
-                "until": -1,
-                "utterances": "iliki"
-              }
-            ],
-            "sentence": "ILIKI"
           }
         ]
       ]
@@ -103,26 +53,26 @@
       ]
     },
     {
-      "image": "imejaa.jpg",
+      "image": "iliki.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "imejaa.mp3",
+                "audio": "iliki.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "imejaa"
+                    "word": "iliki"
                   }
                 ],
                 "until": -1,
-                "utterances": "imejaa"
+                "utterances": "iliki"
               }
             ],
-            "sentence": "IMEJAA"
+            "sentence": "ILIKI"
           }
         ]
       ]
@@ -153,6 +103,31 @@
       ]
     },
     {
+      "image": "ikulu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ikulu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ikulu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ikulu"
+              }
+            ],
+            "sentence": "IKULU"
+          }
+        ]
+      ]
+    },
+    {
       "image": "ingia.jpg",
       "text": [
         [
@@ -178,26 +153,26 @@
       ]
     },
     {
-      "image": "ishirini.jpg",
+      "image": "imejaa.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "ishirini.mp3",
+                "audio": "imejaa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "ishirini"
+                    "word": "imejaa"
                   }
                 ],
                 "until": -1,
-                "utterances": "ishirini"
+                "utterances": "imejaa"
               }
             ],
-            "sentence": "ISHIRINI"
+            "sentence": "IMEJAA"
           }
         ]
       ]

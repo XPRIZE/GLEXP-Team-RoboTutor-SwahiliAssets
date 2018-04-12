@@ -3,31 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "yaya.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "yaya.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "yaya"
-                  }
-                ],
-                "until": -1,
-                "utterances": "yaya"
-              }
-            ],
-            "sentence": "YAYA"
-          }
-        ]
-      ]
-    },
-    {
       "image": "yai.jpg",
       "text": [
         [
@@ -53,51 +28,26 @@
       ]
     },
     {
-      "image": "yako.jpg",
+      "image": "yangu.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "yako.mp3",
+                "audio": "yangu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "yako"
+                    "word": "yangu"
                   }
                 ],
                 "until": -1,
-                "utterances": "yako"
+                "utterances": "yangu"
               }
             ],
-            "sentence": "YAKO"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "yeye.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "yeye.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "yeye"
-                  }
-                ],
-                "until": -1,
-                "utterances": "yeye"
-              }
-            ],
-            "sentence": "YEYE"
+            "sentence": "YANGU"
           }
         ]
       ]
@@ -128,26 +78,26 @@
       ]
     },
     {
-      "image": "yangu.jpg",
+      "image": "yako.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "yangu.mp3",
+                "audio": "yako.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "yangu"
+                    "word": "yako"
                   }
                 ],
                 "until": -1,
-                "utterances": "yangu"
+                "utterances": "yako"
               }
             ],
-            "sentence": "YANGU"
+            "sentence": "YAKO"
           }
         ]
       ]
