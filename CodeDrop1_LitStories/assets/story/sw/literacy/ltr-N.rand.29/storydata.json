@@ -378,13 +378,13 @@
       ]
     },
     {
-      "image": "ng'ombe.jpg",
+      "image": "ng_ombe.jpg",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "ng'ombe.mp3",
+                "audio": "ng_ombe.mp3",
                 "from": -1,
                 "segmentation": [
                   {
