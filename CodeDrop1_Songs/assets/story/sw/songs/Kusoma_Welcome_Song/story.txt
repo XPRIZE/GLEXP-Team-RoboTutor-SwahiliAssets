@@ -16,12 +16,12 @@ Masikio yasikie
 
 
 
-Na mdomo useme
+Na mdomo useme 
 
 {mdomo.jpg}
 
 
-Kusoma kusoma kunataka macho yaone
+Kusoma kusoma kunataka macho yaone{kitabu.jpg}
 
 {jicho.jpeg}
 
@@ -33,6 +33,6 @@ Masikio yasikie
 
 
 
-Na mdomo useme
+Na mdomo useme 
 
 {mdomo.jpg}

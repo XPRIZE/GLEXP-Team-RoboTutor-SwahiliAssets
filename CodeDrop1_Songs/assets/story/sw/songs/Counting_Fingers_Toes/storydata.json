@@ -1,0 +1,315 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "10_finger.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Vidole vya mikono yangu.wav",
+                "from": "1",
+                "segmentation": [
+                  {
+                    "end": "71",
+                    "start": "1",
+                    "word": "Vidole"
+                  },
+                  {
+                    "end": "90",
+                    "start": "72",
+                    "word": "vya"
+                  },
+                  {
+                    "end": "170",
+                    "start": "91",
+                    "word": "mikono"
+                  },
+                  {
+                    "end": "234",
+                    "start": "171",
+                    "word": "yangu"
+                  }
+                ],
+                "until": "234",
+                "utterances": "Vidole vya mikono yangu"
+              }
+            ],
+            "sentence": "Vidole vya mikono yangu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "10_finger.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jumla yake kumi.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "68",
+                    "start": "19",
+                    "word": "Jumla"
+                  },
+                  {
+                    "end": "116",
+                    "start": "69",
+                    "word": "yake"
+                  },
+                  {
+                    "end": "160",
+                    "start": "117",
+                    "word": "kumi"
+                  }
+                ],
+                "until": "160",
+                "utterances": "Jumla yake kumi"
+              }
+            ],
+            "sentence": "Jumla yake kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5_finger.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Huku tano na huku tano.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "49",
+                    "start": "21",
+                    "word": "Huku"
+                  },
+                  {
+                    "end": "115",
+                    "start": "50",
+                    "word": "tano"
+                  },
+                  {
+                    "end": "141",
+                    "start": "116",
+                    "word": "na"
+                  },
+                  {
+                    "end": "164",
+                    "start": "142",
+                    "word": "huku"
+                  },
+                  {
+                    "end": "227",
+                    "start": "165",
+                    "word": "tano"
+                  }
+                ],
+                "until": "227",
+                "utterances": "Huku tano na huku tano"
+              }
+            ],
+            "sentence": "Huku tano na huku tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "10_finger.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jumla yake kumi.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "68",
+                    "start": "19",
+                    "word": "Jumla"
+                  },
+                  {
+                    "end": "116",
+                    "start": "69",
+                    "word": "yake"
+                  },
+                  {
+                    "end": "160",
+                    "start": "117",
+                    "word": "kumi"
+                  }
+                ],
+                "until": "160",
+                "utterances": "Jumla yake kumi"
+              }
+            ],
+            "sentence": "Jumla yake kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "10_toes.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Vidole vya miguu yangu.wav",
+                "from": "65",
+                "segmentation": [
+                  {
+                    "end": "118",
+                    "start": "65",
+                    "word": "Vidole"
+                  },
+                  {
+                    "end": "134",
+                    "start": "119",
+                    "word": "vya"
+                  },
+                  {
+                    "end": "213",
+                    "start": "135",
+                    "word": "miguu"
+                  },
+                  {
+                    "end": "285",
+                    "start": "214",
+                    "word": "yangu"
+                  }
+                ],
+                "until": "285",
+                "utterances": "Vidole vya miguu yangu"
+              }
+            ],
+            "sentence": "Vidole vya miguu yangu"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Jumla yake kumi.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "68",
+                    "start": "19",
+                    "word": "Jumla"
+                  },
+                  {
+                    "end": "116",
+                    "start": "69",
+                    "word": "yake"
+                  },
+                  {
+                    "end": "160",
+                    "start": "117",
+                    "word": "kumi"
+                  }
+                ],
+                "until": "160",
+                "utterances": "Jumla yake kumi"
+              }
+            ],
+            "sentence": "Jumla yake kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5_toes.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Huku tano na huku tano.wav",
+                "from": "21",
+                "segmentation": [
+                  {
+                    "end": "49",
+                    "start": "21",
+                    "word": "Huku"
+                  },
+                  {
+                    "end": "115",
+                    "start": "50",
+                    "word": "tano"
+                  },
+                  {
+                    "end": "141",
+                    "start": "116",
+                    "word": "na"
+                  },
+                  {
+                    "end": "164",
+                    "start": "142",
+                    "word": "huku"
+                  },
+                  {
+                    "end": "227",
+                    "start": "165",
+                    "word": "tano"
+                  }
+                ],
+                "until": "227",
+                "utterances": "Huku tano na huku tano"
+              }
+            ],
+            "sentence": "Huku tano na huku tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "10_toes.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jumla yake kumi.wav",
+                "from": "19",
+                "segmentation": [
+                  {
+                    "end": "68",
+                    "start": "19",
+                    "word": "Jumla"
+                  },
+                  {
+                    "end": "116",
+                    "start": "69",
+                    "word": "yake"
+                  },
+                  {
+                    "end": "160",
+                    "start": "117",
+                    "word": "kumi"
+                  }
+                ],
+                "until": "160",
+                "utterances": "Jumla yake kumi"
+              }
+            ],
+            "sentence": "Jumla yake kumi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "Counting_Fingers_Toes"
+}

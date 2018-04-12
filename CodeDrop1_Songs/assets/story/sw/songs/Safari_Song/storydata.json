@@ -38,7 +38,14 @@
               }
             ],
             "sentence": "Mbuga za wanyama Tanzania"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "serengeti1.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -116,7 +123,7 @@
       ]
     },
     {
-      "image": "benderapng",
+      "image": "bendera.png",
       "text": [
         [
           {
@@ -156,5 +163,5 @@
   "level": "",
   "license": "",
   "status": "",
-  "title": "Mbuga za wa Nyama - Safari Song"
+  "title": "Safari_Song"
 }

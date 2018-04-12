@@ -38,7 +38,14 @@
               }
             ],
             "sentence": "Shule yetu ni nzuri"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "govt_school_picture.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -61,7 +68,14 @@
               }
             ],
             "sentence": "Imepandwa maua"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "govt_school_picture.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -89,7 +103,14 @@
               }
             ],
             "sentence": "Ukienda ovyo ovyo"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "govt_school_picture.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -142,7 +163,14 @@
               }
             ],
             "sentence": "Mazingira mazuri"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "garden.jpeg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -165,7 +193,14 @@
               }
             ],
             "sentence": "Yamepandwa maua"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "garden.jpeg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -193,7 +228,14 @@
               }
             ],
             "sentence": "Ukienda ovyo ovyo"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "garden.jpeg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -226,5 +268,5 @@
   "level": "",
   "license": "",
   "status": "",
-  "title": "Shule yetu ni Nzuri - Welcome to school Song"
+  "title": "School_Welcome_Song"
 }

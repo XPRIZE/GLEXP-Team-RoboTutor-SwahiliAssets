@@ -9,29 +9,6 @@
           {
             "narration": [
               {
-                "audio": "Najua kuhesabu.wav",
-                "from": "51",
-                "segmentation": [
-                  {
-                    "end": "83",
-                    "start": "51",
-                    "word": "Najua"
-                  },
-                  {
-                    "end": "142",
-                    "start": "84",
-                    "word": "kuhesabu"
-                  }
-                ],
-                "until": "142",
-                "utterances": "Najua kuhesabu"
-              }
-            ],
-            "sentence": "Najua kuhesabu"
-          },
-          {
-            "narration": [
-              {
                 "audio": "Najua kuhesabu namba.wav",
                 "from": "20",
                 "segmentation": [
@@ -176,5 +153,5 @@
   "level": "",
   "license": "",
   "status": "",
-  "title": "Najua kuhesa Numbers Song"
+  "title": "Number_Song_2"
 }

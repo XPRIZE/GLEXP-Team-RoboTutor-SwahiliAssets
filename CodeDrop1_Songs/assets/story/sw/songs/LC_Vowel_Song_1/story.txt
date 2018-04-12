@@ -1,31 +1,31 @@
 a e i o u
 
-{"a e i o u"_txt.jpg}
+{a e i o u_lc_txt.jpg}
 
 
 Hizi ni herufi kuu
 
-{"a e i o u"_txt.jpg}
+{a e i o u_lc_txt.jpg}
 
 
 Tamka kwa sauti kuu, a e i o u
 
-{"a e i o u"_txt.jpg}
+{a e i o u_lc_txt.jpg}
 
 
 
 a e i o u
 
-{"a e i o u"_txt.jpg}
+{a e i o u_lc_txt.jpg}
 
 
 Hizi ni herufi kuu
 
-{"a e i o u"_txt.jpg}
+{a e i o u_lc_txt.jpg}
 
 
 Tamka kwa sauti kuu, a e i o u
 
-{"a e i o u"_txt.jpg}
+{a e i o u_lc_txt.jpg}
 
 

@@ -1,32 +1,32 @@
 a b ch d e f g
 
-{"a b ch d e f g"_txt.jpg}
+{a b ch d e f g_lc_txt.jpg}
 
 h i j k l m n o p
 
-{"h i j k l m n o p"_txt.jpg}
+{h i j k l m n o p_lc_txt.jpg}
 
 r s
 
-{"r s"_txt.jpg}
+{r s_lc_txt.jpg}
 
 t u v
 
-{"t u v"_txt.jpg}
+{t u v_lc_txt.jpg}
 
 w
 
-{"w"_txt.jpg}
+{w_lc_txt.jpg}
 
 y z
 
-{"y z"_txt.jpg}
+{y z_lc_txt.jpg}
 
 
 a b ch d e f g
 
-{"a b ch d e f g"_txt.jpg}
+{a b ch d e f g_lc_txt.jpg}
 
 h i j k l m n o p
 
-{"h i j k l m n o p"_txt.jpg}
+{h i j k l m n o p_lc_txt.jpg}

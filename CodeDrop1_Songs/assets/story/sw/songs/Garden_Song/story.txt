@@ -1,8 +1,6 @@
-Maua Mazuri Yapendeza
+Maua mazuri yapendeza{garden.jpeg}
 
-Maua mazuri yapendeza
-
-Ukiyatazama, yanameremeta
+Ukiyatazama, yanameremeta{garden.jpeg}
 
 Maua mazuri yapendeza
 
@@ -10,9 +8,9 @@ Maua mazuri yapendeza
 
 
 
-Maua mazuri yapendeza
+Maua mazuri yapendeza{garden.jpeg}
 
-Ukiyatazama, yanameremeta
+Ukiyatazama, yanameremeta{garden.jpeg}
 
 Maua mazuri yapendeza
 
@@ -20,13 +18,13 @@ Maua mazuri yapendeza
 
 
 Nzu nzu nzu
-
-We mama nyuki lia we
+{bee_flower.jpeg}
+We mama nyuki lia we{bee_flower.jpeg}
 
 Toka mbali kutafuta ua zuri kwa chakula
-
+{bee_flower.jpeg}
 Nzu nzu nzu
-
+{bee_flower.jpeg}
 We mama nyuki lia we
 
 {bee_flower.jpeg}

@@ -3,7 +3,7 @@
   "copyright": "",
   "data": [
     {
-      "image": "a b ch d e f g_txt.jpg",
+      "image": "a b ch d e f g_lc_txt.jpg",
       "text": [
         [
           {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "image": "h i j k l m n o p_txt.jpg",
+      "image": "h i j k l m n o p_lc_txt.jpg",
       "text": [
         [
           {
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "image": "r s_txt.jpg",
+      "image": "r s_lc_txt.jpg",
       "text": [
         [
           {
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "image": "t u v_txt.jpg",
+      "image": "t u v_lc_txt.jpg",
       "text": [
         [
           {
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "image": "w_txt.jpg",
+      "image": "w_lc_txt.jpg",
       "text": [
         [
           {
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "image": "y z_txt.jpg",
+      "image": "y z_lc_txt.jpg",
       "text": [
         [
           {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "image": "a b ch d e f g_txt.jpg",
+      "image": "a b ch d e f g_lc_txt.jpg",
       "text": [
         [
           {
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "image": "h i j k l m n o p_txt.jpg",
+      "image": "h i j k l m n o p_lc_txt.jpg",
       "text": [
         [
           {

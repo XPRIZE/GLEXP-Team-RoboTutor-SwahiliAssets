@@ -1,9 +1,9 @@
 Shule yetu ni nzuri
-
+{govt_school_picture.jpg}
 Imepandwa maua
-
+{govt_school_picture.jpg}
 Ukienda ovyo ovyo
-
+{govt_school_picture.jpg}
 Utaharibu mambo
 
 {govt_school_picture.jpg}
@@ -11,11 +11,11 @@ Utaharibu mambo
  
 
 Mazingira mazuri
-
+{garden.jpeg}
 Yamepandwa maua
-
+{garden.jpeg}
 Ukienda ovyo ovyo
-
+{garden.jpeg}
 Utaharibu mambo
 
 {garden.jpeg}

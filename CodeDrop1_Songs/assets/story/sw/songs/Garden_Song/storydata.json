@@ -29,39 +29,18 @@
                   }
                 ],
                 "until": "342",
-                "utterances": "Maua Mazuri Yapendeza"
-              }
-            ],
-            "sentence": "Maua Mazuri Yapendeza"
-          },
-          {
-            "narration": [
-              {
-                "audio": "Maua Mazuri Yapendeza.wav",
-                "from": "2",
-                "segmentation": [
-                  {
-                    "end": "88",
-                    "start": "2",
-                    "word": "Maua"
-                  },
-                  {
-                    "end": "189",
-                    "start": "89",
-                    "word": "mazuri"
-                  },
-                  {
-                    "end": "342",
-                    "start": "190",
-                    "word": "yapendeza"
-                  }
-                ],
-                "until": "342",
                 "utterances": "Maua mazuri yapendeza"
               }
             ],
             "sentence": "Maua mazuri yapendeza"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "garden.jpeg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -84,7 +63,14 @@
               }
             ],
             "sentence": "Ukiyatazama, yanameremeta"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "garden.jpeg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -147,7 +133,14 @@
               }
             ],
             "sentence": "Maua mazuri yapendeza"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "garden.jpeg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -170,7 +163,14 @@
               }
             ],
             "sentence": "Ukiyatazama, yanameremeta"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "garden.jpeg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -233,7 +233,14 @@
               }
             ],
             "sentence": "Nzu nzu nzu"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bee_flower.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -271,7 +278,14 @@
               }
             ],
             "sentence": "We mama nyuki lia we"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bee_flower.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -319,7 +333,14 @@
               }
             ],
             "sentence": "Toka mbali kutafuta ua zuri kwa chakula"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bee_flower.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -347,7 +368,14 @@
               }
             ],
             "sentence": "Nzu nzu nzu"
-          },
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bee_flower.jpg",
+      "text": [
+        [
           {
             "narration": [
               {
@@ -395,5 +423,5 @@
   "level": "",
   "license": "",
   "status": "",
-  "title": "Maua Mazuri Flowers Song"
+  "title": "Garden_Song"
 }

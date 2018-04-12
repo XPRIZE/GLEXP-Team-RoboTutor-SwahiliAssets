@@ -138,7 +138,7 @@
       ]
     },
     {
-      "image": "jicho.jpeg",
+      "image": "kitabu.jpg",
       "text": [
         [
           {
@@ -183,6 +183,12 @@
       ]
     },
     {
+      "image": "jicho.jpeg",
+      "text": [
+        []
+      ]
+    },
+    {
       "image": "sikio.jpg",
       "text": [
         [
@@ -213,7 +219,7 @@
       ]
     },
     {
-      "image": "mdomo.jpg",
+      "image": "mdomo.jpeg",
       "text": [
         [
           {
@@ -253,5 +259,5 @@
   "level": "",
   "license": "",
   "status": "",
-  "title": "kusoma welcome song"
+  "title": "Kusoma_Welcome_Song"
 }
