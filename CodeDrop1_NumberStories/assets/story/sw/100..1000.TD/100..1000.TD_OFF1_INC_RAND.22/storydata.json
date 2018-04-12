@@ -3,28 +3,36 @@
   "copyright": "",
   "data": [
     {
-      "image": "209_txt.png",
+      "image": "985_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "200.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
                   }
                 ],
                 "until": -1,
-                "utterances": "mia mbili"
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
@@ -40,7 +48,393 @@
                 "utterances": "na"
               },
               {
-                "audio": "9.mp3",
+                "audio": "themanini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tano.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "mia tisa na themanini na tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "986_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "themanini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "sita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sita"
+              }
+            ],
+            "sentence": "mia tisa na themanini na sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "987_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "themanini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "saba"
+              }
+            ],
+            "sentence": "mia tisa na themanini na saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "988_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "themanini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "nane.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "mia tisa na themanini na nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "989_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "themanini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tisa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -53,34 +447,42 @@
                 "utterances": "tisa"
               }
             ],
-            "sentence": "Mia Mbili na Tisa"
+            "sentence": "mia tisa na themanini na tisa"
           }
         ]
       ]
     },
     {
-      "image": "210_txt.png",
+      "image": "990_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "200.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
                   }
                 ],
                 "until": -1,
-                "utterances": "mia mbili"
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
@@ -96,47 +498,55 @@
                 "utterances": "na"
               },
               {
-                "audio": "10.mp3",
+                "audio": "tisini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "kumi"
+                    "word": "tisini"
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi"
+                "utterances": "tisini"
               }
             ],
-            "sentence": "Mia Mbili na Kumi"
+            "sentence": "mia tisa na tisini"
           }
         ]
       ]
     },
     {
-      "image": "211_txt.png",
+      "image": "991_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "200.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
                   }
                 ],
                 "until": -1,
-                "utterances": "mia mbili"
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
@@ -152,7 +562,33 @@
                 "utterances": "na"
               },
               {
-                "audio": "11.mp3",
+                "audio": "tisini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "moja.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -162,37 +598,45 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na moja"
+                "utterances": "moja"
               }
             ],
-            "sentence": "Mia Mbili na Kumi na Moja"
+            "sentence": "mia tisa na tisini na moja"
           }
         ]
       ]
     },
     {
-      "image": "212_txt.png",
+      "image": "992_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "200.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
                   }
                 ],
                 "until": -1,
-                "utterances": "mia mbili"
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
@@ -208,47 +652,17 @@
                 "utterances": "na"
               },
               {
-                "audio": "12.mp3",
+                "audio": "tisini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "mbili"
+                    "word": "tisini"
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na mbili"
-              }
-            ],
-            "sentence": "Mia Mbili na Kumi na Mbili"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "213_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "200.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia mbili"
+                "utterances": "tisini"
               },
               {
                 "audio": "na.mp3",
@@ -264,7 +678,97 @@
                 "utterances": "na"
               },
               {
-                "audio": "13.mp3",
+                "audio": "mbili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "mia tisa na tisini na mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "993_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tisini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -274,37 +778,45 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na tatu"
+                "utterances": "tatu"
               }
             ],
-            "sentence": "Mia Mbili na Kumi na Tatu"
+            "sentence": "mia tisa na tisini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "214_txt.png",
+      "image": "994_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "200.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
                   }
                 ],
                 "until": -1,
-                "utterances": "mia mbili"
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
@@ -320,7 +832,33 @@
                 "utterances": "na"
               },
               {
-                "audio": "14.mp3",
+                "audio": "tisini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "nne.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -330,234 +868,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na nne"
+                "utterances": "nne"
               }
             ],
-            "sentence": "Mia Mbili na Kumi na Nne"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "215_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "200.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia mbili"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "15.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kumi na tano"
-              }
-            ],
-            "sentence": "Mia Mbili na Kumi na Tano"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "216_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "200.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia mbili"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "16.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sita"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kumi na sita"
-              }
-            ],
-            "sentence": "Mia Mbili na Kumi na Sita"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "217_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "200.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia mbili"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "17.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kumi na saba"
-              }
-            ],
-            "sentence": "Mia Mbili na Kumi na Saba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "218_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "200.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia mbili"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "18.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nane"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kumi na nane"
-              }
-            ],
-            "sentence": "Mia Mbili na Kumi na Nane"
+            "sentence": "mia tisa na tisini na nne"
           }
         ]
       ]

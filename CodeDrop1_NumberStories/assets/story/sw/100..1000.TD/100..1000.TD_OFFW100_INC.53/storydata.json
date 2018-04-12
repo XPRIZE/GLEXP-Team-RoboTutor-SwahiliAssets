@@ -1,0 +1,392 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "100_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "moja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "mia moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "200_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "mbili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "mia mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "300_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "mia tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "400_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "nne.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nne"
+              }
+            ],
+            "sentence": "mia nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "500_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tano.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "mia tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "600_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "sita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sita"
+              }
+            ],
+            "sentence": "mia sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "700_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "saba"
+              }
+            ],
+            "sentence": "mia saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "800_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "nane.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "mia nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "900_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              }
+            ],
+            "sentence": "mia tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "1000_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "elfu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "elfu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "elfu"
+              },
+              {
+                "audio": "moja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "elfu moja"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.100..1000.TD_OFFW100_INC.level53"
+}

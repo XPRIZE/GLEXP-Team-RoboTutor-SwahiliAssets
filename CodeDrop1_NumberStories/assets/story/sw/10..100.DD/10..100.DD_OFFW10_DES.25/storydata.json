@@ -9,14 +9,22 @@
           {
             "narration": [
               {
-                "audio": "100.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "moja.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -24,10 +32,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia moja"
+                "utterances": "moja"
               }
             ],
-            "sentence": "Mia Moja"
+            "sentence": "mia moja"
           }
         ]
       ]
@@ -39,7 +47,7 @@
           {
             "narration": [
               {
-                "audio": "90.mp3",
+                "audio": "tisini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -52,7 +60,7 @@
                 "utterances": "tisini"
               }
             ],
-            "sentence": "Tisini"
+            "sentence": "tisini"
           }
         ]
       ]
@@ -64,7 +72,7 @@
           {
             "narration": [
               {
-                "audio": "80.mp3",
+                "audio": "themanini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -77,7 +85,7 @@
                 "utterances": "themanini"
               }
             ],
-            "sentence": "Themanini"
+            "sentence": "themanini"
           }
         ]
       ]
@@ -89,7 +97,7 @@
           {
             "narration": [
               {
-                "audio": "70.mp3",
+                "audio": "sabini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -102,7 +110,7 @@
                 "utterances": "sabini"
               }
             ],
-            "sentence": "Sabini"
+            "sentence": "sabini"
           }
         ]
       ]
@@ -114,7 +122,7 @@
           {
             "narration": [
               {
-                "audio": "60.mp3",
+                "audio": "sitini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -127,7 +135,7 @@
                 "utterances": "sitini"
               }
             ],
-            "sentence": "Sitini"
+            "sentence": "sitini"
           }
         ]
       ]
@@ -139,7 +147,7 @@
           {
             "narration": [
               {
-                "audio": "50.mp3",
+                "audio": "hamsini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -152,7 +160,7 @@
                 "utterances": "hamsini"
               }
             ],
-            "sentence": "Hamsini"
+            "sentence": "hamsini"
           }
         ]
       ]
@@ -164,7 +172,7 @@
           {
             "narration": [
               {
-                "audio": "40.mp3",
+                "audio": "arobaini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -177,7 +185,7 @@
                 "utterances": "arobaini"
               }
             ],
-            "sentence": "Arobaini"
+            "sentence": "arobaini"
           }
         ]
       ]
@@ -189,7 +197,7 @@
           {
             "narration": [
               {
-                "audio": "30.mp3",
+                "audio": "thelathini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -202,7 +210,7 @@
                 "utterances": "thelathini"
               }
             ],
-            "sentence": "Thelathini"
+            "sentence": "thelathini"
           }
         ]
       ]
@@ -214,7 +222,7 @@
           {
             "narration": [
               {
-                "audio": "20.mp3",
+                "audio": "ishirini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -227,7 +235,7 @@
                 "utterances": "ishirini"
               }
             ],
-            "sentence": "Ishirini"
+            "sentence": "ishirini"
           }
         ]
       ]
@@ -239,7 +247,7 @@
           {
             "narration": [
               {
-                "audio": "10.mp3",
+                "audio": "kumi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -252,7 +260,7 @@
                 "utterances": "kumi"
               }
             ],
-            "sentence": "Kumi"
+            "sentence": "kumi"
           }
         ]
       ]

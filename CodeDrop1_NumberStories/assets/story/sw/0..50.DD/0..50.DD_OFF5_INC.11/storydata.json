@@ -9,7 +9,7 @@
           {
             "narration": [
               {
-                "audio": "0.mp3",
+                "audio": "sifuri.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -22,7 +22,7 @@
                 "utterances": "sifuri"
               }
             ],
-            "sentence": "Sifuri"
+            "sentence": "sifuri"
           }
         ]
       ]
@@ -34,7 +34,7 @@
           {
             "narration": [
               {
-                "audio": "5.mp3",
+                "audio": "tano.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -47,7 +47,7 @@
                 "utterances": "tano"
               }
             ],
-            "sentence": "Tano"
+            "sentence": "tano"
           }
         ]
       ]
@@ -59,7 +59,7 @@
           {
             "narration": [
               {
-                "audio": "10.mp3",
+                "audio": "kumi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -72,7 +72,7 @@
                 "utterances": "kumi"
               }
             ],
-            "sentence": "Kumi"
+            "sentence": "kumi"
           }
         ]
       ]
@@ -84,7 +84,33 @@
           {
             "narration": [
               {
-                "audio": "15.mp3",
+                "audio": "kumi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tano.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -94,10 +120,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na tano"
+                "utterances": "tano"
               }
             ],
-            "sentence": "Kumi na Tano"
+            "sentence": "kumi na tano"
           }
         ]
       ]
@@ -109,7 +135,7 @@
           {
             "narration": [
               {
-                "audio": "20.mp3",
+                "audio": "ishirini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -122,7 +148,7 @@
                 "utterances": "ishirini"
               }
             ],
-            "sentence": "Ishirini"
+            "sentence": "ishirini"
           }
         ]
       ]
@@ -134,7 +160,33 @@
           {
             "narration": [
               {
-                "audio": "25.mp3",
+                "audio": "ishirini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ishirini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tano.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -144,10 +196,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "ishirini na tano"
+                "utterances": "tano"
               }
             ],
-            "sentence": "Ishirini na Tano"
+            "sentence": "ishirini na tano"
           }
         ]
       ]
@@ -159,7 +211,7 @@
           {
             "narration": [
               {
-                "audio": "30.mp3",
+                "audio": "thelathini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -172,7 +224,7 @@
                 "utterances": "thelathini"
               }
             ],
-            "sentence": "Thelathini"
+            "sentence": "thelathini"
           }
         ]
       ]
@@ -184,7 +236,33 @@
           {
             "narration": [
               {
-                "audio": "35.mp3",
+                "audio": "thelathini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tano.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -194,10 +272,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "thelathini na tano"
+                "utterances": "tano"
               }
             ],
-            "sentence": "Thelathini na Tano"
+            "sentence": "thelathini na tano"
           }
         ]
       ]
@@ -209,7 +287,7 @@
           {
             "narration": [
               {
-                "audio": "40.mp3",
+                "audio": "arobaini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -222,7 +300,7 @@
                 "utterances": "arobaini"
               }
             ],
-            "sentence": "Arobaini"
+            "sentence": "arobaini"
           }
         ]
       ]
@@ -234,7 +312,33 @@
           {
             "narration": [
               {
-                "audio": "45.mp3",
+                "audio": "arobaini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "arobaini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "tano.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -244,10 +348,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "arobaini na tano"
+                "utterances": "tano"
               }
             ],
-            "sentence": "Arobaini na Tano"
+            "sentence": "arobaini na tano"
           }
         ]
       ]
@@ -259,7 +363,7 @@
           {
             "narration": [
               {
-                "audio": "50.mp3",
+                "audio": "hamsini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -272,7 +376,7 @@
                 "utterances": "hamsini"
               }
             ],
-            "sentence": "Hamsini"
+            "sentence": "hamsini"
           }
         ]
       ]

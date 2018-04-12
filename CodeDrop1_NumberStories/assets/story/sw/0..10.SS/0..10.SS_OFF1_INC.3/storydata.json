@@ -3,13 +3,13 @@
   "copyright": "",
   "data": [
     {
-      "image": "0_finger.jpg",
+      "image": "0_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "0.mp3",
+                "audio": "sifuri.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -22,19 +22,19 @@
                 "utterances": "sifuri"
               }
             ],
-            "sentence": "Sifuri"
+            "sentence": "sifuri"
           }
         ]
       ]
     },
     {
-      "image": "1_finger.jpg",
+      "image": "1_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "1.mp3",
+                "audio": "moja.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -47,19 +47,19 @@
                 "utterances": "moja"
               }
             ],
-            "sentence": "Moja"
+            "sentence": "moja"
           }
         ]
       ]
     },
     {
-      "image": "2_finger.jpg",
+      "image": "2_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "2.mp3",
+                "audio": "mbili.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -72,19 +72,19 @@
                 "utterances": "mbili"
               }
             ],
-            "sentence": "Mbili"
+            "sentence": "mbili"
           }
         ]
       ]
     },
     {
-      "image": "3_finger.jpg",
+      "image": "3_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "3.mp3",
+                "audio": "tatu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -97,19 +97,19 @@
                 "utterances": "tatu"
               }
             ],
-            "sentence": "Tatu"
+            "sentence": "tatu"
           }
         ]
       ]
     },
     {
-      "image": "4_finger.jpg",
+      "image": "4_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "4.mp3",
+                "audio": "nne.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -122,19 +122,19 @@
                 "utterances": "nne"
               }
             ],
-            "sentence": "Nne"
+            "sentence": "nne"
           }
         ]
       ]
     },
     {
-      "image": "5_finger.jpg",
+      "image": "5_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "5.mp3",
+                "audio": "tano.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -147,19 +147,19 @@
                 "utterances": "tano"
               }
             ],
-            "sentence": "Tano"
+            "sentence": "tano"
           }
         ]
       ]
     },
     {
-      "image": "6_finger.jpg",
+      "image": "6_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "6.mp3",
+                "audio": "sita.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -172,19 +172,19 @@
                 "utterances": "sita"
               }
             ],
-            "sentence": "Sita"
+            "sentence": "sita"
           }
         ]
       ]
     },
     {
-      "image": "7_finger.jpg",
+      "image": "7_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "7.mp3",
+                "audio": "saba.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -197,19 +197,19 @@
                 "utterances": "saba"
               }
             ],
-            "sentence": "Saba"
+            "sentence": "saba"
           }
         ]
       ]
     },
     {
-      "image": "8_finger.jpg",
+      "image": "8_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "8.mp3",
+                "audio": "nane.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -222,19 +222,19 @@
                 "utterances": "nane"
               }
             ],
-            "sentence": "Nane"
+            "sentence": "nane"
           }
         ]
       ]
     },
     {
-      "image": "9_finger.jpg",
+      "image": "9_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "9.mp3",
+                "audio": "tisa.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -247,19 +247,19 @@
                 "utterances": "tisa"
               }
             ],
-            "sentence": "Tisa"
+            "sentence": "tisa"
           }
         ]
       ]
     },
     {
-      "image": "10_finger.jpg",
+      "image": "10_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "10.mp3",
+                "audio": "kumi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -272,7 +272,7 @@
                 "utterances": "kumi"
               }
             ],
-            "sentence": "Kumi"
+            "sentence": "kumi"
           }
         ]
       ]

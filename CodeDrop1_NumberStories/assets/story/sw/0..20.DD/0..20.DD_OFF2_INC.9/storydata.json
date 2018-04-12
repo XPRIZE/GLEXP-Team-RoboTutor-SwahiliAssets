@@ -9,7 +9,7 @@
           {
             "narration": [
               {
-                "audio": "0.mp3",
+                "audio": "sifuri.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -22,7 +22,7 @@
                 "utterances": "sifuri"
               }
             ],
-            "sentence": "Sifuri"
+            "sentence": "sifuri"
           }
         ]
       ]
@@ -34,7 +34,7 @@
           {
             "narration": [
               {
-                "audio": "2.mp3",
+                "audio": "mbili.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -47,7 +47,7 @@
                 "utterances": "mbili"
               }
             ],
-            "sentence": "Mbili"
+            "sentence": "mbili"
           }
         ]
       ]
@@ -59,7 +59,7 @@
           {
             "narration": [
               {
-                "audio": "4.mp3",
+                "audio": "nne.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -72,7 +72,7 @@
                 "utterances": "nne"
               }
             ],
-            "sentence": "Nne"
+            "sentence": "nne"
           }
         ]
       ]
@@ -84,7 +84,7 @@
           {
             "narration": [
               {
-                "audio": "6.mp3",
+                "audio": "sita.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -97,7 +97,7 @@
                 "utterances": "sita"
               }
             ],
-            "sentence": "Sita"
+            "sentence": "sita"
           }
         ]
       ]
@@ -109,7 +109,7 @@
           {
             "narration": [
               {
-                "audio": "8.mp3",
+                "audio": "nane.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -122,7 +122,7 @@
                 "utterances": "nane"
               }
             ],
-            "sentence": "Nane"
+            "sentence": "nane"
           }
         ]
       ]
@@ -134,7 +134,7 @@
           {
             "narration": [
               {
-                "audio": "10.mp3",
+                "audio": "kumi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -147,7 +147,7 @@
                 "utterances": "kumi"
               }
             ],
-            "sentence": "Kumi"
+            "sentence": "kumi"
           }
         ]
       ]
@@ -159,7 +159,33 @@
           {
             "narration": [
               {
-                "audio": "12.mp3",
+                "audio": "kumi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "mbili.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -169,10 +195,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na mbili"
+                "utterances": "mbili"
               }
             ],
-            "sentence": "Kumi na Mbili"
+            "sentence": "kumi na mbili"
           }
         ]
       ]
@@ -184,7 +210,33 @@
           {
             "narration": [
               {
-                "audio": "14.mp3",
+                "audio": "kumi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "nne.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -194,10 +246,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na nne"
+                "utterances": "nne"
               }
             ],
-            "sentence": "Kumi na Nne"
+            "sentence": "kumi na nne"
           }
         ]
       ]
@@ -209,7 +261,33 @@
           {
             "narration": [
               {
-                "audio": "16.mp3",
+                "audio": "kumi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "sita.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -219,10 +297,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na sita"
+                "utterances": "sita"
               }
             ],
-            "sentence": "Kumi na Sita"
+            "sentence": "kumi na sita"
           }
         ]
       ]
@@ -234,7 +312,33 @@
           {
             "narration": [
               {
-                "audio": "18.mp3",
+                "audio": "kumi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "nane.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -244,10 +348,10 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "kumi na nane"
+                "utterances": "nane"
               }
             ],
-            "sentence": "Kumi na Nane"
+            "sentence": "kumi na nane"
           }
         ]
       ]
@@ -259,7 +363,7 @@
           {
             "narration": [
               {
-                "audio": "20.mp3",
+                "audio": "ishirini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -272,7 +376,7 @@
                 "utterances": "ishirini"
               }
             ],
-            "sentence": "Ishirini"
+            "sentence": "ishirini"
           }
         ]
       ]

@@ -3,132 +3,28 @@
   "copyright": "",
   "data": [
     {
-      "image": "811_txt.png",
+      "image": "770_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "800.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nane"
                   }
                 ],
                 "until": -1,
-                "utterances": "mia nane"
+                "utterances": "mia"
               },
               {
-                "audio": "na.mp3",
+                "audio": "saba.mp3",
                 "from": -1,
                 "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "11.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "moja"
-                  }
-                ],
-                "until": -1,
-                "utterances": "kumi na moja"
-              }
-            ],
-            "sentence": "Mia Nane na Kumi na Moja"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "801_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "800.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  },
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nane"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia nane"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "1.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "moja"
-                  }
-                ],
-                "until": -1,
-                "utterances": "moja"
-              }
-            ],
-            "sentence": "Mia Nane na Moja"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "791_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "700.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  },
                   {
                     "end": -1,
                     "start": -1,
@@ -136,7 +32,7 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
@@ -152,39 +48,47 @@
                 "utterances": "na"
               },
               {
-                "audio": "91.mp3",
+                "audio": "sabini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "sabini"
                   }
                 ],
                 "until": -1,
-                "utterances": "tisini na moja"
+                "utterances": "sabini"
               }
             ],
-            "sentence": "Mia Saba na Tisini na Moja"
+            "sentence": "mia saba na sabini"
           }
         ]
       ]
     },
     {
-      "image": "781_txt.png",
+      "image": "760_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "700.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -192,7 +96,7 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
@@ -208,39 +112,47 @@
                 "utterances": "na"
               },
               {
-                "audio": "81.mp3",
+                "audio": "sitini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "sitini"
                   }
                 ],
                 "until": -1,
-                "utterances": "themanini na moja"
+                "utterances": "sitini"
               }
             ],
-            "sentence": "Mia Saba na Themanini na Moja"
+            "sentence": "mia saba na sitini"
           }
         ]
       ]
     },
     {
-      "image": "771_txt.png",
+      "image": "750_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "700.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -248,7 +160,7 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
@@ -264,39 +176,47 @@
                 "utterances": "na"
               },
               {
-                "audio": "71.mp3",
+                "audio": "hamsini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "hamsini"
                   }
                 ],
                 "until": -1,
-                "utterances": "sabini na moja"
+                "utterances": "hamsini"
               }
             ],
-            "sentence": "Mia Saba na Sabini na Moja"
+            "sentence": "mia saba na hamsini"
           }
         ]
       ]
     },
     {
-      "image": "761_txt.png",
+      "image": "740_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "700.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -304,7 +224,7 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
@@ -320,39 +240,47 @@
                 "utterances": "na"
               },
               {
-                "audio": "61.mp3",
+                "audio": "arobaini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "arobaini"
                   }
                 ],
                 "until": -1,
-                "utterances": "sitini na moja"
+                "utterances": "arobaini"
               }
             ],
-            "sentence": "Mia Saba na Sitini na Moja"
+            "sentence": "mia saba na arobaini"
           }
         ]
       ]
     },
     {
-      "image": "751_txt.png",
+      "image": "730_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "700.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -360,7 +288,7 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
@@ -376,39 +304,47 @@
                 "utterances": "na"
               },
               {
-                "audio": "51.mp3",
+                "audio": "thelathini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "thelathini"
                   }
                 ],
                 "until": -1,
-                "utterances": "hamsini na moja"
+                "utterances": "thelathini"
               }
             ],
-            "sentence": "Mia Saba na Hamsini na Moja"
+            "sentence": "mia saba na thelathini"
           }
         ]
       ]
     },
     {
-      "image": "741_txt.png",
+      "image": "720_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "700.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -416,7 +352,7 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
@@ -432,39 +368,47 @@
                 "utterances": "na"
               },
               {
-                "audio": "41.mp3",
+                "audio": "ishirini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "ishirini"
                   }
                 ],
                 "until": -1,
-                "utterances": "arobaini na moja"
+                "utterances": "ishirini"
               }
             ],
-            "sentence": "Mia Saba na Arobaini na Moja"
+            "sentence": "mia saba na ishirini"
           }
         ]
       ]
     },
     {
-      "image": "731_txt.png",
+      "image": "710_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "700.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -472,7 +416,7 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
@@ -488,39 +432,47 @@
                 "utterances": "na"
               },
               {
-                "audio": "31.mp3",
+                "audio": "kumi.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "kumi"
                   }
                 ],
                 "until": -1,
-                "utterances": "thelathini na moja"
+                "utterances": "kumi"
               }
             ],
-            "sentence": "Mia Saba na Thelathini na Moja"
+            "sentence": "mia saba na kumi"
           }
         ]
       ]
     },
     {
-      "image": "721_txt.png",
+      "image": "700_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "700.mp3",
+                "audio": "mia.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
                     "word": "mia"
-                  },
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": -1,
+                "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
@@ -528,7 +480,45 @@
                   }
                 ],
                 "until": -1,
-                "utterances": "mia saba"
+                "utterances": "saba"
+              }
+            ],
+            "sentence": "mia saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "690_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "sita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sita"
               },
               {
                 "audio": "na.mp3",
@@ -544,20 +534,84 @@
                 "utterances": "na"
               },
               {
-                "audio": "21.mp3",
+                "audio": "tisini.mp3",
                 "from": -1,
                 "segmentation": [
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "moja"
+                    "word": "tisini"
                   }
                 ],
                 "until": -1,
-                "utterances": "ishirini na moja"
+                "utterances": "tisini"
               }
             ],
-            "sentence": "Mia Saba na Ishirini na Moja"
+            "sentence": "mia sita na tisini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "680_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia"
+              },
+              {
+                "audio": "sita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sita"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "themanini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              }
+            ],
+            "sentence": "mia sita na themanini"
           }
         ]
       ]

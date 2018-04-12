@@ -3,13 +3,13 @@
   "copyright": "",
   "data": [
     {
-      "image": "4_tenframe.png",
+      "image": "4_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "4.mp3",
+                "audio": "nne.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -22,19 +22,19 @@
                 "utterances": "nne"
               }
             ],
-            "sentence": "Nne"
+            "sentence": "nne"
           }
         ]
       ]
     },
     {
-      "image": "3_tenframe.png",
+      "image": "3_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "3.mp3",
+                "audio": "tatu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -47,19 +47,19 @@
                 "utterances": "tatu"
               }
             ],
-            "sentence": "Tatu"
+            "sentence": "tatu"
           }
         ]
       ]
     },
     {
-      "image": "2_tenframe.png",
+      "image": "2_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "2.mp3",
+                "audio": "mbili.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -72,19 +72,19 @@
                 "utterances": "mbili"
               }
             ],
-            "sentence": "Mbili"
+            "sentence": "mbili"
           }
         ]
       ]
     },
     {
-      "image": "1_tenframe.png",
+      "image": "1_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "1.mp3",
+                "audio": "moja.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -97,19 +97,19 @@
                 "utterances": "moja"
               }
             ],
-            "sentence": "Moja"
+            "sentence": "moja"
           }
         ]
       ]
     },
     {
-      "image": "4_tenframe.png",
+      "image": "4_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "4.mp3",
+                "audio": "nne.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -122,19 +122,19 @@
                 "utterances": "nne"
               }
             ],
-            "sentence": "Nne"
+            "sentence": "nne"
           }
         ]
       ]
     },
     {
-      "image": "3_tenframe.png",
+      "image": "3_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "3.mp3",
+                "audio": "tatu.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -147,19 +147,19 @@
                 "utterances": "tatu"
               }
             ],
-            "sentence": "Tatu"
+            "sentence": "tatu"
           }
         ]
       ]
     },
     {
-      "image": "2_tenframe.png",
+      "image": "2_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "2.mp3",
+                "audio": "mbili.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -172,19 +172,19 @@
                 "utterances": "mbili"
               }
             ],
-            "sentence": "Mbili"
+            "sentence": "mbili"
           }
         ]
       ]
     },
     {
-      "image": "1_tenframe.png",
+      "image": "1_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "1.mp3",
+                "audio": "moja.mp3",
                 "from": -1,
                 "segmentation": [
                   {
@@ -197,7 +197,7 @@
                 "utterances": "moja"
               }
             ],
-            "sentence": "Moja"
+            "sentence": "moja"
           }
         ]
       ]
