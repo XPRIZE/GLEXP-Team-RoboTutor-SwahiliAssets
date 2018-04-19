@@ -3,615 +3,875 @@
   "copyright": "",
   "data": [
     {
-      "image": "770_txt.png",
+      "image": "873_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "saba.mp3",
-                "from": -1,
+                "audio": "nane.mp3",
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
                   }
                 ],
-                "until": -1,
-                "utterances": "saba"
+                "until": 248,
+                "utterances": "nane"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 269,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 379,
                 "utterances": "na"
               },
               {
                 "audio": "sabini.mp3",
-                "from": -1,
+                "from": 398,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 117,
+                    "start": 19,
                     "word": "sabini"
                   }
                 ],
-                "until": -1,
+                "until": 544,
                 "utterances": "sabini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 564,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 640,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 661,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 758,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia saba na sabini"
+            "sentence": "mia nane na sabini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "760_txt.png",
+      "image": "863_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "saba.mp3",
-                "from": -1,
+                "audio": "nane.mp3",
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
                   }
                 ],
-                "until": -1,
-                "utterances": "saba"
+                "until": 248,
+                "utterances": "nane"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 269,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 379,
                 "utterances": "na"
               },
               {
                 "audio": "sitini.mp3",
-                "from": -1,
+                "from": 400,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 124,
+                    "start": 21,
                     "word": "sitini"
                   }
                 ],
-                "until": -1,
+                "until": 553,
                 "utterances": "sitini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 573,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 649,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 670,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 767,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia saba na sitini"
+            "sentence": "mia nane na sitini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "750_txt.png",
+      "image": "853_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "saba.mp3",
-                "from": -1,
+                "audio": "nane.mp3",
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
                   }
                 ],
-                "until": -1,
-                "utterances": "saba"
+                "until": 248,
+                "utterances": "nane"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 269,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 379,
                 "utterances": "na"
               },
               {
                 "audio": "hamsini.mp3",
-                "from": -1,
+                "from": 398,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 128,
+                    "start": 19,
                     "word": "hamsini"
                   }
                 ],
-                "until": -1,
+                "until": 549,
                 "utterances": "hamsini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 569,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 645,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 666,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 763,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia saba na hamsini"
+            "sentence": "mia nane na hamsini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "740_txt.png",
+      "image": "843_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "saba.mp3",
-                "from": -1,
+                "audio": "nane.mp3",
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
                   }
                 ],
-                "until": -1,
-                "utterances": "saba"
+                "until": 248,
+                "utterances": "nane"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 269,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 379,
                 "utterances": "na"
               },
               {
                 "audio": "arobaini.mp3",
-                "from": -1,
+                "from": 400,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 131,
+                    "start": 21,
                     "word": "arobaini"
                   }
                 ],
-                "until": -1,
+                "until": 563,
                 "utterances": "arobaini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 583,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 659,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 680,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 777,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia saba na arobaini"
+            "sentence": "mia nane na arobaini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "730_txt.png",
+      "image": "833_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "saba.mp3",
-                "from": -1,
+                "audio": "nane.mp3",
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
                   }
                 ],
-                "until": -1,
-                "utterances": "saba"
+                "until": 248,
+                "utterances": "nane"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 269,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 379,
                 "utterances": "na"
               },
               {
                 "audio": "thelathini.mp3",
-                "from": -1,
+                "from": 381,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 115,
+                    "start": 2,
                     "word": "thelathini"
                   }
                 ],
-                "until": -1,
+                "until": 550,
                 "utterances": "thelathini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 570,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 646,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 667,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 764,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia saba na thelathini"
+            "sentence": "mia nane na thelathini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "720_txt.png",
+      "image": "823_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "saba.mp3",
-                "from": -1,
+                "audio": "nane.mp3",
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
                   }
                 ],
-                "until": -1,
-                "utterances": "saba"
+                "until": 248,
+                "utterances": "nane"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 269,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 379,
                 "utterances": "na"
               },
               {
                 "audio": "ishirini.mp3",
-                "from": -1,
+                "from": 399,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 110,
+                    "start": 20,
                     "word": "ishirini"
                   }
                 ],
-                "until": -1,
+                "until": 545,
                 "utterances": "ishirini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 565,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 641,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 662,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 759,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia saba na ishirini"
+            "sentence": "mia nane na ishirini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "710_txt.png",
+      "image": "813_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "saba.mp3",
-                "from": -1,
+                "audio": "nane.mp3",
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
                   }
                 ],
-                "until": -1,
-                "utterances": "saba"
+                "until": 248,
+                "utterances": "nane"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 269,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 379,
                 "utterances": "na"
               },
               {
                 "audio": "kumi.mp3",
-                "from": -1,
+                "from": 381,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 87,
+                    "start": 2,
                     "word": "kumi"
                   }
                 ],
-                "until": -1,
+                "until": 517,
                 "utterances": "kumi"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 537,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 613,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 634,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 731,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia saba na kumi"
+            "sentence": "mia nane na kumi na tatu"
           }
         ]
       ]
     },
     {
-      "image": "700_txt.png",
+      "image": "803_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
+                "utterances": "mia"
+              },
+              {
+                "audio": "nane.mp3",
+                "from": 138,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
+                  }
+                ],
+                "until": 248,
+                "utterances": "nane"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 269,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "na"
+                  }
+                ],
+                "until": 379,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 400,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 497,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "mia nane na tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "793_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "mia"
+                  }
+                ],
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "saba.mp3",
-                "from": -1,
+                "from": 137,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 20,
                     "word": "saba"
                   }
                 ],
-                "until": -1,
+                "until": 255,
                 "utterances": "saba"
-              }
-            ],
-            "sentence": "mia saba"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "690_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia"
-              },
-              {
-                "audio": "sita.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sita"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sita"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 275,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 393,
                 "utterances": "na"
               },
               {
                 "audio": "tisini.mp3",
-                "from": -1,
+                "from": 415,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 111,
+                    "start": 22,
                     "word": "tisini"
                   }
                 ],
-                "until": -1,
+                "until": 548,
                 "utterances": "tisini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 568,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 644,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 665,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 762,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia sita na tisini"
+            "sentence": "mia saba na tisini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "680_txt.png",
+      "image": "783_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "sita.mp3",
-                "from": -1,
+                "audio": "saba.mp3",
+                "from": 137,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sita"
+                    "end": 81,
+                    "start": 20,
+                    "word": "saba"
                   }
                 ],
-                "until": -1,
-                "utterances": "sita"
+                "until": 255,
+                "utterances": "saba"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 275,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 393,
                 "utterances": "na"
               },
               {
                 "audio": "themanini.mp3",
-                "from": -1,
+                "from": 395,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 122,
+                    "start": 2,
                     "word": "themanini"
                   }
                 ],
-                "until": -1,
+                "until": 566,
                 "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 586,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 662,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 683,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 780,
+                "utterances": "tatu"
               }
             ],
-            "sentence": "mia sita na themanini"
+            "sentence": "mia saba na themanini na tatu"
           }
         ]
       ]

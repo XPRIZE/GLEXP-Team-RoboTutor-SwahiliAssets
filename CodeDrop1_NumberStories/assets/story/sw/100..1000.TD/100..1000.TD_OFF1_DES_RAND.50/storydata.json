@@ -3,875 +3,875 @@
   "copyright": "",
   "data": [
     {
-      "image": "339_txt.png",
+      "image": "257_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 589,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "tisa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tisa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tisa"
-              }
-            ],
-            "sentence": "mia tatu na thelathini na tisa"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "338_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia"
-              },
-              {
-                "audio": "tatu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tatu"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "thelathini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "thelathini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "nane.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nane"
-                  }
-                ],
-                "until": -1,
-                "utterances": "nane"
-              }
-            ],
-            "sentence": "mia tatu na thelathini na nane"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "337_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia"
-              },
-              {
-                "audio": "tatu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tatu"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "thelathini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "thelathini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
+                "until": 665,
                 "utterances": "na"
               },
               {
                 "audio": "saba.mp3",
-                "from": -1,
+                "from": 685,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 20,
                     "word": "saba"
                   }
                 ],
-                "until": -1,
+                "until": 803,
                 "utterances": "saba"
               }
             ],
-            "sentence": "mia tatu na thelathini na saba"
+            "sentence": "mia mbili na hamsini na saba"
           }
         ]
       ]
     },
     {
-      "image": "336_txt.png",
+      "image": "256_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 589,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 665,
                 "utterances": "na"
               },
               {
                 "audio": "sita.mp3",
-                "from": -1,
+                "from": 686,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 88,
+                    "start": 21,
                     "word": "sita"
                   }
                 ],
-                "until": -1,
+                "until": 803,
                 "utterances": "sita"
               }
             ],
-            "sentence": "mia tatu na thelathini na sita"
+            "sentence": "mia mbili na hamsini na sita"
           }
         ]
       ]
     },
     {
-      "image": "335_txt.png",
+      "image": "255_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 589,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 665,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 686,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 795,
                 "utterances": "tano"
               }
             ],
-            "sentence": "mia tatu na thelathini na tano"
+            "sentence": "mia mbili na hamsini na tano"
           }
         ]
       ]
     },
     {
-      "image": "334_txt.png",
+      "image": "254_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 589,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 665,
                 "utterances": "na"
               },
               {
                 "audio": "nne.mp3",
-                "from": -1,
+                "from": 686,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 70,
+                    "start": 21,
                     "word": "nne"
                   }
                 ],
-                "until": -1,
+                "until": 777,
                 "utterances": "nne"
               }
             ],
-            "sentence": "mia tatu na thelathini na nne"
+            "sentence": "mia mbili na hamsini na nne"
           }
         ]
       ]
     },
     {
-      "image": "333_txt.png",
+      "image": "253_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 589,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 665,
                 "utterances": "na"
               },
               {
                 "audio": "tatu.mp3",
-                "from": -1,
+                "from": 686,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "tatu"
                   }
                 ],
-                "until": -1,
+                "until": 783,
                 "utterances": "tatu"
               }
             ],
-            "sentence": "mia tatu na thelathini na tatu"
+            "sentence": "mia mbili na hamsini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "332_txt.png",
+      "image": "252_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 589,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 665,
                 "utterances": "na"
               },
               {
                 "audio": "mbili.mp3",
-                "from": -1,
+                "from": 687,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "mbili"
                   }
                 ],
-                "until": -1,
+                "until": 806,
                 "utterances": "mbili"
               }
             ],
-            "sentence": "mia tatu na thelathini na mbili"
+            "sentence": "mia mbili na hamsini na mbili"
           }
         ]
       ]
     },
     {
-      "image": "331_txt.png",
+      "image": "251_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 589,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 665,
                 "utterances": "na"
               },
               {
                 "audio": "moja.mp3",
-                "from": -1,
+                "from": 686,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "moja"
                   }
                 ],
-                "until": -1,
+                "until": 790,
                 "utterances": "moja"
               }
             ],
-            "sentence": "mia tatu na thelathini na moja"
+            "sentence": "mia mbili na hamsini na moja"
           }
         ]
       ]
     },
     {
-      "image": "330_txt.png",
+      "image": "250_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tatu.mp3",
-                "from": -1,
+                "audio": "mbili.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
                   }
                 ],
-                "until": -1,
-                "utterances": "tatu"
+                "until": 258,
+                "utterances": "mbili"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 280,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "na"
               },
               {
-                "audio": "thelathini.mp3",
-                "from": -1,
+                "audio": "hamsini.mp3",
+                "from": 418,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "thelathini"
+                    "end": 128,
+                    "start": 19,
+                    "word": "hamsini"
                   }
                 ],
-                "until": -1,
-                "utterances": "thelathini"
+                "until": 569,
+                "utterances": "hamsini"
               }
             ],
-            "sentence": "mia tatu na thelathini"
+            "sentence": "mia mbili na hamsini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "249_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "mia"
+                  }
+                ],
+                "until": 117,
+                "utterances": "mia"
+              },
+              {
+                "audio": "mbili.mp3",
+                "from": 139,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
+                  }
+                ],
+                "until": 258,
+                "utterances": "mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 280,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "na"
+                  }
+                ],
+                "until": 399,
+                "utterances": "na"
+              },
+              {
+                "audio": "arobaini.mp3",
+                "from": 420,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 21,
+                    "word": "arobaini"
+                  }
+                ],
+                "until": 583,
+                "utterances": "arobaini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 603,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 679,
+                "utterances": "na"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": 701,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 797,
+                "utterances": "tisa"
+              }
+            ],
+            "sentence": "mia mbili na arobaini na tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "248_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "mia"
+                  }
+                ],
+                "until": 117,
+                "utterances": "mia"
+              },
+              {
+                "audio": "mbili.mp3",
+                "from": 139,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
+                  }
+                ],
+                "until": 258,
+                "utterances": "mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 280,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "na"
+                  }
+                ],
+                "until": 399,
+                "utterances": "na"
+              },
+              {
+                "audio": "arobaini.mp3",
+                "from": 420,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 21,
+                    "word": "arobaini"
+                  }
+                ],
+                "until": 583,
+                "utterances": "arobaini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 603,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 679,
+                "utterances": "na"
+              },
+              {
+                "audio": "nane.mp3",
+                "from": 700,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
+                  }
+                ],
+                "until": 810,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "mia mbili na arobaini na nane"
           }
         ]
       ]

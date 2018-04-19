@@ -10,28 +10,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "moja.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "moja"
                   }
                 ],
-                "until": -1,
+                "until": 242,
                 "utterances": "moja"
               }
             ],
@@ -48,28 +48,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "mbili.mp3",
-                "from": -1,
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "mbili"
                   }
                 ],
-                "until": -1,
+                "until": 258,
                 "utterances": "mbili"
               }
             ],
@@ -86,28 +86,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "tatu.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "tatu"
                   }
                 ],
-                "until": -1,
+                "until": 235,
                 "utterances": "tatu"
               }
             ],
@@ -124,28 +124,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "nne.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 70,
+                    "start": 21,
                     "word": "nne"
                   }
                 ],
-                "until": -1,
+                "until": 229,
                 "utterances": "nne"
               }
             ],
@@ -162,28 +162,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 247,
                 "utterances": "tano"
               }
             ],
@@ -200,28 +200,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "sita.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 88,
+                    "start": 21,
                     "word": "sita"
                   }
                 ],
-                "until": -1,
+                "until": 255,
                 "utterances": "sita"
               }
             ],
@@ -238,28 +238,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "saba.mp3",
-                "from": -1,
+                "from": 137,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 20,
                     "word": "saba"
                   }
                 ],
-                "until": -1,
+                "until": 255,
                 "utterances": "saba"
               }
             ],
@@ -276,28 +276,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "nane.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "nane"
                   }
                 ],
-                "until": -1,
+                "until": 248,
                 "utterances": "nane"
               }
             ],
@@ -314,28 +314,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "tisa.mp3",
-                "from": -1,
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "tisa"
                   }
                 ],
-                "until": -1,
+                "until": 235,
                 "utterances": "tisa"
               }
             ],
@@ -352,28 +352,28 @@
             "narration": [
               {
                 "audio": "elfu.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 69,
+                    "start": 21,
                     "word": "elfu"
                   }
                 ],
-                "until": -1,
+                "until": 118,
                 "utterances": "elfu"
               },
               {
                 "audio": "moja.mp3",
-                "from": -1,
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "moja"
                   }
                 ],
-                "until": -1,
+                "until": 243,
                 "utterances": "moja"
               }
             ],

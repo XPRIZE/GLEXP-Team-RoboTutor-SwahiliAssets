@@ -10,15 +10,15 @@
             "narration": [
               {
                 "audio": "sifuri.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 106,
+                    "start": 19,
                     "word": "sifuri"
                   }
                 ],
-                "until": -1,
+                "until": 155,
                 "utterances": "sifuri"
               }
             ],
@@ -35,15 +35,15 @@
             "narration": [
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 130,
                 "utterances": "tano"
               }
             ],
@@ -60,15 +60,15 @@
             "narration": [
               {
                 "audio": "kumi.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 87,
+                    "start": 2,
                     "word": "kumi"
                   }
                 ],
-                "until": -1,
+                "until": 138,
                 "utterances": "kumi"
               }
             ],
@@ -85,41 +85,41 @@
             "narration": [
               {
                 "audio": "kumi.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 87,
+                    "start": 2,
                     "word": "kumi"
                   }
                 ],
-                "until": -1,
+                "until": 138,
                 "utterances": "kumi"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 158,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 234,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 255,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 364,
                 "utterances": "tano"
               }
             ],
@@ -136,15 +136,15 @@
             "narration": [
               {
                 "audio": "ishirini.mp3",
-                "from": -1,
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 110,
+                    "start": 20,
                     "word": "ishirini"
                   }
                 ],
-                "until": -1,
+                "until": 166,
                 "utterances": "ishirini"
               }
             ],
@@ -161,41 +161,41 @@
             "narration": [
               {
                 "audio": "ishirini.mp3",
-                "from": -1,
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 110,
+                    "start": 20,
                     "word": "ishirini"
                   }
                 ],
-                "until": -1,
+                "until": 166,
                 "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 186,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 262,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 283,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 392,
                 "utterances": "tano"
               }
             ],
@@ -212,15 +212,15 @@
             "narration": [
               {
                 "audio": "thelathini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 115,
+                    "start": 2,
                     "word": "thelathini"
                   }
                 ],
-                "until": -1,
+                "until": 171,
                 "utterances": "thelathini"
               }
             ],
@@ -237,41 +237,41 @@
             "narration": [
               {
                 "audio": "thelathini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 115,
+                    "start": 2,
                     "word": "thelathini"
                   }
                 ],
-                "until": -1,
+                "until": 171,
                 "utterances": "thelathini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 191,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 267,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 288,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 397,
                 "utterances": "tano"
               }
             ],
@@ -288,15 +288,15 @@
             "narration": [
               {
                 "audio": "arobaini.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 131,
+                    "start": 21,
                     "word": "arobaini"
                   }
                 ],
-                "until": -1,
+                "until": 184,
                 "utterances": "arobaini"
               }
             ],
@@ -313,41 +313,41 @@
             "narration": [
               {
                 "audio": "arobaini.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 131,
+                    "start": 21,
                     "word": "arobaini"
                   }
                 ],
-                "until": -1,
+                "until": 184,
                 "utterances": "arobaini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 204,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 280,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 301,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 410,
                 "utterances": "tano"
               }
             ],
@@ -364,15 +364,15 @@
             "narration": [
               {
                 "audio": "hamsini.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 128,
+                    "start": 19,
                     "word": "hamsini"
                   }
                 ],
-                "until": -1,
+                "until": 170,
                 "utterances": "hamsini"
               }
             ],

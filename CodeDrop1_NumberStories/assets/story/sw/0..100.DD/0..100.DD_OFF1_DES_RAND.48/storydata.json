@@ -3,337 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "93_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "tisini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tisini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tisini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "tatu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tatu"
-              }
-            ],
-            "sentence": "tisini na tatu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "92_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "tisini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tisini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tisini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "mbili.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mbili"
-              }
-            ],
-            "sentence": "tisini na mbili"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "91_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "tisini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tisini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tisini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "moja.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "moja"
-                  }
-                ],
-                "until": -1,
-                "utterances": "moja"
-              }
-            ],
-            "sentence": "tisini na moja"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "90_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "tisini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tisini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tisini"
-              }
-            ],
-            "sentence": "tisini"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "89_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "themanini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "themanini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "themanini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "tisa.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tisa"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tisa"
-              }
-            ],
-            "sentence": "themanini na tisa"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "88_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "themanini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "themanini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "themanini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "nane.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nane"
-                  }
-                ],
-                "until": -1,
-                "utterances": "nane"
-              }
-            ],
-            "sentence": "themanini na nane"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "87_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "themanini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "themanini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "themanini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "saba.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "saba"
-                  }
-                ],
-                "until": -1,
-                "utterances": "saba"
-              }
-            ],
-            "sentence": "themanini na saba"
-          }
-        ]
-      ]
-    },
-    {
       "image": "86_txt.png",
       "text": [
         [
@@ -341,41 +10,41 @@
             "narration": [
               {
                 "audio": "themanini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 122,
+                    "start": 2,
                     "word": "themanini"
                   }
                 ],
-                "until": -1,
+                "until": 173,
                 "utterances": "themanini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 193,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 269,
                 "utterances": "na"
               },
               {
                 "audio": "sita.mp3",
-                "from": -1,
+                "from": 290,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 88,
+                    "start": 21,
                     "word": "sita"
                   }
                 ],
-                "until": -1,
+                "until": 407,
                 "utterances": "sita"
               }
             ],
@@ -392,41 +61,41 @@
             "narration": [
               {
                 "audio": "themanini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 122,
+                    "start": 2,
                     "word": "themanini"
                   }
                 ],
-                "until": -1,
+                "until": 173,
                 "utterances": "themanini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 193,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 269,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 290,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "tano"
               }
             ],
@@ -443,45 +112,376 @@
             "narration": [
               {
                 "audio": "themanini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 122,
+                    "start": 2,
                     "word": "themanini"
                   }
                 ],
-                "until": -1,
+                "until": 173,
                 "utterances": "themanini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 193,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 269,
                 "utterances": "na"
               },
               {
                 "audio": "nne.mp3",
-                "from": -1,
+                "from": 290,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 70,
+                    "start": 21,
                     "word": "nne"
                   }
                 ],
-                "until": -1,
+                "until": 381,
                 "utterances": "nne"
               }
             ],
             "sentence": "themanini na nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "83_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "themanini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 2,
+                    "word": "themanini"
+                  }
+                ],
+                "until": 173,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 193,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 269,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 290,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 387,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "themanini na tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "82_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "themanini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 2,
+                    "word": "themanini"
+                  }
+                ],
+                "until": 173,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 193,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 269,
+                "utterances": "na"
+              },
+              {
+                "audio": "mbili.mp3",
+                "from": 291,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
+                  }
+                ],
+                "until": 410,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "themanini na mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "81_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "themanini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 2,
+                    "word": "themanini"
+                  }
+                ],
+                "until": 173,
+                "utterances": "themanini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 193,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 269,
+                "utterances": "na"
+              },
+              {
+                "audio": "moja.mp3",
+                "from": 290,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "moja"
+                  }
+                ],
+                "until": 394,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "themanini na moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "80_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "themanini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 2,
+                    "word": "themanini"
+                  }
+                ],
+                "until": 173,
+                "utterances": "themanini"
+              }
+            ],
+            "sentence": "themanini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "79_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sabini.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 19,
+                    "word": "sabini"
+                  }
+                ],
+                "until": 165,
+                "utterances": "sabini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 185,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 261,
+                "utterances": "na"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": 283,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 379,
+                "utterances": "tisa"
+              }
+            ],
+            "sentence": "sabini na tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "78_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sabini.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 19,
+                    "word": "sabini"
+                  }
+                ],
+                "until": 165,
+                "utterances": "sabini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 185,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 261,
+                "utterances": "na"
+              },
+              {
+                "audio": "nane.mp3",
+                "from": 282,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "nane"
+                  }
+                ],
+                "until": 392,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "sabini na nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "77_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sabini.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 19,
+                    "word": "sabini"
+                  }
+                ],
+                "until": 165,
+                "utterances": "sabini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 185,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 261,
+                "utterances": "na"
+              },
+              {
+                "audio": "saba.mp3",
+                "from": 281,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 20,
+                    "word": "saba"
+                  }
+                ],
+                "until": 399,
+                "utterances": "saba"
+              }
+            ],
+            "sentence": "sabini na saba"
           }
         ]
       ]

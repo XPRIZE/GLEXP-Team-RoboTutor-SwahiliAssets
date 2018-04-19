@@ -10,28 +10,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "moja.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "moja"
                   }
                 ],
-                "until": -1,
+                "until": 242,
                 "utterances": "moja"
               }
             ],
@@ -48,41 +48,41 @@
             "narration": [
               {
                 "audio": "tisini.mp3",
-                "from": -1,
+                "from": 22,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 111,
+                    "start": 22,
                     "word": "tisini"
                   }
                 ],
-                "until": -1,
+                "until": 155,
                 "utterances": "tisini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 175,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 251,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 272,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 381,
                 "utterances": "tano"
               }
             ],
@@ -99,15 +99,15 @@
             "narration": [
               {
                 "audio": "tisini.mp3",
-                "from": -1,
+                "from": 22,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 111,
+                    "start": 22,
                     "word": "tisini"
                   }
                 ],
-                "until": -1,
+                "until": 155,
                 "utterances": "tisini"
               }
             ],
@@ -124,41 +124,41 @@
             "narration": [
               {
                 "audio": "themanini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 122,
+                    "start": 2,
                     "word": "themanini"
                   }
                 ],
-                "until": -1,
+                "until": 173,
                 "utterances": "themanini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 193,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 269,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 290,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 399,
                 "utterances": "tano"
               }
             ],
@@ -175,15 +175,15 @@
             "narration": [
               {
                 "audio": "themanini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 122,
+                    "start": 2,
                     "word": "themanini"
                   }
                 ],
-                "until": -1,
+                "until": 173,
                 "utterances": "themanini"
               }
             ],
@@ -200,41 +200,41 @@
             "narration": [
               {
                 "audio": "sabini.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 117,
+                    "start": 19,
                     "word": "sabini"
                   }
                 ],
-                "until": -1,
+                "until": 165,
                 "utterances": "sabini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 185,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 261,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 282,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 391,
                 "utterances": "tano"
               }
             ],
@@ -251,15 +251,15 @@
             "narration": [
               {
                 "audio": "sabini.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 117,
+                    "start": 19,
                     "word": "sabini"
                   }
                 ],
-                "until": -1,
+                "until": 165,
                 "utterances": "sabini"
               }
             ],
@@ -276,41 +276,41 @@
             "narration": [
               {
                 "audio": "sitini.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 124,
+                    "start": 21,
                     "word": "sitini"
                   }
                 ],
-                "until": -1,
+                "until": 174,
                 "utterances": "sitini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 194,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 270,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 291,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 400,
                 "utterances": "tano"
               }
             ],
@@ -327,15 +327,15 @@
             "narration": [
               {
                 "audio": "sitini.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 124,
+                    "start": 21,
                     "word": "sitini"
                   }
                 ],
-                "until": -1,
+                "until": 174,
                 "utterances": "sitini"
               }
             ],
@@ -352,41 +352,41 @@
             "narration": [
               {
                 "audio": "hamsini.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 128,
+                    "start": 19,
                     "word": "hamsini"
                   }
                 ],
-                "until": -1,
+                "until": 170,
                 "utterances": "hamsini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 190,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 266,
                 "utterances": "na"
               },
               {
                 "audio": "tano.mp3",
-                "from": -1,
+                "from": 287,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 78,
+                    "start": 21,
                     "word": "tano"
                   }
                 ],
-                "until": -1,
+                "until": 396,
                 "utterances": "tano"
               }
             ],
@@ -403,15 +403,15 @@
             "narration": [
               {
                 "audio": "hamsini.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 128,
+                    "start": 19,
                     "word": "hamsini"
                   }
                 ],
-                "until": -1,
+                "until": 170,
                 "utterances": "hamsini"
               }
             ],

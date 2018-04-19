@@ -3,875 +3,875 @@
   "copyright": "",
   "data": [
     {
-      "image": "554_txt.png",
+      "image": "925_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "hamsini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 373,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hamsini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "hamsini"
+                "until": 519,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 539,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 615,
+                "utterances": "na"
+              },
+              {
+                "audio": "tano.mp3",
+                "from": 636,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 21,
+                    "word": "tano"
+                  }
+                ],
+                "until": 745,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "mia tisa na ishirini na tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "924_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "mia"
+                  }
+                ],
+                "until": 117,
+                "utterances": "mia"
+              },
+              {
+                "audio": "tisa.mp3",
+                "from": 139,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 235,
+                "utterances": "tisa"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 257,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 22,
+                    "word": "na"
+                  }
+                ],
+                "until": 353,
+                "utterances": "na"
+              },
+              {
+                "audio": "ishirini.mp3",
+                "from": 373,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
+                  }
+                ],
+                "until": 519,
+                "utterances": "ishirini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 539,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 615,
                 "utterances": "na"
               },
               {
                 "audio": "nne.mp3",
-                "from": -1,
+                "from": 636,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 70,
+                    "start": 21,
                     "word": "nne"
                   }
                 ],
-                "until": -1,
+                "until": 727,
                 "utterances": "nne"
               }
             ],
-            "sentence": "mia tano na hamsini na nne"
+            "sentence": "mia tisa na ishirini na nne"
           }
         ]
       ]
     },
     {
-      "image": "553_txt.png",
+      "image": "923_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "hamsini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 373,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hamsini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "hamsini"
+                "until": 519,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 539,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 615,
                 "utterances": "na"
               },
               {
                 "audio": "tatu.mp3",
-                "from": -1,
+                "from": 636,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "tatu"
                   }
                 ],
-                "until": -1,
+                "until": 733,
                 "utterances": "tatu"
               }
             ],
-            "sentence": "mia tano na hamsini na tatu"
+            "sentence": "mia tisa na ishirini na tatu"
           }
         ]
       ]
     },
     {
-      "image": "552_txt.png",
+      "image": "922_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "hamsini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 373,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hamsini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "hamsini"
+                "until": 519,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 539,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 615,
                 "utterances": "na"
               },
               {
                 "audio": "mbili.mp3",
-                "from": -1,
+                "from": 637,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 90,
+                    "start": 22,
                     "word": "mbili"
                   }
                 ],
-                "until": -1,
+                "until": 756,
                 "utterances": "mbili"
               }
             ],
-            "sentence": "mia tano na hamsini na mbili"
+            "sentence": "mia tisa na ishirini na mbili"
           }
         ]
       ]
     },
     {
-      "image": "551_txt.png",
+      "image": "921_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "hamsini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 373,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hamsini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "hamsini"
+                "until": 519,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 539,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 615,
                 "utterances": "na"
               },
               {
                 "audio": "moja.mp3",
-                "from": -1,
+                "from": 636,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "moja"
                   }
                 ],
-                "until": -1,
+                "until": 740,
                 "utterances": "moja"
               }
             ],
-            "sentence": "mia tano na hamsini na moja"
+            "sentence": "mia tisa na ishirini na moja"
           }
         ]
       ]
     },
     {
-      "image": "550_txt.png",
+      "image": "920_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "hamsini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 373,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "hamsini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "hamsini"
+                "until": 519,
+                "utterances": "ishirini"
               }
             ],
-            "sentence": "mia tano na hamsini"
+            "sentence": "mia tisa na ishirini"
           }
         ]
       ]
     },
     {
-      "image": "549_txt.png",
+      "image": "919_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "arobaini.mp3",
-                "from": -1,
+                "audio": "kumi.mp3",
+                "from": 355,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "arobaini"
+                    "end": 87,
+                    "start": 2,
+                    "word": "kumi"
                   }
                 ],
-                "until": -1,
-                "utterances": "arobaini"
+                "until": 491,
+                "utterances": "kumi"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 511,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 587,
                 "utterances": "na"
               },
               {
                 "audio": "tisa.mp3",
-                "from": -1,
+                "from": 609,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "tisa"
                   }
                 ],
-                "until": -1,
+                "until": 705,
                 "utterances": "tisa"
               }
             ],
-            "sentence": "mia tano na arobaini na tisa"
+            "sentence": "mia tisa na kumi na tisa"
           }
         ]
       ]
     },
     {
-      "image": "548_txt.png",
+      "image": "918_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "arobaini.mp3",
-                "from": -1,
+                "audio": "kumi.mp3",
+                "from": 355,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "arobaini"
+                    "end": 87,
+                    "start": 2,
+                    "word": "kumi"
                   }
                 ],
-                "until": -1,
-                "utterances": "arobaini"
+                "until": 491,
+                "utterances": "kumi"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 511,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 587,
                 "utterances": "na"
               },
               {
                 "audio": "nane.mp3",
-                "from": -1,
+                "from": 608,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "nane"
                   }
                 ],
-                "until": -1,
+                "until": 718,
                 "utterances": "nane"
               }
             ],
-            "sentence": "mia tano na arobaini na nane"
+            "sentence": "mia tisa na kumi na nane"
           }
         ]
       ]
     },
     {
-      "image": "547_txt.png",
+      "image": "917_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "arobaini.mp3",
-                "from": -1,
+                "audio": "kumi.mp3",
+                "from": 355,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "arobaini"
+                    "end": 87,
+                    "start": 2,
+                    "word": "kumi"
                   }
                 ],
-                "until": -1,
-                "utterances": "arobaini"
+                "until": 491,
+                "utterances": "kumi"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 511,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 587,
                 "utterances": "na"
               },
               {
                 "audio": "saba.mp3",
-                "from": -1,
+                "from": 607,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 20,
                     "word": "saba"
                   }
                 ],
-                "until": -1,
+                "until": 725,
                 "utterances": "saba"
               }
             ],
-            "sentence": "mia tano na arobaini na saba"
+            "sentence": "mia tisa na kumi na saba"
           }
         ]
       ]
     },
     {
-      "image": "546_txt.png",
+      "image": "916_txt.png",
       "text": [
         [
           {
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
-                "audio": "tano.mp3",
-                "from": -1,
+                "audio": "tisa.mp3",
+                "from": 139,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
+                    "end": 73,
+                    "start": 22,
+                    "word": "tisa"
                   }
                 ],
-                "until": -1,
-                "utterances": "tano"
+                "until": 235,
+                "utterances": "tisa"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 257,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 353,
                 "utterances": "na"
               },
               {
-                "audio": "arobaini.mp3",
-                "from": -1,
+                "audio": "kumi.mp3",
+                "from": 355,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "arobaini"
+                    "end": 87,
+                    "start": 2,
+                    "word": "kumi"
                   }
                 ],
-                "until": -1,
-                "utterances": "arobaini"
+                "until": 491,
+                "utterances": "kumi"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 511,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 587,
                 "utterances": "na"
               },
               {
                 "audio": "sita.mp3",
-                "from": -1,
+                "from": 608,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 88,
+                    "start": 21,
                     "word": "sita"
                   }
                 ],
-                "until": -1,
+                "until": 725,
                 "utterances": "sita"
               }
             ],
-            "sentence": "mia tano na arobaini na sita"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "545_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mia"
-              },
-              {
-                "audio": "tano.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tano"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "arobaini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "arobaini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "arobaini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "tano.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tano"
-              }
-            ],
-            "sentence": "mia tano na arobaini na tano"
+            "sentence": "mia tisa na kumi na sita"
           }
         ]
       ]

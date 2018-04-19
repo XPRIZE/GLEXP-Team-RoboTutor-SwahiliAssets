@@ -10,15 +10,15 @@
             "narration": [
               {
                 "audio": "sifuri.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 106,
+                    "start": 19,
                     "word": "sifuri"
                   }
                 ],
-                "until": -1,
+                "until": 155,
                 "utterances": "sifuri"
               }
             ],
@@ -35,15 +35,15 @@
             "narration": [
               {
                 "audio": "kumi.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 87,
+                    "start": 2,
                     "word": "kumi"
                   }
                 ],
-                "until": -1,
+                "until": 138,
                 "utterances": "kumi"
               }
             ],
@@ -60,15 +60,15 @@
             "narration": [
               {
                 "audio": "ishirini.mp3",
-                "from": -1,
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 110,
+                    "start": 20,
                     "word": "ishirini"
                   }
                 ],
-                "until": -1,
+                "until": 166,
                 "utterances": "ishirini"
               }
             ],
@@ -85,15 +85,15 @@
             "narration": [
               {
                 "audio": "thelathini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 115,
+                    "start": 2,
                     "word": "thelathini"
                   }
                 ],
-                "until": -1,
+                "until": 171,
                 "utterances": "thelathini"
               }
             ],
@@ -110,15 +110,15 @@
             "narration": [
               {
                 "audio": "arobaini.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 131,
+                    "start": 21,
                     "word": "arobaini"
                   }
                 ],
-                "until": -1,
+                "until": 184,
                 "utterances": "arobaini"
               }
             ],
@@ -135,15 +135,15 @@
             "narration": [
               {
                 "audio": "hamsini.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 128,
+                    "start": 19,
                     "word": "hamsini"
                   }
                 ],
-                "until": -1,
+                "until": 170,
                 "utterances": "hamsini"
               }
             ],
@@ -160,15 +160,15 @@
             "narration": [
               {
                 "audio": "sitini.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 124,
+                    "start": 21,
                     "word": "sitini"
                   }
                 ],
-                "until": -1,
+                "until": 174,
                 "utterances": "sitini"
               }
             ],
@@ -185,15 +185,15 @@
             "narration": [
               {
                 "audio": "sabini.mp3",
-                "from": -1,
+                "from": 19,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 117,
+                    "start": 19,
                     "word": "sabini"
                   }
                 ],
-                "until": -1,
+                "until": 165,
                 "utterances": "sabini"
               }
             ],
@@ -210,15 +210,15 @@
             "narration": [
               {
                 "audio": "themanini.mp3",
-                "from": -1,
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 122,
+                    "start": 2,
                     "word": "themanini"
                   }
                 ],
-                "until": -1,
+                "until": 173,
                 "utterances": "themanini"
               }
             ],
@@ -235,15 +235,15 @@
             "narration": [
               {
                 "audio": "tisini.mp3",
-                "from": -1,
+                "from": 22,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 111,
+                    "start": 22,
                     "word": "tisini"
                   }
                 ],
-                "until": -1,
+                "until": 155,
                 "utterances": "tisini"
               }
             ],
@@ -260,28 +260,28 @@
             "narration": [
               {
                 "audio": "mia.mp3",
-                "from": -1,
+                "from": 21,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 76,
+                    "start": 21,
                     "word": "mia"
                   }
                 ],
-                "until": -1,
+                "until": 117,
                 "utterances": "mia"
               },
               {
                 "audio": "moja.mp3",
-                "from": -1,
+                "from": 138,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "moja"
                   }
                 ],
-                "until": -1,
+                "until": 242,
                 "utterances": "moja"
               }
             ],

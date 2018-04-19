@@ -3,485 +3,485 @@
   "copyright": "",
   "data": [
     {
-      "image": "62_txt.png",
+      "image": "26_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sitini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "sitini"
+                "until": 166,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 186,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "mbili.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mbili"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mbili"
-              }
-            ],
-            "sentence": "sitini na mbili"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "63_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sitini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sitini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "tatu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tatu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tatu"
-              }
-            ],
-            "sentence": "sitini na tatu"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "64_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sitini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sitini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "nne.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nne"
-                  }
-                ],
-                "until": -1,
-                "utterances": "nne"
-              }
-            ],
-            "sentence": "sitini na nne"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "65_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sitini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sitini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
-                "utterances": "na"
-              },
-              {
-                "audio": "tano.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tano"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tano"
-              }
-            ],
-            "sentence": "sitini na tano"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "66_txt.png",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "sitini.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
-                  }
-                ],
-                "until": -1,
-                "utterances": "sitini"
-              },
-              {
-                "audio": "na.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "na"
-                  }
-                ],
-                "until": -1,
+                "until": 262,
                 "utterances": "na"
               },
               {
                 "audio": "sita.mp3",
-                "from": -1,
+                "from": 283,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 88,
+                    "start": 21,
                     "word": "sita"
                   }
                 ],
-                "until": -1,
+                "until": 400,
                 "utterances": "sita"
               }
             ],
-            "sentence": "sitini na sita"
+            "sentence": "ishirini na sita"
           }
         ]
       ]
     },
     {
-      "image": "67_txt.png",
+      "image": "27_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sitini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "sitini"
+                "until": 166,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 186,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 262,
                 "utterances": "na"
               },
               {
                 "audio": "saba.mp3",
-                "from": -1,
+                "from": 282,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 20,
                     "word": "saba"
                   }
                 ],
-                "until": -1,
+                "until": 400,
                 "utterances": "saba"
               }
             ],
-            "sentence": "sitini na saba"
+            "sentence": "ishirini na saba"
           }
         ]
       ]
     },
     {
-      "image": "68_txt.png",
+      "image": "28_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sitini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "sitini"
+                "until": 166,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 186,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 262,
                 "utterances": "na"
               },
               {
                 "audio": "nane.mp3",
-                "from": -1,
+                "from": 283,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 81,
+                    "start": 21,
                     "word": "nane"
                   }
                 ],
-                "until": -1,
+                "until": 393,
                 "utterances": "nane"
               }
             ],
-            "sentence": "sitini na nane"
+            "sentence": "ishirini na nane"
           }
         ]
       ]
     },
     {
-      "image": "69_txt.png",
+      "image": "29_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sitini.mp3",
-                "from": -1,
+                "audio": "ishirini.mp3",
+                "from": 20,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sitini"
+                    "end": 110,
+                    "start": 20,
+                    "word": "ishirini"
                   }
                 ],
-                "until": -1,
-                "utterances": "sitini"
+                "until": 166,
+                "utterances": "ishirini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 186,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 262,
                 "utterances": "na"
               },
               {
                 "audio": "tisa.mp3",
-                "from": -1,
+                "from": 284,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 73,
+                    "start": 22,
                     "word": "tisa"
                   }
                 ],
-                "until": -1,
+                "until": 380,
                 "utterances": "tisa"
               }
             ],
-            "sentence": "sitini na tisa"
+            "sentence": "ishirini na tisa"
           }
         ]
       ]
     },
     {
-      "image": "70_txt.png",
+      "image": "30_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sabini.mp3",
-                "from": -1,
+                "audio": "thelathini.mp3",
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sabini"
+                    "end": 115,
+                    "start": 2,
+                    "word": "thelathini"
                   }
                 ],
-                "until": -1,
-                "utterances": "sabini"
+                "until": 171,
+                "utterances": "thelathini"
               }
             ],
-            "sentence": "sabini"
+            "sentence": "thelathini"
           }
         ]
       ]
     },
     {
-      "image": "71_txt.png",
+      "image": "31_txt.png",
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "sabini.mp3",
-                "from": -1,
+                "audio": "thelathini.mp3",
+                "from": 2,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
-                    "word": "sabini"
+                    "end": 115,
+                    "start": 2,
+                    "word": "thelathini"
                   }
                 ],
-                "until": -1,
-                "utterances": "sabini"
+                "until": 171,
+                "utterances": "thelathini"
               },
               {
                 "audio": "na.mp3",
-                "from": -1,
+                "from": 191,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 57,
+                    "start": 20,
                     "word": "na"
                   }
                 ],
-                "until": -1,
+                "until": 267,
                 "utterances": "na"
               },
               {
                 "audio": "moja.mp3",
-                "from": -1,
+                "from": 288,
                 "segmentation": [
                   {
-                    "end": -1,
-                    "start": -1,
+                    "end": 75,
+                    "start": 21,
                     "word": "moja"
                   }
                 ],
-                "until": -1,
+                "until": 392,
                 "utterances": "moja"
               }
             ],
-            "sentence": "sabini na moja"
+            "sentence": "thelathini na moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "32_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thelathini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 2,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": 171,
+                "utterances": "thelathini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 191,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 267,
+                "utterances": "na"
+              },
+              {
+                "audio": "mbili.mp3",
+                "from": 289,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "mbili"
+                  }
+                ],
+                "until": 408,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "thelathini na mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "33_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thelathini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 2,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": 171,
+                "utterances": "thelathini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 191,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 267,
+                "utterances": "na"
+              },
+              {
+                "audio": "tatu.mp3",
+                "from": 288,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 385,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "thelathini na tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "34_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thelathini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 2,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": 171,
+                "utterances": "thelathini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 191,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 267,
+                "utterances": "na"
+              },
+              {
+                "audio": "nne.mp3",
+                "from": 288,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "nne"
+                  }
+                ],
+                "until": 379,
+                "utterances": "nne"
+              }
+            ],
+            "sentence": "thelathini na nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "35_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thelathini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 2,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": 171,
+                "utterances": "thelathini"
+              },
+              {
+                "audio": "na.mp3",
+                "from": 191,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "na"
+                  }
+                ],
+                "until": 267,
+                "utterances": "na"
+              },
+              {
+                "audio": "tano.mp3",
+                "from": 288,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 21,
+                    "word": "tano"
+                  }
+                ],
+                "until": 397,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "thelathini na tano"
           }
         ]
       ]
