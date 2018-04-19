@@ -48,7 +48,9 @@
               }
             ],
             "sentence": "Hiyo ndiyo a, a a a"
-          },
+          }
+        ],
+        [
           {
             "narration": [
               {
@@ -141,7 +143,9 @@
               }
             ],
             "sentence": "Hiyo ndiyo e, e e e"
-          },
+          }
+        ],
+        [
           {
             "narration": [
               {
@@ -234,7 +238,9 @@
               }
             ],
             "sentence": "Hiyo ndiyo i, i i i"
-          },
+          }
+        ],
+        [
           {
             "narration": [
               {
@@ -327,7 +333,9 @@
               }
             ],
             "sentence": "Hiyo ndiyo o, o o o"
-          },
+          }
+        ],
+        [
           {
             "narration": [
               {
@@ -421,6 +429,8 @@
             ],
             "sentence": "Hiyo ndiyo u, u u u"
           },
+        ],
+        [
           {
             "narration": [
               {
