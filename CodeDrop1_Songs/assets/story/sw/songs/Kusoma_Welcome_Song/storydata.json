@@ -9,32 +9,7 @@
           {
             "narration": [
               {
-                "audio": "Kusoma.wav",
-                "from": "141",
-                "segmentation": [
-                  {
-                    "end": "193",
-                    "start": "141",
-                    "word": "Kusoma"
-                  }
-                ],
-                "until": "193",
-                "utterances": "Kusoma"
-              }
-            ],
-            "sentence": "Kusoma"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "jicho.jpeg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "Kusoma kusoma kunataka macho yaone.wav",
+                "audio": "Kusoma kusoma.wav",
                 "from": "1",
                 "segmentation": [
                   {
@@ -46,28 +21,48 @@
                     "end": "198",
                     "start": "103",
                     "word": "kusoma"
-                  },
+                  }
+                ],
+                "until": "198",
+                "utterances": "Kusoma kusoma"
+              }
+            ],
+            "sentence": "Kusoma kusoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jicho.jpeg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kunataka macho yaone.wav",
+                "from": "1",
+                "segmentation": [
                   {
-                    "end": "301",
-                    "start": "199",
+                    "end": "102",
+                    "start": "1",
                     "word": "kunataka"
                   },
                   {
-                    "end": "356",
-                    "start": "302",
+                    "end": "155",
+                    "start": "103",
                     "word": "macho"
                   },
                   {
-                    "end": "420",
-                    "start": "357",
+                    "end": "219",
+                    "start": "156",
                     "word": "yaone"
                   }
                 ],
-                "until": "420",
-                "utterances": "Kusoma kusoma kunataka macho yaone"
+                "until": "219",
+                "utterances": "Kunataka macho yaone"
               }
             ],
-            "sentence": "Kusoma kusoma kunataka macho yaone"
+            "sentence": "Kunataka macho yaone"
           }
         ]
       ]
@@ -144,7 +139,7 @@
           {
             "narration": [
               {
-                "audio": "Kusoma kusoma kunataka macho yaone.wav",
+                "audio": "Kusoma kusoma.wav",
                 "from": "1",
                 "segmentation": [
                   {
@@ -156,28 +151,13 @@
                     "end": "198",
                     "start": "103",
                     "word": "kusoma"
-                  },
-                  {
-                    "end": "301",
-                    "start": "199",
-                    "word": "kunataka"
-                  },
-                  {
-                    "end": "356",
-                    "start": "302",
-                    "word": "macho"
-                  },
-                  {
-                    "end": "420",
-                    "start": "357",
-                    "word": "yaone"
                   }
                 ],
-                "until": "420",
-                "utterances": "Kusoma kusoma kunataka macho yaone"
+                "until": "198",
+                "utterances": "Kusoma kusoma"
               }
             ],
-            "sentence": "Kusoma kusoma kunataka macho yaone"
+            "sentence": "Kusoma kusoma"
           }
         ]
       ]
@@ -185,7 +165,36 @@
     {
       "image": "jicho.jpeg",
       "text": [
-        []
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kunataka macho yaone.wav",
+                "from": "1",
+                "segmentation": [
+                  {
+                    "end": "102",
+                    "start": "1",
+                    "word": "kunataka"
+                  },
+                  {
+                    "end": "155",
+                    "start": "103",
+                    "word": "macho"
+                  },
+                  {
+                    "end": "219",
+                    "start": "156",
+                    "word": "yaone"
+                  }
+                ],
+                "until": "219",
+                "utterances": "Kunataka macho yaone"
+              }
+            ],
+            "sentence": "Kunataka macho yaone"
+          }
+        ]
       ]
     },
     {
