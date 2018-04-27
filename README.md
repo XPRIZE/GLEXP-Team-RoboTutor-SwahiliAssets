@@ -13,6 +13,8 @@ ZIP_CodeDrop1_LitStories_SW.sh
 ZIP_CodeDrop1_NumberStories_SW.sh
 ZIP_CodeDrop1_ReadingStories_SW.sh
 ZIP_CodeDrop1_Songs_SW.sh`
+This will give you the following zip folders:
+	* CodeDrop1_LitAudio.1.1.0.zip	* CodeDrop1_LitStories.1.1.0.zip	* CodeDrop1_NumberStories.1.1.0.zip	* CodeDrop1_ReadingStories.1.1.0.zip	* CodeDrop1_Songs.1.1.0.zip
 4. Copy the resulting zip files into the assets folder of your local SystemBuild directory.
 
 
