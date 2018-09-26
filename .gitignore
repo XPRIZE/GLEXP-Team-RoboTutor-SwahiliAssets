@@ -1,5 +1,7 @@
 **/*.zip
 CodeDrop1_*.json
+CodeDrop2_*.json
+CodeDrop2_*.1.1.0*
 *.py
 number_conv*
 CodeDrop1_Master/
