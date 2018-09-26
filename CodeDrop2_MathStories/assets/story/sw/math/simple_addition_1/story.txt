@@ -1,0 +1,97 @@
+{title:Simple Addition 1}{author:RoboTutor}{level:1}
+
+
+
+
+
+{{{mangoes.jpg
+Anna ana maembe matatu na Fatima ana maembe mawili.
+Je, ni maembe mangapi wanayo yote?
+____
+
+
+
+
+
+{{{stones.jpg
+Kuna mawe matatu katika mfuko wangu na mawe manne kwenye mfuko wako.
+Je, Kuna mawe mangapi kwa jumla?
+____
+
+
+
+
+
+{{{bananas.jpg
+Baraka ana ndizi nne.
+Ali ana ndizi tatu.
+Wana ndizi ngapi pamoja?
+____
+
+
+
+
+
+{{{coins.jpg
+Musa ana shilingi tatu.
+Anahitaji shilingi tano zaidi ya kununua kitabu chake anachopenda.
+Je, kitabu ni bei gani?
+____
+
+
+
+
+
+{{{eggs.jpg
+Baraka aliuza mayai matano Jumamosi.
+Aliuza mayai mawili zaidi Jumapili.
+Alikuwa na mayai mangapi pamoja?
+____
+
+
+
+
+
+{{{shirts.jpg
+Abdul ana mashati matatu ya bluu na mashati matatu mekundu.
+Je, ana mashati mangapi kwa jumla?
+____
+
+
+
+
+
+{{{coins.jpg
+
+Baraka na Musa ni marafiki.
+Baraka alinunua penseli kwa shilingi tano na Musa alinunua kifutio kwa shilingi nne.
+Walitumia fedha ngapi?
+____
+
+
+
+
+
+{{{mandazi.jpg
+Musa ana mandazi manne.
+Ananunua mandazi matano zaidi.
+Ni mandazi mangapi anayo sasa?
+____
+
+
+
+
+
+{{{children.jpg
+Kuna wavulana wawili na wasichana watatu nyumbani kwangu.
+Je, kuna watoto wangapi ndani ya nyumba yangu?
+____
+
+
+
+
+
+{{{fruit-stand.jpg
+Mama wa Anna alinunua ndizi mbili na machungwa matatu kutoka sokoni.
+Alikuwa na matunda mangapi kwa jumla?
+____

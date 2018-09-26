@@ -1,0 +1,125 @@
+{title:HUI Word problems}{author:RoboTutor}{level:1}
+
+
+{{{oranges.jpg
+Adie ana machungwa manne.
+Ismail ana machungwa mawili.
+Je, ni machungwa mangapi wanayo yote?
+____
+
+
+
+
+
+{{{children.jpg
+Kuna wavulana watatu nyumbani.
+Kuna wasichana wengine nyumbani.
+Kuna watoto wanane ndani ya nyumba.
+Je, wasichana wangapi wako ndani ya nyumba?
+____
+
+
+
+
+
+{{{pencils.jpg
+Tom alinunua kalamu zingine Jumatatu.
+Tom alinunua kalamu tatu zaidi Ijumaa.
+Tom ana kalamu tano sasa.
+Ni kalamu ngapi ambazo Tom alinunua Jumatatu?
+____
+
+
+
+
+
+{{{mangoes.jpg
+Billy alikuwa na maembe sita.
+Kisha Billy alikula maembe matatu.
+Billy alibaki na maembe mangapi?
+____
+
+
+
+
+
+{{{bus.jpg
+Kulikuwa na wanafunzi saba kwenye basi.
+Kisha wanafunzi wengine wakaondoka basi.
+Baada ya hapo, kulikuwa na mwanafunzi mmoja tu kwenye basi.
+Wanafunzi wangapi waliondoka kwenye basi?
+____
+
+
+
+
+
+{{{mugs.jpg
+Maria alikuwa na vikombe.
+Kisha akavunja vikombe vitatu.
+Maria alibaki na vikombe viwili.
+Maria alianza na vikombe vingapi?
+____
+
+
+
+
+
+{{{caps.jpg
+Akai ana kofia mbili.
+Daudi ana kofia nne zaidi kuliko Akai.
+Je, Daudi ana kofia ngapi?
+____
+
+
+
+
+
+{{{pencil_group.jpg
+Mfuko mwekundu una penseli.
+Mfuko wa bluu una penseli tano.
+Mfuko mwekundu una penseli mbili zaidi kuliko mfuko wa bluu.
+Je, penseli ngapi zimo katika mfuko mwekundu?
+____
+
+
+
+
+
+{{{cupcakes.jpg
+Yohana ana masanduku matatu.
+Kila sanduku lina keki tatu tamu.
+Yohana ana keki ngapi?
+____
+
+
+
+
+
+{{{kid_soccer.jpg
+Kuna timu mbili kwenye uwanja wa michezo.
+Kuna watoto wawili katika kila timu.
+Je, kuna watoto wangapi kwenye uwanja wa michezo kwa jumla?
+____
+
+
+
+
+
+{{{mangoes.jpg
+Kuna maembe makubwa kumi juu ya meza.
+Kuna wanafunzi watano.
+Kila mwanafunzi anapata idadi sawa ya maembe.
+Kila mwanafunzi anapata maembe mangapi?
+____
+
+
+
+
+
+{{{biscuits.jpg
+Kuna biskuti sita kwenye sanduku.
+Kuna watoto wawili.
+Watoto wanagawa biskuti idadi sawa.
+Je, ni biskuti ngapi kila mtoto anapata?
+____
