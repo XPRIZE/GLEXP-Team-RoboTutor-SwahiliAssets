@@ -1,0 +1,923 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level1_3_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Anaitwa Bi Simu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 120,
+                    "start": 21,
+                    "word": "Anaitwa"
+                  },
+                  {
+                    "end": 150,
+                    "start": 140,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 210,
+                    "start": 151,
+                    "word": "Simu"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Anaitwa Bi Simu"
+              }
+            ],
+            "sentence": "Anaitwa Bi Simu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mwangalie.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 116,
+                    "start": 18,
+                    "word": "Mwangalie"
+                  }
+                ],
+                "until": 116,
+                "utterances": "Mwangalie"
+              }
+            ],
+            "sentence": "Mwangalie!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ana simu tano.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 22,
+                    "word": "Ana"
+                  },
+                  {
+                    "end": 122,
+                    "start": 60,
+                    "word": "simu"
+                  },
+                  {
+                    "end": 196,
+                    "start": 138,
+                    "word": "tano"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Ana simu tano"
+              }
+            ],
+            "sentence": "Ana simu tano."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Akiamka anazipanga simu zake tano juu ya meza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 121,
+                    "start": 2,
+                    "word": "Akiamka"
+                  },
+                  {
+                    "end": 277,
+                    "start": 160,
+                    "word": "anazipanga"
+                  },
+                  {
+                    "end": 335,
+                    "start": 278,
+                    "word": "simu"
+                  },
+                  {
+                    "end": 401,
+                    "start": 336,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 485,
+                    "start": 428,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 575,
+                    "start": 531,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 586,
+                    "start": 576,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 637,
+                    "start": 587,
+                    "word": "meza"
+                  }
+                ],
+                "until": 637,
+                "utterances": "Akiamka anazipanga simu zake tano juu ya meza"
+              }
+            ],
+            "sentence": "Akiamka, anazipanga simu zake tano juu ya meza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ya manjano ni ya kuwasiliana na watu wa familia yake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 21,
+                    "word": "Ya"
+                  },
+                  {
+                    "end": 133,
+                    "start": 42,
+                    "word": "manjano"
+                  },
+                  {
+                    "end": 173,
+                    "start": 158,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 183,
+                    "start": 174,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 295,
+                    "start": 184,
+                    "word": "kuwasiliana"
+                  },
+                  {
+                    "end": 318,
+                    "start": 296,
+                    "word": "na"
+                  },
+                  {
+                    "end": 368,
+                    "start": 319,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 392,
+                    "start": 369,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 478,
+                    "start": 393,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 526,
+                    "start": 479,
+                    "word": "yake"
+                  }
+                ],
+                "until": 526,
+                "utterances": "Ya manjano ni ya kuwasiliana na watu wa familia yake"
+              }
+            ],
+            "sentence": "Ya manjano ni ya kuwasiliana na watu wa familia yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ile nyeupe ni ya kuwasiliana na wenzake kazini.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 22,
+                    "word": "Ile"
+                  },
+                  {
+                    "end": 145,
+                    "start": 57,
+                    "word": "nyeupe"
+                  },
+                  {
+                    "end": 193,
+                    "start": 175,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 203,
+                    "start": 194,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 304,
+                    "start": 204,
+                    "word": "kuwasiliana"
+                  },
+                  {
+                    "end": 329,
+                    "start": 305,
+                    "word": "na"
+                  },
+                  {
+                    "end": 395,
+                    "start": 330,
+                    "word": "wenzake"
+                  },
+                  {
+                    "end": 478,
+                    "start": 396,
+                    "word": "kazini"
+                  }
+                ],
+                "until": 478,
+                "utterances": "Ile nyeupe ni ya kuwasiliana na wenzake kazini"
+              }
+            ],
+            "sentence": "Ile nyeupe ni ya kuwasiliana na wenzake kazini."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Bali ile nyekundu ni ya kuwasiliana na wale walio na madeni yake.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 2,
+                    "word": "Bali"
+                  },
+                  {
+                    "end": 103,
+                    "start": 75,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 176,
+                    "start": 104,
+                    "word": "nyekundu"
+                  },
+                  {
+                    "end": 204,
+                    "start": 177,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 212,
+                    "start": 205,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 319,
+                    "start": 213,
+                    "word": "kuwasiliana"
+                  },
+                  {
+                    "end": 343,
+                    "start": 320,
+                    "word": "na"
+                  },
+                  {
+                    "end": 405,
+                    "start": 344,
+                    "word": "wale"
+                  },
+                  {
+                    "end": 509,
+                    "start": 439,
+                    "word": "walio"
+                  },
+                  {
+                    "end": 525,
+                    "start": 510,
+                    "word": "na"
+                  },
+                  {
+                    "end": 600,
+                    "start": 526,
+                    "word": "madeni"
+                  },
+                  {
+                    "end": 648,
+                    "start": 601,
+                    "word": "yake"
+                  }
+                ],
+                "until": 648,
+                "utterances": "Bali ile nyekundu ni ya kuwasiliana na wale walio na madeni yake"
+              }
+            ],
+            "sentence": "Bali ile nyekundu ni ya kuwasiliana na wale walio na madeni yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nayo ile ya waridi ni ya kuwasiliana na marafiki zake wa dhati.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 15,
+                    "word": "Nayo"
+                  },
+                  {
+                    "end": 137,
+                    "start": 88,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 143,
+                    "start": 138,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 229,
+                    "start": 144,
+                    "word": "waridi"
+                  },
+                  {
+                    "end": 269,
+                    "start": 253,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 277,
+                    "start": 270,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 375,
+                    "start": 278,
+                    "word": "kuwasiliana"
+                  },
+                  {
+                    "end": 394,
+                    "start": 376,
+                    "word": "na"
+                  },
+                  {
+                    "end": 463,
+                    "start": 395,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 513,
+                    "start": 464,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 531,
+                    "start": 514,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 608,
+                    "start": 532,
+                    "word": "dhati"
+                  }
+                ],
+                "until": 608,
+                "utterances": "Nayo ile ya waridi ni ya kuwasiliana na marafiki zake wa dhati"
+              }
+            ],
+            "sentence": "Nayo ile ya waridi ni ya kuwasiliana na marafiki zake wa dhati."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ile ya kizambarau anaitumia kuwasiliana na watu wanaohitaji msaada wake.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 22,
+                    "word": "Ile"
+                  },
+                  {
+                    "end": 75,
+                    "start": 67,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 176,
+                    "start": 76,
+                    "word": "kizambarau"
+                  },
+                  {
+                    "end": 337,
+                    "start": 231,
+                    "word": "anaitumia"
+                  },
+                  {
+                    "end": 467,
+                    "start": 338,
+                    "word": "kuwasiliana"
+                  },
+                  {
+                    "end": 511,
+                    "start": 497,
+                    "word": "na"
+                  },
+                  {
+                    "end": 555,
+                    "start": 512,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 670,
+                    "start": 556,
+                    "word": "wanaohitaji"
+                  },
+                  {
+                    "end": 737,
+                    "start": 671,
+                    "word": "msaada"
+                  },
+                  {
+                    "end": 793,
+                    "start": 738,
+                    "word": "wake"
+                  }
+                ],
+                "until": 793,
+                "utterances": "Ile ya kizambarau anaitumia kuwasiliana na watu wanaohitaji msaada wake"
+              }
+            ],
+            "sentence": "Ile ya kizambarau anaitumia kuwasiliana na watu wanaohitaji msaada wake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Bi Simu hupenda watu kufurahi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 2,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 101,
+                    "start": 34,
+                    "word": "Simu"
+                  },
+                  {
+                    "end": 211,
+                    "start": 147,
+                    "word": "hupenda"
+                  },
+                  {
+                    "end": 278,
+                    "start": 212,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 414,
+                    "start": 279,
+                    "word": "kufurahi"
+                  }
+                ],
+                "until": 414,
+                "utterances": "Bi Simu hupenda watu kufurahi"
+              }
+            ],
+            "sentence": "Bi Simu hupenda watu kufurahi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hapendi ugomvi wala vita.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 22,
+                    "word": "Hapendi"
+                  },
+                  {
+                    "end": 165,
+                    "start": 87,
+                    "word": "ugomvi"
+                  },
+                  {
+                    "end": 239,
+                    "start": 194,
+                    "word": "wala"
+                  },
+                  {
+                    "end": 288,
+                    "start": 240,
+                    "word": "vita"
+                  }
+                ],
+                "until": 288,
+                "utterances": "Hapendi ugomvi wala vita"
+              }
+            ],
+            "sentence": "Hapendi ugomvi wala vita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Huwaalika watoto kuangalia runinga katika duka lake.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 19,
+                    "word": "Huwaalika"
+                  },
+                  {
+                    "end": 211,
+                    "start": 112,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 318,
+                    "start": 239,
+                    "word": "kuangalia"
+                  },
+                  {
+                    "end": 394,
+                    "start": 319,
+                    "word": "runinga"
+                  },
+                  {
+                    "end": 460,
+                    "start": 395,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 500,
+                    "start": 461,
+                    "word": "duka"
+                  },
+                  {
+                    "end": 553,
+                    "start": 501,
+                    "word": "lake"
+                  }
+                ],
+                "until": 553,
+                "utterances": "Huwaalika watoto kuangalia runinga katika duka lake"
+              }
+            ],
+            "sentence": "Huwaalika watoto kuangalia runinga katika duka lake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Huwatembelea wagonjwa na wazee katika nyumba zao.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 15,
+                    "word": "Huwatembelea"
+                  },
+                  {
+                    "end": 223,
+                    "start": 123,
+                    "word": "wagonjwa"
+                  },
+                  {
+                    "end": 276,
+                    "start": 261,
+                    "word": "na"
+                  },
+                  {
+                    "end": 348,
+                    "start": 277,
+                    "word": "wazee"
+                  },
+                  {
+                    "end": 434,
+                    "start": 385,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 479,
+                    "start": 435,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 532,
+                    "start": 480,
+                    "word": "zao"
+                  }
+                ],
+                "until": 532,
+                "utterances": "Huwatembelea wagonjwa na wazee katika nyumba zao"
+              }
+            ],
+            "sentence": "Huwatembelea wagonjwa na wazee katika nyumba zao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kila apitapo kuna mayowe ya Bi Simu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 192,
+                    "start": 83,
+                    "word": "apitapo"
+                  },
+                  {
+                    "end": 286,
+                    "start": 246,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 358,
+                    "start": 287,
+                    "word": "mayowe"
+                  },
+                  {
+                    "end": 390,
+                    "start": 359,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 449,
+                    "start": 429,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 546,
+                    "start": 450,
+                    "word": "Simu"
+                  }
+                ],
+                "until": 546,
+                "utterances": "Kila apitapo kuna mayowe ya Bi Simu"
+              }
+            ],
+            "sentence": "Kila apitapo, kuna mayowe ya, \"Bi Simu!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Bi Simu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 2,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 130,
+                    "start": 42,
+                    "word": "Simu"
+                  }
+                ],
+                "until": 130,
+                "utterances": "Bi Simu"
+              }
+            ],
+            "sentence": "Bi Simu!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Naye hufurahia na kusema Mimi ni Bi Simu na hizi simu zangu ziangalieni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 2,
+                    "word": "Naye"
+                  },
+                  {
+                    "end": 157,
+                    "start": 49,
+                    "word": "hufurahia"
+                  },
+                  {
+                    "end": 176,
+                    "start": 158,
+                    "word": "na"
+                  },
+                  {
+                    "end": 242,
+                    "start": 177,
+                    "word": "kusema"
+                  },
+                  {
+                    "end": 399,
+                    "start": 331,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 483,
+                    "start": 457,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 501,
+                    "start": 484,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 551,
+                    "start": 502,
+                    "word": "Simu"
+                  },
+                  {
+                    "end": 608,
+                    "start": 593,
+                    "word": "na"
+                  },
+                  {
+                    "end": 651,
+                    "start": 609,
+                    "word": "hizi"
+                  },
+                  {
+                    "end": 697,
+                    "start": 652,
+                    "word": "simu"
+                  },
+                  {
+                    "end": 772,
+                    "start": 698,
+                    "word": "zangu"
+                  },
+                  {
+                    "end": 907,
+                    "start": 787,
+                    "word": "ziangalieni"
+                  }
+                ],
+                "until": 907,
+                "utterances": "Naye hufurahia na kusema Mimi ni Bi Simu na hizi simu zangu ziangalieni"
+              }
+            ],
+            "sentence": "Naye hufurahia na kusema, \"Mimi ni Bi Simu na hizi simu zangu ziangalieni!\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Huyo ni Bi Simu na simu zake tano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Huyo"
+                  },
+                  {
+                    "end": 80,
+                    "start": 65,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 95,
+                    "start": 81,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 156,
+                    "start": 96,
+                    "word": "Simu"
+                  },
+                  {
+                    "end": 201,
+                    "start": 187,
+                    "word": "na"
+                  },
+                  {
+                    "end": 252,
+                    "start": 202,
+                    "word": "simu"
+                  },
+                  {
+                    "end": 299,
+                    "start": 253,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 351,
+                    "start": 300,
+                    "word": "tano"
+                  }
+                ],
+                "until": 351,
+                "utterances": "Huyo ni Bi Simu na simu zake tano"
+              }
+            ],
+            "sentence": "Huyo ni Bi Simu na simu zake tano."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Marion Drew",
+  "language": "Kiswahili",
+  "level": "1",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Bi Simu",
+  "titleimage": "level1_3_page_01_image_0001.jpg"
+}

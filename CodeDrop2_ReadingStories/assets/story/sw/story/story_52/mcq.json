@@ -1,0 +1,305 @@
+{
+  "level": "1", 
+  "questions": [
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Kigoe changu cha kuchezea tenisi kimepotea.", 
+      "stem": "Kigoe changu cha kuchezea tenisi", 
+      "target": "kimepotea"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Sijui kimeenda wapi.", 
+      "stem": "Sijui kimeenda", 
+      "target": "wapi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "simba", 
+          "bibi", 
+          "furaha"
+        ], 
+        "nonsensical_english": [
+          "dog", 
+          "madam", 
+          "gaiety"
+        ], 
+        "plausible": [
+          "mdogo", 
+          "mfalme", 
+          "mtoto"
+        ], 
+        "plausible_english": [
+          "sibling", 
+          "chief", 
+          "small"
+        ], 
+        "ungrammatical": [
+          "huyo", 
+          "kubwa", 
+          "nyingine"
+        ], 
+        "ungrammatical_english": [
+          "this", 
+          "loud", 
+          "another"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nilikitafuta nyuma ya mlango.", 
+      "stem": "Nilikitafuta nyuma ya", 
+      "target": "mlango"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Lakini sikukiona.", 
+      "stem": "Lakini", 
+      "target": "sikukiona"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "ukatili", 
+          "changarawe", 
+          "matumbo"
+        ], 
+        "nonsensical_english": [
+          "massacre", 
+          "stone", 
+          "intestines"
+        ], 
+        "plausible": [
+          "bao", 
+          "peremende", 
+          "jeshi"
+        ], 
+        "plausible_english": [
+          "fortune-telling", 
+          "peppermint", 
+          "military"
+        ], 
+        "ungrammatical": [
+          "pumua", 
+          "madirisha", 
+          "ambazo"
+        ], 
+        "ungrammatical_english": [
+          "breathe", 
+          "square", 
+          "that"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nilikitafuta juu ya kabati.", 
+      "stem": "Nilikitafuta juu ya", 
+      "target": "kabati"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Lakini sikukiona.", 
+      "stem": "Lakini", 
+      "target": "sikukiona"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "tumbo", 
+          "simu", 
+          "mpira"
+        ], 
+        "nonsensical_english": [
+          "stomach", 
+          "telephone", 
+          "casing"
+        ], 
+        "plausible": [
+          "gari", 
+          "pumzi", 
+          "simu"
+        ], 
+        "plausible_english": [
+          "bicycle", 
+          "exhale", 
+          "phone"
+        ], 
+        "ungrammatical": [
+          "punde", 
+          "ghafla", 
+          "kule"
+        ], 
+        "ungrammatical_english": [
+          "while", 
+          "suddenly", 
+          "place"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nilikitafuta chini ya kitanda.", 
+      "stem": "Nilikitafuta chini ya", 
+      "target": "kitanda"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Hata hapo sikukiona.", 
+      "stem": "Hata hapo", 
+      "target": "sikukiona"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mwavuli", 
+          "kishindo", 
+          "ladha"
+        ], 
+        "nonsensical_english": [
+          "parachute", 
+          "bang", 
+          "taste"
+        ], 
+        "plausible": [
+          "kishindo", 
+          "kofia", 
+          "umbali"
+        ], 
+        "plausible_english": [
+          "blow", 
+          "cap", 
+          "distance"
+        ], 
+        "ungrammatical": [
+          "hizi", 
+          "kutoa", 
+          "polepole"
+        ], 
+        "ungrammatical_english": [
+          "these", 
+          "to", 
+          "careful"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nilikitafuta ndani ya sanduku.", 
+      "stem": "Nilikitafuta ndani ya", 
+      "target": "sanduku"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "zake", 
+          "huyo", 
+          "yao"
+        ], 
+        "nonsensical_english": [
+          "its", 
+          "that", 
+          "their"
+        ], 
+        "plausible": [
+          "huyo", 
+          "zake", 
+          "yako"
+        ], 
+        "plausible_english": [
+          "that", 
+          "its", 
+          "your"
+        ], 
+        "ungrammatical": [
+          "bibi", 
+          "hadithi", 
+          "shule"
+        ], 
+        "ungrammatical_english": [
+          "housewife", 
+          "report", 
+          "academy"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Lakini hapakuwa na dalili yake pale.", 
+      "stem": "Lakini hapakuwa na dalili yake", 
+      "target": "pale"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bao", 
+          "hospitali", 
+          "uzuri"
+        ], 
+        "nonsensical_english": [
+          "platform", 
+          "hospital", 
+          "ornament"
+        ], 
+        "plausible": [
+          "ngome", 
+          "mpigo", 
+          "uzuri"
+        ], 
+        "plausible_english": [
+          "escarpment", 
+          "beating", 
+          "goodness"
+        ], 
+        "ungrammatical": [
+          "kisia", 
+          "taja", 
+          "rununu"
+        ], 
+        "ungrammatical_english": [
+          "estimate", 
+          "nominate", 
+          "mobile"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nilikitafuta katika dari.", 
+      "stem": "Nilikitafuta katika", 
+      "target": "dari"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kitu", 
+          "mkubwa", 
+          "jina"
+        ], 
+        "nonsensical_english": [
+          "trifle", 
+          "engineer", 
+          "noun"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "kama", 
+          "mbali", 
+          "yako"
+        ], 
+        "ungrammatical_english": [
+          "around", 
+          "remote", 
+          "your"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Niliangalia hapa na pale, nikaangalia kila mahali.", 
+      "stem": "Niliangalia hapa na pale, nikaangalia kila", 
+      "target": "mahali"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Lakini sikukiona.", 
+      "stem": "Lakini", 
+      "target": "sikukiona"
+    }
+  ], 
+  "title": "placeholder"
+}

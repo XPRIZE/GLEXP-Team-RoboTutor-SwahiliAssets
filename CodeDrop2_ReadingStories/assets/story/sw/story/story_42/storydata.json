@@ -1,0 +1,2492 @@
+{
+  "authors": "Venkatramana Gowda and Divaspathy Hegde",
+  "copyright": "Copyright (c) Pratham Books, 2014",
+  "data": [
+    {
+      "image": "level4_22_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je unakumbuka Mbio Kuu kati ya sungura na kobe.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 208,
+                    "start": 111,
+                    "word": "unakumbuka"
+                  },
+                  {
+                    "end": 261,
+                    "start": 209,
+                    "word": "Mbio"
+                  },
+                  {
+                    "end": 302,
+                    "start": 262,
+                    "word": "Kuu"
+                  },
+                  {
+                    "end": 357,
+                    "start": 303,
+                    "word": "kati"
+                  },
+                  {
+                    "end": 369,
+                    "start": 358,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 427,
+                    "start": 370,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 446,
+                    "start": 428,
+                    "word": "na"
+                  },
+                  {
+                    "end": 513,
+                    "start": 447,
+                    "word": "kobe"
+                  }
+                ],
+                "until": 513,
+                "utterances": "Je unakumbuka Mbio Kuu kati ya sungura na kobe"
+              }
+            ],
+            "sentence": "Je, unakumbuka Mbio Kuu kati ya sungura na kobe?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa muda mrefu hakuna yeyote katika miliki ya wanyama aliyeweza kuongea juu ya jambo tofauti ila ile_34.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 81,
+                    "start": 36,
+                    "word": "muda"
+                  },
+                  {
+                    "end": 144,
+                    "start": 82,
+                    "word": "mrefu"
+                  },
+                  {
+                    "end": 250,
+                    "start": 180,
+                    "word": "hakuna"
+                  },
+                  {
+                    "end": 315,
+                    "start": 251,
+                    "word": "yeyote"
+                  },
+                  {
+                    "end": 369,
+                    "start": 316,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 438,
+                    "start": 370,
+                    "word": "miliki"
+                  },
+                  {
+                    "end": 444,
+                    "start": 439,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 515,
+                    "start": 445,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 652,
+                    "start": 556,
+                    "word": "aliyeweza"
+                  },
+                  {
+                    "end": 735,
+                    "start": 653,
+                    "word": "kuongea"
+                  },
+                  {
+                    "end": 808,
+                    "start": 770,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 821,
+                    "start": 809,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 874,
+                    "start": 822,
+                    "word": "jambo"
+                  },
+                  {
+                    "end": 1003,
+                    "start": 921,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 1051,
+                    "start": 1015,
+                    "word": "ila"
+                  },
+                  {
+                    "end": 1110,
+                    "start": 1072,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 1171,
+                    "start": 1111,
+                    "word": "Mbio"
+                  },
+                  {
+                    "end": 1211,
+                    "start": 1172,
+                    "word": "Kuu"
+                  },
+                  {
+                    "end": 1266,
+                    "start": 1252,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1349,
+                    "start": 1267,
+                    "word": "wapinzani"
+                  },
+                  {
+                    "end": 1391,
+                    "start": 1350,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 1452,
+                    "start": 1392,
+                    "word": "wawili"
+                  }
+                ],
+                "until": 1452,
+                "utterances": "Kwa muda mrefu hakuna yeyote katika miliki ya wanyama aliyeweza kuongea juu ya jambo tofauti ila ile Mbio Kuu na wapinzani wake wawili"
+              }
+            ],
+            "sentence": "Kwa muda mrefu, hakuna yeyote katika miliki ya wanyama aliyeweza kuongea juu ya jambo tofauti ila ile Mbio Kuu na wapinzani wake wawili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_03_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level4_22_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tunajua vyema kwamba sungura alishindwa kwa ajili ya kuwa mvivu na mwenye kujiamini zaidi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 21,
+                    "word": "Tunajua"
+                  },
+                  {
+                    "end": 155,
+                    "start": 97,
+                    "word": "vyema"
+                  },
+                  {
+                    "end": 206,
+                    "start": 156,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 277,
+                    "start": 207,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 367,
+                    "start": 278,
+                    "word": "alishindwa"
+                  },
+                  {
+                    "end": 419,
+                    "start": 405,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 478,
+                    "start": 420,
+                    "word": "ajili"
+                  },
+                  {
+                    "end": 488,
+                    "start": 479,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 519,
+                    "start": 489,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 592,
+                    "start": 520,
+                    "word": "mvivu"
+                  },
+                  {
+                    "end": 635,
+                    "start": 624,
+                    "word": "na"
+                  },
+                  {
+                    "end": 675,
+                    "start": 636,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 755,
+                    "start": 676,
+                    "word": "kujiamini"
+                  },
+                  {
+                    "end": 820,
+                    "start": 756,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 820,
+                "utterances": "Tunajua vyema kwamba sungura alishindwa kwa ajili ya kuwa mvivu na mwenye kujiamini zaidi"
+              }
+            ],
+            "sentence": "Tunajua vyema kwamba sungura alishindwa kwa ajili ya kuwa mvivu na mwenye kujiamini zaidi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tunajua kwamba kobe alishinda kwa ajili ya mwendo wake wa pole na kwa kuwa imara.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 20,
+                    "word": "Tunajua"
+                  },
+                  {
+                    "end": 125,
+                    "start": 86,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 178,
+                    "start": 126,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 275,
+                    "start": 179,
+                    "word": "alishinda"
+                  },
+                  {
+                    "end": 329,
+                    "start": 276,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 377,
+                    "start": 330,
+                    "word": "ajili"
+                  },
+                  {
+                    "end": 390,
+                    "start": 378,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 433,
+                    "start": 391,
+                    "word": "mwendo"
+                  },
+                  {
+                    "end": 479,
+                    "start": 434,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 499,
+                    "start": 480,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 575,
+                    "start": 500,
+                    "word": "pole"
+                  },
+                  {
+                    "end": 628,
+                    "start": 617,
+                    "word": "na"
+                  },
+                  {
+                    "end": 652,
+                    "start": 629,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 693,
+                    "start": 653,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 793,
+                    "start": 708,
+                    "word": "imara"
+                  }
+                ],
+                "until": 793,
+                "utterances": "Tunajua kwamba kobe alishinda kwa ajili ya mwendo wake wa pole na kwa kuwa imara"
+              }
+            ],
+            "sentence": "Tunajua kwamba kobe alishinda kwa ajili ya mwendo wake wa pole na kwa kuwa imara."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wanyama wa msitu walijua hili na wakaendelea kuwaheshimu wanyama hao wawili kwa kiwango sawa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 20,
+                    "word": "Wanyama"
+                  },
+                  {
+                    "end": 119,
+                    "start": 101,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 182,
+                    "start": 120,
+                    "word": "msitu"
+                  },
+                  {
+                    "end": 268,
+                    "start": 183,
+                    "word": "walijua"
+                  },
+                  {
+                    "end": 320,
+                    "start": 269,
+                    "word": "hili"
+                  },
+                  {
+                    "end": 374,
+                    "start": 358,
+                    "word": "na"
+                  },
+                  {
+                    "end": 510,
+                    "start": 375,
+                    "word": "wakaendelea"
+                  },
+                  {
+                    "end": 610,
+                    "start": 511,
+                    "word": "kuwaheshimu"
+                  },
+                  {
+                    "end": 699,
+                    "start": 643,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 753,
+                    "start": 700,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 828,
+                    "start": 781,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 885,
+                    "start": 873,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 948,
+                    "start": 886,
+                    "word": "kiwango"
+                  },
+                  {
+                    "end": 999,
+                    "start": 949,
+                    "word": "sawa"
+                  }
+                ],
+                "until": 999,
+                "utterances": "Wanyama wa msitu walijua hili na wakaendelea kuwaheshimu wanyama hao wawili kwa kiwango sawa"
+              }
+            ],
+            "sentence": "Wanyama wa msitu walijua hili na wakaendelea kuwaheshimu wanyama hao wawili kwa kiwango sawa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hata wapinzani hao wawili walisalia kuwa marafiki.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 19,
+                    "word": "Hata"
+                  },
+                  {
+                    "end": 154,
+                    "start": 73,
+                    "word": "wapinzani"
+                  },
+                  {
+                    "end": 199,
+                    "start": 155,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 265,
+                    "start": 200,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 365,
+                    "start": 287,
+                    "word": "walisalia"
+                  },
+                  {
+                    "end": 419,
+                    "start": 366,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 528,
+                    "start": 420,
+                    "word": "marafiki"
+                  }
+                ],
+                "until": 528,
+                "utterances": "Hata wapinzani hao wawili walisalia kuwa marafiki"
+              }
+            ],
+            "sentence": "Hata wapinzani hao wawili walisalia kuwa marafiki."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kobe hakujivuna kwa sababu ya ushindi wake na sungura akifahamu kuwa alikuwa ameshindwa kwa uwazi ha_21.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 22,
+                    "word": "Kobe"
+                  },
+                  {
+                    "end": 193,
+                    "start": 75,
+                    "word": "hakujivuna"
+                  },
+                  {
+                    "end": 216,
+                    "start": 194,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 265,
+                    "start": 217,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 275,
+                    "start": 266,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 328,
+                    "start": 276,
+                    "word": "ushindi"
+                  },
+                  {
+                    "end": 382,
+                    "start": 329,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 440,
+                    "start": 430,
+                    "word": "na"
+                  },
+                  {
+                    "end": 519,
+                    "start": 441,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 661,
+                    "start": 554,
+                    "word": "akifahamu"
+                  },
+                  {
+                    "end": 695,
+                    "start": 662,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 774,
+                    "start": 696,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 859,
+                    "start": 775,
+                    "word": "ameshindwa"
+                  },
+                  {
+                    "end": 882,
+                    "start": 860,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 948,
+                    "start": 883,
+                    "word": "uwazi"
+                  },
+                  {
+                    "end": 1082,
+                    "start": 978,
+                    "word": "hakumshikia"
+                  },
+                  {
+                    "end": 1118,
+                    "start": 1083,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 1208,
+                    "start": 1119,
+                    "word": "kisasi"
+                  }
+                ],
+                "until": 1208,
+                "utterances": "Kobe hakujivuna kwa sababu ya ushindi wake na sungura akifahamu kuwa alikuwa ameshindwa kwa uwazi hakumshikia kobe kisasi"
+              }
+            ],
+            "sentence": "Kobe hakujivuna kwa sababu ya ushindi wake, na sungura, akifahamu kuwa alikuwa ameshindwa kwa uwazi, hakumshikia kobe kisasi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_05_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level4_22_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Miezi mingi ilipita.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 16,
+                    "word": "Miezi"
+                  },
+                  {
+                    "end": 149,
+                    "start": 81,
+                    "word": "mingi"
+                  },
+                  {
+                    "end": 248,
+                    "start": 157,
+                    "word": "ilipita"
+                  }
+                ],
+                "until": 248,
+                "utterances": "Miezi mingi ilipita"
+              }
+            ],
+            "sentence": "Miezi mingi ilipita."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mfalme wa mwitu ambako sungura na kobe waliishi alikuwa na jambo muhimu alilotaka kujadiliana na mfa_19.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 14,
+                    "word": "Mfalme"
+                  },
+                  {
+                    "end": 100,
+                    "start": 84,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 154,
+                    "start": 101,
+                    "word": "mwitu"
+                  },
+                  {
+                    "end": 245,
+                    "start": 190,
+                    "word": "ambako"
+                  },
+                  {
+                    "end": 309,
+                    "start": 246,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 330,
+                    "start": 310,
+                    "word": "na"
+                  },
+                  {
+                    "end": 380,
+                    "start": 331,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 457,
+                    "start": 381,
+                    "word": "waliishi"
+                  },
+                  {
+                    "end": 563,
+                    "start": 497,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 584,
+                    "start": 564,
+                    "word": "na"
+                  },
+                  {
+                    "end": 643,
+                    "start": 585,
+                    "word": "jambo"
+                  },
+                  {
+                    "end": 734,
+                    "start": 687,
+                    "word": "muhimu"
+                  },
+                  {
+                    "end": 866,
+                    "start": 773,
+                    "word": "alilotaka"
+                  },
+                  {
+                    "end": 977,
+                    "start": 867,
+                    "word": "kujadiliana"
+                  },
+                  {
+                    "end": 1023,
+                    "start": 1009,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1091,
+                    "start": 1024,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 1109,
+                    "start": 1092,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1155,
+                    "start": 1110,
+                    "word": "mwitu"
+                  },
+                  {
+                    "end": 1224,
+                    "start": 1156,
+                    "word": "jirani"
+                  }
+                ],
+                "until": 1224,
+                "utterances": "Mfalme wa mwitu ambako sungura na kobe waliishi alikuwa na jambo muhimu alilotaka kujadiliana na mfalme wa mwitu jirani"
+              }
+            ],
+            "sentence": "Mfalme wa mwitu ambako sungura na kobe waliishi alikuwa na jambo muhimu alilotaka kujadiliana na mfalme wa mwitu jirani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini mfalme wa kwanza hangeweza kuondoka pale wakati huo.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 19,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 141,
+                    "start": 81,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 158,
+                    "start": 142,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 218,
+                    "start": 159,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 337,
+                    "start": 250,
+                    "word": "hangeweza"
+                  },
+                  {
+                    "end": 419,
+                    "start": 338,
+                    "word": "kuondoka"
+                  },
+                  {
+                    "end": 470,
+                    "start": 420,
+                    "word": "pale"
+                  },
+                  {
+                    "end": 527,
+                    "start": 471,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 536,
+                    "start": 528,
+                    "word": "huo"
+                  }
+                ],
+                "until": 536,
+                "utterances": "Lakini mfalme wa kwanza hangeweza kuondoka pale wakati huo"
+              }
+            ],
+            "sentence": "Lakini mfalme wa kwanza hangeweza kuondoka pale wakati huo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliamua badala yake awatume sungura na kobe kama wawakilishi wake kwa yule mfalme mwingine.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 21,
+                    "word": "Aliamua"
+                  },
+                  {
+                    "end": 209,
+                    "start": 167,
+                    "word": "badala"
+                  },
+                  {
+                    "end": 269,
+                    "start": 210,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 371,
+                    "start": 306,
+                    "word": "awatume"
+                  },
+                  {
+                    "end": 441,
+                    "start": 372,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 460,
+                    "start": 442,
+                    "word": "na"
+                  },
+                  {
+                    "end": 517,
+                    "start": 461,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 589,
+                    "start": 554,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 677,
+                    "start": 590,
+                    "word": "wawakilishi"
+                  },
+                  {
+                    "end": 732,
+                    "start": 678,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 774,
+                    "start": 762,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 814,
+                    "start": 775,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 861,
+                    "start": 815,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 946,
+                    "start": 862,
+                    "word": "mwingine"
+                  }
+                ],
+                "until": 946,
+                "utterances": "Aliamua badala yake awatume sungura na kobe kama wawakilishi wake kwa yule mfalme mwingine"
+              }
+            ],
+            "sentence": "Aliamua, badala yake, awatume sungura na kobe kama wawakilishi wake kwa yule mfalme mwingine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mmoja wenu angalau atalazimika kwenda kwa ufalme jirani aliamrisha mfalme wakati sungura na kobe wal_16.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 16,
+                    "word": "Mmoja"
+                  },
+                  {
+                    "end": 125,
+                    "start": 66,
+                    "word": "wenu"
+                  },
+                  {
+                    "end": 232,
+                    "start": 156,
+                    "word": "angalau"
+                  },
+                  {
+                    "end": 376,
+                    "start": 267,
+                    "word": "atalazimika"
+                  },
+                  {
+                    "end": 426,
+                    "start": 377,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 464,
+                    "start": 427,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 526,
+                    "start": 465,
+                    "word": "ufalme"
+                  },
+                  {
+                    "end": 589,
+                    "start": 527,
+                    "word": "jirani"
+                  },
+                  {
+                    "end": 748,
+                    "start": 629,
+                    "word": "aliamrisha"
+                  },
+                  {
+                    "end": 813,
+                    "start": 749,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 901,
+                    "start": 852,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 975,
+                    "start": 902,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 1017,
+                    "start": 1006,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1072,
+                    "start": 1018,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 1164,
+                    "start": 1099,
+                    "word": "walikuja"
+                  },
+                  {
+                    "end": 1189,
+                    "start": 1165,
+                    "word": "mbele"
+                  },
+                  {
+                    "end": 1246,
+                    "start": 1190,
+                    "word": "zake"
+                  }
+                ],
+                "until": 1246,
+                "utterances": "Mmoja wenu angalau atalazimika kwenda kwa ufalme jirani aliamrisha mfalme wakati sungura na kobe walikuja mbele zake"
+              }
+            ],
+            "sentence": "\"Mmoja wenu angalau, atalazimika kwenda kwa ufalme jirani,\" aliamrisha mfalme wakati sungura na kobe walikuja mbele zake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ninataka mjadili mambo muhimu na mfalme wa huko na kisha mniletee ripoti kuhusu maoni na mawazo yake_18.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 18,
+                    "word": "Ninataka"
+                  },
+                  {
+                    "end": 204,
+                    "start": 116,
+                    "word": "mjadili"
+                  },
+                  {
+                    "end": 250,
+                    "start": 205,
+                    "word": "mambo"
+                  },
+                  {
+                    "end": 345,
+                    "start": 251,
+                    "word": "muhimu"
+                  },
+                  {
+                    "end": 402,
+                    "start": 391,
+                    "word": "na"
+                  },
+                  {
+                    "end": 460,
+                    "start": 403,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 484,
+                    "start": 461,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 516,
+                    "start": 485,
+                    "word": "huko"
+                  },
+                  {
+                    "end": 571,
+                    "start": 561,
+                    "word": "na"
+                  },
+                  {
+                    "end": 626,
+                    "start": 572,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 750,
+                    "start": 671,
+                    "word": "mniletee"
+                  },
+                  {
+                    "end": 826,
+                    "start": 751,
+                    "word": "ripoti"
+                  },
+                  {
+                    "end": 910,
+                    "start": 854,
+                    "word": "kuhusu"
+                  },
+                  {
+                    "end": 992,
+                    "start": 911,
+                    "word": "maoni"
+                  },
+                  {
+                    "end": 1023,
+                    "start": 1013,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1079,
+                    "start": 1024,
+                    "word": "mawazo"
+                  },
+                  {
+                    "end": 1119,
+                    "start": 1080,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 1159,
+                    "start": 1120,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 1171,
+                    "start": 1160,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1212,
+                    "start": 1172,
+                    "word": "mambo"
+                  },
+                  {
+                    "end": 1250,
+                    "start": 1213,
+                    "word": "hayo"
+                  }
+                ],
+                "until": 1250,
+                "utterances": "Ninataka mjadili mambo muhimu na mfalme wa huko na kisha mniletee ripoti kuhusu maoni na mawazo yake juu ya mambo hayo"
+              }
+            ],
+            "sentence": "\"Ninataka mjadili mambo muhimu na mfalme wa huko, na kisha mniletee ripoti kuhusu maoni na mawazo yake juu ya mambo hayo.\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "Sasa nendeni.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 16,
+                    "word": "Sasa"
+                  },
+                  {
+                    "end": 147,
+                    "start": 61,
+                    "word": "nendeni"
+                  }
+                ],
+                "until": 147,
+                "utterances": "Sasa nendeni"
+              }
+            ],
+            "sentence": "\"Sasa, nendeni!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "alisema alipomaliza.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 22,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 207,
+                    "start": 95,
+                    "word": "alipomaliza"
+                  }
+                ],
+                "until": 207,
+                "utterances": "alisema alipomaliza"
+              }
+            ],
+            "sentence": "alisema alipomaliza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kumbukeni mna siku moja tu ya kukamilisha kazi hiyo.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 1,
+                    "word": "Kumbukeni"
+                  },
+                  {
+                    "end": 172,
+                    "start": 145,
+                    "word": "mna"
+                  },
+                  {
+                    "end": 216,
+                    "start": 173,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 253,
+                    "start": 217,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 298,
+                    "start": 254,
+                    "word": "tu"
+                  },
+                  {
+                    "end": 332,
+                    "start": 321,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 414,
+                    "start": 333,
+                    "word": "kukamilisha"
+                  },
+                  {
+                    "end": 458,
+                    "start": 415,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 500,
+                    "start": 459,
+                    "word": "hiyo"
+                  }
+                ],
+                "until": 500,
+                "utterances": "Kumbukeni mna siku moja tu ya kukamilisha kazi hiyo"
+              }
+            ],
+            "sentence": "\"Kumbukeni, mna siku moja tu ya kukamilisha kazi hiyo.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_08_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level4_22_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Barabara ya kwenda kwa ufalme jirani haikuwa laini wala rahisi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 2,
+                    "word": "Barabara"
+                  },
+                  {
+                    "end": 126,
+                    "start": 109,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 180,
+                    "start": 127,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 211,
+                    "start": 181,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 264,
+                    "start": 212,
+                    "word": "ufalme"
+                  },
+                  {
+                    "end": 340,
+                    "start": 265,
+                    "word": "jirani"
+                  },
+                  {
+                    "end": 448,
+                    "start": 367,
+                    "word": "haikuwa"
+                  },
+                  {
+                    "end": 527,
+                    "start": 449,
+                    "word": "laini"
+                  },
+                  {
+                    "end": 598,
+                    "start": 551,
+                    "word": "wala"
+                  },
+                  {
+                    "end": 668,
+                    "start": 599,
+                    "word": "rahisi"
+                  }
+                ],
+                "until": 668,
+                "utterances": "Barabara ya kwenda kwa ufalme jirani haikuwa laini wala rahisi"
+              }
+            ],
+            "sentence": "Barabara ya kwenda kwa ufalme jirani haikuwa laini wala rahisi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ilikuwa ya mawe na iliyojaa miiba.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 20,
+                    "word": "Ilikuwa"
+                  },
+                  {
+                    "end": 126,
+                    "start": 102,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 180,
+                    "start": 127,
+                    "word": "mawe"
+                  },
+                  {
+                    "end": 217,
+                    "start": 181,
+                    "word": "na"
+                  },
+                  {
+                    "end": 332,
+                    "start": 232,
+                    "word": "iliyojaa"
+                  },
+                  {
+                    "end": 411,
+                    "start": 333,
+                    "word": "miiba"
+                  }
+                ],
+                "until": 411,
+                "utterances": "Ilikuwa ya mawe na iliyojaa miiba"
+              }
+            ],
+            "sentence": "Ilikuwa ya mawe na iliyojaa miiba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Vile vile kulikuwa na mito miwili njiani.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 16,
+                    "word": "Vile"
+                  },
+                  {
+                    "end": 100,
+                    "start": 58,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 208,
+                    "start": 135,
+                    "word": "kulikuwa"
+                  },
+                  {
+                    "end": 234,
+                    "start": 209,
+                    "word": "na"
+                  },
+                  {
+                    "end": 286,
+                    "start": 235,
+                    "word": "mito"
+                  },
+                  {
+                    "end": 335,
+                    "start": 287,
+                    "word": "miwili"
+                  },
+                  {
+                    "end": 413,
+                    "start": 336,
+                    "word": "njiani"
+                  }
+                ],
+                "until": 413,
+                "utterances": "Vile vile kulikuwa na mito miwili njiani"
+              }
+            ],
+            "sentence": "Vile vile kulikuwa na mito miwili njiani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_10_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level4_22_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baada ya kuwaza kiasi sungura na kobe waligundua kwamba hakuna mmoja wao ambaye angeweza kutimiza il_17.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 1,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 99,
+                    "start": 62,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 171,
+                    "start": 100,
+                    "word": "kuwaza"
+                  },
+                  {
+                    "end": 251,
+                    "start": 172,
+                    "word": "kiasi"
+                  },
+                  {
+                    "end": 331,
+                    "start": 275,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 350,
+                    "start": 332,
+                    "word": "na"
+                  },
+                  {
+                    "end": 403,
+                    "start": 351,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 494,
+                    "start": 404,
+                    "word": "waligundua"
+                  },
+                  {
+                    "end": 550,
+                    "start": 495,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 632,
+                    "start": 551,
+                    "word": "hakuna"
+                  },
+                  {
+                    "end": 682,
+                    "start": 633,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 724,
+                    "start": 683,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 783,
+                    "start": 725,
+                    "word": "ambaye"
+                  },
+                  {
+                    "end": 848,
+                    "start": 784,
+                    "word": "angeweza"
+                  },
+                  {
+                    "end": 928,
+                    "start": 849,
+                    "word": "kutimiza"
+                  },
+                  {
+                    "end": 969,
+                    "start": 943,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 1026,
+                    "start": 970,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 1116,
+                    "start": 1060,
+                    "word": "pekee"
+                  },
+                  {
+                    "end": 1142,
+                    "start": 1117,
+                    "word": "yake"
+                  }
+                ],
+                "until": 1142,
+                "utterances": "Baada ya kuwaza kiasi sungura na kobe waligundua kwamba hakuna mmoja wao ambaye angeweza kutimiza ile kazi pekee yake"
+              }
+            ],
+            "sentence": "Baada ya kuwaza kiasi, sungura na kobe waligundua kwamba hakuna mmoja wao ambaye angeweza kutimiza ile kazi pekee yake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walilazimika kusafiri kwa pamoja.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 153,
+                    "start": 17,
+                    "word": "Walilazimika"
+                  },
+                  {
+                    "end": 241,
+                    "start": 154,
+                    "word": "kusafiri"
+                  },
+                  {
+                    "end": 267,
+                    "start": 242,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 336,
+                    "start": 268,
+                    "word": "pamoja"
+                  }
+                ],
+                "until": 336,
+                "utterances": "Walilazimika kusafiri kwa pamoja"
+              }
+            ],
+            "sentence": "Walilazimika kusafiri kwa pamoja."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mpango ulikuwa kwamba sungura ambebe kobe kupita sehemu yenye miiba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Mpango"
+                  },
+                  {
+                    "end": 129,
+                    "start": 68,
+                    "word": "ulikuwa"
+                  },
+                  {
+                    "end": 190,
+                    "start": 130,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 281,
+                    "start": 215,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 373,
+                    "start": 331,
+                    "word": "ambebe"
+                  },
+                  {
+                    "end": 419,
+                    "start": 374,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 475,
+                    "start": 420,
+                    "word": "kupita"
+                  },
+                  {
+                    "end": 539,
+                    "start": 476,
+                    "word": "sehemu"
+                  },
+                  {
+                    "end": 577,
+                    "start": 540,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 636,
+                    "start": 578,
+                    "word": "miiba"
+                  }
+                ],
+                "until": 636,
+                "utterances": "Mpango ulikuwa kwamba sungura ambebe kobe kupita sehemu yenye miiba"
+              }
+            ],
+            "sentence": "Mpango ulikuwa kwamba sungura ambebe kobe kupita sehemu yenye miiba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Naye kobe ambebe sungura wakati wanavuka mito ile miwili.mp3",
+                "from": 11,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 11,
+                    "word": "Naye"
+                  },
+                  {
+                    "end": 114,
+                    "start": 50,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 202,
+                    "start": 143,
+                    "word": "ambebe"
+                  },
+                  {
+                    "end": 288,
+                    "start": 203,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 363,
+                    "start": 312,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 440,
+                    "start": 364,
+                    "word": "wanavuka"
+                  },
+                  {
+                    "end": 499,
+                    "start": 441,
+                    "word": "mito"
+                  },
+                  {
+                    "end": 516,
+                    "start": 500,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 593,
+                    "start": 517,
+                    "word": "miwili"
+                  }
+                ],
+                "until": 593,
+                "utterances": "Naye kobe ambebe sungura wakati wanavuka mito ile miwili"
+              }
+            ],
+            "sentence": "Naye kobe ambebe sungura wakati wanavuka mito ile miwili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku iliyofuata walikusanya jumbe tofauti kutoka kwa mfalme wao na kujitayarisha kuondoka.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 19,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 209,
+                    "start": 88,
+                    "word": "iliyofuata"
+                  },
+                  {
+                    "end": 364,
+                    "start": 243,
+                    "word": "walikusanya"
+                  },
+                  {
+                    "end": 429,
+                    "start": 365,
+                    "word": "jumbe"
+                  },
+                  {
+                    "end": 532,
+                    "start": 430,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 608,
+                    "start": 558,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 639,
+                    "start": 609,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 701,
+                    "start": 640,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 754,
+                    "start": 702,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 796,
+                    "start": 785,
+                    "word": "na"
+                  },
+                  {
+                    "end": 928,
+                    "start": 797,
+                    "word": "kujitayarisha"
+                  },
+                  {
+                    "end": 1017,
+                    "start": 929,
+                    "word": "kuondoka"
+                  }
+                ],
+                "until": 1017,
+                "utterances": "Siku iliyofuata walikusanya jumbe tofauti kutoka kwa mfalme wao na kujitayarisha kuondoka"
+              }
+            ],
+            "sentence": "Siku iliyofuata, walikusanya jumbe tofauti kutoka kwa mfalme wao na kujitayarisha kuondoka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sungura alitembea kwa hatua refu refu akamaliza mwendo wa kupita sehemu ya miiba kwa kasi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 21,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 208,
+                    "start": 106,
+                    "word": "alitembea"
+                  },
+                  {
+                    "end": 231,
+                    "start": 209,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 289,
+                    "start": 232,
+                    "word": "hatua"
+                  },
+                  {
+                    "end": 349,
+                    "start": 290,
+                    "word": "refu"
+                  },
+                  {
+                    "end": 372,
+                    "start": 350,
+                    "word": "refu"
+                  },
+                  {
+                    "end": 546,
+                    "start": 470,
+                    "word": "akamaliza"
+                  },
+                  {
+                    "end": 600,
+                    "start": 547,
+                    "word": "mwendo"
+                  },
+                  {
+                    "end": 627,
+                    "start": 601,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 697,
+                    "start": 628,
+                    "word": "kupita"
+                  },
+                  {
+                    "end": 806,
+                    "start": 730,
+                    "word": "sehemu"
+                  },
+                  {
+                    "end": 812,
+                    "start": 807,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 871,
+                    "start": 813,
+                    "word": "miiba"
+                  },
+                  {
+                    "end": 907,
+                    "start": 872,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 977,
+                    "start": 908,
+                    "word": "kasi"
+                  }
+                ],
+                "until": 977,
+                "utterances": "Sungura alitembea kwa hatua refu refu akamaliza mwendo wa kupita sehemu ya miiba kwa kasi"
+              }
+            ],
+            "sentence": "Sungura alitembea kwa hatua refu refu akamaliza mwendo wa kupita sehemu ya miiba kwa kasi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kobe alijishikilia asije akaanguka na kupoteza maisha yake.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 22,
+                    "word": "Kobe"
+                  },
+                  {
+                    "end": 235,
+                    "start": 85,
+                    "word": "alijishikilia"
+                  },
+                  {
+                    "end": 293,
+                    "start": 236,
+                    "word": "asije"
+                  },
+                  {
+                    "end": 394,
+                    "start": 302,
+                    "word": "akaanguka"
+                  },
+                  {
+                    "end": 440,
+                    "start": 432,
+                    "word": "na"
+                  },
+                  {
+                    "end": 518,
+                    "start": 441,
+                    "word": "kupoteza"
+                  },
+                  {
+                    "end": 571,
+                    "start": 519,
+                    "word": "maisha"
+                  },
+                  {
+                    "end": 620,
+                    "start": 572,
+                    "word": "yake"
+                  }
+                ],
+                "until": 620,
+                "utterances": "Kobe alijishikilia asije akaanguka na kupoteza maisha yake"
+              }
+            ],
+            "sentence": "Kobe alijishikilia asije akaanguka na kupoteza maisha yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walipofikia mto walibadilishana na sungura akampanda kobe mgongoni.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 19,
+                    "word": "Walipofikia"
+                  },
+                  {
+                    "end": 190,
+                    "start": 127,
+                    "word": "mto"
+                  },
+                  {
+                    "end": 362,
+                    "start": 216,
+                    "word": "walibadilishana"
+                  },
+                  {
+                    "end": 408,
+                    "start": 396,
+                    "word": "na"
+                  },
+                  {
+                    "end": 477,
+                    "start": 409,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 576,
+                    "start": 483,
+                    "word": "akampanda"
+                  },
+                  {
+                    "end": 619,
+                    "start": 577,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 722,
+                    "start": 620,
+                    "word": "mgongoni"
+                  }
+                ],
+                "until": 722,
+                "utterances": "Walipofikia mto walibadilishana na sungura akampanda kobe mgongoni"
+              }
+            ],
+            "sentence": "Walipofikia mto, walibadilishana na sungura akampanda kobe mgongoni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kobe aliogelea kutoka upande mmoja wa mto hadi mwingine kwa wepesi.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 1,
+                    "word": "Kobe"
+                  },
+                  {
+                    "end": 189,
+                    "start": 64,
+                    "word": "aliogelea"
+                  },
+                  {
+                    "end": 261,
+                    "start": 190,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 329,
+                    "start": 262,
+                    "word": "upande"
+                  },
+                  {
+                    "end": 395,
+                    "start": 330,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 415,
+                    "start": 396,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 461,
+                    "start": 416,
+                    "word": "mto"
+                  },
+                  {
+                    "end": 533,
+                    "start": 493,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 595,
+                    "start": 534,
+                    "word": "mwingine"
+                  },
+                  {
+                    "end": 620,
+                    "start": 596,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 696,
+                    "start": 621,
+                    "word": "wepesi"
+                  }
+                ],
+                "until": 696,
+                "utterances": "Kobe aliogelea kutoka upande mmoja wa mto hadi mwingine kwa wepesi"
+              }
+            ],
+            "sentence": "Kobe aliogelea kutoka upande mmoja wa mto hadi mwingine kwa wepesi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baada ya kuvuka mito yote miwili haikuwachukuwa muda mrefu kufika katika ule ufalme jirani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 93,
+                    "start": 63,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 158,
+                    "start": 94,
+                    "word": "kuvuka"
+                  },
+                  {
+                    "end": 203,
+                    "start": 159,
+                    "word": "mito"
+                  },
+                  {
+                    "end": 238,
+                    "start": 204,
+                    "word": "yote"
+                  },
+                  {
+                    "end": 277,
+                    "start": 239,
+                    "word": "miwili"
+                  },
+                  {
+                    "end": 494,
+                    "start": 336,
+                    "word": "haikuwachukuwa"
+                  },
+                  {
+                    "end": 542,
+                    "start": 495,
+                    "word": "muda"
+                  },
+                  {
+                    "end": 602,
+                    "start": 543,
+                    "word": "mrefu"
+                  },
+                  {
+                    "end": 668,
+                    "start": 603,
+                    "word": "kufika"
+                  },
+                  {
+                    "end": 739,
+                    "start": 669,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 765,
+                    "start": 740,
+                    "word": "ule"
+                  },
+                  {
+                    "end": 848,
+                    "start": 766,
+                    "word": "ufalme"
+                  },
+                  {
+                    "end": 928,
+                    "start": 849,
+                    "word": "jirani"
+                  }
+                ],
+                "until": 928,
+                "utterances": "Baada ya kuvuka mito yote miwili haikuwachukuwa muda mrefu kufika katika ule ufalme jirani"
+              }
+            ],
+            "sentence": "Baada ya kuvuka mito yote miwili, haikuwachukuwa muda mrefu kufika katika ule ufalme jirani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_14_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level4_22_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baada ya majadiliano mapana na yule mfalme jirani kuhusiana na mambo yote kutoka kwa mfalme wao sung_36.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 2,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 90,
+                    "start": 71,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 210,
+                    "start": 91,
+                    "word": "majadiliano"
+                  },
+                  {
+                    "end": 313,
+                    "start": 211,
+                    "word": "mapana"
+                  },
+                  {
+                    "end": 374,
+                    "start": 364,
+                    "word": "na"
+                  },
+                  {
+                    "end": 415,
+                    "start": 375,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 478,
+                    "start": 416,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 537,
+                    "start": 479,
+                    "word": "jirani"
+                  },
+                  {
+                    "end": 634,
+                    "start": 538,
+                    "word": "kuhusiana"
+                  },
+                  {
+                    "end": 654,
+                    "start": 635,
+                    "word": "na"
+                  },
+                  {
+                    "end": 699,
+                    "start": 655,
+                    "word": "mambo"
+                  },
+                  {
+                    "end": 744,
+                    "start": 700,
+                    "word": "yote"
+                  },
+                  {
+                    "end": 799,
+                    "start": 745,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 822,
+                    "start": 800,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 887,
+                    "start": 823,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 935,
+                    "start": 888,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 1048,
+                    "start": 979,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 1069,
+                    "start": 1049,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1123,
+                    "start": 1070,
+                    "word": "kobe"
+                  },
+                  {
+                    "end": 1231,
+                    "start": 1160,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 1303,
+                    "start": 1232,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 1383,
+                    "start": 1304,
+                    "word": "kuondoka"
+                  }
+                ],
+                "until": 1383,
+                "utterances": "Baada ya majadiliano mapana na yule mfalme jirani kuhusiana na mambo yote kutoka kwa mfalme wao sungura na kobe walikuwa tayari kuondoka"
+              }
+            ],
+            "sentence": "Baada ya majadiliano mapana na yule mfalme jirani kuhusiana na mambo yote kutoka kwa mfalme wao, sungura na kobe walikuwa tayari kuondoka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_22_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Safari ya kurudi ilikuwa nyororo na nyepesi kuliko ya kwenda kwani wote wawili walijua kile kilitaki_13.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 18,
+                    "word": "Safari"
+                  },
+                  {
+                    "end": 119,
+                    "start": 106,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 195,
+                    "start": 120,
+                    "word": "kurudi"
+                  },
+                  {
+                    "end": 280,
+                    "start": 206,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 379,
+                    "start": 281,
+                    "word": "nyororo"
+                  },
+                  {
+                    "end": 423,
+                    "start": 412,
+                    "word": "na"
+                  },
+                  {
+                    "end": 512,
+                    "start": 424,
+                    "word": "nyepesi"
+                  },
+                  {
+                    "end": 591,
+                    "start": 540,
+                    "word": "kuliko"
+                  },
+                  {
+                    "end": 608,
+                    "start": 592,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 661,
+                    "start": 609,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 727,
+                    "start": 696,
+                    "word": "kwani"
+                  },
+                  {
+                    "end": 768,
+                    "start": 728,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 843,
+                    "start": 769,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 933,
+                    "start": 863,
+                    "word": "walijua"
+                  },
+                  {
+                    "end": 988,
+                    "start": 934,
+                    "word": "kile"
+                  },
+                  {
+                    "end": 1132,
+                    "start": 1020,
+                    "word": "kilitakikana"
+                  },
+                  {
+                    "end": 1215,
+                    "start": 1133,
+                    "word": "kufanywa"
+                  }
+                ],
+                "until": 1215,
+                "utterances": "Safari ya kurudi ilikuwa nyororo na nyepesi kuliko ya kwenda kwani wote wawili walijua kile kilitakikana kufanywa"
+              }
+            ],
+            "sentence": "Safari ya kurudi ilikuwa nyororo na nyepesi kuliko ya kwenda kwani wote wawili walijua kile kilitakikana kufanywa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hao wapinzani wawili walikuwa wamefanya kazi kwa pamoja kwa maelewano makubwa hata wakamfikia mfalme_28.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 17,
+                    "word": "Hao"
+                  },
+                  {
+                    "end": 171,
+                    "start": 65,
+                    "word": "wapinzani"
+                  },
+                  {
+                    "end": 241,
+                    "start": 172,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 324,
+                    "start": 242,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 402,
+                    "start": 325,
+                    "word": "wamefanya"
+                  },
+                  {
+                    "end": 449,
+                    "start": 403,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 476,
+                    "start": 450,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 546,
+                    "start": 477,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 600,
+                    "start": 572,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 711,
+                    "start": 601,
+                    "word": "maelewano"
+                  },
+                  {
+                    "end": 842,
+                    "start": 760,
+                    "word": "makubwa"
+                  },
+                  {
+                    "end": 915,
+                    "start": 870,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 1012,
+                    "start": 916,
+                    "word": "wakamfikia"
+                  },
+                  {
+                    "end": 1086,
+                    "start": 1013,
+                    "word": "mfalme"
+                  },
+                  {
+                    "end": 1145,
+                    "start": 1087,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 1213,
+                    "start": 1160,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 1234,
+                    "start": 1214,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1291,
+                    "start": 1235,
+                    "word": "muda"
+                  },
+                  {
+                    "end": 1386,
+                    "start": 1292,
+                    "word": "waliopewa"
+                  }
+                ],
+                "until": 1386,
+                "utterances": "Hao wapinzani wawili walikuwa wamefanya kazi kwa pamoja kwa maelewano makubwa hata wakamfikia mfalme wao kabla ya muda waliopewa"
+              }
+            ],
+            "sentence": "Hao wapinzani wawili walikuwa wamefanya kazi kwa pamoja kwa maelewano makubwa hata wakamfikia mfalme wao kabla ya muda waliopewa!"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Padmanabha",
+  "language": "Kiswahili",
+  "level": "4",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Sungura na Kobe (Tena!)",
+  "titleimage": "level4_22_page_01_image_0001.jpg"
+}

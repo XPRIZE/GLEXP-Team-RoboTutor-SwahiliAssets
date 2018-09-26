@@ -1,0 +1,3760 @@
+{
+  "authors": "South African Folktale",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level4_21_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hapo zamani za kale Simba alikuwa mwenye nguvu na aliyeogopwa kuliko wanyama wote.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 19,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 119,
+                    "start": 67,
+                    "word": "zamani"
+                  },
+                  {
+                    "end": 140,
+                    "start": 120,
+                    "word": "za"
+                  },
+                  {
+                    "end": 180,
+                    "start": 141,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 276,
+                    "start": 232,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 347,
+                    "start": 277,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 391,
+                    "start": 348,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 456,
+                    "start": 392,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 490,
+                    "start": 478,
+                    "word": "na"
+                  },
+                  {
+                    "end": 616,
+                    "start": 491,
+                    "word": "aliyeogopwa"
+                  },
+                  {
+                    "end": 669,
+                    "start": 617,
+                    "word": "kuliko"
+                  },
+                  {
+                    "end": 734,
+                    "start": 670,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 790,
+                    "start": 735,
+                    "word": "wote"
+                  }
+                ],
+                "until": 790,
+                "utterances": "Hapo zamani za kale Simba alikuwa mwenye nguvu na aliyeogopwa kuliko wanyama wote"
+              }
+            ],
+            "sentence": "Hapo zamani za kale, Simba alikuwa mwenye nguvu na aliyeogopwa kuliko wanyama wote."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Angeweza kuwashika wanyama wengine na kuwala.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 21,
+                    "word": "Angeweza"
+                  },
+                  {
+                    "end": 194,
+                    "start": 107,
+                    "word": "kuwashika"
+                  },
+                  {
+                    "end": 257,
+                    "start": 195,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 319,
+                    "start": 258,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 326,
+                    "start": 320,
+                    "word": "na"
+                  },
+                  {
+                    "end": 386,
+                    "start": 327,
+                    "word": "kuwala"
+                  }
+                ],
+                "until": 386,
+                "utterances": "Angeweza kuwashika wanyama wengine na kuwala"
+              }
+            ],
+            "sentence": "Angeweza kuwashika wanyama wengine na kuwala."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini asubuhi moja alipokuwa akitafuta kifungua kinywa alinaswa kwa mtego wa mwindaji.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 23,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 148,
+                    "start": 86,
+                    "word": "asubuhi"
+                  },
+                  {
+                    "end": 213,
+                    "start": 149,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 310,
+                    "start": 242,
+                    "word": "alipokuwa"
+                  },
+                  {
+                    "end": 394,
+                    "start": 311,
+                    "word": "akitafuta"
+                  },
+                  {
+                    "end": 459,
+                    "start": 395,
+                    "word": "kifungua"
+                  },
+                  {
+                    "end": 518,
+                    "start": 460,
+                    "word": "kinywa"
+                  },
+                  {
+                    "end": 655,
+                    "start": 554,
+                    "word": "alinaswa"
+                  },
+                  {
+                    "end": 675,
+                    "start": 656,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 733,
+                    "start": 676,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 748,
+                    "start": 734,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 833,
+                    "start": 749,
+                    "word": "mwindaji"
+                  }
+                ],
+                "until": 833,
+                "utterances": "Lakini asubuhi moja alipokuwa akitafuta kifungua kinywa alinaswa kwa mtego wa mwindaji"
+              }
+            ],
+            "sentence": "Lakini asubuhi moja alipokuwa akitafuta kifungua kinywa, alinaswa kwa mtego wa mwindaji."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Simba alipiga yowe kubwa kutokana na uchungu.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 19,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 171,
+                    "start": 81,
+                    "word": "alipiga"
+                  },
+                  {
+                    "end": 219,
+                    "start": 172,
+                    "word": "yowe"
+                  },
+                  {
+                    "end": 311,
+                    "start": 238,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 391,
+                    "start": 312,
+                    "word": "kutokana"
+                  },
+                  {
+                    "end": 414,
+                    "start": 392,
+                    "word": "na"
+                  },
+                  {
+                    "end": 469,
+                    "start": 415,
+                    "word": "uchungu"
+                  }
+                ],
+                "until": 469,
+                "utterances": "Simba alipiga yowe kubwa kutokana na uchungu"
+              }
+            ],
+            "sentence": "Simba alipiga yowe kubwa kutokana na uchungu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alivuta na kuvuta ili kujinasua kutoka mtegoni.mp3",
+                "from": 57,
+                "segmentation": [
+                  {
+                    "end": 149,
+                    "start": 57,
+                    "word": "Alivuta"
+                  },
+                  {
+                    "end": 205,
+                    "start": 193,
+                    "word": "na"
+                  },
+                  {
+                    "end": 291,
+                    "start": 206,
+                    "word": "kuvuta"
+                  },
+                  {
+                    "end": 378,
+                    "start": 340,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 467,
+                    "start": 379,
+                    "word": "kujinasua"
+                  },
+                  {
+                    "end": 527,
+                    "start": 468,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 596,
+                    "start": 528,
+                    "word": "mtegoni"
+                  }
+                ],
+                "until": 596,
+                "utterances": "Alivuta na kuvuta ili kujinasua kutoka mtegoni"
+              }
+            ],
+            "sentence": "Alivuta na kuvuta ili kujinasua kutoka mtegoni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mtego ulinasa zaidi na zaidi mguuni kila alipovuta.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 13,
+                    "word": "Mtego"
+                  },
+                  {
+                    "end": 163,
+                    "start": 67,
+                    "word": "ulinasa"
+                  },
+                  {
+                    "end": 240,
+                    "start": 164,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 290,
+                    "start": 274,
+                    "word": "na"
+                  },
+                  {
+                    "end": 356,
+                    "start": 291,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 488,
+                    "start": 402,
+                    "word": "mguuni"
+                  },
+                  {
+                    "end": 569,
+                    "start": 534,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 621,
+                    "start": 570,
+                    "word": "alipovuta"
+                  }
+                ],
+                "until": 621,
+                "utterances": "Mtego ulinasa zaidi na zaidi mguuni kila alipovuta"
+              }
+            ],
+            "sentence": "Mtego ulinasa zaidi na zaidi mguuni kila alipovuta."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Simba alichoka na kuhisi uchungu mguuni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 20,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 182,
+                    "start": 74,
+                    "word": "alichoka"
+                  },
+                  {
+                    "end": 200,
+                    "start": 183,
+                    "word": "na"
+                  },
+                  {
+                    "end": 262,
+                    "start": 201,
+                    "word": "kuhisi"
+                  },
+                  {
+                    "end": 367,
+                    "start": 289,
+                    "word": "uchungu"
+                  },
+                  {
+                    "end": 446,
+                    "start": 368,
+                    "word": "mguuni"
+                  }
+                ],
+                "until": 446,
+                "utterances": "Simba alichoka na kuhisi uchungu mguuni"
+              }
+            ],
+            "sentence": "Simba alichoka na kuhisi uchungu mguuni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikata tamaa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 21,
+                    "word": "Alikata"
+                  },
+                  {
+                    "end": 154,
+                    "start": 97,
+                    "word": "tamaa"
+                  }
+                ],
+                "until": 154,
+                "utterances": "Alikata tamaa"
+              }
+            ],
+            "sentence": "Alikata tamaa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku zilipita na Simba alichomwa kwa jua.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 185,
+                    "start": 85,
+                    "word": "zilipita"
+                  },
+                  {
+                    "end": 221,
+                    "start": 211,
+                    "word": "na"
+                  },
+                  {
+                    "end": 264,
+                    "start": 222,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 395,
+                    "start": 265,
+                    "word": "alichomwa"
+                  },
+                  {
+                    "end": 422,
+                    "start": 396,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 466,
+                    "start": 423,
+                    "word": "jua"
+                  }
+                ],
+                "until": 466,
+                "utterances": "Siku zilipita na Simba alichomwa kwa jua"
+              }
+            ],
+            "sentence": "Siku zilipita na Simba alichomwa kwa jua."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa na njaa na kiu na hakuwa na wa kumwokoa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 112,
+                    "start": 89,
+                    "word": "na"
+                  },
+                  {
+                    "end": 191,
+                    "start": 113,
+                    "word": "njaa"
+                  },
+                  {
+                    "end": 241,
+                    "start": 224,
+                    "word": "na"
+                  },
+                  {
+                    "end": 314,
+                    "start": 242,
+                    "word": "kiu"
+                  },
+                  {
+                    "end": 364,
+                    "start": 348,
+                    "word": "na"
+                  },
+                  {
+                    "end": 427,
+                    "start": 365,
+                    "word": "hakuwa"
+                  },
+                  {
+                    "end": 448,
+                    "start": 428,
+                    "word": "na"
+                  },
+                  {
+                    "end": 464,
+                    "start": 449,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 559,
+                    "start": 465,
+                    "word": "kumwokoa"
+                  }
+                ],
+                "until": 559,
+                "utterances": "Alikuwa na njaa na kiu na hakuwa na wa kumwokoa"
+              }
+            ],
+            "sentence": "Alikuwa na njaa na kiu na hakuwa na wa kumwokoa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa mnyonge zaidi na zaidi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 151,
+                    "start": 89,
+                    "word": "mnyonge"
+                  },
+                  {
+                    "end": 210,
+                    "start": 152,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 232,
+                    "start": 211,
+                    "word": "na"
+                  },
+                  {
+                    "end": 305,
+                    "start": 233,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Alikuwa mnyonge zaidi na zaidi"
+              }
+            ],
+            "sentence": "Alikuwa mnyonge zaidi na zaidi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nitakufa kwa njaa na kiu kwenye mtego huu aliwaza.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 123,
+                    "start": 20,
+                    "word": "Nitakufa"
+                  },
+                  {
+                    "end": 150,
+                    "start": 124,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 197,
+                    "start": 151,
+                    "word": "njaa"
+                  },
+                  {
+                    "end": 218,
+                    "start": 198,
+                    "word": "na"
+                  },
+                  {
+                    "end": 266,
+                    "start": 219,
+                    "word": "kiu"
+                  },
+                  {
+                    "end": 305,
+                    "start": 267,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 359,
+                    "start": 306,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 399,
+                    "start": 376,
+                    "word": "huu"
+                  },
+                  {
+                    "end": 513,
+                    "start": 434,
+                    "word": "aliwaza"
+                  }
+                ],
+                "until": 513,
+                "utterances": "Nitakufa kwa njaa na kiu kwenye mtego huu aliwaza"
+              }
+            ],
+            "sentence": "\"Nitakufa kwa njaa na kiu kwenye mtego huu,\" aliwaza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Asubuhi moja Simba alisikia sauti ikitokea kichakani.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 22,
+                    "word": "Asubuhi"
+                  },
+                  {
+                    "end": 161,
+                    "start": 92,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 239,
+                    "start": 187,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 312,
+                    "start": 240,
+                    "word": "alisikia"
+                  },
+                  {
+                    "end": 384,
+                    "start": 313,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 479,
+                    "start": 385,
+                    "word": "ikitokea"
+                  },
+                  {
+                    "end": 575,
+                    "start": 480,
+                    "word": "kichakani"
+                  }
+                ],
+                "until": 575,
+                "utterances": "Asubuhi moja Simba alisikia sauti ikitokea kichakani"
+              }
+            ],
+            "sentence": "Asubuhi moja, Simba alisikia sauti ikitokea kichakani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alisikiliza na kuchunguza kwa karibu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 166,
+                    "start": 21,
+                    "word": "Alisikiliza"
+                  },
+                  {
+                    "end": 214,
+                    "start": 204,
+                    "word": "na"
+                  },
+                  {
+                    "end": 308,
+                    "start": 215,
+                    "word": "kuchunguza"
+                  },
+                  {
+                    "end": 337,
+                    "start": 309,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 440,
+                    "start": 338,
+                    "word": "karibu"
+                  }
+                ],
+                "until": 440,
+                "utterances": "Alisikiliza na kuchunguza kwa karibu"
+              }
+            ],
+            "sentence": "Alisikiliza na kuchunguza kwa karibu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliona Ngiri akitembea na mkwewe na watoto wakizungumza na kucheka.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 20,
+                    "word": "Aliona"
+                  },
+                  {
+                    "end": 150,
+                    "start": 94,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 258,
+                    "start": 154,
+                    "word": "akitembea"
+                  },
+                  {
+                    "end": 302,
+                    "start": 290,
+                    "word": "na"
+                  },
+                  {
+                    "end": 378,
+                    "start": 303,
+                    "word": "mkwewe"
+                  },
+                  {
+                    "end": 433,
+                    "start": 420,
+                    "word": "na"
+                  },
+                  {
+                    "end": 513,
+                    "start": 434,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 636,
+                    "start": 538,
+                    "word": "wakizungumza"
+                  },
+                  {
+                    "end": 655,
+                    "start": 637,
+                    "word": "na"
+                  },
+                  {
+                    "end": 730,
+                    "start": 656,
+                    "word": "kucheka"
+                  }
+                ],
+                "until": 730,
+                "utterances": "Aliona Ngiri akitembea na mkwewe na watoto wakizungumza na kucheka"
+              }
+            ],
+            "sentence": "Aliona Ngiri akitembea na mkwewe na watoto wakizungumza na kucheka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Familia ya Ngiri ilikuwa inakwenda mtoni kunywa maji na kuchezea topeni kabla ya jua kuwa kali sana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 2,
+                    "word": "Familia"
+                  },
+                  {
+                    "end": 115,
+                    "start": 95,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 186,
+                    "start": 116,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 269,
+                    "start": 190,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 361,
+                    "start": 280,
+                    "word": "inakwenda"
+                  },
+                  {
+                    "end": 437,
+                    "start": 362,
+                    "word": "mtoni"
+                  },
+                  {
+                    "end": 481,
+                    "start": 438,
+                    "word": "kunywa"
+                  },
+                  {
+                    "end": 541,
+                    "start": 482,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 592,
+                    "start": 578,
+                    "word": "na"
+                  },
+                  {
+                    "end": 692,
+                    "start": 593,
+                    "word": "kuchezea"
+                  },
+                  {
+                    "end": 758,
+                    "start": 693,
+                    "word": "topeni"
+                  },
+                  {
+                    "end": 834,
+                    "start": 786,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 853,
+                    "start": 835,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 895,
+                    "start": 854,
+                    "word": "jua"
+                  },
+                  {
+                    "end": 936,
+                    "start": 896,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 977,
+                    "start": 937,
+                    "word": "kali"
+                  },
+                  {
+                    "end": 1034,
+                    "start": 978,
+                    "word": "sana"
+                  }
+                ],
+                "until": 1034,
+                "utterances": "Familia ya Ngiri ilikuwa inakwenda mtoni kunywa maji na kuchezea topeni kabla ya jua kuwa kali sana"
+              }
+            ],
+            "sentence": "Familia ya Ngiri ilikuwa inakwenda mtoni kunywa maji na kuchezea topeni kabla ya jua kuwa kali sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngiri.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 2,
+                    "word": "Ngiri"
+                  }
+                ],
+                "until": 104,
+                "utterances": "Ngiri"
+              }
+            ],
+            "sentence": "\"Ngiri!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tafadhali nisaidie.mp3",
+                "from": 47,
+                "segmentation": [
+                  {
+                    "end": 118,
+                    "start": 47,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 225,
+                    "start": 119,
+                    "word": "nisaidie"
+                  }
+                ],
+                "until": 225,
+                "utterances": "Tafadhali nisaidie"
+              }
+            ],
+            "sentence": "Tafadhali nisaidie!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ngiri.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 2,
+                    "word": "Ngiri"
+                  }
+                ],
+                "until": 104,
+                "utterances": "Ngiri"
+              }
+            ],
+            "sentence": "Ngiri!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "Simba alilia.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 19,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 145,
+                    "start": 81,
+                    "word": "alilia"
+                  }
+                ],
+                "until": 145,
+                "utterances": "Simba alilia"
+              }
+            ],
+            "sentence": "Simba alilia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tafadhali niokoe kutoka mtego huu Simba alimsihi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 21,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 238,
+                    "start": 157,
+                    "word": "niokoe"
+                  },
+                  {
+                    "end": 294,
+                    "start": 239,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 360,
+                    "start": 295,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 401,
+                    "start": 361,
+                    "word": "huu"
+                  },
+                  {
+                    "end": 511,
+                    "start": 460,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 610,
+                    "start": 512,
+                    "word": "alimsihi"
+                  }
+                ],
+                "until": 610,
+                "utterances": "Tafadhali niokoe kutoka mtego huu Simba alimsihi"
+              }
+            ],
+            "sentence": "\"Tafadhali niokoe kutoka mtego huu,\" Simba alimsihi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kamwe Ngiri alijibu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 2,
+                    "word": "Kamwe"
+                  },
+                  {
+                    "end": 173,
+                    "start": 127,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 247,
+                    "start": 174,
+                    "word": "alijibu"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Kamwe Ngiri alijibu"
+              }
+            ],
+            "sentence": "\"Kamwe,\" Ngiri alijibu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wewe ni mnyama mkatili.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 20,
+                    "word": "Wewe"
+                  },
+                  {
+                    "end": 95,
+                    "start": 73,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 184,
+                    "start": 96,
+                    "word": "mnyama"
+                  },
+                  {
+                    "end": 294,
+                    "start": 185,
+                    "word": "mkatili"
+                  }
+                ],
+                "until": 294,
+                "utterances": "Wewe ni mnyama mkatili"
+              }
+            ],
+            "sentence": "\"Wewe ni mnyama mkatili."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nikikuokoa utanila mimi na familia yangu kama kifungua kinywa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 152,
+                    "start": 20,
+                    "word": "Nikikuokoa"
+                  },
+                  {
+                    "end": 266,
+                    "start": 175,
+                    "word": "utanila"
+                  },
+                  {
+                    "end": 304,
+                    "start": 267,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 319,
+                    "start": 305,
+                    "word": "na"
+                  },
+                  {
+                    "end": 404,
+                    "start": 320,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 448,
+                    "start": 405,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 512,
+                    "start": 467,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 577,
+                    "start": 513,
+                    "word": "kifungua"
+                  },
+                  {
+                    "end": 632,
+                    "start": 578,
+                    "word": "kinywa"
+                  }
+                ],
+                "until": 632,
+                "utterances": "Nikikuokoa utanila mimi na familia yangu kama kifungua kinywa"
+              }
+            ],
+            "sentence": "Nikikuokoa utanila mimi na familia yangu kama kifungua kinywa.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Naahidi kamwe sitatenda jambo ovu kama hilo.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 16,
+                    "word": "Naahidi"
+                  },
+                  {
+                    "end": 167,
+                    "start": 109,
+                    "word": "kamwe"
+                  },
+                  {
+                    "end": 298,
+                    "start": 208,
+                    "word": "sitatenda"
+                  },
+                  {
+                    "end": 337,
+                    "start": 299,
+                    "word": "jambo"
+                  },
+                  {
+                    "end": 380,
+                    "start": 338,
+                    "word": "ovu"
+                  },
+                  {
+                    "end": 417,
+                    "start": 381,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 464,
+                    "start": 418,
+                    "word": "hilo"
+                  }
+                ],
+                "until": 464,
+                "utterances": "Naahidi kamwe sitatenda jambo ovu kama hilo"
+              }
+            ],
+            "sentence": "\"Naahidi kamwe sitatenda jambo ovu kama hilo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tutakuwa marafiki ikiwa utaniokoa Simba alisema.mp3",
+                "from": 57,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 57,
+                    "word": "Tutakuwa"
+                  },
+                  {
+                    "end": 217,
+                    "start": 120,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 271,
+                    "start": 223,
+                    "word": "ikiwa"
+                  },
+                  {
+                    "end": 394,
+                    "start": 272,
+                    "word": "utaniokoa"
+                  },
+                  {
+                    "end": 474,
+                    "start": 424,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 555,
+                    "start": 475,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 555,
+                "utterances": "Tutakuwa marafiki ikiwa utaniokoa Simba alisema"
+              }
+            ],
+            "sentence": "Tutakuwa marafiki ikiwa utaniokoa,\" Simba alisema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngiri alimwonea Simba huruma.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 2,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 201,
+                    "start": 84,
+                    "word": "alimwonea"
+                  },
+                  {
+                    "end": 263,
+                    "start": 202,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 384,
+                    "start": 264,
+                    "word": "huruma"
+                  }
+                ],
+                "until": 384,
+                "utterances": "Ngiri alimwonea Simba huruma"
+              }
+            ],
+            "sentence": "Ngiri alimwonea Simba huruma."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sipendi kukuona ukihisi uchungu kiu na kuwa karibu kufa kwa njaa.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 30,
+                    "word": "Sipendi"
+                  },
+                  {
+                    "end": 205,
+                    "start": 114,
+                    "word": "kukuona"
+                  },
+                  {
+                    "end": 332,
+                    "start": 242,
+                    "word": "ukihisi"
+                  },
+                  {
+                    "end": 435,
+                    "start": 388,
+                    "word": "uchungu"
+                  },
+                  {
+                    "end": 525,
+                    "start": 456,
+                    "word": "kiu"
+                  },
+                  {
+                    "end": 580,
+                    "start": 569,
+                    "word": "na"
+                  },
+                  {
+                    "end": 625,
+                    "start": 581,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 683,
+                    "start": 626,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 730,
+                    "start": 684,
+                    "word": "kufa"
+                  },
+                  {
+                    "end": 757,
+                    "start": 731,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 799,
+                    "start": 758,
+                    "word": "njaa"
+                  }
+                ],
+                "until": 799,
+                "utterances": "Sipendi kukuona ukihisi uchungu kiu na kuwa karibu kufa kwa njaa"
+              }
+            ],
+            "sentence": "\"Sipendi kukuona ukihisi uchungu, kiu na kuwa karibu kufa kwa njaa.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo alitumia pembe zake akavuta mtego kisha akamwokoa Simba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 93,
+                    "start": 42,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 181,
+                    "start": 94,
+                    "word": "alitumia"
+                  },
+                  {
+                    "end": 223,
+                    "start": 182,
+                    "word": "pembe"
+                  },
+                  {
+                    "end": 289,
+                    "start": 224,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 391,
+                    "start": 322,
+                    "word": "akavuta"
+                  },
+                  {
+                    "end": 474,
+                    "start": 392,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 575,
+                    "start": 500,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 676,
+                    "start": 576,
+                    "word": "akamwokoa"
+                  },
+                  {
+                    "end": 733,
+                    "start": 677,
+                    "word": "Simba"
+                  }
+                ],
+                "until": 733,
+                "utterances": "Kwa hivyo alitumia pembe zake akavuta mtego kisha akamwokoa Simba"
+              }
+            ],
+            "sentence": "Kwa hivyo alitumia pembe zake akavuta mtego kisha akamwokoa Simba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngiri alimwokoa rafikiye mpya.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 2,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 197,
+                    "start": 76,
+                    "word": "alimwokoa"
+                  },
+                  {
+                    "end": 280,
+                    "start": 198,
+                    "word": "rafikiye"
+                  },
+                  {
+                    "end": 343,
+                    "start": 281,
+                    "word": "mpya"
+                  }
+                ],
+                "until": 343,
+                "utterances": "Ngiri alimwokoa rafikiye mpya"
+              }
+            ],
+            "sentence": "Ngiri alimwokoa rafikiye mpya."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Asante sana rafiki yangu kwa kuokoa maisha yangu Simba alisema.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 124,
+                    "start": 21,
+                    "word": "Asante"
+                  },
+                  {
+                    "end": 209,
+                    "start": 125,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 272,
+                    "start": 210,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 311,
+                    "start": 273,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 342,
+                    "start": 312,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 402,
+                    "start": 343,
+                    "word": "kuokoa"
+                  },
+                  {
+                    "end": 458,
+                    "start": 403,
+                    "word": "maisha"
+                  },
+                  {
+                    "end": 548,
+                    "start": 459,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 617,
+                    "start": 569,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 704,
+                    "start": 618,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 704,
+                "utterances": "Asante sana rafiki yangu kwa kuokoa maisha yangu Simba alisema"
+              }
+            ],
+            "sentence": "\"Asante sana rafiki yangu kwa kuokoa maisha yangu,\" Simba alisema."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lazima niende kwa familia yangu sasa kwa heri.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "Lazima"
+                  },
+                  {
+                    "end": 141,
+                    "start": 84,
+                    "word": "niende"
+                  },
+                  {
+                    "end": 162,
+                    "start": 142,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 249,
+                    "start": 163,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 281,
+                    "start": 250,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 340,
+                    "start": 282,
+                    "word": "sasa"
+                  },
+                  {
+                    "end": 405,
+                    "start": 348,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 472,
+                    "start": 406,
+                    "word": "heri"
+                  }
+                ],
+                "until": 472,
+                "utterances": "Lazima niende kwa familia yangu sasa kwa heri"
+              }
+            ],
+            "sentence": "\"Lazima niende kwa familia yangu sasa, kwa heri.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nenda salama rafiki yangu Ngiri alijibu.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 13,
+                    "word": "Nenda"
+                  },
+                  {
+                    "end": 142,
+                    "start": 75,
+                    "word": "salama"
+                  },
+                  {
+                    "end": 207,
+                    "start": 143,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 292,
+                    "start": 208,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 332,
+                    "start": 293,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 415,
+                    "start": 333,
+                    "word": "alijibu"
+                  }
+                ],
+                "until": 415,
+                "utterances": "Nenda salama rafiki yangu Ngiri alijibu"
+              }
+            ],
+            "sentence": "\"Nenda salama rafiki yangu,\" Ngiri alijibu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alifurahi kwamba Simba alikuwa rafiki yake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 142,
+                    "start": 21,
+                    "word": "Alifurahi"
+                  },
+                  {
+                    "end": 215,
+                    "start": 143,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 293,
+                    "start": 241,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 357,
+                    "start": 294,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 418,
+                    "start": 358,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 463,
+                    "start": 419,
+                    "word": "yake"
+                  }
+                ],
+                "until": 463,
+                "utterances": "Alifurahi kwamba Simba alikuwa rafiki yake"
+              }
+            ],
+            "sentence": "Alifurahi kwamba Simba alikuwa rafiki yake."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Familia yangu haitakimbia kutoroka simba tena aliwaza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 2,
+                    "word": "Familia"
+                  },
+                  {
+                    "end": 160,
+                    "start": 110,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 333,
+                    "start": 212,
+                    "word": "haitakimbia"
+                  },
+                  {
+                    "end": 412,
+                    "start": 334,
+                    "word": "kutoroka"
+                  },
+                  {
+                    "end": 462,
+                    "start": 413,
+                    "word": "simba"
+                  },
+                  {
+                    "end": 542,
+                    "start": 489,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 679,
+                    "start": 590,
+                    "word": "aliwaza"
+                  }
+                ],
+                "until": 679,
+                "utterances": "Familia yangu haitakimbia kutoroka simba tena aliwaza"
+              }
+            ],
+            "sentence": "\"Familia yangu haitakimbia kutoroka simba tena,\" aliwaza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Simba aliondoka akichechemea na kwa unyonge.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 21,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 194,
+                    "start": 80,
+                    "word": "aliondoka"
+                  },
+                  {
+                    "end": 373,
+                    "start": 246,
+                    "word": "akichechemea"
+                  },
+                  {
+                    "end": 424,
+                    "start": 414,
+                    "word": "na"
+                  },
+                  {
+                    "end": 456,
+                    "start": 425,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 531,
+                    "start": 457,
+                    "word": "unyonge"
+                  }
+                ],
+                "until": 531,
+                "utterances": "Simba aliondoka akichechemea na kwa unyonge"
+              }
+            ],
+            "sentence": "Simba aliondoka akichechemea na kwa unyonge."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Vile vile alihisi njaa sana.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 18,
+                    "word": "Vile"
+                  },
+                  {
+                    "end": 97,
+                    "start": 54,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 262,
+                    "start": 156,
+                    "word": "alihisi"
+                  },
+                  {
+                    "end": 317,
+                    "start": 263,
+                    "word": "njaa"
+                  },
+                  {
+                    "end": 409,
+                    "start": 334,
+                    "word": "sana"
+                  }
+                ],
+                "until": 409,
+                "utterances": "Vile vile alihisi njaa sana"
+              }
+            ],
+            "sentence": "Vile vile alihisi njaa sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mara akawaona watoto wa Ngiri wakicheza topeni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 2,
+                    "word": "Mara"
+                  },
+                  {
+                    "end": 172,
+                    "start": 76,
+                    "word": "akawaona"
+                  },
+                  {
+                    "end": 228,
+                    "start": 173,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 252,
+                    "start": 229,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 303,
+                    "start": 253,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 387,
+                    "start": 304,
+                    "word": "wakicheza"
+                  },
+                  {
+                    "end": 459,
+                    "start": 388,
+                    "word": "topeni"
+                  }
+                ],
+                "until": 459,
+                "utterances": "Mara akawaona watoto wa Ngiri wakicheza topeni"
+              }
+            ],
+            "sentence": "Mara akawaona watoto wa Ngiri wakicheza topeni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Leo ni siku yangu ya bahati Simba alisema akidondokwa na mate.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 19,
+                    "word": "Leo"
+                  },
+                  {
+                    "end": 102,
+                    "start": 83,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 160,
+                    "start": 103,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 202,
+                    "start": 161,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 214,
+                    "start": 203,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 311,
+                    "start": 215,
+                    "word": "bahati"
+                  },
+                  {
+                    "end": 390,
+                    "start": 344,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 479,
+                    "start": 391,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 639,
+                    "start": 520,
+                    "word": "akidondokwa"
+                  },
+                  {
+                    "end": 656,
+                    "start": 640,
+                    "word": "na"
+                  },
+                  {
+                    "end": 709,
+                    "start": 657,
+                    "word": "mate"
+                  }
+                ],
+                "until": 709,
+                "utterances": "Leo ni siku yangu ya bahati Simba alisema akidondokwa na mate"
+              }
+            ],
+            "sentence": "\"Leo ni siku yangu ya bahati,\" Simba alisema akidondokwa na mate."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngiri rafiki yangu mpya Simba aliita.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 19,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 181,
+                    "start": 121,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 216,
+                    "start": 182,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 271,
+                    "start": 217,
+                    "word": "mpya"
+                  },
+                  {
+                    "end": 355,
+                    "start": 304,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 440,
+                    "start": 356,
+                    "word": "aliita"
+                  }
+                ],
+                "until": 440,
+                "utterances": "Ngiri rafiki yangu mpya Simba aliita"
+              }
+            ],
+            "sentence": "\"Ngiri, rafiki yangu mpya,\" Simba aliita."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nimenaswa mtegoni kwa siku nyingi bila chakula.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 130,
+                    "start": 17,
+                    "word": "Nimenaswa"
+                  },
+                  {
+                    "end": 212,
+                    "start": 131,
+                    "word": "mtegoni"
+                  },
+                  {
+                    "end": 239,
+                    "start": 213,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 283,
+                    "start": 240,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 364,
+                    "start": 284,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 400,
+                    "start": 365,
+                    "word": "bila"
+                  },
+                  {
+                    "end": 477,
+                    "start": 401,
+                    "word": "chakula"
+                  }
+                ],
+                "until": 477,
+                "utterances": "Nimenaswa mtegoni kwa siku nyingi bila chakula"
+              }
+            ],
+            "sentence": "\"Nimenaswa mtegoni kwa siku nyingi bila chakula."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lakini sina nguvu za kuwinda.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 22,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 131,
+                    "start": 80,
+                    "word": "sina"
+                  },
+                  {
+                    "end": 188,
+                    "start": 132,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 207,
+                    "start": 189,
+                    "word": "za"
+                  },
+                  {
+                    "end": 293,
+                    "start": 208,
+                    "word": "kuwinda"
+                  }
+                ],
+                "until": 293,
+                "utterances": "Lakini sina nguvu za kuwinda"
+              }
+            ],
+            "sentence": "Lakini sina nguvu za kuwinda."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tafadhali unaweza nipatia mmoja wa watoto wako kuwa kifungua kinywa changu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 20,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 227,
+                    "start": 170,
+                    "word": "unaweza"
+                  },
+                  {
+                    "end": 297,
+                    "start": 228,
+                    "word": "nipatia"
+                  },
+                  {
+                    "end": 360,
+                    "start": 298,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 374,
+                    "start": 361,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 427,
+                    "start": 375,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 487,
+                    "start": 428,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 567,
+                    "start": 534,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 637,
+                    "start": 568,
+                    "word": "kifungua"
+                  },
+                  {
+                    "end": 682,
+                    "start": 638,
+                    "word": "kinywa"
+                  },
+                  {
+                    "end": 786,
+                    "start": 683,
+                    "word": "changu"
+                  }
+                ],
+                "until": 786,
+                "utterances": "Tafadhali unaweza nipatia mmoja wa watoto wako kuwa kifungua kinywa changu"
+              }
+            ],
+            "sentence": "Tafadhali, unaweza nipatia mmoja wa watoto wako kuwa kifungua kinywa changu?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngiri alishtuka.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 19,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 175,
+                    "start": 72,
+                    "word": "alishtuka"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Ngiri alishtuka"
+              }
+            ],
+            "sentence": "Ngiri alishtuka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikuokoa kutoka mtegoni na sasa unataka kula watoto wangu.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 17,
+                    "word": "Nilikuokoa"
+                  },
+                  {
+                    "end": 219,
+                    "start": 118,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 311,
+                    "start": 220,
+                    "word": "mtegoni"
+                  },
+                  {
+                    "end": 345,
+                    "start": 332,
+                    "word": "na"
+                  },
+                  {
+                    "end": 399,
+                    "start": 346,
+                    "word": "sasa"
+                  },
+                  {
+                    "end": 461,
+                    "start": 403,
+                    "word": "unataka"
+                  },
+                  {
+                    "end": 502,
+                    "start": 462,
+                    "word": "kula"
+                  },
+                  {
+                    "end": 555,
+                    "start": 503,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 605,
+                    "start": 556,
+                    "word": "wangu"
+                  }
+                ],
+                "until": 605,
+                "utterances": "Nilikuokoa kutoka mtegoni na sasa unataka kula watoto wangu"
+              }
+            ],
+            "sentence": "Nilikuokoa kutoka mtegoni na sasa unataka kula watoto wangu?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nasikitika rafiki yangu Simba alisema lakini ninakufa njaa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 146,
+                    "start": 21,
+                    "word": "Nasikitika"
+                  },
+                  {
+                    "end": 211,
+                    "start": 147,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 250,
+                    "start": 212,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 328,
+                    "start": 279,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 407,
+                    "start": 329,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 516,
+                    "start": 459,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 595,
+                    "start": 517,
+                    "word": "ninakufa"
+                  },
+                  {
+                    "end": 683,
+                    "start": 596,
+                    "word": "njaa"
+                  }
+                ],
+                "until": 683,
+                "utterances": "Nasikitika rafiki yangu Simba alisema lakini ninakufa njaa"
+              }
+            ],
+            "sentence": "\"Nasikitika rafiki yangu,\" Simba alisema, \"lakini ninakufa njaa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ingawa mimi ni mnyonge sasa mimi ni mwenye nguvu kukuliko wewe.mp3",
+                "from": 26,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 26,
+                    "word": "Ingawa"
+                  },
+                  {
+                    "end": 120,
+                    "start": 85,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 138,
+                    "start": 121,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 204,
+                    "start": 139,
+                    "word": "mnyonge"
+                  },
+                  {
+                    "end": 263,
+                    "start": 205,
+                    "word": "sasa"
+                  },
+                  {
+                    "end": 335,
+                    "start": 301,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 348,
+                    "start": 336,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 388,
+                    "start": 349,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 470,
+                    "start": 389,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 512,
+                    "start": 471,
+                    "word": "kukuliko"
+                  },
+                  {
+                    "end": 581,
+                    "start": 513,
+                    "word": "wewe"
+                  }
+                ],
+                "until": 581,
+                "utterances": "Ingawa mimi ni mnyonge sasa mimi ni mwenye nguvu kukuliko wewe"
+              }
+            ],
+            "sentence": "Ingawa mimi ni mnyonge sasa mimi ni mwenye nguvu kukuliko wewe.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Simba alifungua kinywa chake na kuonyesha meno yake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 20,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 222,
+                    "start": 95,
+                    "word": "alifungua"
+                  },
+                  {
+                    "end": 298,
+                    "start": 223,
+                    "word": "kinywa"
+                  },
+                  {
+                    "end": 355,
+                    "start": 299,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 398,
+                    "start": 388,
+                    "word": "na"
+                  },
+                  {
+                    "end": 481,
+                    "start": 399,
+                    "word": "kuonyesha"
+                  },
+                  {
+                    "end": 517,
+                    "start": 482,
+                    "word": "meno"
+                  },
+                  {
+                    "end": 565,
+                    "start": 518,
+                    "word": "yake"
+                  }
+                ],
+                "until": 565,
+                "utterances": "Simba alifungua kinywa chake na kuonyesha meno yake"
+              }
+            ],
+            "sentence": "Simba alifungua kinywa chake na kuonyesha meno yake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Usiponipatia mmoja wa watoto wako mwenyewe nitamchukuwa mmoja alinguruma.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 230,
+                    "start": 21,
+                    "word": "Usiponipatia"
+                  },
+                  {
+                    "end": 287,
+                    "start": 231,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 308,
+                    "start": 288,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 353,
+                    "start": 309,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 407,
+                    "start": 354,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 511,
+                    "start": 451,
+                    "word": "mwenyewe"
+                  },
+                  {
+                    "end": 605,
+                    "start": 512,
+                    "word": "nitamchukuwa"
+                  },
+                  {
+                    "end": 659,
+                    "start": 606,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 832,
+                    "start": 731,
+                    "word": "alinguruma"
+                  }
+                ],
+                "until": 832,
+                "utterances": "Usiponipatia mmoja wa watoto wako mwenyewe nitamchukuwa mmoja alinguruma"
+              }
+            ],
+            "sentence": "\"Usiponipatia mmoja wa watoto wako, mwenyewe nitamchukuwa mmoja,\" alinguruma."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngiri alifahamu kuwa hakuwa na mbio wala nguvu za Simba.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 19,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 176,
+                    "start": 82,
+                    "word": "alifahamu"
+                  },
+                  {
+                    "end": 215,
+                    "start": 177,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 322,
+                    "start": 256,
+                    "word": "hakuwa"
+                  },
+                  {
+                    "end": 341,
+                    "start": 323,
+                    "word": "na"
+                  },
+                  {
+                    "end": 395,
+                    "start": 342,
+                    "word": "mbio"
+                  },
+                  {
+                    "end": 471,
+                    "start": 425,
+                    "word": "wala"
+                  },
+                  {
+                    "end": 515,
+                    "start": 472,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 533,
+                    "start": 516,
+                    "word": "za"
+                  },
+                  {
+                    "end": 584,
+                    "start": 534,
+                    "word": "Simba"
+                  }
+                ],
+                "until": 584,
+                "utterances": "Ngiri alifahamu kuwa hakuwa na mbio wala nguvu za Simba"
+              }
+            ],
+            "sentence": "Ngiri alifahamu kuwa hakuwa na mbio wala nguvu za Simba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hangeweza kuwalinda wanawe katika vita.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 20,
+                    "word": "Hangeweza"
+                  },
+                  {
+                    "end": 185,
+                    "start": 106,
+                    "word": "kuwalinda"
+                  },
+                  {
+                    "end": 242,
+                    "start": 186,
+                    "word": "wanawe"
+                  },
+                  {
+                    "end": 300,
+                    "start": 243,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 354,
+                    "start": 301,
+                    "word": "vita"
+                  }
+                ],
+                "until": 354,
+                "utterances": "Hangeweza kuwalinda wanawe katika vita"
+              }
+            ],
+            "sentence": "Hangeweza kuwalinda wanawe katika vita."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sawa sawa Ngiri alisema.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 20,
+                    "word": "Sawa"
+                  },
+                  {
+                    "end": 138,
+                    "start": 69,
+                    "word": "sawa"
+                  },
+                  {
+                    "end": 217,
+                    "start": 139,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 293,
+                    "start": 218,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 293,
+                "utterances": "Sawa sawa Ngiri alisema"
+              }
+            ],
+            "sentence": "\"Sawa sawa,\" Ngiri alisema."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nitakupatia mtoto wangu mmoja.mp3",
+                "from": 58,
+                "segmentation": [
+                  {
+                    "end": 185,
+                    "start": 58,
+                    "word": "Nitakupatia"
+                  },
+                  {
+                    "end": 256,
+                    "start": 213,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 296,
+                    "start": 257,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 365,
+                    "start": 297,
+                    "word": "mmoja"
+                  }
+                ],
+                "until": 365,
+                "utterances": "Nitakupatia mtoto wangu mmoja"
+              }
+            ],
+            "sentence": "\"Nitakupatia mtoto wangu mmoja."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lakini kwanza hebu nionyeshe namna ulivyonaswa mtegoni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 161,
+                    "start": 111,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 201,
+                    "start": 162,
+                    "word": "hebu"
+                  },
+                  {
+                    "end": 277,
+                    "start": 202,
+                    "word": "nionyeshe"
+                  },
+                  {
+                    "end": 335,
+                    "start": 278,
+                    "word": "namna"
+                  },
+                  {
+                    "end": 447,
+                    "start": 350,
+                    "word": "ulivyonaswa"
+                  },
+                  {
+                    "end": 492,
+                    "start": 448,
+                    "word": "mtegoni"
+                  }
+                ],
+                "until": 492,
+                "utterances": "Lakini kwanza hebu nionyeshe namna ulivyonaswa mtegoni"
+              }
+            ],
+            "sentence": "Lakini kwanza hebu nionyeshe namna ulivyonaswa mtegoni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ikiwa nitahitajika tena kumwokoa simba mwingine kutoka mtegoni.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 13,
+                    "word": "Ikiwa"
+                  },
+                  {
+                    "end": 184,
+                    "start": 69,
+                    "word": "nitahitajika"
+                  },
+                  {
+                    "end": 223,
+                    "start": 185,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 306,
+                    "start": 224,
+                    "word": "kumwokoa"
+                  },
+                  {
+                    "end": 355,
+                    "start": 307,
+                    "word": "simba"
+                  },
+                  {
+                    "end": 422,
+                    "start": 356,
+                    "word": "mwingine"
+                  },
+                  {
+                    "end": 481,
+                    "start": 423,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 556,
+                    "start": 482,
+                    "word": "mtegoni"
+                  }
+                ],
+                "until": 556,
+                "utterances": "Ikiwa nitahitajika tena kumwokoa simba mwingine kutoka mtegoni"
+              }
+            ],
+            "sentence": "Ikiwa nitahitajika tena kumwokoa simba mwingine kutoka mtegoni.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Simba alifikiria juu ya utamu wa kumla ngiri mchanga.mp3",
+                "from": 11,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 11,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 205,
+                    "start": 91,
+                    "word": "alifikiria"
+                  },
+                  {
+                    "end": 240,
+                    "start": 206,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 248,
+                    "start": 241,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 348,
+                    "start": 249,
+                    "word": "utamu"
+                  },
+                  {
+                    "end": 397,
+                    "start": 386,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 466,
+                    "start": 398,
+                    "word": "kumla"
+                  },
+                  {
+                    "end": 516,
+                    "start": 467,
+                    "word": "ngiri"
+                  },
+                  {
+                    "end": 606,
+                    "start": 517,
+                    "word": "mchanga"
+                  }
+                ],
+                "until": 606,
+                "utterances": "Simba alifikiria juu ya utamu wa kumla ngiri mchanga"
+              }
+            ],
+            "sentence": "Simba alifikiria juu ya utamu wa kumla ngiri mchanga."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hangeweza kusubiri.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 18,
+                    "word": "Hangeweza"
+                  },
+                  {
+                    "end": 228,
+                    "start": 132,
+                    "word": "kusubiri"
+                  }
+                ],
+                "until": 228,
+                "utterances": "Hangeweza kusubiri"
+              }
+            ],
+            "sentence": "Hangeweza kusubiri."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Simba alikwenda mtegoni na kuweka mguu wake ndani kumwonyesha rafiki yake jinsi alivyonaswa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 20,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 163,
+                    "start": 85,
+                    "word": "alikwenda"
+                  },
+                  {
+                    "end": 240,
+                    "start": 164,
+                    "word": "mtegoni"
+                  },
+                  {
+                    "end": 285,
+                    "start": 273,
+                    "word": "na"
+                  },
+                  {
+                    "end": 345,
+                    "start": 286,
+                    "word": "kuweka"
+                  },
+                  {
+                    "end": 387,
+                    "start": 346,
+                    "word": "mguu"
+                  },
+                  {
+                    "end": 421,
+                    "start": 388,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 478,
+                    "start": 422,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 582,
+                    "start": 479,
+                    "word": "kumwonyesha"
+                  },
+                  {
+                    "end": 642,
+                    "start": 583,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 679,
+                    "start": 643,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 788,
+                    "start": 733,
+                    "word": "jinsi"
+                  },
+                  {
+                    "end": 889,
+                    "start": 792,
+                    "word": "alivyonaswa"
+                  }
+                ],
+                "until": 889,
+                "utterances": "Simba alikwenda mtegoni na kuweka mguu wake ndani kumwonyesha rafiki yake jinsi alivyonaswa"
+              }
+            ],
+            "sentence": "Simba alikwenda mtegoni na kuweka mguu wake ndani kumwonyesha rafiki yake jinsi alivyonaswa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kimbieni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 2,
+                    "word": "Kimbieni"
+                  }
+                ],
+                "until": 127,
+                "utterances": "Kimbieni"
+              }
+            ],
+            "sentence": "\"Kimbieni!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kimbilieni mbali.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 2,
+                    "word": "Kimbilieni"
+                  },
+                  {
+                    "end": 194,
+                    "start": 106,
+                    "word": "mbali"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Kimbilieni mbali"
+              }
+            ],
+            "sentence": "Kimbilieni mbali!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "Bibiye Ngiri aliwaambia wanawe kwa sauti ya juu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 2,
+                    "word": "Bibiye"
+                  },
+                  {
+                    "end": 130,
+                    "start": 76,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 223,
+                    "start": 131,
+                    "word": "aliwaambia"
+                  },
+                  {
+                    "end": 276,
+                    "start": 224,
+                    "word": "wanawe"
+                  },
+                  {
+                    "end": 300,
+                    "start": 277,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 365,
+                    "start": 301,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 374,
+                    "start": 366,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 420,
+                    "start": 375,
+                    "word": "juu"
+                  }
+                ],
+                "until": 420,
+                "utterances": "Bibiye Ngiri aliwaambia wanawe kwa sauti ya juu"
+              }
+            ],
+            "sentence": "Bibiye Ngiri aliwaambia wanawe kwa sauti ya juu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Inueni mikia yenu mnapokimbia ili baba yenu awaone alisisitiza.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 21,
+                    "word": "Inueni"
+                  },
+                  {
+                    "end": 150,
+                    "start": 96,
+                    "word": "mikia"
+                  },
+                  {
+                    "end": 190,
+                    "start": 151,
+                    "word": "yenu"
+                  },
+                  {
+                    "end": 314,
+                    "start": 191,
+                    "word": "mnapokimbia"
+                  },
+                  {
+                    "end": 376,
+                    "start": 346,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 404,
+                    "start": 377,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 441,
+                    "start": 405,
+                    "word": "yenu"
+                  },
+                  {
+                    "end": 554,
+                    "start": 502,
+                    "word": "awaone"
+                  },
+                  {
+                    "end": 716,
+                    "start": 587,
+                    "word": "alisisitiza"
+                  }
+                ],
+                "until": 716,
+                "utterances": "Inueni mikia yenu mnapokimbia ili baba yenu awaone alisisitiza"
+              }
+            ],
+            "sentence": "\"Inueni mikia yenu mnapokimbia ili baba yenu awaone,\" alisisitiza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto walikimbia kwa kasi walivyoweza kupita kichakani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 20,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 184,
+                    "start": 93,
+                    "word": "walikimbia"
+                  },
+                  {
+                    "end": 211,
+                    "start": 185,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 274,
+                    "start": 212,
+                    "word": "kasi"
+                  },
+                  {
+                    "end": 350,
+                    "start": 275,
+                    "word": "walivyoweza"
+                  },
+                  {
+                    "end": 407,
+                    "start": 351,
+                    "word": "kupita"
+                  },
+                  {
+                    "end": 489,
+                    "start": 408,
+                    "word": "kichakani"
+                  }
+                ],
+                "until": 489,
+                "utterances": "Watoto walikimbia kwa kasi walivyoweza kupita kichakani"
+              }
+            ],
+            "sentence": "Watoto walikimbia kwa kasi walivyoweza kupita kichakani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tafadhali Ngiri nisaidie.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 21,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 144,
+                    "start": 97,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 250,
+                    "start": 145,
+                    "word": "nisaidie"
+                  }
+                ],
+                "until": 250,
+                "utterances": "Tafadhali Ngiri nisaidie"
+              }
+            ],
+            "sentence": "\"Tafadhali Ngiri nisaidie!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "Simba alimsihi tena.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "Simba"
+                  },
+                  {
+                    "end": 176,
+                    "start": 85,
+                    "word": "alimsihi"
+                  },
+                  {
+                    "end": 231,
+                    "start": 177,
+                    "word": "tena"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Simba alimsihi tena"
+              }
+            ],
+            "sentence": "Simba alimsihi tena."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alihisi uchungu kwa kunaswa katika meno ya mtego wa mwindaji.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 21,
+                    "word": "Alihisi"
+                  },
+                  {
+                    "end": 180,
+                    "start": 130,
+                    "word": "uchungu"
+                  },
+                  {
+                    "end": 213,
+                    "start": 181,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 278,
+                    "start": 214,
+                    "word": "kunaswa"
+                  },
+                  {
+                    "end": 327,
+                    "start": 279,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 371,
+                    "start": 328,
+                    "word": "meno"
+                  },
+                  {
+                    "end": 384,
+                    "start": 372,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 443,
+                    "start": 385,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 455,
+                    "start": 444,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 550,
+                    "start": 456,
+                    "word": "mwindaji"
+                  }
+                ],
+                "until": 550,
+                "utterances": "Alihisi uchungu kwa kunaswa katika meno ya mtego wa mwindaji"
+              }
+            ],
+            "sentence": "Alihisi uchungu kwa kunaswa katika meno ya mtego wa mwindaji."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nitakufanyia lolote utakalo ukiniokoa.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 179,
+                    "start": 30,
+                    "word": "Nitakufanyia"
+                  },
+                  {
+                    "end": 269,
+                    "start": 180,
+                    "word": "lolote"
+                  },
+                  {
+                    "end": 330,
+                    "start": 270,
+                    "word": "utakalo"
+                  },
+                  {
+                    "end": 449,
+                    "start": 331,
+                    "word": "ukiniokoa"
+                  }
+                ],
+                "until": 449,
+                "utterances": "Nitakufanyia lolote utakalo ukiniokoa"
+              }
+            ],
+            "sentence": "\"Nitakufanyia lolote utakalo ukiniokoa.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "La sitathubutu wewe ni muongo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 2,
+                    "word": "La"
+                  },
+                  {
+                    "end": 255,
+                    "start": 123,
+                    "word": "sitathubutu"
+                  },
+                  {
+                    "end": 341,
+                    "start": 293,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 356,
+                    "start": 342,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 421,
+                    "start": 357,
+                    "word": "muongo"
+                  }
+                ],
+                "until": 421,
+                "utterances": "La sitathubutu wewe ni muongo"
+              }
+            ],
+            "sentence": "\"La, sitathubutu, wewe ni muongo!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Sitawahi kukwamini tena Ngiri alisema.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 20,
+                    "word": "Sitawahi"
+                  },
+                  {
+                    "end": 182,
+                    "start": 114,
+                    "word": "kukwamini"
+                  },
+                  {
+                    "end": 229,
+                    "start": 183,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 314,
+                    "start": 269,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 390,
+                    "start": 315,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 390,
+                "utterances": "Sitawahi kukwamini tena Ngiri alisema"
+              }
+            ],
+            "sentence": "Sitawahi kukwamini tena,\" Ngiri alisema."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nitawaonya wanyama wengine vile vile ili wakuepuke kwa sababu wewe ni mjanja mno.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 121,
+                    "start": 19,
+                    "word": "Nitawaonya"
+                  },
+                  {
+                    "end": 187,
+                    "start": 122,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 258,
+                    "start": 188,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 312,
+                    "start": 259,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 358,
+                    "start": 313,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 430,
+                    "start": 391,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 553,
+                    "start": 456,
+                    "word": "wakuepuke"
+                  },
+                  {
+                    "end": 566,
+                    "start": 554,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 619,
+                    "start": 567,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 664,
+                    "start": 620,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 680,
+                    "start": 665,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 735,
+                    "start": 681,
+                    "word": "mjanja"
+                  },
+                  {
+                    "end": 767,
+                    "start": 736,
+                    "word": "mno"
+                  }
+                ],
+                "until": 767,
+                "utterances": "Nitawaonya wanyama wengine vile vile ili wakuepuke kwa sababu wewe ni mjanja mno"
+              }
+            ],
+            "sentence": "\"Nitawaonya wanyama wengine vile vile ili wakuepuke kwa sababu wewe ni mjanja mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_21_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngiri aliwaona watoto wake wakikimbia katika mstari pamoja na mama yao.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 18,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 177,
+                    "start": 80,
+                    "word": "aliwaona"
+                  },
+                  {
+                    "end": 228,
+                    "start": 178,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 292,
+                    "start": 229,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 417,
+                    "start": 326,
+                    "word": "wakikimbia"
+                  },
+                  {
+                    "end": 476,
+                    "start": 418,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 554,
+                    "start": 477,
+                    "word": "mstari"
+                  },
+                  {
+                    "end": 635,
+                    "start": 584,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 652,
+                    "start": 636,
+                    "word": "na"
+                  },
+                  {
+                    "end": 686,
+                    "start": 653,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 735,
+                    "start": 687,
+                    "word": "yao"
+                  }
+                ],
+                "until": 735,
+                "utterances": "Ngiri aliwaona watoto wake wakikimbia katika mstari pamoja na mama yao"
+              }
+            ],
+            "sentence": "Ngiri aliwaona watoto wake wakikimbia katika mstari pamoja na mama yao."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mikia yao ilikuwa imeinuliwa juu ili awaone.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "Mikia"
+                  },
+                  {
+                    "end": 128,
+                    "start": 71,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 191,
+                    "start": 129,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 313,
+                    "start": 192,
+                    "word": "imeinuliwa"
+                  },
+                  {
+                    "end": 346,
+                    "start": 314,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 457,
+                    "start": 417,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 530,
+                    "start": 458,
+                    "word": "awaone"
+                  }
+                ],
+                "until": 530,
+                "utterances": "Mikia yao ilikuwa imeinuliwa juu ili awaone"
+              }
+            ],
+            "sentence": "Mikia yao ilikuwa imeinuliwa juu ili awaone."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliharakisha walipokuwa na wote wakakimbilia usalama wao.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 137,
+                    "start": 21,
+                    "word": "Aliharakisha"
+                  },
+                  {
+                    "end": 219,
+                    "start": 138,
+                    "word": "walipokuwa"
+                  },
+                  {
+                    "end": 241,
+                    "start": 220,
+                    "word": "na"
+                  },
+                  {
+                    "end": 290,
+                    "start": 242,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 455,
+                    "start": 334,
+                    "word": "wakakimbilia"
+                  },
+                  {
+                    "end": 522,
+                    "start": 456,
+                    "word": "usalama"
+                  },
+                  {
+                    "end": 568,
+                    "start": 523,
+                    "word": "wao"
+                  }
+                ],
+                "until": 568,
+                "utterances": "Aliharakisha walipokuwa na wote wakakimbilia usalama wao"
+              }
+            ],
+            "sentence": "Aliharakisha walipokuwa na wote wakakimbilia usalama wao."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hadi leo Ngiri na watoto wao hukimbia huku mikia yao imeinuliwa kuhakikisha usalama wa kila mmoja wa_1.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 20,
+                    "word": "Hadi"
+                  },
+                  {
+                    "end": 125,
+                    "start": 68,
+                    "word": "leo"
+                  },
+                  {
+                    "end": 198,
+                    "start": 153,
+                    "word": "Ngiri"
+                  },
+                  {
+                    "end": 216,
+                    "start": 199,
+                    "word": "na"
+                  },
+                  {
+                    "end": 271,
+                    "start": 217,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 329,
+                    "start": 272,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 454,
+                    "start": 368,
+                    "word": "hukimbia"
+                  },
+                  {
+                    "end": 504,
+                    "start": 472,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 558,
+                    "start": 505,
+                    "word": "mikia"
+                  },
+                  {
+                    "end": 608,
+                    "start": 559,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 715,
+                    "start": 609,
+                    "word": "imeinuliwa"
+                  },
+                  {
+                    "end": 855,
+                    "start": 741,
+                    "word": "kuhakikisha"
+                  },
+                  {
+                    "end": 936,
+                    "start": 856,
+                    "word": "usalama"
+                  },
+                  {
+                    "end": 978,
+                    "start": 962,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1016,
+                    "start": 979,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 1074,
+                    "start": 1017,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 1116,
+                    "start": 1075,
+                    "word": "wao"
+                  }
+                ],
+                "until": 1116,
+                "utterances": "Hadi leo Ngiri na watoto wao hukimbia huku mikia yao imeinuliwa kuhakikisha usalama wa kila mmoja wao"
+              }
+            ],
+            "sentence": "Hadi leo, Ngiri na watoto wao hukimbia huku mikia yao imeinuliwa kuhakikisha usalama wa kila mmoja wao."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "4",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Simba na Ngiri",
+  "titleimage": "level4_21_page_01_image_0001.jpg"
+}

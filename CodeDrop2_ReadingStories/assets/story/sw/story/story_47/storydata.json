@@ -1,0 +1,2706 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level3_30_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima aliishi na wazazi wake na dada yake wa miaka minne.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 189,
+                    "start": 91,
+                    "word": "aliishi"
+                  },
+                  {
+                    "end": 207,
+                    "start": 190,
+                    "word": "na"
+                  },
+                  {
+                    "end": 270,
+                    "start": 208,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 325,
+                    "start": 271,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 372,
+                    "start": 361,
+                    "word": "na"
+                  },
+                  {
+                    "end": 413,
+                    "start": 373,
+                    "word": "dada"
+                  },
+                  {
+                    "end": 457,
+                    "start": 414,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 474,
+                    "start": 458,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 531,
+                    "start": 475,
+                    "word": "miaka"
+                  },
+                  {
+                    "end": 578,
+                    "start": 532,
+                    "word": "minne"
+                  }
+                ],
+                "until": 578,
+                "utterances": "Sakima aliishi na wazazi wake na dada yake wa miaka minne"
+              }
+            ],
+            "sentence": "Sakima aliishi na wazazi wake na dada yake wa miaka minne."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Waliishi katika shamba la mtu tajiri.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 20,
+                    "word": "Waliishi"
+                  },
+                  {
+                    "end": 155,
+                    "start": 100,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 207,
+                    "start": 156,
+                    "word": "shamba"
+                  },
+                  {
+                    "end": 228,
+                    "start": 208,
+                    "word": "la"
+                  },
+                  {
+                    "end": 266,
+                    "start": 229,
+                    "word": "mtu"
+                  },
+                  {
+                    "end": 343,
+                    "start": 267,
+                    "word": "tajiri"
+                  }
+                ],
+                "until": 343,
+                "utterances": "Waliishi katika shamba la mtu tajiri"
+              }
+            ],
+            "sentence": "Waliishi katika shamba la mtu tajiri."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nyumba yao ya nyasi ilikuwa mwisho wa safu ya miti iliyopendeza.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 21,
+                    "word": "Nyumba"
+                  },
+                  {
+                    "end": 96,
+                    "start": 53,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 115,
+                    "start": 97,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 189,
+                    "start": 116,
+                    "word": "nyasi"
+                  },
+                  {
+                    "end": 273,
+                    "start": 216,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 318,
+                    "start": 274,
+                    "word": "mwisho"
+                  },
+                  {
+                    "end": 334,
+                    "start": 319,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 395,
+                    "start": 335,
+                    "word": "safu"
+                  },
+                  {
+                    "end": 406,
+                    "start": 396,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 458,
+                    "start": 407,
+                    "word": "miti"
+                  },
+                  {
+                    "end": 594,
+                    "start": 462,
+                    "word": "iliyopendeza"
+                  }
+                ],
+                "until": 594,
+                "utterances": "Nyumba yao ya nyasi ilikuwa mwisho wa safu ya miti iliyopendeza"
+              }
+            ],
+            "sentence": "Nyumba yao ya nyasi ilikuwa mwisho wa safu ya miti iliyopendeza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima alipokuwa na umri wa miaka mitatu aliugua na kupoteza uwezo wa kuona.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 20,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 181,
+                    "start": 96,
+                    "word": "alipokuwa"
+                  },
+                  {
+                    "end": 204,
+                    "start": 182,
+                    "word": "na"
+                  },
+                  {
+                    "end": 252,
+                    "start": 205,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 268,
+                    "start": 253,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 322,
+                    "start": 269,
+                    "word": "miaka"
+                  },
+                  {
+                    "end": 397,
+                    "start": 323,
+                    "word": "mitatu"
+                  },
+                  {
+                    "end": 537,
+                    "start": 442,
+                    "word": "aliugua"
+                  },
+                  {
+                    "end": 586,
+                    "start": 573,
+                    "word": "na"
+                  },
+                  {
+                    "end": 686,
+                    "start": 587,
+                    "word": "kupoteza"
+                  },
+                  {
+                    "end": 744,
+                    "start": 687,
+                    "word": "uwezo"
+                  },
+                  {
+                    "end": 761,
+                    "start": 745,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 826,
+                    "start": 762,
+                    "word": "kuona"
+                  }
+                ],
+                "until": 826,
+                "utterances": "Sakima alipokuwa na umri wa miaka mitatu aliugua na kupoteza uwezo wa kuona"
+              }
+            ],
+            "sentence": "Sakima alipokuwa na umri wa miaka mitatu, aliugua na kupoteza uwezo wa kuona."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini Sakima alikuwa mvulana mwenye talanta.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 21,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 132,
+                    "start": 75,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 211,
+                    "start": 133,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 275,
+                    "start": 212,
+                    "word": "mvulana"
+                  },
+                  {
+                    "end": 321,
+                    "start": 276,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 411,
+                    "start": 322,
+                    "word": "talanta"
+                  }
+                ],
+                "until": 411,
+                "utterances": "Lakini Sakima alikuwa mvulana mwenye talanta"
+              }
+            ],
+            "sentence": "Lakini Sakima alikuwa mvulana mwenye talanta."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima alitenda mambo mengi ambayo wavulana wengine wa umri wake hawakuweza kufanya.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 176,
+                    "start": 99,
+                    "word": "alitenda"
+                  },
+                  {
+                    "end": 222,
+                    "start": 177,
+                    "word": "mambo"
+                  },
+                  {
+                    "end": 315,
+                    "start": 223,
+                    "word": "mengi"
+                  },
+                  {
+                    "end": 396,
+                    "start": 345,
+                    "word": "ambayo"
+                  },
+                  {
+                    "end": 470,
+                    "start": 397,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 524,
+                    "start": 471,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 546,
+                    "start": 525,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 583,
+                    "start": 547,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 637,
+                    "start": 584,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 756,
+                    "start": 665,
+                    "word": "hawakuweza"
+                  },
+                  {
+                    "end": 824,
+                    "start": 757,
+                    "word": "kufanya"
+                  }
+                ],
+                "until": 824,
+                "utterances": "Sakima alitenda mambo mengi ambayo wavulana wengine wa umri wake hawakuweza kufanya"
+              }
+            ],
+            "sentence": "Sakima alitenda mambo mengi ambayo wavulana wengine wa umri wake hawakuweza kufanya."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa mfano aliweza kuketi na watu wazima na kujadili mambo muhimu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 109,
+                    "start": 35,
+                    "word": "mfano"
+                  },
+                  {
+                    "end": 204,
+                    "start": 139,
+                    "word": "aliweza"
+                  },
+                  {
+                    "end": 266,
+                    "start": 205,
+                    "word": "kuketi"
+                  },
+                  {
+                    "end": 282,
+                    "start": 267,
+                    "word": "na"
+                  },
+                  {
+                    "end": 319,
+                    "start": 283,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 381,
+                    "start": 320,
+                    "word": "wazima"
+                  },
+                  {
+                    "end": 429,
+                    "start": 417,
+                    "word": "na"
+                  },
+                  {
+                    "end": 511,
+                    "start": 430,
+                    "word": "kujadili"
+                  },
+                  {
+                    "end": 554,
+                    "start": 512,
+                    "word": "mambo"
+                  },
+                  {
+                    "end": 615,
+                    "start": 555,
+                    "word": "muhimu"
+                  }
+                ],
+                "until": 615,
+                "utterances": "Kwa mfano aliweza kuketi na watu wazima na kujadili mambo muhimu"
+              }
+            ],
+            "sentence": "Kwa mfano, aliweza kuketi na watu wazima na kujadili mambo muhimu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wazazi wa Sakima walifanya kazi katika nyumba ya yule tajiri.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 21,
+                    "word": "Wazazi"
+                  },
+                  {
+                    "end": 96,
+                    "start": 78,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 153,
+                    "start": 97,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 236,
+                    "start": 154,
+                    "word": "walifanya"
+                  },
+                  {
+                    "end": 297,
+                    "start": 237,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 369,
+                    "start": 316,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 407,
+                    "start": 370,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 424,
+                    "start": 408,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 461,
+                    "start": 425,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 535,
+                    "start": 462,
+                    "word": "tajiri"
+                  }
+                ],
+                "until": 535,
+                "utterances": "Wazazi wa Sakima walifanya kazi katika nyumba ya yule tajiri"
+              }
+            ],
+            "sentence": "Wazazi wa Sakima walifanya kazi katika nyumba ya yule tajiri."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Waliondoka nyumbani asubuhi na mapema na kurudi jioni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 118,
+                    "start": 20,
+                    "word": "Waliondoka"
+                  },
+                  {
+                    "end": 204,
+                    "start": 119,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 276,
+                    "start": 205,
+                    "word": "asubuhi"
+                  },
+                  {
+                    "end": 299,
+                    "start": 277,
+                    "word": "na"
+                  },
+                  {
+                    "end": 367,
+                    "start": 300,
+                    "word": "mapema"
+                  },
+                  {
+                    "end": 413,
+                    "start": 399,
+                    "word": "na"
+                  },
+                  {
+                    "end": 476,
+                    "start": 414,
+                    "word": "kurudi"
+                  },
+                  {
+                    "end": 544,
+                    "start": 477,
+                    "word": "jioni"
+                  }
+                ],
+                "until": 544,
+                "utterances": "Waliondoka nyumbani asubuhi na mapema na kurudi jioni"
+              }
+            ],
+            "sentence": "Waliondoka nyumbani asubuhi na mapema na kurudi jioni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima aliachwa na dada yake mdogo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 20,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 165,
+                    "start": 94,
+                    "word": "aliachwa"
+                  },
+                  {
+                    "end": 184,
+                    "start": 166,
+                    "word": "na"
+                  },
+                  {
+                    "end": 221,
+                    "start": 185,
+                    "word": "dada"
+                  },
+                  {
+                    "end": 263,
+                    "start": 222,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 311,
+                    "start": 264,
+                    "word": "mdogo"
+                  }
+                ],
+                "until": 311,
+                "utterances": "Sakima aliachwa na dada yake mdogo"
+              }
+            ],
+            "sentence": "Sakima aliachwa na dada yake mdogo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima alipenda kuimba sana nyimbo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 20,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 175,
+                    "start": 89,
+                    "word": "alipenda"
+                  },
+                  {
+                    "end": 250,
+                    "start": 176,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 331,
+                    "start": 251,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 395,
+                    "start": 332,
+                    "word": "nyimbo"
+                  }
+                ],
+                "until": 395,
+                "utterances": "Sakima alipenda kuimba sana nyimbo"
+              }
+            ],
+            "sentence": "Sakima alipenda kuimba sana nyimbo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku moja mamake alimuuliza Sakima unajifunza nyimbo hizi kutoka wapi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 126,
+                    "start": 67,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 220,
+                    "start": 156,
+                    "word": "mamake"
+                  },
+                  {
+                    "end": 322,
+                    "start": 221,
+                    "word": "alimuuliza"
+                  },
+                  {
+                    "end": 438,
+                    "start": 358,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 568,
+                    "start": 478,
+                    "word": "unajifunza"
+                  },
+                  {
+                    "end": 603,
+                    "start": 569,
+                    "word": "nyimbo"
+                  },
+                  {
+                    "end": 656,
+                    "start": 604,
+                    "word": "hizi"
+                  },
+                  {
+                    "end": 707,
+                    "start": 657,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 797,
+                    "start": 708,
+                    "word": "wapi"
+                  }
+                ],
+                "until": 797,
+                "utterances": "Siku moja mamake alimuuliza Sakima unajifunza nyimbo hizi kutoka wapi"
+              }
+            ],
+            "sentence": "Siku moja mamake alimuuliza, \"Sakima, unajifunza nyimbo hizi kutoka wapi?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima alijibu Zinakuja tu mama.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 21,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 212,
+                    "start": 87,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 292,
+                    "start": 213,
+                    "word": "Zinakuja"
+                  },
+                  {
+                    "end": 320,
+                    "start": 293,
+                    "word": "tu"
+                  },
+                  {
+                    "end": 397,
+                    "start": 321,
+                    "word": "mama"
+                  }
+                ],
+                "until": 397,
+                "utterances": "Sakima alijibu Zinakuja tu mama"
+              }
+            ],
+            "sentence": "Sakima alijibu, \"Zinakuja tu, mama."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nazisikia kichwani mwangu kisha naziimba.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 20,
+                    "word": "Nazisikia"
+                  },
+                  {
+                    "end": 165,
+                    "start": 98,
+                    "word": "kichwani"
+                  },
+                  {
+                    "end": 228,
+                    "start": 166,
+                    "word": "mwangu"
+                  },
+                  {
+                    "end": 291,
+                    "start": 255,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 393,
+                    "start": 292,
+                    "word": "naziimba"
+                  }
+                ],
+                "until": 393,
+                "utterances": "Nazisikia kichwani mwangu kisha naziimba"
+              }
+            ],
+            "sentence": "Nazisikia kichwani mwangu kisha naziimba.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima alipenda kumwimbia dadake mdogo hasa alipohisi njaa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 21,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 195,
+                    "start": 93,
+                    "word": "alipenda"
+                  },
+                  {
+                    "end": 285,
+                    "start": 196,
+                    "word": "kumwimbia"
+                  },
+                  {
+                    "end": 338,
+                    "start": 286,
+                    "word": "dadake"
+                  },
+                  {
+                    "end": 411,
+                    "start": 339,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 503,
+                    "start": 447,
+                    "word": "hasa"
+                  },
+                  {
+                    "end": 591,
+                    "start": 513,
+                    "word": "alipohisi"
+                  },
+                  {
+                    "end": 644,
+                    "start": 592,
+                    "word": "njaa"
+                  }
+                ],
+                "until": 644,
+                "utterances": "Sakima alipenda kumwimbia dadake mdogo hasa alipohisi njaa"
+              }
+            ],
+            "sentence": "Sakima alipenda kumwimbia dadake mdogo, hasa alipohisi njaa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Dadake alimsikiliza akiimba wimbo alioupenda zaidi.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 23,
+                    "word": "Dadake"
+                  },
+                  {
+                    "end": 222,
+                    "start": 97,
+                    "word": "alimsikiliza"
+                  },
+                  {
+                    "end": 317,
+                    "start": 223,
+                    "word": "akiimba"
+                  },
+                  {
+                    "end": 413,
+                    "start": 354,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 539,
+                    "start": 423,
+                    "word": "alioupenda"
+                  },
+                  {
+                    "end": 610,
+                    "start": 540,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 610,
+                "utterances": "Dadake alimsikiliza akiimba wimbo alioupenda zaidi"
+              }
+            ],
+            "sentence": "Dadake alimsikiliza akiimba wimbo alioupenda zaidi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Naye alicheza kufuatia ule wimbo wa kutuliza.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 20,
+                    "word": "Naye"
+                  },
+                  {
+                    "end": 169,
+                    "start": 86,
+                    "word": "alicheza"
+                  },
+                  {
+                    "end": 275,
+                    "start": 170,
+                    "word": "kufuatia"
+                  },
+                  {
+                    "end": 304,
+                    "start": 276,
+                    "word": "ule"
+                  },
+                  {
+                    "end": 359,
+                    "start": 305,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 405,
+                    "start": 395,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 497,
+                    "start": 406,
+                    "word": "kutuliza"
+                  }
+                ],
+                "until": 497,
+                "utterances": "Naye alicheza kufuatia ule wimbo wa kutuliza"
+              }
+            ],
+            "sentence": "Naye alicheza kufuatia ule wimbo wa kutuliza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Unaweza kuimba tena na tena Sakima dada yake angemwomba.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 22,
+                    "word": "Unaweza"
+                  },
+                  {
+                    "end": 142,
+                    "start": 89,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 188,
+                    "start": 143,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 204,
+                    "start": 189,
+                    "word": "na"
+                  },
+                  {
+                    "end": 280,
+                    "start": 205,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 376,
+                    "start": 281,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 450,
+                    "start": 420,
+                    "word": "dada"
+                  },
+                  {
+                    "end": 507,
+                    "start": 451,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 589,
+                    "start": 508,
+                    "word": "angemwomba"
+                  }
+                ],
+                "until": 589,
+                "utterances": "Unaweza kuimba tena na tena Sakima dada yake angemwomba"
+              }
+            ],
+            "sentence": "\"Unaweza kuimba tena na tena, Sakima,\" dada yake angemwomba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima angekubali na kuimba mara nyingine.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 19,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 194,
+                    "start": 120,
+                    "word": "angekubali"
+                  },
+                  {
+                    "end": 250,
+                    "start": 239,
+                    "word": "na"
+                  },
+                  {
+                    "end": 320,
+                    "start": 251,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 370,
+                    "start": 321,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 443,
+                    "start": 371,
+                    "word": "nyingine"
+                  }
+                ],
+                "until": 443,
+                "utterances": "Sakima angekubali na kuimba mara nyingine"
+              }
+            ],
+            "sentence": "Sakima angekubali na kuimba mara nyingine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jioni moja wazazi wake waliporudi nyumbani walikuwa kimya sana.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 22,
+                    "word": "Jioni"
+                  },
+                  {
+                    "end": 133,
+                    "start": 65,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 206,
+                    "start": 163,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 241,
+                    "start": 207,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 320,
+                    "start": 242,
+                    "word": "waliporudi"
+                  },
+                  {
+                    "end": 401,
+                    "start": 321,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 515,
+                    "start": 436,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 594,
+                    "start": 516,
+                    "word": "kimya"
+                  },
+                  {
+                    "end": 648,
+                    "start": 595,
+                    "word": "sana"
+                  }
+                ],
+                "until": 648,
+                "utterances": "Jioni moja wazazi wake waliporudi nyumbani walikuwa kimya sana"
+              }
+            ],
+            "sentence": "Jioni moja, wazazi wake waliporudi nyumbani, walikuwa kimya sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima alijua kwamba lazima kulikuwa na jambo mbaya.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 21,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 160,
+                    "start": 92,
+                    "word": "alijua"
+                  },
+                  {
+                    "end": 219,
+                    "start": 161,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 297,
+                    "start": 248,
+                    "word": "lazima"
+                  },
+                  {
+                    "end": 365,
+                    "start": 298,
+                    "word": "kulikuwa"
+                  },
+                  {
+                    "end": 383,
+                    "start": 366,
+                    "word": "na"
+                  },
+                  {
+                    "end": 426,
+                    "start": 384,
+                    "word": "jambo"
+                  },
+                  {
+                    "end": 476,
+                    "start": 427,
+                    "word": "mbaya"
+                  }
+                ],
+                "until": 476,
+                "utterances": "Sakima alijua kwamba lazima kulikuwa na jambo mbaya"
+              }
+            ],
+            "sentence": "Sakima alijua kwamba lazima kulikuwa na jambo mbaya."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna shida gani mama baba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 83,
+                    "start": 48,
+                    "word": "shida"
+                  },
+                  {
+                    "end": 164,
+                    "start": 84,
+                    "word": "gani"
+                  },
+                  {
+                    "end": 245,
+                    "start": 181,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 321,
+                    "start": 272,
+                    "word": "baba"
+                  }
+                ],
+                "until": 321,
+                "utterances": "Kuna shida gani mama baba"
+              }
+            ],
+            "sentence": "\"Kuna shida gani, mama, baba?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima aliuliza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 2,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 156,
+                    "start": 77,
+                    "word": "aliuliza"
+                  }
+                ],
+                "until": 156,
+                "utterances": "Sakima aliuliza"
+              }
+            ],
+            "sentence": "Sakima aliuliza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima aligundua kwamba mwana wa yule tajiri alikuwa amepotea.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 22,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 168,
+                    "start": 85,
+                    "word": "aligundua"
+                  },
+                  {
+                    "end": 226,
+                    "start": 169,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 293,
+                    "start": 259,
+                    "word": "mwana"
+                  },
+                  {
+                    "end": 308,
+                    "start": 294,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 342,
+                    "start": 309,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 422,
+                    "start": 343,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 501,
+                    "start": 449,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 586,
+                    "start": 502,
+                    "word": "amepotea"
+                  }
+                ],
+                "until": 586,
+                "utterances": "Sakima aligundua kwamba mwana wa yule tajiri alikuwa amepotea"
+              }
+            ],
+            "sentence": "Sakima aligundua kwamba mwana wa yule tajiri alikuwa amepotea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Yule tajiri alikuwa amehuzunika na kuwa na upweke mkubwa.mp3",
+                "from": 52,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 52,
+                    "word": "Yule"
+                  },
+                  {
+                    "end": 144,
+                    "start": 81,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 194,
+                    "start": 145,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 332,
+                    "start": 195,
+                    "word": "amehuzunika"
+                  },
+                  {
+                    "end": 388,
+                    "start": 372,
+                    "word": "na"
+                  },
+                  {
+                    "end": 449,
+                    "start": 389,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 486,
+                    "start": 471,
+                    "word": "na"
+                  },
+                  {
+                    "end": 571,
+                    "start": 487,
+                    "word": "upweke"
+                  },
+                  {
+                    "end": 653,
+                    "start": 572,
+                    "word": "mkubwa"
+                  }
+                ],
+                "until": 653,
+                "utterances": "Yule tajiri alikuwa amehuzunika na kuwa na upweke mkubwa"
+              }
+            ],
+            "sentence": "Yule tajiri alikuwa amehuzunika na kuwa na upweke mkubwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Naweza kumwimbia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 20,
+                    "word": "Naweza"
+                  },
+                  {
+                    "end": 207,
+                    "start": 92,
+                    "word": "kumwimbia"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Naweza kumwimbia"
+              }
+            ],
+            "sentence": "\"Naweza kumwimbia."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Labda atafurahi tena Sakima aliwaambia wazazi wake.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 30,
+                    "word": "Labda"
+                  },
+                  {
+                    "end": 162,
+                    "start": 67,
+                    "word": "atafurahi"
+                  },
+                  {
+                    "end": 223,
+                    "start": 163,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 309,
+                    "start": 247,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 391,
+                    "start": 310,
+                    "word": "aliwaambia"
+                  },
+                  {
+                    "end": 442,
+                    "start": 392,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 489,
+                    "start": 443,
+                    "word": "wake"
+                  }
+                ],
+                "until": 489,
+                "utterances": "Labda atafurahi tena Sakima aliwaambia wazazi wake"
+              }
+            ],
+            "sentence": "Labda atafurahi tena,\" Sakima aliwaambia wazazi wake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini wazazi wake walidharau wazo lake.mp3",
+                "from": 49,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 49,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 152,
+                    "start": 101,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 203,
+                    "start": 153,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 316,
+                    "start": 243,
+                    "word": "walidharau"
+                  },
+                  {
+                    "end": 370,
+                    "start": 317,
+                    "word": "wazo"
+                  },
+                  {
+                    "end": 415,
+                    "start": 371,
+                    "word": "lake"
+                  }
+                ],
+                "until": 415,
+                "utterances": "Lakini wazazi wake walidharau wazo lake"
+              }
+            ],
+            "sentence": "Lakini wazazi wake walidharau wazo lake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Yeye ni tajiri.mp3",
+                "from": 34,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 34,
+                    "word": "Yeye"
+                  },
+                  {
+                    "end": 88,
+                    "start": 68,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 206,
+                    "start": 89,
+                    "word": "tajiri"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Yeye ni tajiri"
+              }
+            ],
+            "sentence": "\"Yeye ni tajiri."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wewe ni mvulana asiyeona.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 20,
+                    "word": "Wewe"
+                  },
+                  {
+                    "end": 77,
+                    "start": 60,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 148,
+                    "start": 78,
+                    "word": "mvulana"
+                  },
+                  {
+                    "end": 255,
+                    "start": 152,
+                    "word": "asiyeona"
+                  }
+                ],
+                "until": 255,
+                "utterances": "Wewe ni mvulana asiyeona"
+              }
+            ],
+            "sentence": "Wewe ni mvulana asiyeona."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Unadhani wimbo wako utamsaidia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 21,
+                    "word": "Unadhani"
+                  },
+                  {
+                    "end": 132,
+                    "start": 93,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 165,
+                    "start": 133,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 266,
+                    "start": 166,
+                    "word": "utamsaidia"
+                  }
+                ],
+                "until": 266,
+                "utterances": "Unadhani wimbo wako utamsaidia"
+              }
+            ],
+            "sentence": "Unadhani wimbo wako utamsaidia?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hata hivyo Sakima hakukata tamaa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 20,
+                    "word": "Hata"
+                  },
+                  {
+                    "end": 124,
+                    "start": 63,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 194,
+                    "start": 140,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 274,
+                    "start": 195,
+                    "word": "hakukata"
+                  },
+                  {
+                    "end": 328,
+                    "start": 275,
+                    "word": "tamaa"
+                  }
+                ],
+                "until": 328,
+                "utterances": "Hata hivyo Sakima hakukata tamaa"
+              }
+            ],
+            "sentence": "Hata hivyo, Sakima hakukata tamaa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Na dada yake mdogo vile vile alimpa moyo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 20,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 72,
+                    "start": 36,
+                    "word": "dada"
+                  },
+                  {
+                    "end": 111,
+                    "start": 73,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 162,
+                    "start": 112,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 200,
+                    "start": 163,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 247,
+                    "start": 201,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 346,
+                    "start": 273,
+                    "word": "alimpa"
+                  },
+                  {
+                    "end": 404,
+                    "start": 347,
+                    "word": "moyo"
+                  }
+                ],
+                "until": 404,
+                "utterances": "Na dada yake mdogo vile vile alimpa moyo"
+              }
+            ],
+            "sentence": "Na dada yake mdogo vile vile alimpa moyo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alisema Nyimbo za Sakima hunituliza mimi nikiwa na njaa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 20,
+                    "word": "Alisema"
+                  },
+                  {
+                    "end": 196,
+                    "start": 152,
+                    "word": "Nyimbo"
+                  },
+                  {
+                    "end": 211,
+                    "start": 197,
+                    "word": "za"
+                  },
+                  {
+                    "end": 291,
+                    "start": 212,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 413,
+                    "start": 292,
+                    "word": "hunituliza"
+                  },
+                  {
+                    "end": 456,
+                    "start": 414,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 507,
+                    "start": 457,
+                    "word": "nikiwa"
+                  },
+                  {
+                    "end": 526,
+                    "start": 508,
+                    "word": "na"
+                  },
+                  {
+                    "end": 578,
+                    "start": 527,
+                    "word": "njaa"
+                  }
+                ],
+                "until": 578,
+                "utterances": "Alisema Nyimbo za Sakima hunituliza mimi nikiwa na njaa"
+              }
+            ],
+            "sentence": "Alisema, \"Nyimbo za Sakima hunituliza mimi nikiwa na njaa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Zitamtuliza tajiri vile vile.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 154,
+                    "start": 21,
+                    "word": "Zitamtuliza"
+                  },
+                  {
+                    "end": 249,
+                    "start": 155,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 271,
+                    "start": 250,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 294,
+                    "start": 272,
+                    "word": "vile"
+                  }
+                ],
+                "until": 294,
+                "utterances": "Zitamtuliza tajiri vile vile"
+              }
+            ],
+            "sentence": "Zitamtuliza tajiri vile vile.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku iliyofuata Sakima alimuuliza dada yake amwelekeze hadi kwenye nyumba ya yule tajiri.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 175,
+                    "start": 71,
+                    "word": "iliyofuata"
+                  },
+                  {
+                    "end": 267,
+                    "start": 201,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 363,
+                    "start": 268,
+                    "word": "alimuuliza"
+                  },
+                  {
+                    "end": 402,
+                    "start": 364,
+                    "word": "dada"
+                  },
+                  {
+                    "end": 456,
+                    "start": 403,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 602,
+                    "start": 491,
+                    "word": "amwelekeze"
+                  },
+                  {
+                    "end": 667,
+                    "start": 627,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 706,
+                    "start": 668,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 744,
+                    "start": 707,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 763,
+                    "start": 745,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 801,
+                    "start": 764,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 872,
+                    "start": 802,
+                    "word": "tajiri"
+                  }
+                ],
+                "until": 872,
+                "utterances": "Siku iliyofuata Sakima alimuuliza dada yake amwelekeze hadi kwenye nyumba ya yule tajiri"
+              }
+            ],
+            "sentence": "Siku iliyofuata, Sakima alimuuliza dada yake amwelekeze hadi kwenye nyumba ya yule tajiri."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alisimama chini ya dirisha moja na kuanza kuimba wimbo wake alioupenda.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 21,
+                    "word": "Alisimama"
+                  },
+                  {
+                    "end": 176,
+                    "start": 120,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 185,
+                    "start": 177,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 244,
+                    "start": 186,
+                    "word": "dirisha"
+                  },
+                  {
+                    "end": 298,
+                    "start": 245,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 348,
+                    "start": 332,
+                    "word": "na"
+                  },
+                  {
+                    "end": 409,
+                    "start": 349,
+                    "word": "kuanza"
+                  },
+                  {
+                    "end": 468,
+                    "start": 410,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 513,
+                    "start": 469,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 572,
+                    "start": 514,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 677,
+                    "start": 573,
+                    "word": "alioupenda"
+                  }
+                ],
+                "until": 677,
+                "utterances": "Alisimama chini ya dirisha moja na kuanza kuimba wimbo wake alioupenda"
+              }
+            ],
+            "sentence": "Alisimama chini ya dirisha moja na kuanza kuimba wimbo wake alioupenda."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Pole pole kichwa cha yule tajiri kilianza kuonekana kwenye dirisha.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 19,
+                    "word": "Pole"
+                  },
+                  {
+                    "end": 118,
+                    "start": 53,
+                    "word": "pole"
+                  },
+                  {
+                    "end": 205,
+                    "start": 146,
+                    "word": "kichwa"
+                  },
+                  {
+                    "end": 231,
+                    "start": 206,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 278,
+                    "start": 232,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 362,
+                    "start": 279,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 456,
+                    "start": 380,
+                    "word": "kilianza"
+                  },
+                  {
+                    "end": 558,
+                    "start": 457,
+                    "word": "kuonekana"
+                  },
+                  {
+                    "end": 626,
+                    "start": 559,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 691,
+                    "start": 627,
+                    "word": "dirisha"
+                  }
+                ],
+                "until": 691,
+                "utterances": "Pole pole kichwa cha yule tajiri kilianza kuonekana kwenye dirisha"
+              }
+            ],
+            "sentence": "Pole pole, kichwa cha yule tajiri kilianza kuonekana kwenye dirisha."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wafanyi kazi wote waliacha kufanya kazi walizokuwa wakifanya.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 21,
+                    "word": "Wafanyi"
+                  },
+                  {
+                    "end": 140,
+                    "start": 88,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 212,
+                    "start": 141,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 312,
+                    "start": 248,
+                    "word": "waliacha"
+                  },
+                  {
+                    "end": 365,
+                    "start": 313,
+                    "word": "kufanya"
+                  },
+                  {
+                    "end": 425,
+                    "start": 366,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 519,
+                    "start": 449,
+                    "word": "walizokuwa"
+                  },
+                  {
+                    "end": 600,
+                    "start": 520,
+                    "word": "wakifanya"
+                  }
+                ],
+                "until": 600,
+                "utterances": "Wafanyi kazi wote waliacha kufanya kazi walizokuwa wakifanya"
+              }
+            ],
+            "sentence": "Wafanyi kazi wote waliacha kufanya kazi walizokuwa wakifanya."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walisikiliza wimbo mtamu wa Sakima.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 176,
+                    "start": 20,
+                    "word": "Walisikiliza"
+                  },
+                  {
+                    "end": 235,
+                    "start": 177,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 337,
+                    "start": 236,
+                    "word": "mtamu"
+                  },
+                  {
+                    "end": 351,
+                    "start": 338,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 420,
+                    "start": 352,
+                    "word": "Sakima"
+                  }
+                ],
+                "until": 420,
+                "utterances": "Walisikiliza wimbo mtamu wa Sakima"
+              }
+            ],
+            "sentence": "Walisikiliza wimbo mtamu wa Sakima."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hata hivyo mwanamme mmoja alisema Hakuna aliyefaulu kumtuliza bwana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 21,
+                    "word": "Hata"
+                  },
+                  {
+                    "end": 124,
+                    "start": 57,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 209,
+                    "start": 148,
+                    "word": "mwanamme"
+                  },
+                  {
+                    "end": 265,
+                    "start": 210,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 340,
+                    "start": 266,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 469,
+                    "start": 398,
+                    "word": "Hakuna"
+                  },
+                  {
+                    "end": 570,
+                    "start": 470,
+                    "word": "aliyefaulu"
+                  },
+                  {
+                    "end": 646,
+                    "start": 571,
+                    "word": "kumtuliza"
+                  },
+                  {
+                    "end": 693,
+                    "start": 647,
+                    "word": "bwana"
+                  }
+                ],
+                "until": 693,
+                "utterances": "Hata hivyo mwanamme mmoja alisema Hakuna aliyefaulu kumtuliza bwana"
+              }
+            ],
+            "sentence": "Hata hivyo, mwanamme mmoja alisema, \"Hakuna aliyefaulu kumtuliza bwana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je huyu mvulana asiyeona ataweza kumtuliza.mp3",
+                "from": 33,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 33,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 147,
+                    "start": 118,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 197,
+                    "start": 148,
+                    "word": "mvulana"
+                  },
+                  {
+                    "end": 282,
+                    "start": 198,
+                    "word": "asiyeona"
+                  },
+                  {
+                    "end": 368,
+                    "start": 312,
+                    "word": "ataweza"
+                  },
+                  {
+                    "end": 482,
+                    "start": 369,
+                    "word": "kumtuliza"
+                  }
+                ],
+                "until": 482,
+                "utterances": "Je huyu mvulana asiyeona ataweza kumtuliza"
+              }
+            ],
+            "sentence": "Je, huyu mvulana asiyeona ataweza kumtuliza?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sakima alikamilisha kuimba wimbo wake akaanza kuondoka.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 20,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 195,
+                    "start": 97,
+                    "word": "alikamilisha"
+                  },
+                  {
+                    "end": 248,
+                    "start": 196,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 281,
+                    "start": 249,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 335,
+                    "start": 282,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 443,
+                    "start": 376,
+                    "word": "akaanza"
+                  },
+                  {
+                    "end": 520,
+                    "start": 444,
+                    "word": "kuondoka"
+                  }
+                ],
+                "until": 520,
+                "utterances": "Sakima alikamilisha kuimba wimbo wake akaanza kuondoka"
+              }
+            ],
+            "sentence": "Sakima alikamilisha kuimba wimbo wake akaanza kuondoka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini yule tajiri alitoka nje kwa haraka na kusema Tafadhali imba tena.mp3",
+                "from": 49,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 49,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 130,
+                    "start": 106,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 195,
+                    "start": 131,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 255,
+                    "start": 196,
+                    "word": "alitoka"
+                  },
+                  {
+                    "end": 290,
+                    "start": 256,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 336,
+                    "start": 319,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 398,
+                    "start": 337,
+                    "word": "haraka"
+                  },
+                  {
+                    "end": 413,
+                    "start": 399,
+                    "word": "na"
+                  },
+                  {
+                    "end": 472,
+                    "start": 414,
+                    "word": "kusema"
+                  },
+                  {
+                    "end": 632,
+                    "start": 512,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 712,
+                    "start": 670,
+                    "word": "imba"
+                  },
+                  {
+                    "end": 780,
+                    "start": 713,
+                    "word": "tena"
+                  }
+                ],
+                "until": 780,
+                "utterances": "Lakini yule tajiri alitoka nje kwa haraka na kusema Tafadhali imba tena"
+              }
+            ],
+            "sentence": "Lakini yule tajiri alitoka nje kwa haraka na kusema, \"Tafadhali, imba tena.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_18_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wakati huo huo watu wawili walikuja wakiwa wamembeba mtu kwenye machela.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 22,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 110,
+                    "start": 88,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 148,
+                    "start": 111,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 263,
+                    "start": 236,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 315,
+                    "start": 264,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 388,
+                    "start": 316,
+                    "word": "walikuja"
+                  },
+                  {
+                    "end": 443,
+                    "start": 389,
+                    "word": "wakiwa"
+                  },
+                  {
+                    "end": 526,
+                    "start": 444,
+                    "word": "wamembeba"
+                  },
+                  {
+                    "end": 572,
+                    "start": 527,
+                    "word": "mtu"
+                  },
+                  {
+                    "end": 646,
+                    "start": 618,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 710,
+                    "start": 647,
+                    "word": "machela"
+                  }
+                ],
+                "until": 710,
+                "utterances": "Wakati huo huo watu wawili walikuja wakiwa wamembeba mtu kwenye machela"
+              }
+            ],
+            "sentence": "Wakati huo huo, watu wawili walikuja wakiwa wamembeba mtu kwenye machela."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walimkuta mwana wa tajiri akiwa amechapwa na kuachwa kando ya barabara.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 112,
+                    "start": 19,
+                    "word": "Walimkuta"
+                  },
+                  {
+                    "end": 160,
+                    "start": 113,
+                    "word": "mwana"
+                  },
+                  {
+                    "end": 177,
+                    "start": 161,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 247,
+                    "start": 178,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 308,
+                    "start": 252,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 451,
+                    "start": 317,
+                    "word": "amechapwa"
+                  },
+                  {
+                    "end": 495,
+                    "start": 483,
+                    "word": "na"
+                  },
+                  {
+                    "end": 557,
+                    "start": 496,
+                    "word": "kuachwa"
+                  },
+                  {
+                    "end": 602,
+                    "start": 558,
+                    "word": "kando"
+                  },
+                  {
+                    "end": 622,
+                    "start": 603,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 679,
+                    "start": 623,
+                    "word": "barabara"
+                  }
+                ],
+                "until": 679,
+                "utterances": "Walimkuta mwana wa tajiri akiwa amechapwa na kuachwa kando ya barabara"
+              }
+            ],
+            "sentence": "Walimkuta mwana wa tajiri akiwa amechapwa na kuachwa kando ya barabara."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_30_page_19_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Yule tajiri alifurahi sana alipomwona mwana wake tena.mp3",
+                "from": 33,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 33,
+                    "word": "Yule"
+                  },
+                  {
+                    "end": 137,
+                    "start": 70,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 270,
+                    "start": 141,
+                    "word": "alifurahi"
+                  },
+                  {
+                    "end": 345,
+                    "start": 271,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 473,
+                    "start": 387,
+                    "word": "alipomwona"
+                  },
+                  {
+                    "end": 508,
+                    "start": 474,
+                    "word": "mwana"
+                  },
+                  {
+                    "end": 550,
+                    "start": 509,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 611,
+                    "start": 551,
+                    "word": "tena"
+                  }
+                ],
+                "until": 611,
+                "utterances": "Yule tajiri alifurahi sana alipomwona mwana wake tena"
+              }
+            ],
+            "sentence": "Yule tajiri alifurahi sana alipomwona mwana wake tena."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alimzawadi Sakima kwa kumliwaza.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 137,
+                    "start": 20,
+                    "word": "Alimzawadi"
+                  },
+                  {
+                    "end": 231,
+                    "start": 138,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 272,
+                    "start": 261,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 369,
+                    "start": 273,
+                    "word": "kumliwaza"
+                  }
+                ],
+                "until": 369,
+                "utterances": "Alimzawadi Sakima kwa kumliwaza"
+              }
+            ],
+            "sentence": "Alimzawadi Sakima kwa kumliwaza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliwapeleka mwanawe na Sakima hospitali ili Sakima aweze kusaidiwa kuona tena.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 148,
+                    "start": 21,
+                    "word": "Aliwapeleka"
+                  },
+                  {
+                    "end": 247,
+                    "start": 184,
+                    "word": "mwanawe"
+                  },
+                  {
+                    "end": 271,
+                    "start": 248,
+                    "word": "na"
+                  },
+                  {
+                    "end": 332,
+                    "start": 272,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 431,
+                    "start": 333,
+                    "word": "hospitali"
+                  },
+                  {
+                    "end": 501,
+                    "start": 469,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 559,
+                    "start": 502,
+                    "word": "Sakima"
+                  },
+                  {
+                    "end": 628,
+                    "start": 560,
+                    "word": "aweze"
+                  },
+                  {
+                    "end": 733,
+                    "start": 629,
+                    "word": "kusaidiwa"
+                  },
+                  {
+                    "end": 816,
+                    "start": 753,
+                    "word": "kuona"
+                  },
+                  {
+                    "end": 867,
+                    "start": 817,
+                    "word": "tena"
+                  }
+                ],
+                "until": 867,
+                "utterances": "Aliwapeleka mwanawe na Sakima hospitali ili Sakima aweze kusaidiwa kuona tena"
+              }
+            ],
+            "sentence": "Aliwapeleka mwanawe na Sakima hospitali ili Sakima aweze kusaidiwa kuona tena."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Peris Wachuka",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Wimbo wa Sakima",
+  "titleimage": "level3_30_page_01_image_0001.jpg"
+}

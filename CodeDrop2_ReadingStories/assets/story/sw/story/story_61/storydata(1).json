@@ -1,0 +1,1374 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_22_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Kila"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Kila"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "asubuhi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "asubuhi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilipoamka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilipoamka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilipata"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilipata"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiamsha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiamsha"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kinywa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kinywa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "changu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "changu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "haraka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "haraka"
+              }
+            ],
+            "sentence": "Kila asubuhi nilipoamka nilipata kiamsha kinywa changu kwa haraka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Nilikimbia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Nilikimbia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwenda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwenda"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kukutana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kukutana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "rafiki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "rafiki"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yangu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yangu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              }
+            ],
+            "sentence": "Nilikimbia kwenda kukutana na rafiki yangu Muthoni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Pindi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Pindi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilipompata"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilipompata"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tulisahau"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tulisahau"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kila"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kila"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kitu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kitu"
+              }
+            ],
+            "sentence": "Pindi nilipompata Muthoni, tulisahau kila kitu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Mimi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Mimi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tulicheza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tulicheza"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "michezo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "michezo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tofauti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tofauti"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "karibu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "karibu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyumba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyumba"
+              }
+            ],
+            "sentence": "Mimi na Muthoni tulicheza michezo tofauti karibu na nyumba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Mimi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Mimi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tulifanya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tulifanya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kila"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kila"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kitu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kitu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pamoja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pamoja"
+              }
+            ],
+            "sentence": "Mimi na Muthoni tulifanya kila kitu pamoja."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Tuliahidiana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Tuliahidiana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kufanya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kufanya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bidii"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bidii"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "katika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "katika"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "masomo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "masomo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yetu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yetu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kufuzu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kufuzu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vyema"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vyema"
+              }
+            ],
+            "sentence": "Tuliahidiana kufanya bidii katika masomo yetu na kufuzu vyema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Lakini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Lakini"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "siku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "siku"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hakufika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hakufika"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "shuleni"
+              }
+            ],
+            "sentence": "Lakini siku moja, Muthoni hakufika shuleni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Nilisimama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Nilisimama"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mlangoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mlangoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nikimsubiri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nikimsubiri"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lakini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lakini"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hakufika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hakufika"
+              }
+            ],
+            "sentence": "Nilisimama mlangoni nikimsubiri lakini, hakufika."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Siku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Siku"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ile"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "niliporudi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "niliporudi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyumbani"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilimwambia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilimwambia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mama"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwamba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwamba"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hakufika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hakufika"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "shuleni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "siku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "siku"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hiyo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hiyo"
+              }
+            ],
+            "sentence": "Siku ile niliporudi nyumbani, nilimwambia mama kwamba Muthoni hakufika shuleni siku hiyo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Niliendelea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Niliendelea"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "masomo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "masomo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yangu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yangu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lakini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lakini"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilimkosa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilimkosa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sana"
+              }
+            ],
+            "sentence": "Niliendelea na masomo yangu lakini nilimkosa Muthoni sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Kila"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Kila"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilipoenda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilipoenda"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "shuleni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilimtafuta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilimtafuta"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kila"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kila"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mahali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mahali"
+              }
+            ],
+            "sentence": "Kila nilipoenda shuleni, nilimtafuta Muthoni kila mahali."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_22_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Sasa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Sasa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nimekuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nimekuwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "msichana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "msichana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkubwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkubwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lakini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lakini"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ninamkosa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ninamkosa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "rafiki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "rafiki"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yangu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yangu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Muthoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Muthoni"
+              }
+            ],
+            "sentence": "Sasa nimekuwa msichana mkubwa lakini ninamkosa rafiki yangu Muthoni."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Catherine Groenewald, Rijuta Ghate and Benjamin Mitchley",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Alice Edui",
+  "title": "Rafiki ninayemkosa",
+  "titleimage": "level2_22_page_01_image_0001.jpg"
+}

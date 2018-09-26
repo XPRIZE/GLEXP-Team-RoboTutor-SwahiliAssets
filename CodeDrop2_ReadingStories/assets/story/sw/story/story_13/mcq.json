@@ -1,0 +1,421 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Kuna njia nyingi za kusafiri.", 
+      "stem": "Kuna njia nyingi za", 
+      "target": "kusafiri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "hao", 
+          "yeyote", 
+          "hii"
+        ], 
+        "nonsensical_english": [
+          "those", 
+          "anybody", 
+          "this"
+        ], 
+        "plausible": [
+          "huu", 
+          "je", 
+          "yeye"
+        ], 
+        "plausible_english": [
+          "this", 
+          "how", 
+          "it"
+        ], 
+        "ungrammatical": [
+          "kelele", 
+          "nyuma", 
+          "uchungu"
+        ], 
+        "ungrammatical_english": [
+          "noise", 
+          "after", 
+          "labor"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Nichague gani?", 
+      "stem": "Nichague", 
+      "target": "gani"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "jinsi", 
+          "zaidi", 
+          "pia"
+        ], 
+        "nonsensical_english": [
+          "class", 
+          "greater", 
+          "spindle"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "vile", 
+          "pamoja", 
+          "pale"
+        ], 
+        "ungrammatical_english": [
+          "those", 
+          "place", 
+          "there"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Je, nitumie ndege?", 
+      "stem": "Je, nitumie", 
+      "target": "ndege"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "mama", 
+          "sungura", 
+          "siku"
+        ], 
+        "ungrammatical_english": [
+          "mother", 
+          "shrewd", 
+          "day"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ndege inaruka juu sana.", 
+      "stem": "Ndege inaruka juu", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mbaya", 
+          "nzuri", 
+          "tule"
+        ], 
+        "nonsensical_english": [
+          "bad", 
+          "good", 
+          "poor"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "hatimaye", 
+          "kunguru", 
+          "si"
+        ], 
+        "ungrammatical_english": [
+          "last", 
+          "raven", 
+          "should"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Nami naogopa kuruka!", 
+      "stem": "Nami naogopa", 
+      "target": "kuruka"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "dhoruba", 
+          "ulimwengu", 
+          "teksi"
+        ], 
+        "nonsensical_english": [
+          "storm", 
+          "world", 
+          "taxi"
+        ], 
+        "plausible": [
+          "mgonjwa", 
+          "ladha", 
+          "sanduku"
+        ], 
+        "plausible_english": [
+          "patient", 
+          "aroma", 
+          "case"
+        ], 
+        "ungrammatical": [
+          "isipokuwa", 
+          "bure", 
+          "safi"
+        ], 
+        "ungrammatical_english": [
+          "unless", 
+          "uselessly", 
+          "bright"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Au nitumie helikopta?", 
+      "stem": "Au nitumie", 
+      "target": "helikopta"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "je", 
+          "njoo", 
+          "huu"
+        ], 
+        "ungrammatical_english": [
+          "what", 
+          "come", 
+          "this"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Lakini, helikopta na ndege ni sawa!", 
+      "stem": "Lakini, helikopta na ndege ni", 
+      "target": "sawa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "ndoto", 
+          "ardhi", 
+          "kishindo"
+        ], 
+        "nonsensical_english": [
+          "drowsiness", 
+          "globe", 
+          "blow"
+        ], 
+        "plausible": [
+          "mwerevu", 
+          "mwili", 
+          "mkutano"
+        ], 
+        "plausible_english": [
+          "deceitful", 
+          "trunk", 
+          "meeting"
+        ], 
+        "ungrammatical": [
+          "safi", 
+          "zetu", 
+          "katikati"
+        ], 
+        "ungrammatical_english": [
+          "candid", 
+          "our", 
+          "middle"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Au, labda, nitatumia gari la moshi.", 
+      "stem": "Au, labda, nitatumia gari la", 
+      "target": "moshi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "lakini", 
+          "yake", 
+          "kwenye"
+        ], 
+        "ungrammatical_english": [
+          "however", 
+          "her", 
+          "containing"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Lakini, stesheni iko mbali sana.", 
+      "stem": "Lakini, stesheni iko mbali", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nitachoka kutembea.", 
+      "stem": "Nitachoka", 
+      "target": "kutembea"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "za", 
+          "mimi", 
+          "wao"
+        ], 
+        "ungrammatical_english": [
+          "of", 
+          "me", 
+          "they"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Je, nitumie basi?", 
+      "stem": "Je, nitumie", 
+      "target": "basi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "tofauti", 
+          "tamu", 
+          "kasi"
+        ], 
+        "nonsensical_english": [
+          "quarrel", 
+          "agreeable", 
+          "intensity"
+        ], 
+        "plausible": [
+          "kasi", 
+          "tofauti", 
+          "tamu"
+        ], 
+        "plausible_english": [
+          "fast", 
+          "defect", 
+          "candy"
+        ], 
+        "ungrammatical": [
+          "ndivyo", 
+          "ndiyo", 
+          "si"
+        ], 
+        "ungrammatical_english": [
+          "manner", 
+          "yes", 
+          "non"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Kijiji chetu kina basi moja pekee!", 
+      "stem": "Kijiji chetu kina basi moja", 
+      "target": "pekee"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Labda nitatumia lori kusafiri.", 
+      "stem": "Labda nitatumia lori", 
+      "target": "kusafiri"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Lakini, lori, hasa, ni la kubebea mizigo mizito.", 
+      "stem": "Lakini, lori, hasa, ni la kubebea mizigo", 
+      "target": "mizito"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?", 
+      "sentence": "Je, nitumie baiskeli kusafiri?", 
+      "stem": "Je, nitumie baiskeli", 
+      "target": "kusafiri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "kuwa", 
+          "lakini", 
+          "wakati"
+        ], 
+        "ungrammatical_english": [
+          "whereas", 
+          "but", 
+          "period"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Sijui ikiwa baba atanipatia baiskeli yake.", 
+      "stem": "Sijui ikiwa baba atanipatia baiskeli", 
+      "target": "yake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kali", 
+          "giza", 
+          "joto"
+        ], 
+        "nonsensical_english": [
+          "severe", 
+          "gloom", 
+          "heat"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mwake", 
+          "halafu", 
+          "rudi"
+        ], 
+        "ungrammatical_english": [
+          "her", 
+          "then", 
+          "give"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Au nijaribu kusafiri kwa mashua?", 
+      "stem": "Au nijaribu kusafiri kwa", 
+      "target": "mashua"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "siku", 
+          "moja", 
+          "wake"
+        ], 
+        "ungrammatical_english": [
+          "day", 
+          "uniform", 
+          "its"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Lakini mimi siamini mashua sana!", 
+      "stem": "Lakini mimi siamini mashua", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "!", 
+      "sentence": "Aah!", 
+      "stem": "Aah", 
+      "target": "Aah"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Najua nitakachotumia.", 
+      "stem": "Najua", 
+      "target": "nitakachotumia"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "!", 
+      "sentence": "Nitatumia trekta kusafiri!", 
+      "stem": "Nitatumia trekta", 
+      "target": "kusafiri"
+    }
+  ], 
+  "title": "placeholder"
+}

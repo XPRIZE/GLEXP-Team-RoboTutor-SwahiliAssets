@@ -1,0 +1,655 @@
+{
+  "level": "1", 
+  "questions": [
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Mama alikuwa anamalizia kuweka nguo zake katika begi ndogo.", 
+      "stem": "Mama alikuwa anamalizia kuweka nguo zake katika begi", 
+      "target": "ndogo"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "bibi", 
+          "mkubwa", 
+          "kazi"
+        ], 
+        "ungrammatical_english": [
+          "woman", 
+          "employer", 
+          "affairs"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Alipokuwa akipita mlangoni, alinikumbatia na kusema, \"Kwa heri kwa sasa.\"", 
+      "stem": "Alipokuwa akipita mlangoni, alinikumbatia na kusema, \"Kwa heri kwa", 
+      "target": "sasa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "siku", 
+          "nyumba", 
+          "kutoka"
+        ], 
+        "nonsensical_english": [
+          "ancient", 
+          "house", 
+          "Exodus"
+        ], 
+        "plausible": [
+          "mfalme", 
+          "mtoto", 
+          "mti"
+        ], 
+        "plausible_english": [
+          "chief", 
+          "small", 
+          "pole"
+        ], 
+        "ungrammatical": [
+          "hapo", 
+          "kama", 
+          "katika"
+        ], 
+        "ungrammatical_english": [
+          "then", 
+          "watery", 
+          "with"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "\"Unaenda wapi, mama?\"", 
+      "stem": "\"Unaenda wapi,", 
+      "target": "mama"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "nilimwuliza huku nikmwangalia.", 
+      "stem": "nilimwuliza huku", 
+      "target": "nikmwangalia"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nilianza kulia nikitaka kumfuata.", 
+      "stem": "Nilianza kulia nikitaka", 
+      "target": "kumfuata"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "je", 
+          "gani", 
+          "yeye"
+        ], 
+        "nonsensical_english": [
+          "what", 
+          "what", 
+          "he"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "lazima", 
+          "mbele", 
+          "bibi"
+        ], 
+        "ungrammatical_english": [
+          "responsibility", 
+          "genitalia", 
+          "Mrs"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Lakini, baba alinibeba juu begani kwake.", 
+      "stem": "Lakini, baba alinibeba juu begani", 
+      "target": "kwake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "simba", 
+          "kitu", 
+          "usiku"
+        ], 
+        "nonsensical_english": [
+          "dog", 
+          "something", 
+          "night"
+        ], 
+        "plausible": [
+          "mama", 
+          "mlango", 
+          "mkubwa"
+        ], 
+        "plausible_english": [
+          "mother", 
+          "defile", 
+          "director"
+        ], 
+        "ungrammatical": [
+          "kila", 
+          "mbali", 
+          "la"
+        ], 
+        "ungrammatical_english": [
+          "everybody", 
+          "completely", 
+          "no"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Baba alisema, \"Mamako anaenda hospitalini kujifungua mtoto.\"", 
+      "stem": "Baba alisema, \"Mamako anaenda hospitalini kujifungua", 
+      "target": "mtoto"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kazi", 
+          "upepo", 
+          "jua"
+        ], 
+        "nonsensical_english": [
+          "naval", 
+          "current", 
+          "sun"
+        ], 
+        "plausible": [
+          "kazi", 
+          "njaa", 
+          "hadithi"
+        ], 
+        "plausible_english": [
+          "service", 
+          "hungry", 
+          "explain"
+        ], 
+        "ungrammatical": [
+          "hadi", 
+          "mno", 
+          "yako"
+        ], 
+        "ungrammatical_english": [
+          "until", 
+          "too", 
+          "yours"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Niliposikia \"mtoto\", niliacha kulia na kumwangalia baba.", 
+      "stem": "Niliposikia \"mtoto\", niliacha kulia na kumwangalia", 
+      "target": "baba"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?\"", 
+      "sentence": "\"Kwa nini anaenda kumpata mtoto hospitalini?\"", 
+      "stem": "\"Kwa nini anaenda kumpata mtoto", 
+      "target": "hospitalini"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": ", nilimuuliza.", 
+      "stem": ",", 
+      "target": "nilimuuliza"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".\"", 
+      "sentence": "Baba alinikalisha juu ya kiti kidogo na kusema, \"Nitakueleza kwa nini anaenda kumpata mtoto hospitalini.\"", 
+      "stem": "Baba alinikalisha juu ya kiti kidogo na kusema, \"Nitakueleza kwa nini anaenda kumpata mtoto", 
+      "target": "hospitalini"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mtoto", 
+          "mama", 
+          "mti"
+        ], 
+        "nonsensical_english": [
+          "offspring", 
+          "mother", 
+          "sore"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "karibu", 
+          "pamoja", 
+          "kisha"
+        ], 
+        "ungrammatical_english": [
+          "please", 
+          "nevertheless", 
+          "then"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nilisikiliza kwa makini aliponielezea ingawa sikuelewa kwa nini hakumpata mtoto akiwa nyumbani.", 
+      "stem": "Nilisikiliza kwa makini aliponielezea ingawa sikuelewa kwa nini hakumpata mtoto akiwa", 
+      "target": "nyumbani"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "simba", 
+          "jina", 
+          "nyumba"
+        ], 
+        "nonsensical_english": [
+          "warrior", 
+          "nickname", 
+          "house"
+        ], 
+        "plausible": [
+          "mti", 
+          "mtu", 
+          "mtoto"
+        ], 
+        "plausible_english": [
+          "pole", 
+          "someone", 
+          "small"
+        ], 
+        "ungrammatical": [
+          "karibu", 
+          "wao", 
+          "tayari"
+        ], 
+        "ungrammatical_english": [
+          "nearly", 
+          "them", 
+          "provide"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Alipomaliza kunielezea, nilimuuliza, \"Je, ataendelea kunipenda hata baada ya kurudi na mtoto mwingine?\"", 
+      "stem": "Alipomaliza kunielezea, nilimuuliza, \"Je, ataendelea kunipenda hata baada ya kurudi na mtoto", 
+      "target": "mwingine"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": [
+          "wao", 
+          "wake", 
+          "wangu"
+        ], 
+        "plausible_english": [
+          "they", 
+          "his", 
+          "my"
+        ], 
+        "ungrammatical": [
+          "zaidi", 
+          "kubwa", 
+          "wakati"
+        ], 
+        "ungrammatical_english": [
+          "increase", 
+          "large", 
+          "period"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Babangu alinibeba na kuniambia, \"Tutakupenda wakati wote.\"", 
+      "stem": "Babangu alinibeba na kuniambia, \"Tutakupenda wakati", 
+      "target": "wote"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "vya", 
+          "hebu", 
+          "kuna"
+        ], 
+        "ungrammatical_english": [
+          "they", 
+          "content", 
+          "scrape"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "\"Ninaweza kumwandikia barua akiwa huko?", 
+      "stem": "\"Ninaweza kumwandikia barua akiwa", 
+      "target": "huko"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "jua", 
+          "hadithi", 
+          "kazi"
+        ], 
+        "nonsensical_english": [
+          "sunset", 
+          "tell", 
+          "work"
+        ], 
+        "plausible": [
+          "kazi", 
+          "shule", 
+          "njaa"
+        ], 
+        "plausible_english": [
+          "art", 
+          "withdraw", 
+          "appetite"
+        ], 
+        "ungrammatical": [
+          "zake", 
+          "kubwa", 
+          "wale"
+        ], 
+        "ungrammatical_english": [
+          "his", 
+          "regular", 
+          "those"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "nilimuuliza baba.", 
+      "stem": "nilimuuliza", 
+      "target": "baba"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "simu", 
+          "zama", 
+          "una"
+        ], 
+        "nonsensical_english": [
+          "called", 
+          "disappear", 
+          "have"
+        ], 
+        "plausible": [
+          "zama", 
+          "tumbo", 
+          "simu"
+        ], 
+        "plausible_english": [
+          "disappear", 
+          "abdomen", 
+          "phone"
+        ], 
+        "ungrammatical": [
+          "huwa", 
+          "muhimu", 
+          "u"
+        ], 
+        "ungrammatical_english": [
+          "possibly", 
+          "important", 
+          "you"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Jioni hiyo, nilianza kumtungia mama barua.", 
+      "stem": "Jioni hiyo, nilianza kumtungia mama", 
+      "target": "barua"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "...", 
+      "sentence": "Nilirarua karatasi kutoka daftari langu na kuanza kuandika...", 
+      "stem": "Nilirarua karatasi kutoka daftari langu na kuanza", 
+      "target": "kuandika"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "jina", 
+          "furaha", 
+          "simba"
+        ], 
+        "nonsensical_english": [
+          "name", 
+          "pleasure", 
+          "lion"
+        ], 
+        "plausible": [
+          "mrembo", 
+          "mkubwa", 
+          "mti"
+        ], 
+        "plausible_english": [
+          "elegant", 
+          "leader", 
+          "tree"
+        ], 
+        "ungrammatical": [
+          "yako", 
+          "tafadhali", 
+          "hata"
+        ], 
+        "ungrammatical_english": [
+          "your", 
+          "please", 
+          "up"
+        ]
+      }, 
+      "punctuation": "...", 
+      "sentence": "\"Mama, mama, baba alisema kwamba umeenda kumleta mtoto mwingine...", 
+      "stem": "\"Mama, mama, baba alisema kwamba umeenda kumleta mtoto", 
+      "target": "mwingine"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "...", 
+      "sentence": "...", 
+      "stem": "..", 
+      "target": ""
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mtoto", 
+          "kutoka", 
+          "mama"
+        ], 
+        "nonsensical_english": [
+          "girl", 
+          "Exodus", 
+          "stepmother"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "kila", 
+          "katika", 
+          "kwenye"
+        ], 
+        "ungrammatical_english": [
+          "every", 
+          "cut", 
+          "to"
+        ]
+      }, 
+      "punctuation": "...", 
+      "sentence": "Tafadhali, harakisha urudi nyumbani...", 
+      "stem": "Tafadhali, harakisha urudi", 
+      "target": "nyumbani"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "...", 
+      "sentence": "...", 
+      "stem": "..", 
+      "target": ""
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kitu", 
+          "simba", 
+          "jina"
+        ], 
+        "nonsensical_english": [
+          "matter", 
+          "warrior", 
+          "designation"
+        ], 
+        "plausible": [
+          "mtoto", 
+          "mlango", 
+          "mwingine"
+        ], 
+        "plausible_english": [
+          "boy", 
+          "goal", 
+          "another"
+        ], 
+        "ungrammatical": [
+          "kama", 
+          "pamoja", 
+          "mimi"
+        ], 
+        "ungrammatical_english": [
+          "extraordinarily", 
+          "together", 
+          "me"
+        ]
+      }, 
+      "punctuation": "...", 
+      "sentence": "Ningependa umlete mtoto msichana, ili niweze kucheza naye akiwa mkubwa...", 
+      "stem": "Ningependa umlete mtoto msichana, ili niweze kucheza naye akiwa", 
+      "target": "mkubwa"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "...", 
+      "sentence": "...", 
+      "stem": "..", 
+      "target": ""
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "yeye", 
+          "lake", 
+          "chake"
+        ], 
+        "nonsensical_english": [
+          "he", 
+          "his", 
+          "her"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mahali", 
+          "zaidi", 
+          "mbali"
+        ], 
+        "ungrammatical_english": [
+          "distinction", 
+          "increase", 
+          "distant"
+        ]
+      }, 
+      "punctuation": "...", 
+      "sentence": "Unaweza kuleta wawili ili mmoja awe wangu...", 
+      "stem": "Unaweza kuleta wawili ili mmoja awe", 
+      "target": "wangu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "...", 
+      "sentence": "...", 
+      "stem": "..", 
+      "target": ""
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "zetu", 
+          "wetu", 
+          "vyao"
+        ], 
+        "nonsensical_english": [
+          "our", 
+          "ours", 
+          "theirs"
+        ], 
+        "plausible": [
+          "vyao", 
+          "zetu", 
+          "wetu"
+        ], 
+        "plausible_english": [
+          "theirs", 
+          "our", 
+          "our"
+        ], 
+        "ungrammatical": [
+          "mwezi", 
+          "moyo", 
+          "maziwa"
+        ], 
+        "ungrammatical_english": [
+          "month", 
+          "feeling", 
+          "milk"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Ninakusubiri hapa nje ya nyumba yetu.\"", 
+      "stem": "Ninakusubiri hapa nje ya nyumba", 
+      "target": "yetu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "siku", 
+          "nyumba", 
+          "nyumbani"
+        ], 
+        "nonsensical_english": [
+          "everyday", 
+          "house", 
+          "home"
+        ], 
+        "plausible": [
+          "mti", 
+          "mtoto", 
+          "mfalme"
+        ], 
+        "plausible_english": [
+          "shaft", 
+          "subordinate", 
+          "emperor"
+        ], 
+        "ungrammatical": [
+          "pamoja", 
+          "cha", 
+          "kila"
+        ], 
+        "ungrammatical_english": [
+          "altogether", 
+          "fear", 
+          "every"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Niliikunja barua yangu ili baba ampelekee mama.", 
+      "stem": "Niliikunja barua yangu ili baba ampelekee", 
+      "target": "mama"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nilipoamka asubuhi yake, barua haikuwapo.", 
+      "stem": "Nilipoamka asubuhi yake, barua", 
+      "target": "haikuwapo"
+    }
+  ], 
+  "title": "placeholder"
+}

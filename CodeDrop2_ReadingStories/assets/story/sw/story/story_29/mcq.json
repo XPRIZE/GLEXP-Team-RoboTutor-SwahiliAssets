@@ -1,0 +1,418 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Upepo unanguruma.", 
+      "stem": "Upepo", 
+      "target": "unanguruma"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "tofauti", 
+          "pili", 
+          "salama"
+        ], 
+        "nonsensical_english": [
+          "different", 
+          "adder", 
+          "secure"
+        ], 
+        "plausible": [
+          "kawaida", 
+          "tofauti", 
+          "tamu"
+        ], 
+        "plausible_english": [
+          "system", 
+          "fault", 
+          "agreeable"
+        ], 
+        "ungrammatical": [
+          "ndivyo", 
+          "rudi", 
+          "pa"
+        ], 
+        "ungrammatical_english": [
+          "this", 
+          "take", 
+          "carry"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Unanguruma kupita makao yetu kwa kasi.", 
+      "stem": "Unanguruma kupita makao yetu kwa", 
+      "target": "kasi"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Upepo ni mkali.", 
+      "stem": "Upepo ni", 
+      "target": "mkali"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kwake", 
+          "yeyote", 
+          "sisi"
+        ], 
+        "nonsensical_english": [
+          "her", 
+          "anyone", 
+          "us"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "pahali", 
+          "wazi", 
+          "gari"
+        ], 
+        "ungrammatical_english": [
+          "resting place", 
+          "clear", 
+          "bicycle"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Unakibandua kishada changu kutoka mkononi mwangu.", 
+      "stem": "Unakibandua kishada changu kutoka mkononi", 
+      "target": "mwangu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Ninakifuata kishada changu, lakini Upepo mkali unanirusha mbali nacho.", 
+      "stem": "Ninakifuata kishada changu, lakini Upepo mkali unanirusha mbali", 
+      "target": "nacho"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "sherehe", 
+          "kituo", 
+          "nyani"
+        ], 
+        "nonsensical_english": [
+          "merriment", 
+          "settlement", 
+          "baboon"
+        ], 
+        "plausible": [
+          "kina", 
+          "mshangao", 
+          "hatari"
+        ], 
+        "plausible_english": [
+          "deep", 
+          "bewilderment", 
+          "emergency"
+        ], 
+        "ungrammatical": [
+          "muhimu", 
+          "rudi", 
+          "kamili"
+        ], 
+        "ungrammatical_english": [
+          "particularly", 
+          "correct", 
+          "completely"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Upepo unageuka na kuwa dhoruba.", 
+      "stem": "Upepo unageuka na kuwa", 
+      "target": "dhoruba"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kuku", 
+          "pia", 
+          "mara"
+        ], 
+        "nonsensical_english": [
+          "chick", 
+          "spindle", 
+          "sometimes"
+        ], 
+        "plausible": [
+          "ndege", 
+          "mara", 
+          "pia"
+        ], 
+        "plausible_english": [
+          "bird", 
+          "once", 
+          "top"
+        ], 
+        "ungrammatical": [
+          "chake", 
+          "katika", 
+          "kwamba"
+        ], 
+        "ungrammatical_english": [
+          "hers", 
+          "during", 
+          "that"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Unakibeba kishada changu juu zaidi na zaidi.", 
+      "stem": "Unakibeba kishada changu juu zaidi na", 
+      "target": "zaidi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "kamili", 
+          "kuhusu", 
+          "muhimu"
+        ], 
+        "ungrammatical_english": [
+          "perfect", 
+          "concerning", 
+          "significantly"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Dhoruba hii ya kutisha inanimeza mzima mzima!", 
+      "stem": "Dhoruba hii ya kutisha inanimeza mzima", 
+      "target": "mzima"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Sioni chochote, sigusi chochote.", 
+      "stem": "Sioni chochote, sigusi", 
+      "target": "chochote"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Ninakumbuka kishada changu kizuri.", 
+      "stem": "Ninakumbuka kishada changu", 
+      "target": "kizuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "baba", 
+          "mkubwa", 
+          "mto"
+        ], 
+        "ungrammatical_english": [
+          "father", 
+          "superior", 
+          "riverbed"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Je, kiko wapi sasa?", 
+      "stem": "Je, kiko wapi", 
+      "target": "sasa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kofia", 
+          "uchungu", 
+          "vumbi"
+        ], 
+        "nonsensical_english": [
+          "crown", 
+          "resentment", 
+          "dust"
+        ], 
+        "plausible": [
+          "mumbi", 
+          "mkoba", 
+          "mwili"
+        ], 
+        "plausible_english": [
+          "hornbill", 
+          "handbag", 
+          "body"
+        ], 
+        "ungrammatical": [
+          "sisi", 
+          "punde", 
+          "sita"
+        ], 
+        "ungrammatical_english": [
+          "we", 
+          "soon", 
+          "perplexed"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Labda kimenaswa mtini.", 
+      "stem": "Labda kimenaswa", 
+      "target": "mtini"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "sura", 
+          "mwili", 
+          "kiongozi"
+        ], 
+        "nonsensical_english": [
+          "sura", 
+          "body", 
+          "honeyguide"
+        ], 
+        "plausible": [
+          "ndovu", 
+          "sura", 
+          "sehemu"
+        ], 
+        "plausible_english": [
+          "elephant", 
+          "paragraph", 
+          "unit"
+        ], 
+        "ungrammatical": [
+          "kabla", 
+          "zetu", 
+          "bado"
+        ], 
+        "ungrammatical_english": [
+          "before", 
+          "our", 
+          "still"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Au labda, bado kinapeperushwa angani.", 
+      "stem": "Au labda, bado kinapeperushwa", 
+      "target": "angani"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Upepo huu mkali mwishowe unapungua.", 
+      "stem": "Upepo huu mkali mwishowe", 
+      "target": "unapungua"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Lakini mimi bado ninazunguka.", 
+      "stem": "Lakini mimi bado", 
+      "target": "ninazunguka"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Ninaacha kuszunguka na kutazama mahali nipo.", 
+      "stem": "Ninaacha kuszunguka na kutazama mahali", 
+      "target": "nipo"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?", 
+      "sentence": "Je, Upepo ule mkali umeanda wapi?", 
+      "stem": "Je, Upepo ule mkali umeanda", 
+      "target": "wapi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nono", 
+          "nne", 
+          "mashuhuri"
+        ], 
+        "nonsensical_english": [
+          "plump", 
+          "four", 
+          "prominent"
+        ], 
+        "plausible": [
+          "bora", 
+          "nono", 
+          "refu"
+        ], 
+        "plausible_english": [
+          "better", 
+          "fat", 
+          "high"
+        ], 
+        "ungrammatical": [
+          "shida", 
+          "chui", 
+          "tumbo"
+        ], 
+        "ungrammatical_english": [
+          "scarcity", 
+          "leopard", 
+          "protuberance"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Sikioni kishada changu kizuri popote.", 
+      "stem": "Sikioni kishada changu kizuri", 
+      "target": "popote"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Siusikii tena Upepo mkali.", 
+      "stem": "Siusikii tena Upepo", 
+      "target": "mkali"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Labda kesho, nitakipata kishada changu kizuri.", 
+      "stem": "Labda kesho, nitakipata kishada changu", 
+      "target": "kizuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kamba", 
+          "baridi", 
+          "baba"
+        ], 
+        "nonsensical_english": [
+          "tie", 
+          "chill", 
+          "dad"
+        ], 
+        "plausible": [
+          "baridi", 
+          "kamba", 
+          "jua"
+        ], 
+        "plausible_english": [
+          "air", 
+          "prawn", 
+          "sunny"
+        ], 
+        "ungrammatical": [
+          "labda", 
+          "je", 
+          "punde"
+        ], 
+        "ungrammatical_english": [
+          "probably", 
+          "how", 
+          "soon"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Sasa hivi, lazima niende zangu nyumbani, mbali na Upepo.", 
+      "stem": "Sasa hivi, lazima niende zangu nyumbani, mbali na", 
+      "target": "Upepo"
+    }
+  ], 
+  "title": "placeholder"
+}

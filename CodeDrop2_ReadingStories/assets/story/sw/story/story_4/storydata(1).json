@@ -1,0 +1,1747 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level1_3_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Anaitwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Anaitwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Bi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Bi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Simu"
+              }
+            ],
+            "sentence": "Anaitwa Bi Simu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Mwangalie"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Mwangalie"
+              }
+            ],
+            "sentence": "Mwangalie!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Ana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Ana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "Ana simu tano."
+          },
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Akiamka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Akiamka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anazipanga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anazipanga"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zake"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "juu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "juu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "meza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "meza"
+              }
+            ],
+            "sentence": "Akiamka, anazipanga simu zake tano juu ya meza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "manjano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "manjano"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuwasiliana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuwasiliana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "watu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "watu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "familia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "familia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yake"
+              }
+            ],
+            "sentence": "Ya manjano ni ya kuwasiliana na watu wa familia yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Ile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Ile"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyeupe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyeupe"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuwasiliana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuwasiliana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wenzake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wenzake"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kazini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kazini"
+              }
+            ],
+            "sentence": "Ile nyeupe ni ya kuwasiliana na wenzake kazini."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Bali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Bali"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ile"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyekundu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyekundu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuwasiliana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuwasiliana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wale"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wale"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walio"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "madeni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "madeni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yake"
+              }
+            ],
+            "sentence": "Bali ile nyekundu ni ya kuwasiliana na wale walio na madeni yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Nayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Nayo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ile"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wardi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wardi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuwasiliana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuwasiliana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "marafiki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "marafiki"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zake"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dhati"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dhati"
+              }
+            ],
+            "sentence": "Nayo ile ya wardi ni ya kuwasiliana na marafiki zake wa dhati."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Ile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Ile"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kizambarau"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kizambarau"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anaitumia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anaitumia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuwasiliana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuwasiliana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "watu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "watu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wanaohitaji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wanaohitaji"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "msaada"
+                  }
+                ],
+                "until": -1,
+                "utterances": "msaada"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wake"
+              }
+            ],
+            "sentence": "Ile ya kizambarau anaitumia kuwasiliana na watu wanaohitaji msaada wake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Bi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Bi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Simu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hupenda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hupenda"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "watu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "watu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kufurahi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kufurahi"
+              }
+            ],
+            "sentence": "Bi Simu hupenda watu kufurahi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Hapendi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Hapendi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ugomvi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ugomvi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wala"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vita"
+              }
+            ],
+            "sentence": "Hapendi ugomvi wala vita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Huwaalika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Huwaalika"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "watoto"
+                  }
+                ],
+                "until": -1,
+                "utterances": "watoto"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuangalia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuangalia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "runinga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "runinga"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "katika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "katika"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "duka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "duka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lake"
+              }
+            ],
+            "sentence": "Huwaalika watoto kuangalia runinga katika duka lake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Huwatembelea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Huwatembelea"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wagonjwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wagonjwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wazee"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wazee"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "katika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "katika"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyumba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyumba"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zao"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zao"
+              }
+            ],
+            "sentence": "Huwatembelea wagonjwa na wazee katika nyumba zao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Kila"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Kila"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "apitapo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "apitapo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuna"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuna"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mayowe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mayowe"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Bi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Bi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Simu"
+              }
+            ],
+            "sentence": "Kila apitapo, kuna mayowe ya, \"Bi Simu!"
+          },
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Bi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Bi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Simu"
+              }
+            ],
+            "sentence": "Bi Simu!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_3_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Naye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Naye"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hufurahia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hufurahia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kusema"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kusema"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Mimi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Mimi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Bi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Bi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Simu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hizi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hizi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zangu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zangu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ziangalieni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ziangalieni"
+              }
+            ],
+            "sentence": "Naye hufurahia na kusema, \"Mimi ni Bi Simu na hizi simu zangu ziangalieni!\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Huyo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Huyo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Bi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Bi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Simu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zake"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "Huyo ni Bi Simu na simu zake tano."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Marion Drew",
+  "language": "Kiswahili",
+  "level": "1",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Bi Simu",
+  "titleimage": "level1_3_page_01_image_0001.jpg"
+}

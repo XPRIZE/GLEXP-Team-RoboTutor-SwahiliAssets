@@ -1,0 +1,487 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "giza", 
+          "kali", 
+          "mashua"
+        ], 
+        "nonsensical_english": [
+          "ignorance", 
+          "vehement", 
+          "sailboat"
+        ], 
+        "plausible": [
+          "badala", 
+          "mungu", 
+          "joto"
+        ], 
+        "plausible_english": [
+          "sect", 
+          "providence", 
+          "heat"
+        ], 
+        "ungrammatical": [
+          "huu", 
+          "nami", 
+          "lako"
+        ], 
+        "ungrammatical_english": [
+          "this", 
+          "and", 
+          "your"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Upinde una rangi saba.", 
+      "stem": "Upinde una rangi", 
+      "target": "saba"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Rangi ya kwanza ni nyekundu.", 
+      "stem": "Rangi ya kwanza ni", 
+      "target": "nyekundu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Kweyu amevalia shati la rangi nyekundu.", 
+      "stem": "Kweyu amevalia shati la rangi", 
+      "target": "nyekundu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mchezo", 
+          "panda", 
+          "mdomo"
+        ], 
+        "nonsensical_english": [
+          "sport", 
+          "climb", 
+          "mouthpiece"
+        ], 
+        "plausible": [
+          "panda", 
+          "nafuu", 
+          "anga"
+        ], 
+        "plausible_english": [
+          "rise", 
+          "progress", 
+          "radiance"
+        ], 
+        "ungrammatical": [
+          "kuu", 
+          "hai", 
+          "iwapo"
+        ], 
+        "ungrammatical_english": [
+          "major", 
+          "existant", 
+          "when"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Rangi ya pili ni ya chungwa.", 
+      "stem": "Rangi ya pili ni ya", 
+      "target": "chungwa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "fahari", 
+          "bata", 
+          "nauli"
+        ], 
+        "nonsensical_english": [
+          "honor", 
+          "duck", 
+          "freight"
+        ], 
+        "plausible": [
+          "zama", 
+          "subira", 
+          "nafuu"
+        ], 
+        "plausible_english": [
+          "epoch", 
+          "endurance", 
+          "growth"
+        ], 
+        "ungrammatical": [
+          "dhaifu", 
+          "tuli", 
+          "naam"
+        ], 
+        "ungrammatical_english": [
+          "infirm", 
+          "reserved", 
+          "certainly"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Hili ni chungwa.", 
+      "stem": "Hili ni", 
+      "target": "chungwa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mungu", 
+          "damu", 
+          "kali"
+        ], 
+        "nonsensical_english": [
+          "divine", 
+          "mushroom", 
+          "fierce"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "samahani", 
+          "hizi", 
+          "acha"
+        ], 
+        "ungrammatical_english": [
+          "forgive", 
+          "shame", 
+          "fail"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Rangi ya tatu ni manjano.", 
+      "stem": "Rangi ya tatu ni", 
+      "target": "manjano"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kali", 
+          "samawati", 
+          "maridadi"
+        ], 
+        "nonsensical_english": [
+          "sharp", 
+          "blue", 
+          "tidy"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "u", 
+          "twende", 
+          "a"
+        ], 
+        "ungrammatical_english": [
+          "you", 
+          "let's go", 
+          "she"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Yai pingu lina rangi ya manjano.", 
+      "stem": "Yai pingu lina rangi ya", 
+      "target": "manjano"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "taratibu", 
+          "tofauti", 
+          "kawaida"
+        ], 
+        "nonsensical_english": [
+          "structure", 
+          "discrepancy", 
+          "custom"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "uko", 
+          "hebu", 
+          "gani"
+        ], 
+        "ungrammatical_english": [
+          "there", 
+          "content", 
+          "what"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Rangi ya nne ni kijani.", 
+      "stem": "Rangi ya nne ni", 
+      "target": "kijani"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "tofauti", 
+          "taratibu", 
+          "kasi"
+        ], 
+        "nonsensical_english": [
+          "difference", 
+          "collectedness", 
+          "vigorously"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "macho", 
+          "je", 
+          "kile"
+        ], 
+        "ungrammatical_english": [
+          "eye", 
+          "question", 
+          "that"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Miwa ni rangi ya kijani.", 
+      "stem": "Miwa ni rangi ya", 
+      "target": "kijani"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "msingi", 
+          "kavu", 
+          "maridadi"
+        ], 
+        "nonsensical_english": [
+          "fundamental", 
+          "cunning", 
+          "fop"
+        ], 
+        "plausible": [
+          "fulani", 
+          "manjano", 
+          "maridadi"
+        ], 
+        "plausible_english": [
+          "such and such", 
+          "yellow", 
+          "dandy"
+        ], 
+        "ungrammatical": [
+          "ngoja", 
+          "mawingu", 
+          "tazama"
+        ], 
+        "ungrammatical_english": [
+          "wait", 
+          "cloudy", 
+          "observe"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Rangi ya tano ni samawati.", 
+      "stem": "Rangi ya tano ni", 
+      "target": "samawati"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kavu", 
+          "manjano", 
+          "mwitu"
+        ], 
+        "nonsensical_english": [
+          "curve", 
+          "yellow", 
+          "forest"
+        ], 
+        "plausible": [
+          "kavu", 
+          "maridadi", 
+          "damu"
+        ], 
+        "plausible_english": [
+          "dry", 
+          "dressed", 
+          "menstruation"
+        ], 
+        "ungrammatical": [
+          "makofi", 
+          "ndipo", 
+          "a"
+        ], 
+        "ungrammatical_english": [
+          "applaud", 
+          "then", 
+          "it"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mbingu ni samawati.", 
+      "stem": "Mbingu ni", 
+      "target": "samawati"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "munda", 
+          "kaka", 
+          "bwawa"
+        ], 
+        "nonsensical_english": [
+          "harpoon", 
+          "husk", 
+          "pool"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "yu", 
+          "tazama", 
+          "vingine"
+        ], 
+        "ungrammatical_english": [
+          "it", 
+          "try", 
+          "variously"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Rangi ya sita ni nili.", 
+      "stem": "Rangi ya sita ni", 
+      "target": "nili"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mpini", 
+          "kaka", 
+          "umbo"
+        ], 
+        "nonsensical_english": [
+          "handle", 
+          "whitlow", 
+          "fashioning"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "dhaifu", 
+          "kadhaa", 
+          "pumua"
+        ], 
+        "ungrammatical_english": [
+          "useless", 
+          "few", 
+          "breath"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Matunda haya ni ya rangi ya nili.", 
+      "stem": "Matunda haya ni ya rangi ya", 
+      "target": "nili"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "taja", 
+          "ata", 
+          "cheza"
+        ], 
+        "ungrammatical_english": [
+          "tell", 
+          "abandon", 
+          "waste time"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Rangi ya saba ni zambarau.", 
+      "stem": "Rangi ya saba ni", 
+      "target": "zambarau"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nguo yangu ni ya kizambarau.", 
+      "stem": "Nguo yangu ni ya", 
+      "target": "kizambarau"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kuku", 
+          "mara", 
+          "pia"
+        ], 
+        "nonsensical_english": [
+          "poultry", 
+          "once", 
+          "exception"
+        ], 
+        "plausible": [
+          "kuku", 
+          "mara", 
+          "ndege"
+        ], 
+        "plausible_english": [
+          "there", 
+          "soon", 
+          "crane"
+        ], 
+        "ungrammatical": [
+          "chake", 
+          "kwamba", 
+          "kubwa"
+        ], 
+        "ungrammatical_english": [
+          "hers", 
+          "that", 
+          "principal"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Ni rangi niipendayo zaidi!", 
+      "stem": "Ni rangi niipendayo", 
+      "target": "zaidi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kijana", 
+          "kofia", 
+          "mgonjwa"
+        ], 
+        "nonsensical_english": [
+          "young", 
+          "cap", 
+          "sick"
+        ], 
+        "plausible": [
+          "ukubwa", 
+          "ukweli", 
+          "uwanja"
+        ], 
+        "plausible_english": [
+          "importance", 
+          "frankness", 
+          "courtyard"
+        ], 
+        "ungrammatical": [
+          "rudi", 
+          "safi", 
+          "kamili"
+        ], 
+        "ungrammatical_english": [
+          "reply", 
+          "real", 
+          "sharp"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Je, unazijua rangi saba za upinde?", 
+      "stem": "Je, unazijua rangi saba za", 
+      "target": "upinde"
+    }
+  ], 
+  "title": "placeholder"
+}

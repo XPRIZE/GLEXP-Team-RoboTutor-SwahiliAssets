@@ -1,0 +1,119 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "baba", 
+          "mkono", 
+          "hadithi"
+        ], 
+        "nonsensical_english": [
+          "dad", 
+          "inlet", 
+          "tell"
+        ], 
+        "plausible": [
+          "kamba", 
+          "mguu", 
+          "nguo"
+        ], 
+        "plausible_english": [
+          "rope", 
+          "leg", 
+          "gonolek"
+        ], 
+        "ungrammatical": [
+          "mbali", 
+          "mno", 
+          "ile"
+        ], 
+        "ungrammatical_english": [
+          "remote", 
+          "very", 
+          "those"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Siku moja Hamisi na babake walienda kununua sare ya shule.", 
+      "stem": "Siku moja Hamisi na babake walienda kununua sare ya", 
+      "target": "shule"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "\"Anaonekana mzuri sana,\" Hamisi alifikiria.", 
+      "stem": "\"Anaonekana mzuri sana,\" Hamisi", 
+      "target": "alifikiria"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "\"Shati hili ni safi sana,\" Hamisi alisema.", 
+      "stem": "\"Shati hili ni safi sana,\" Hamisi", 
+      "target": "alisema"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "\"Tafadhali baba, ninunulie shati la kjani kibichi,\" Hamisi alilia.", 
+      "stem": "\"Tafadhali baba, ninunulie shati la kjani kibichi,\" Hamisi", 
+      "target": "alilia"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "\"Leo ninanunua sare ya shule pekee,\" baba alisema.", 
+      "stem": "\"Leo ninanunua sare ya shule pekee,\" baba", 
+      "target": "alisema"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "fisi", 
+          "zake", 
+          "za"
+        ], 
+        "ungrammatical_english": [
+          "hyena", 
+          "theirs", 
+          "they"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "\"Sina pesa zingine za kununua shati kama hilo,\" baba alisema tena.", 
+      "stem": "\"Sina pesa zingine za kununua shati kama hilo,\" baba alisema", 
+      "target": "tena"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "!", 
+      "sentence": "Lakini, kulikuwa na pesa zilizobaki za kununua shati la kijani kibichi!", 
+      "stem": "Lakini, kulikuwa na pesa zilizobaki za kununua shati la kijani", 
+      "target": "kibichi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "wote", 
+          "wakati", 
+          "mama"
+        ], 
+        "ungrammatical_english": [
+          "everyone", 
+          "each", 
+          "stepmother"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Hamisi alifurahi sana.", 
+      "stem": "Hamisi alifurahi", 
+      "target": "sana"
+    }
+  ], 
+  "title": "placeholder"
+}

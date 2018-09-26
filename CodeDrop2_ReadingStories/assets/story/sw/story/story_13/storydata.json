@@ -1,0 +1,835 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_19_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna njia nyingi za kusafiri.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 85,
+                    "start": 49,
+                    "word": "njia"
+                  },
+                  {
+                    "end": 149,
+                    "start": 86,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 168,
+                    "start": 150,
+                    "word": "za"
+                  },
+                  {
+                    "end": 257,
+                    "start": 169,
+                    "word": "kusafiri"
+                  }
+                ],
+                "until": 257,
+                "utterances": "Kuna njia nyingi za kusafiri"
+              }
+            ],
+            "sentence": "Kuna njia nyingi za kusafiri."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nichague gani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Nichague"
+                  },
+                  {
+                    "end": 167,
+                    "start": 94,
+                    "word": "gani"
+                  }
+                ],
+                "until": 167,
+                "utterances": "Nichague gani"
+              }
+            ],
+            "sentence": "Nichague gani?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je nitumie ndege.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 19,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 153,
+                    "start": 87,
+                    "word": "nitumie"
+                  },
+                  {
+                    "end": 224,
+                    "start": 154,
+                    "word": "ndege"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Je nitumie ndege"
+              }
+            ],
+            "sentence": "Je, nitumie ndege?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndege inaruka juu sana.mp3",
+                "from": 11,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 11,
+                    "word": "Ndege"
+                  },
+                  {
+                    "end": 147,
+                    "start": 51,
+                    "word": "inaruka"
+                  },
+                  {
+                    "end": 216,
+                    "start": 165,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 291,
+                    "start": 217,
+                    "word": "sana"
+                  }
+                ],
+                "until": 291,
+                "utterances": "Ndege inaruka juu sana"
+              }
+            ],
+            "sentence": "Ndege inaruka juu sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nami naogopa kuruka.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 14,
+                    "word": "Nami"
+                  },
+                  {
+                    "end": 131,
+                    "start": 56,
+                    "word": "naogopa"
+                  },
+                  {
+                    "end": 176,
+                    "start": 132,
+                    "word": "kuruka"
+                  }
+                ],
+                "until": 176,
+                "utterances": "Nami naogopa kuruka"
+              }
+            ],
+            "sentence": "Nami naogopa kuruka!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Au nitumie helikopta.mp3",
+                "from": 149,
+                "segmentation": [
+                  {
+                    "end": 187,
+                    "start": 149,
+                    "word": "Au"
+                  },
+                  {
+                    "end": 264,
+                    "start": 188,
+                    "word": "nitumie"
+                  },
+                  {
+                    "end": 375,
+                    "start": 265,
+                    "word": "helikopta"
+                  }
+                ],
+                "until": 375,
+                "utterances": "Au nitumie helikopta"
+              }
+            ],
+            "sentence": "Au nitumie helikopta?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini helikopta na ndege ni sawa.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 14,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 149,
+                    "start": 66,
+                    "word": "helikopta"
+                  },
+                  {
+                    "end": 170,
+                    "start": 150,
+                    "word": "na"
+                  },
+                  {
+                    "end": 206,
+                    "start": 171,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 220,
+                    "start": 207,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 282,
+                    "start": 221,
+                    "word": "sawa"
+                  }
+                ],
+                "until": 282,
+                "utterances": "Lakini helikopta na ndege ni sawa"
+              }
+            ],
+            "sentence": "Lakini, helikopta na ndege ni sawa!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Au labda nitatumia gari la moshi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 21,
+                    "word": "Au"
+                  },
+                  {
+                    "end": 150,
+                    "start": 106,
+                    "word": "labda"
+                  },
+                  {
+                    "end": 240,
+                    "start": 151,
+                    "word": "nitatumia"
+                  },
+                  {
+                    "end": 303,
+                    "start": 241,
+                    "word": "gari"
+                  },
+                  {
+                    "end": 311,
+                    "start": 304,
+                    "word": "la"
+                  },
+                  {
+                    "end": 366,
+                    "start": 312,
+                    "word": "moshi"
+                  }
+                ],
+                "until": 366,
+                "utterances": "Au labda nitatumia gari la moshi"
+              }
+            ],
+            "sentence": "Au, labda, nitatumia gari la moshi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini stesheni iko mbali sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 21,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 184,
+                    "start": 119,
+                    "word": "stesheni"
+                  },
+                  {
+                    "end": 227,
+                    "start": 185,
+                    "word": "iko"
+                  },
+                  {
+                    "end": 291,
+                    "start": 228,
+                    "word": "mbali"
+                  },
+                  {
+                    "end": 347,
+                    "start": 292,
+                    "word": "sana"
+                  }
+                ],
+                "until": 347,
+                "utterances": "Lakini stesheni iko mbali sana"
+              }
+            ],
+            "sentence": "Lakini, stesheni iko mbali sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nitachoka kutembea.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 2,
+                    "word": "Nitachoka"
+                  },
+                  {
+                    "end": 191,
+                    "start": 109,
+                    "word": "kutembea"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Nitachoka kutembea"
+              }
+            ],
+            "sentence": "Nitachoka kutembea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je nitumie basi.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 19,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 170,
+                    "start": 93,
+                    "word": "nitumie"
+                  },
+                  {
+                    "end": 247,
+                    "start": 171,
+                    "word": "basi"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Je nitumie basi"
+              }
+            ],
+            "sentence": "Je, nitumie basi?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kijiji chetu kina basi moja pekee.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 22,
+                    "word": "Kijiji"
+                  },
+                  {
+                    "end": 123,
+                    "start": 81,
+                    "word": "chetu"
+                  },
+                  {
+                    "end": 161,
+                    "start": 124,
+                    "word": "kina"
+                  },
+                  {
+                    "end": 204,
+                    "start": 162,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 248,
+                    "start": 205,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 318,
+                    "start": 249,
+                    "word": "pekee"
+                  }
+                ],
+                "until": 318,
+                "utterances": "Kijiji chetu kina basi moja pekee"
+              }
+            ],
+            "sentence": "Kijiji chetu kina basi moja pekee!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Labda nitatumia lori kusafiri.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 21,
+                    "word": "Labda"
+                  },
+                  {
+                    "end": 193,
+                    "start": 86,
+                    "word": "nitatumia"
+                  },
+                  {
+                    "end": 231,
+                    "start": 194,
+                    "word": "lori"
+                  },
+                  {
+                    "end": 325,
+                    "start": 232,
+                    "word": "kusafiri"
+                  }
+                ],
+                "until": 325,
+                "utterances": "Labda nitatumia lori kusafiri"
+              }
+            ],
+            "sentence": "Labda nitatumia lori kusafiri."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini lori hasa ni la kubebea mizigo mizito.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 14,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 169,
+                    "start": 108,
+                    "word": "lori"
+                  },
+                  {
+                    "end": 263,
+                    "start": 202,
+                    "word": "hasa"
+                  },
+                  {
+                    "end": 354,
+                    "start": 320,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 364,
+                    "start": 355,
+                    "word": "la"
+                  },
+                  {
+                    "end": 435,
+                    "start": 365,
+                    "word": "kubebea"
+                  },
+                  {
+                    "end": 502,
+                    "start": 436,
+                    "word": "mizigo"
+                  },
+                  {
+                    "end": 573,
+                    "start": 503,
+                    "word": "mizito"
+                  }
+                ],
+                "until": 573,
+                "utterances": "Lakini lori hasa ni la kubebea mizigo mizito"
+              }
+            ],
+            "sentence": "Lakini, lori, hasa, ni la kubebea mizigo mizito."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je nitumie baiskeli kusafiri.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 21,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 192,
+                    "start": 111,
+                    "word": "nitumie"
+                  },
+                  {
+                    "end": 272,
+                    "start": 193,
+                    "word": "baiskeli"
+                  },
+                  {
+                    "end": 392,
+                    "start": 273,
+                    "word": "kusafiri"
+                  }
+                ],
+                "until": 392,
+                "utterances": "Je nitumie baiskeli kusafiri"
+              }
+            ],
+            "sentence": "Je, nitumie baiskeli kusafiri?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sijui ikiwa baba atanipatia baiskeli yake.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 19,
+                    "word": "Sijui"
+                  },
+                  {
+                    "end": 135,
+                    "start": 83,
+                    "word": "ikiwa"
+                  },
+                  {
+                    "end": 166,
+                    "start": 136,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 261,
+                    "start": 167,
+                    "word": "atanipatia"
+                  },
+                  {
+                    "end": 337,
+                    "start": 262,
+                    "word": "baiskeli"
+                  },
+                  {
+                    "end": 396,
+                    "start": 338,
+                    "word": "yake"
+                  }
+                ],
+                "until": 396,
+                "utterances": "Sijui ikiwa baba atanipatia baiskeli yake"
+              }
+            ],
+            "sentence": "Sijui ikiwa baba atanipatia baiskeli yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Au nijaribu kusafiri kwa mashua.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 21,
+                    "word": "Au"
+                  },
+                  {
+                    "end": 128,
+                    "start": 58,
+                    "word": "nijaribu"
+                  },
+                  {
+                    "end": 201,
+                    "start": 129,
+                    "word": "kusafiri"
+                  },
+                  {
+                    "end": 222,
+                    "start": 202,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 295,
+                    "start": 223,
+                    "word": "mashua"
+                  }
+                ],
+                "until": 295,
+                "utterances": "Au nijaribu kusafiri kwa mashua"
+              }
+            ],
+            "sentence": "Au nijaribu kusafiri kwa mashua?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini mimi siamini mashua sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 111,
+                    "start": 77,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 182,
+                    "start": 112,
+                    "word": "siamini"
+                  },
+                  {
+                    "end": 239,
+                    "start": 183,
+                    "word": "mashua"
+                  },
+                  {
+                    "end": 296,
+                    "start": 240,
+                    "word": "sana"
+                  }
+                ],
+                "until": 296,
+                "utterances": "Lakini mimi siamini mashua sana"
+              }
+            ],
+            "sentence": "Lakini mimi siamini mashua sana!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_19_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aah.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 22,
+                    "word": "Aah"
+                  }
+                ],
+                "until": 59,
+                "utterances": "Aah"
+              }
+            ],
+            "sentence": "Aah!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Najua nitakachotumia.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 30,
+                    "word": "Najua"
+                  },
+                  {
+                    "end": 234,
+                    "start": 89,
+                    "word": "nitakachotumia"
+                  }
+                ],
+                "until": 234,
+                "utterances": "Najua nitakachotumia"
+              }
+            ],
+            "sentence": "Najua nitakachotumia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nitatumia trekta kusafiri.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 154,
+                    "start": 19,
+                    "word": "Nitatumia"
+                  },
+                  {
+                    "end": 221,
+                    "start": 169,
+                    "word": "trekta"
+                  },
+                  {
+                    "end": 328,
+                    "start": 254,
+                    "word": "kusafiri"
+                  }
+                ],
+                "until": 328,
+                "utterances": "Nitatumia trekta kusafiri"
+              }
+            ],
+            "sentence": "Nitatumia trekta kusafiri!"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Sue Kramer, Catherine Groenewald, Marion Drew, Louwrisa Blaauw, Rob Owen, Vusi Malindi, Jesse Breytenbach, Natalie Propa, Wiehan de Jager and Mango Tree",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Nitumie nini kusafiri?",
+  "titleimage": "level2_19_page_01_image_0001.jpg"
+}

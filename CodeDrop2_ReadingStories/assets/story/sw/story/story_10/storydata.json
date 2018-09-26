@@ -1,0 +1,492 @@
+{
+  "authors": "Adelheid Marie Bwire",
+  "copyright": "Copyright (c) African Storybook Initiative and Molteno Institute, 2014",
+  "data": [
+    {
+      "image": "level2_25_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku moja Hamisi na babake walienda kununua sare ya shule.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 138,
+                    "start": 81,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 229,
+                    "start": 168,
+                    "word": "Hamisi"
+                  },
+                  {
+                    "end": 243,
+                    "start": 230,
+                    "word": "na"
+                  },
+                  {
+                    "end": 313,
+                    "start": 244,
+                    "word": "babake"
+                  },
+                  {
+                    "end": 381,
+                    "start": 314,
+                    "word": "walienda"
+                  },
+                  {
+                    "end": 452,
+                    "start": 382,
+                    "word": "kununua"
+                  },
+                  {
+                    "end": 509,
+                    "start": 453,
+                    "word": "sare"
+                  },
+                  {
+                    "end": 531,
+                    "start": 510,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 579,
+                    "start": 532,
+                    "word": "shule"
+                  }
+                ],
+                "until": 579,
+                "utterances": "Siku moja Hamisi na babake walienda kununua sare ya shule"
+              }
+            ],
+            "sentence": "Siku moja Hamisi na babake walienda kununua sare ya shule."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_25_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Anaonekana mzuri sana Hamisi alifikiria.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 22,
+                    "word": "Anaonekana"
+                  },
+                  {
+                    "end": 177,
+                    "start": 127,
+                    "word": "mzuri"
+                  },
+                  {
+                    "end": 237,
+                    "start": 178,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 317,
+                    "start": 261,
+                    "word": "Hamisi"
+                  },
+                  {
+                    "end": 406,
+                    "start": 318,
+                    "word": "alifikiria"
+                  }
+                ],
+                "until": 406,
+                "utterances": "Anaonekana mzuri sana Hamisi alifikiria"
+              }
+            ],
+            "sentence": "\"Anaonekana mzuri sana,\" Hamisi alifikiria."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_25_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Shati hili ni safi sana Hamisi alisema.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 21,
+                    "word": "Shati"
+                  },
+                  {
+                    "end": 108,
+                    "start": 67,
+                    "word": "hili"
+                  },
+                  {
+                    "end": 119,
+                    "start": 109,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 162,
+                    "start": 120,
+                    "word": "safi"
+                  },
+                  {
+                    "end": 212,
+                    "start": 163,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 289,
+                    "start": 233,
+                    "word": "Hamisi"
+                  },
+                  {
+                    "end": 355,
+                    "start": 290,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 355,
+                "utterances": "Shati hili ni safi sana Hamisi alisema"
+              }
+            ],
+            "sentence": "\"Shati hili ni safi sana,\" Hamisi alisema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_25_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tafadhali baba ninunulie shati la kijani kibichi Hamisi alilia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 155,
+                    "start": 89,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 267,
+                    "start": 183,
+                    "word": "ninunulie"
+                  },
+                  {
+                    "end": 320,
+                    "start": 268,
+                    "word": "shati"
+                  },
+                  {
+                    "end": 338,
+                    "start": 321,
+                    "word": "la"
+                  },
+                  {
+                    "end": 400,
+                    "start": 339,
+                    "word": "kijani"
+                  },
+                  {
+                    "end": 491,
+                    "start": 401,
+                    "word": "kibichi"
+                  },
+                  {
+                    "end": 568,
+                    "start": 500,
+                    "word": "Hamisi"
+                  },
+                  {
+                    "end": 636,
+                    "start": 569,
+                    "word": "alilia"
+                  }
+                ],
+                "until": 636,
+                "utterances": "Tafadhali baba ninunulie shati la kijani kibichi Hamisi alilia"
+              }
+            ],
+            "sentence": "\"Tafadhali baba, ninunulie shati la kijani kibichi,\" Hamisi alilia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_25_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Leo ninanunua sare ya shule pekee baba alisema.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 19,
+                    "word": "Leo"
+                  },
+                  {
+                    "end": 177,
+                    "start": 72,
+                    "word": "ninanunua"
+                  },
+                  {
+                    "end": 254,
+                    "start": 178,
+                    "word": "sare"
+                  },
+                  {
+                    "end": 270,
+                    "start": 255,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 312,
+                    "start": 271,
+                    "word": "shule"
+                  },
+                  {
+                    "end": 418,
+                    "start": 345,
+                    "word": "pekee"
+                  },
+                  {
+                    "end": 538,
+                    "start": 502,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 612,
+                    "start": 539,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 612,
+                "utterances": "Leo ninanunua sare ya shule pekee baba alisema"
+              }
+            ],
+            "sentence": "\"Leo ninanunua sare ya shule pekee,\" baba alisema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_25_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sina pesa zingine za kununua shati kama hilo baba alisema tena.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 20,
+                    "word": "Sina"
+                  },
+                  {
+                    "end": 102,
+                    "start": 68,
+                    "word": "pesa"
+                  },
+                  {
+                    "end": 178,
+                    "start": 103,
+                    "word": "zingine"
+                  },
+                  {
+                    "end": 213,
+                    "start": 197,
+                    "word": "za"
+                  },
+                  {
+                    "end": 277,
+                    "start": 214,
+                    "word": "kununua"
+                  },
+                  {
+                    "end": 329,
+                    "start": 278,
+                    "word": "shati"
+                  },
+                  {
+                    "end": 363,
+                    "start": 330,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 412,
+                    "start": 378,
+                    "word": "hilo"
+                  },
+                  {
+                    "end": 496,
+                    "start": 471,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 567,
+                    "start": 497,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 618,
+                    "start": 568,
+                    "word": "tena"
+                  }
+                ],
+                "until": 618,
+                "utterances": "Sina pesa zingine za kununua shati kama hilo baba alisema tena"
+              }
+            ],
+            "sentence": "\"Sina pesa zingine za kununua shati kama hilo,\" baba alisema tena."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_25_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini kulikuwa na pesa zilizobaki za kununua shati la kijani kibichi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 217,
+                    "start": 149,
+                    "word": "kulikuwa"
+                  },
+                  {
+                    "end": 239,
+                    "start": 218,
+                    "word": "na"
+                  },
+                  {
+                    "end": 294,
+                    "start": 240,
+                    "word": "pesa"
+                  },
+                  {
+                    "end": 421,
+                    "start": 295,
+                    "word": "zilizobaki"
+                  },
+                  {
+                    "end": 465,
+                    "start": 452,
+                    "word": "za"
+                  },
+                  {
+                    "end": 539,
+                    "start": 466,
+                    "word": "kununua"
+                  },
+                  {
+                    "end": 591,
+                    "start": 540,
+                    "word": "shati"
+                  },
+                  {
+                    "end": 606,
+                    "start": 592,
+                    "word": "la"
+                  },
+                  {
+                    "end": 665,
+                    "start": 607,
+                    "word": "kijani"
+                  },
+                  {
+                    "end": 751,
+                    "start": 666,
+                    "word": "kibichi"
+                  }
+                ],
+                "until": 751,
+                "utterances": "Lakini kulikuwa na pesa zilizobaki za kununua shati la kijani kibichi"
+              }
+            ],
+            "sentence": "Lakini, kulikuwa na pesa zilizobaki za kununua shati la kijani kibichi!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_25_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hamisi alifurahi sana.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 112,
+                    "start": 20,
+                    "word": "Hamisi"
+                  },
+                  {
+                    "end": 250,
+                    "start": 117,
+                    "word": "alifurahi"
+                  },
+                  {
+                    "end": 345,
+                    "start": 251,
+                    "word": "sana"
+                  }
+                ],
+                "until": 345,
+                "utterances": "Hamisi alifurahi sana"
+              }
+            ],
+            "sentence": "Hamisi alifurahi sana."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Rob Owen",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "title": "Shati la Hamisi la kijani kibichi?",
+  "titleimage": "level2_25_page_01_image_0001.jpg"
+}

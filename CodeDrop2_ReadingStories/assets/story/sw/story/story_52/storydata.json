@@ -1,0 +1,495 @@
+{
+  "authors": "Meera Tendolkar and Madhav Chavan",
+  "copyright": "Copyright (c) Pratham Books, 2014",
+  "data": [
+    {
+      "image": "level1_14_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kigoe changu cha kuchezea tenisi kimepotea.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 2,
+                    "word": "Kigoe"
+                  },
+                  {
+                    "end": 144,
+                    "start": 83,
+                    "word": "changu"
+                  },
+                  {
+                    "end": 162,
+                    "start": 145,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 251,
+                    "start": 163,
+                    "word": "kuchezea"
+                  },
+                  {
+                    "end": 312,
+                    "start": 252,
+                    "word": "tenisi"
+                  },
+                  {
+                    "end": 409,
+                    "start": 313,
+                    "word": "kimepotea"
+                  }
+                ],
+                "until": 409,
+                "utterances": "Kigoe changu cha kuchezea tenisi kimepotea"
+              }
+            ],
+            "sentence": "Kigoe changu cha kuchezea tenisi kimepotea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sijui kimeenda wapi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 21,
+                    "word": "Sijui"
+                  },
+                  {
+                    "end": 151,
+                    "start": 78,
+                    "word": "kimeenda"
+                  },
+                  {
+                    "end": 212,
+                    "start": 152,
+                    "word": "wapi"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Sijui kimeenda wapi"
+              }
+            ],
+            "sentence": "Sijui kimeenda wapi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_14_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikitafuta nyuma ya mlango.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 176,
+                    "start": 18,
+                    "word": "Nilikitafuta"
+                  },
+                  {
+                    "end": 216,
+                    "start": 177,
+                    "word": "nyuma"
+                  },
+                  {
+                    "end": 238,
+                    "start": 217,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 304,
+                    "start": 239,
+                    "word": "mlango"
+                  }
+                ],
+                "until": 304,
+                "utterances": "Nilikitafuta nyuma ya mlango"
+              }
+            ],
+            "sentence": "Nilikitafuta nyuma ya mlango."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lakini sikukiona.mp3",
+                "from": 31,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 31,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 187,
+                    "start": 79,
+                    "word": "sikukiona"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Lakini sikukiona"
+              }
+            ],
+            "sentence": "Lakini sikukiona."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_14_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikitafuta juu ya kabati.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 129,
+                    "start": 20,
+                    "word": "Nilikitafuta"
+                  },
+                  {
+                    "end": 154,
+                    "start": 130,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 173,
+                    "start": 155,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 247,
+                    "start": 174,
+                    "word": "kabati"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Nilikitafuta juu ya kabati"
+              }
+            ],
+            "sentence": "Nilikitafuta juu ya kabati."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini sikukiona.mp3",
+                "from": 31,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 31,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 187,
+                    "start": 79,
+                    "word": "sikukiona"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Lakini sikukiona"
+              }
+            ],
+            "sentence": "Lakini sikukiona."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_14_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikitafuta chini ya kitanda.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 147,
+                    "start": 30,
+                    "word": "Nilikitafuta"
+                  },
+                  {
+                    "end": 184,
+                    "start": 148,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 193,
+                    "start": 185,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 263,
+                    "start": 194,
+                    "word": "kitanda"
+                  }
+                ],
+                "until": 263,
+                "utterances": "Nilikitafuta chini ya kitanda"
+              }
+            ],
+            "sentence": "Nilikitafuta chini ya kitanda."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hata hapo sikukiona.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 19,
+                    "word": "Hata"
+                  },
+                  {
+                    "end": 99,
+                    "start": 60,
+                    "word": "hapo"
+                  },
+                  {
+                    "end": 198,
+                    "start": 100,
+                    "word": "sikukiona"
+                  }
+                ],
+                "until": 198,
+                "utterances": "Hata hapo sikukiona"
+              }
+            ],
+            "sentence": "Hata hapo sikukiona."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_14_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikitafuta ndani ya sanduku.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 118,
+                    "start": 21,
+                    "word": "Nilikitafuta"
+                  },
+                  {
+                    "end": 157,
+                    "start": 119,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 163,
+                    "start": 158,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 235,
+                    "start": 164,
+                    "word": "sanduku"
+                  }
+                ],
+                "until": 235,
+                "utterances": "Nilikitafuta ndani ya sanduku"
+              }
+            ],
+            "sentence": "Nilikitafuta ndani ya sanduku."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini hapakuwa na dalili yake pale.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 157,
+                    "start": 80,
+                    "word": "hapakuwa"
+                  },
+                  {
+                    "end": 178,
+                    "start": 158,
+                    "word": "na"
+                  },
+                  {
+                    "end": 246,
+                    "start": 179,
+                    "word": "dalili"
+                  },
+                  {
+                    "end": 277,
+                    "start": 247,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 328,
+                    "start": 278,
+                    "word": "pale"
+                  }
+                ],
+                "until": 328,
+                "utterances": "Lakini hapakuwa na dalili yake pale"
+              }
+            ],
+            "sentence": "Lakini hapakuwa na dalili yake pale."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_14_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikitafuta katika dari.mp3",
+                "from": 25,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 25,
+                    "word": "Nilikitafuta"
+                  },
+                  {
+                    "end": 189,
+                    "start": 132,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 229,
+                    "start": 190,
+                    "word": "dari"
+                  }
+                ],
+                "until": 229,
+                "utterances": "Nilikitafuta katika dari"
+              }
+            ],
+            "sentence": "Nilikitafuta katika dari."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_14_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Niliangalia hapa na pale nikaangalia kila mahali.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 18,
+                    "word": "Niliangalia"
+                  },
+                  {
+                    "end": 190,
+                    "start": 144,
+                    "word": "hapa"
+                  },
+                  {
+                    "end": 236,
+                    "start": 225,
+                    "word": "na"
+                  },
+                  {
+                    "end": 293,
+                    "start": 237,
+                    "word": "pale"
+                  },
+                  {
+                    "end": 412,
+                    "start": 324,
+                    "word": "nikaangalia"
+                  },
+                  {
+                    "end": 474,
+                    "start": 413,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 532,
+                    "start": 475,
+                    "word": "mahali"
+                  }
+                ],
+                "until": 532,
+                "utterances": "Niliangalia hapa na pale nikaangalia kila mahali"
+              }
+            ],
+            "sentence": "Niliangalia hapa na pale, nikaangalia kila mahali."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini sikukiona.mp3",
+                "from": 31,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 31,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 187,
+                    "start": 79,
+                    "word": "sikukiona"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Lakini sikukiona"
+              }
+            ],
+            "sentence": "Lakini sikukiona."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_14_page_09_image_0001.jpg",
+      "text": []
+    }
+  ],
+  "illustrators": "Rijuta Ghate",
+  "language": "Kiswahili",
+  "level": "1",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Mutugi Kamundi",
+  "title": "Wapi kigoe changu?",
+  "titleimage": "level1_14_page_01_image_0001.jpg"
+}

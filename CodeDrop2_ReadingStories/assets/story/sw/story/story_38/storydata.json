@@ -1,0 +1,973 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level2_26_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kijiji cha Kobole kilikuwa kidogo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 2,
+                    "word": "Kijiji"
+                  },
+                  {
+                    "end": 112,
+                    "start": 96,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 144,
+                    "start": 113,
+                    "word": "Kobole"
+                  },
+                  {
+                    "end": 258,
+                    "start": 189,
+                    "word": "kilikuwa"
+                  },
+                  {
+                    "end": 330,
+                    "start": 259,
+                    "word": "kidogo"
+                  }
+                ],
+                "until": 330,
+                "utterances": "Kijiji cha Kobole kilikuwa kidogo"
+              }
+            ],
+            "sentence": "Kijiji cha Kobole kilikuwa kidogo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alasiri moja Kobole alikuwa akiokota matunda.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Alasiri"
+                  },
+                  {
+                    "end": 156,
+                    "start": 94,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 234,
+                    "start": 157,
+                    "word": "Kobole"
+                  },
+                  {
+                    "end": 317,
+                    "start": 235,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 409,
+                    "start": 318,
+                    "word": "akiokota"
+                  },
+                  {
+                    "end": 477,
+                    "start": 410,
+                    "word": "matunda"
+                  }
+                ],
+                "until": 477,
+                "utterances": "Alasiri moja Kobole alikuwa akiokota matunda"
+              }
+            ],
+            "sentence": "Alasiri moja, Kobole alikuwa akiokota matunda."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alishuhudia tukio lisilokuwa la kawaida.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 125,
+                    "start": 20,
+                    "word": "Alishuhudia"
+                  },
+                  {
+                    "end": 194,
+                    "start": 126,
+                    "word": "tukio"
+                  },
+                  {
+                    "end": 295,
+                    "start": 195,
+                    "word": "lisilokuwa"
+                  },
+                  {
+                    "end": 312,
+                    "start": 296,
+                    "word": "la"
+                  },
+                  {
+                    "end": 387,
+                    "start": 313,
+                    "word": "kawaida"
+                  }
+                ],
+                "until": 387,
+                "utterances": "Alishuhudia tukio lisilokuwa la kawaida"
+              }
+            ],
+            "sentence": "Alishuhudia tukio lisilokuwa la kawaida."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliona mistari ya rangi rangi angani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Aliona"
+                  },
+                  {
+                    "end": 169,
+                    "start": 89,
+                    "word": "mistari"
+                  },
+                  {
+                    "end": 175,
+                    "start": 170,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 233,
+                    "start": 176,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 290,
+                    "start": 234,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 368,
+                    "start": 291,
+                    "word": "angani"
+                  }
+                ],
+                "until": 368,
+                "utterances": "Aliona mistari ya rangi rangi angani"
+              }
+            ],
+            "sentence": "Aliona mistari ya rangi rangi angani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliangusha matunda chini.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 120,
+                    "start": 21,
+                    "word": "Aliangusha"
+                  },
+                  {
+                    "end": 182,
+                    "start": 121,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 247,
+                    "start": 183,
+                    "word": "chini"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Aliangusha matunda chini"
+              }
+            ],
+            "sentence": "Aliangusha matunda chini."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikimbia nyumbani kuwaambia wanakijiji.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 22,
+                    "word": "Alikimbia"
+                  },
+                  {
+                    "end": 203,
+                    "start": 116,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 311,
+                    "start": 204,
+                    "word": "kuwaambia"
+                  },
+                  {
+                    "end": 427,
+                    "start": 312,
+                    "word": "wanakijiji"
+                  }
+                ],
+                "until": 427,
+                "utterances": "Alikimbia nyumbani kuwaambia wanakijiji"
+              }
+            ],
+            "sentence": "Alikimbia nyumbani kuwaambia wanakijiji."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliwapata watu wote wamesimama nje wakiangalia angani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 21,
+                    "word": "Aliwapata"
+                  },
+                  {
+                    "end": 151,
+                    "start": 114,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 212,
+                    "start": 152,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 332,
+                    "start": 248,
+                    "word": "wamesimama"
+                  },
+                  {
+                    "end": 396,
+                    "start": 333,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 540,
+                    "start": 422,
+                    "word": "wakiangalia"
+                  },
+                  {
+                    "end": 624,
+                    "start": 541,
+                    "word": "angani"
+                  }
+                ],
+                "until": 624,
+                "utterances": "Aliwapata watu wote wamesimama nje wakiangalia angani"
+              }
+            ],
+            "sentence": "Aliwapata watu wote wamesimama nje wakiangalia angani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kobole alisema Ni shuka maridadi inaning_inia kutoka angani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 2,
+                    "word": "Kobole"
+                  },
+                  {
+                    "end": 165,
+                    "start": 70,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 251,
+                    "start": 231,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 316,
+                    "start": 252,
+                    "word": "shuka"
+                  },
+                  {
+                    "end": 418,
+                    "start": 317,
+                    "word": "maridadi"
+                  },
+                  {
+                    "end": 545,
+                    "start": 422,
+                    "word": "inaning'inia"
+                  },
+                  {
+                    "end": 631,
+                    "start": 546,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 739,
+                    "start": 632,
+                    "word": "angani"
+                  }
+                ],
+                "until": 739,
+                "utterances": "Kobole alisema Ni shuka maridadi inaning'inia kutoka angani"
+              }
+            ],
+            "sentence": "Kobole alisema, \"Ni shuka maridadi inaning'inia kutoka angani.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Neno alisema La.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 16,
+                    "word": "Neno"
+                  },
+                  {
+                    "end": 145,
+                    "start": 72,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 230,
+                    "start": 188,
+                    "word": "La"
+                  }
+                ],
+                "until": 230,
+                "utterances": "Neno alisema La"
+              }
+            ],
+            "sentence": "Neno alisema, \"La!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ni mtu anamwaga rangi tofauti kutoka angani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 21,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 91,
+                    "start": 38,
+                    "word": "mtu"
+                  },
+                  {
+                    "end": 167,
+                    "start": 92,
+                    "word": "anamwaga"
+                  },
+                  {
+                    "end": 217,
+                    "start": 168,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 295,
+                    "start": 218,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 361,
+                    "start": 296,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 445,
+                    "start": 362,
+                    "word": "angani"
+                  }
+                ],
+                "until": 445,
+                "utterances": "Ni mtu anamwaga rangi tofauti kutoka angani"
+              }
+            ],
+            "sentence": "Ni mtu anamwaga rangi tofauti kutoka angani.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watu wengine walikubaliana na Kobole huku wengine wakimwamini Neno.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 19,
+                    "word": "Watu"
+                  },
+                  {
+                    "end": 134,
+                    "start": 56,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 290,
+                    "start": 169,
+                    "word": "walikubaliana"
+                  },
+                  {
+                    "end": 312,
+                    "start": 291,
+                    "word": "na"
+                  },
+                  {
+                    "end": 365,
+                    "start": 313,
+                    "word": "Kobole"
+                  },
+                  {
+                    "end": 444,
+                    "start": 366,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 504,
+                    "start": 445,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 608,
+                    "start": 505,
+                    "word": "wakimwamini"
+                  },
+                  {
+                    "end": 656,
+                    "start": 609,
+                    "word": "Neno"
+                  }
+                ],
+                "until": 656,
+                "utterances": "Watu wengine walikubaliana na Kobole huku wengine wakimwamini Neno"
+              }
+            ],
+            "sentence": "Watu wengine walikubaliana na Kobole huku wengine wakimwamini Neno."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Vikundi hivyo viwili vilibishana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Vikundi"
+                  },
+                  {
+                    "end": 103,
+                    "start": 63,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 157,
+                    "start": 104,
+                    "word": "viwili"
+                  },
+                  {
+                    "end": 292,
+                    "start": 158,
+                    "word": "vilibishana"
+                  }
+                ],
+                "until": 292,
+                "utterances": "Vikundi hivyo viwili vilibishana"
+              }
+            ],
+            "sentence": "Vikundi hivyo viwili vilibishana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mwanamme kutoka kijiji cha mbali alitokea na kusema Mmekosea nyote.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 19,
+                    "word": "Mwanamme"
+                  },
+                  {
+                    "end": 201,
+                    "start": 110,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 273,
+                    "start": 202,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 295,
+                    "start": 274,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 353,
+                    "start": 296,
+                    "word": "mbali"
+                  },
+                  {
+                    "end": 437,
+                    "start": 357,
+                    "word": "alitokea"
+                  },
+                  {
+                    "end": 454,
+                    "start": 438,
+                    "word": "na"
+                  },
+                  {
+                    "end": 515,
+                    "start": 455,
+                    "word": "kusema"
+                  },
+                  {
+                    "end": 697,
+                    "start": 561,
+                    "word": "Mmekosea"
+                  },
+                  {
+                    "end": 773,
+                    "start": 698,
+                    "word": "nyote"
+                  }
+                ],
+                "until": 773,
+                "utterances": "Mwanamme kutoka kijiji cha mbali alitokea na kusema Mmekosea nyote"
+              }
+            ],
+            "sentence": "Mwanamme kutoka kijiji cha mbali alitokea na kusema, \"Mmekosea nyote.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watu walipiga mayowe Kwa hivyo ni nini.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 16,
+                    "word": "Watu"
+                  },
+                  {
+                    "end": 148,
+                    "start": 68,
+                    "word": "walipiga"
+                  },
+                  {
+                    "end": 212,
+                    "start": 149,
+                    "word": "mayowe"
+                  },
+                  {
+                    "end": 271,
+                    "start": 254,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 309,
+                    "start": 272,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 328,
+                    "start": 310,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 400,
+                    "start": 329,
+                    "word": "nini"
+                  }
+                ],
+                "until": 400,
+                "utterances": "Watu walipiga mayowe Kwa hivyo ni nini"
+              }
+            ],
+            "sentence": "Watu walipiga mayowe, \"Kwa hivyo ni nini?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Yule mgeni alisema Ni upinde.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 21,
+                    "word": "Yule"
+                  },
+                  {
+                    "end": 120,
+                    "start": 56,
+                    "word": "mgeni"
+                  },
+                  {
+                    "end": 203,
+                    "start": 124,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 271,
+                    "start": 252,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 348,
+                    "start": 272,
+                    "word": "upinde"
+                  }
+                ],
+                "until": 348,
+                "utterances": "Yule mgeni alisema Ni upinde"
+              }
+            ],
+            "sentence": "Yule mgeni alisema, \"Ni upinde."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kwani humjawahi kuona upinde.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 2,
+                    "word": "Kwani"
+                  },
+                  {
+                    "end": 197,
+                    "start": 104,
+                    "word": "humjawahi"
+                  },
+                  {
+                    "end": 274,
+                    "start": 198,
+                    "word": "kuona"
+                  },
+                  {
+                    "end": 350,
+                    "start": 275,
+                    "word": "upinde"
+                  }
+                ],
+                "until": 350,
+                "utterances": "Kwani humjawahi kuona upinde"
+              }
+            ],
+            "sentence": "Kwani humjawahi kuona upinde?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "La u-p-i-n-d-e ni nini.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 22,
+                    "word": "La"
+                  },
+                  {
+                    "end": 298,
+                    "start": 216,
+                    "word": "u-p-i-n-d-e"
+                  },
+                  {
+                    "end": 383,
+                    "start": 354,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 469,
+                    "start": 384,
+                    "word": "nini"
+                  }
+                ],
+                "until": 469,
+                "utterances": "La u-p-i-n-d-e ni nini"
+              }
+            ],
+            "sentence": "\"La, u-p-i-n-d-e ni nini?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "waliuliza wote huku wakimwangalia yule mgeni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 118,
+                    "start": 20,
+                    "word": "waliuliza"
+                  },
+                  {
+                    "end": 166,
+                    "start": 119,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 240,
+                    "start": 203,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 346,
+                    "start": 241,
+                    "word": "wakimwangalia"
+                  },
+                  {
+                    "end": 386,
+                    "start": 347,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 456,
+                    "start": 387,
+                    "word": "mgeni"
+                  }
+                ],
+                "until": 456,
+                "utterances": "waliuliza wote huku wakimwangalia yule mgeni"
+              }
+            ],
+            "sentence": "waliuliza wote huku wakimwangalia yule mgeni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_26_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Neno aliuliza Je ni wetu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 20,
+                    "word": "Neno"
+                  },
+                  {
+                    "end": 181,
+                    "start": 88,
+                    "word": "aliuliza"
+                  },
+                  {
+                    "end": 254,
+                    "start": 221,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 318,
+                    "start": 301,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 408,
+                    "start": 319,
+                    "word": "wetu"
+                  }
+                ],
+                "until": 408,
+                "utterances": "Neno aliuliza Je ni wetu"
+              }
+            ],
+            "sentence": "Neno aliuliza, \"Je, ni wetu?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tunaweza kuuweka hapa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 20,
+                    "word": "Tunaweza"
+                  },
+                  {
+                    "end": 172,
+                    "start": 93,
+                    "word": "kuuweka"
+                  },
+                  {
+                    "end": 253,
+                    "start": 173,
+                    "word": "hapa"
+                  }
+                ],
+                "until": 253,
+                "utterances": "Tunaweza kuuweka hapa"
+              }
+            ],
+            "sentence": "Tunaweza kuuweka hapa?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini mwanamme huyu alikuwa tayari ameenda zake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 141,
+                    "start": 81,
+                    "word": "mwanamme"
+                  },
+                  {
+                    "end": 198,
+                    "start": 142,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 295,
+                    "start": 232,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 384,
+                    "start": 296,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 488,
+                    "start": 408,
+                    "word": "ameenda"
+                  },
+                  {
+                    "end": 544,
+                    "start": 489,
+                    "word": "zake"
+                  }
+                ],
+                "until": 544,
+                "utterances": "Lakini mwanamme huyu alikuwa tayari ameenda zake"
+              }
+            ],
+            "sentence": "Lakini mwanamme huyu alikuwa tayari ameenda zake."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Siku Upinde ulitembelea kijiji",
+  "titleimage": "level2_26_page_01_image_0001.jpg"
+}

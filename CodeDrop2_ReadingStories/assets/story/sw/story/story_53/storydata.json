@@ -1,0 +1,1352 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level1_2_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mama alikuwa anamalizia kuweka nguo zake katika begi ndogo.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 19,
+                    "word": "Mama"
+                  },
+                  {
+                    "end": 145,
+                    "start": 73,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 248,
+                    "start": 146,
+                    "word": "anamalizia"
+                  },
+                  {
+                    "end": 312,
+                    "start": 249,
+                    "word": "kuweka"
+                  },
+                  {
+                    "end": 353,
+                    "start": 313,
+                    "word": "nguo"
+                  },
+                  {
+                    "end": 395,
+                    "start": 354,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 445,
+                    "start": 396,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 488,
+                    "start": 446,
+                    "word": "begi"
+                  },
+                  {
+                    "end": 534,
+                    "start": 489,
+                    "word": "ndogo"
+                  }
+                ],
+                "until": 534,
+                "utterances": "Mama alikuwa anamalizia kuweka nguo zake katika begi ndogo"
+              }
+            ],
+            "sentence": "Mama alikuwa anamalizia kuweka nguo zake katika begi ndogo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alipokuwa akipita mlangoni alinikumbatia na kusema Kwa heri kwa sasa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 20,
+                    "word": "Alipokuwa"
+                  },
+                  {
+                    "end": 196,
+                    "start": 107,
+                    "word": "akipita"
+                  },
+                  {
+                    "end": 289,
+                    "start": 197,
+                    "word": "mlangoni"
+                  },
+                  {
+                    "end": 442,
+                    "start": 318,
+                    "word": "alinikumbatia"
+                  },
+                  {
+                    "end": 464,
+                    "start": 443,
+                    "word": "na"
+                  },
+                  {
+                    "end": 535,
+                    "start": 465,
+                    "word": "kusema"
+                  },
+                  {
+                    "end": 586,
+                    "start": 557,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 629,
+                    "start": 587,
+                    "word": "heri"
+                  },
+                  {
+                    "end": 648,
+                    "start": 630,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 712,
+                    "start": 649,
+                    "word": "sasa"
+                  }
+                ],
+                "until": 712,
+                "utterances": "Alipokuwa akipita mlangoni alinikumbatia na kusema Kwa heri kwa sasa"
+              }
+            ],
+            "sentence": "Alipokuwa akipita mlangoni, alinikumbatia na kusema, \"Kwa heri kwa sasa.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Unaenda wapi mama.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 21,
+                    "word": "Unaenda"
+                  },
+                  {
+                    "end": 141,
+                    "start": 95,
+                    "word": "wapi"
+                  },
+                  {
+                    "end": 211,
+                    "start": 142,
+                    "word": "mama"
+                  }
+                ],
+                "until": 211,
+                "utterances": "Unaenda wapi mama"
+              }
+            ],
+            "sentence": "\"Unaenda wapi, mama?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "nilimwuliza huku nikimwangalia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 20,
+                    "word": "nilimwuliza"
+                  },
+                  {
+                    "end": 152,
+                    "start": 115,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 276,
+                    "start": 153,
+                    "word": "nikimwangalia"
+                  }
+                ],
+                "until": 276,
+                "utterances": "nilimwuliza huku nikimwangalia"
+              }
+            ],
+            "sentence": "nilimwuliza huku nikimwangalia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilianza kulia nikitaka kumfuata.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 21,
+                    "word": "Nilianza"
+                  },
+                  {
+                    "end": 172,
+                    "start": 92,
+                    "word": "kulia"
+                  },
+                  {
+                    "end": 267,
+                    "start": 205,
+                    "word": "nikitaka"
+                  },
+                  {
+                    "end": 379,
+                    "start": 268,
+                    "word": "kumfuata"
+                  }
+                ],
+                "until": 379,
+                "utterances": "Nilianza kulia nikitaka kumfuata"
+              }
+            ],
+            "sentence": "Nilianza kulia nikitaka kumfuata."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini baba alinibeba juu begani kwake.mp3",
+                "from": 49,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 49,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 140,
+                    "start": 99,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 236,
+                    "start": 141,
+                    "word": "alinibeba"
+                  },
+                  {
+                    "end": 313,
+                    "start": 237,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 368,
+                    "start": 314,
+                    "word": "begani"
+                  },
+                  {
+                    "end": 421,
+                    "start": 369,
+                    "word": "kwake"
+                  }
+                ],
+                "until": 421,
+                "utterances": "Lakini baba alinibeba juu begani kwake"
+              }
+            ],
+            "sentence": "Lakini, baba alinibeba juu begani kwake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baba alisema Mamako anaenda hospitalini kujifungua mtoto.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Baba"
+                  },
+                  {
+                    "end": 136,
+                    "start": 56,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 236,
+                    "start": 181,
+                    "word": "Mamako"
+                  },
+                  {
+                    "end": 295,
+                    "start": 237,
+                    "word": "anaenda"
+                  },
+                  {
+                    "end": 420,
+                    "start": 296,
+                    "word": "hospitalini"
+                  },
+                  {
+                    "end": 532,
+                    "start": 434,
+                    "word": "kujifungua"
+                  },
+                  {
+                    "end": 608,
+                    "start": 533,
+                    "word": "mtoto"
+                  }
+                ],
+                "until": 608,
+                "utterances": "Baba alisema Mamako anaenda hospitalini kujifungua mtoto"
+              }
+            ],
+            "sentence": "Baba alisema, \"Mamako anaenda hospitalini kujifungua mtoto.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Niliposikia mtoto niliacha kulia na kumwangalia baba.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 135,
+                    "start": 20,
+                    "word": "Niliposikia"
+                  },
+                  {
+                    "end": 238,
+                    "start": 136,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 326,
+                    "start": 265,
+                    "word": "niliacha"
+                  },
+                  {
+                    "end": 383,
+                    "start": 327,
+                    "word": "kulia"
+                  },
+                  {
+                    "end": 424,
+                    "start": 411,
+                    "word": "na"
+                  },
+                  {
+                    "end": 508,
+                    "start": 425,
+                    "word": "kumwangalia"
+                  },
+                  {
+                    "end": 553,
+                    "start": 509,
+                    "word": "baba"
+                  }
+                ],
+                "until": 553,
+                "utterances": "Niliposikia mtoto niliacha kulia na kumwangalia baba"
+              }
+            ],
+            "sentence": "Niliposikia \"mtoto\", niliacha kulia na kumwangalia baba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa nini anaenda kumpata mtoto hospitalini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 86,
+                    "start": 32,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 151,
+                    "start": 87,
+                    "word": "anaenda"
+                  },
+                  {
+                    "end": 223,
+                    "start": 152,
+                    "word": "kumpata"
+                  },
+                  {
+                    "end": 274,
+                    "start": 224,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 395,
+                    "start": 275,
+                    "word": "hospitalini"
+                  }
+                ],
+                "until": 395,
+                "utterances": "Kwa nini anaenda kumpata mtoto hospitalini"
+              }
+            ],
+            "sentence": "\"Kwa nini anaenda kumpata mtoto hospitalini?\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "nilimuuliza.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 129,
+                    "start": 21,
+                    "word": "nilimuuliza"
+                  }
+                ],
+                "until": 129,
+                "utterances": "nilimuuliza"
+              }
+            ],
+            "sentence": ", nilimuuliza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baba alinikalisha juu ya kiti kidogo na kusema Nitakueleza kwa nini anaenda kumpata mtoto hospitalin_1(1).mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Baba"
+                  },
+                  {
+                    "end": 175,
+                    "start": 56,
+                    "word": "alinikalisha"
+                  },
+                  {
+                    "end": 207,
+                    "start": 176,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 227,
+                    "start": 208,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 268,
+                    "start": 228,
+                    "word": "kiti"
+                  },
+                  {
+                    "end": 323,
+                    "start": 269,
+                    "word": "kidogo"
+                  },
+                  {
+                    "end": 338,
+                    "start": 324,
+                    "word": "na"
+                  },
+                  {
+                    "end": 405,
+                    "start": 339,
+                    "word": "kusema"
+                  },
+                  {
+                    "end": 558,
+                    "start": 445,
+                    "word": "Nitakueleza"
+                  },
+                  {
+                    "end": 579,
+                    "start": 559,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 621,
+                    "start": 580,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 684,
+                    "start": 622,
+                    "word": "anaenda"
+                  },
+                  {
+                    "end": 758,
+                    "start": 685,
+                    "word": "kumpata"
+                  },
+                  {
+                    "end": 812,
+                    "start": 759,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 933,
+                    "start": 813,
+                    "word": "hospitalini"
+                  }
+                ],
+                "until": 933,
+                "utterances": "Baba alinikalisha juu ya kiti kidogo na kusema Nitakueleza kwa nini anaenda kumpata mtoto hospitalini"
+              }
+            ],
+            "sentence": "Baba alinikalisha juu ya kiti kidogo na kusema, \"Nitakueleza kwa nini anaenda kumpata mtoto hospitalini.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilisikiliza kwa makini aliponielezea ingawa sikuelewa kwa nini hakumpata mtoto akiwa nyumbani.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 140,
+                    "start": 19,
+                    "word": "Nilisikiliza"
+                  },
+                  {
+                    "end": 169,
+                    "start": 141,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 285,
+                    "start": 170,
+                    "word": "makini"
+                  },
+                  {
+                    "end": 469,
+                    "start": 314,
+                    "word": "aliponielezea"
+                  },
+                  {
+                    "end": 550,
+                    "start": 500,
+                    "word": "ingawa"
+                  },
+                  {
+                    "end": 642,
+                    "start": 551,
+                    "word": "sikuelewa"
+                  },
+                  {
+                    "end": 665,
+                    "start": 643,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 718,
+                    "start": 666,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 824,
+                    "start": 740,
+                    "word": "hakumpata"
+                  },
+                  {
+                    "end": 874,
+                    "start": 825,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 917,
+                    "start": 875,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 1000,
+                    "start": 918,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 1000,
+                "utterances": "Nilisikiliza kwa makini aliponielezea ingawa sikuelewa kwa nini hakumpata mtoto akiwa nyumbani"
+              }
+            ],
+            "sentence": "Nilisikiliza kwa makini aliponielezea ingawa sikuelewa kwa nini hakumpata mtoto akiwa nyumbani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alipomaliza kunielezea nilimuuliza Je ataendelea kunipenda hata baada ya kurudi na mtoto mwingine.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 132,
+                    "start": 21,
+                    "word": "Alipomaliza"
+                  },
+                  {
+                    "end": 244,
+                    "start": 133,
+                    "word": "kunielezea"
+                  },
+                  {
+                    "end": 390,
+                    "start": 281,
+                    "word": "nilimuuliza"
+                  },
+                  {
+                    "end": 468,
+                    "start": 430,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 643,
+                    "start": 517,
+                    "word": "ataendelea"
+                  },
+                  {
+                    "end": 739,
+                    "start": 644,
+                    "word": "kunipenda"
+                  },
+                  {
+                    "end": 781,
+                    "start": 740,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 834,
+                    "start": 782,
+                    "word": "baada"
+                  },
+                  {
+                    "end": 849,
+                    "start": 835,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 913,
+                    "start": 850,
+                    "word": "kurudi"
+                  },
+                  {
+                    "end": 934,
+                    "start": 914,
+                    "word": "na"
+                  },
+                  {
+                    "end": 988,
+                    "start": 935,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 1081,
+                    "start": 989,
+                    "word": "mwingine"
+                  }
+                ],
+                "until": 1081,
+                "utterances": "Alipomaliza kunielezea nilimuuliza Je ataendelea kunipenda hata baada ya kurudi na mtoto mwingine"
+              }
+            ],
+            "sentence": "Alipomaliza kunielezea, nilimuuliza, \"Je, ataendelea kunipenda hata baada ya kurudi na mtoto mwingine?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Babangu alinibeba na kuniambia Tutakupenda wakati wote.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 2,
+                    "word": "Babangu"
+                  },
+                  {
+                    "end": 178,
+                    "start": 83,
+                    "word": "alinibeba"
+                  },
+                  {
+                    "end": 197,
+                    "start": 179,
+                    "word": "na"
+                  },
+                  {
+                    "end": 289,
+                    "start": 198,
+                    "word": "kuniambia"
+                  },
+                  {
+                    "end": 517,
+                    "start": 348,
+                    "word": "Tutakupenda"
+                  },
+                  {
+                    "end": 600,
+                    "start": 518,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 676,
+                    "start": 601,
+                    "word": "wote"
+                  }
+                ],
+                "until": 676,
+                "utterances": "Babangu alinibeba na kuniambia Tutakupenda wakati wote"
+              }
+            ],
+            "sentence": "Babangu alinibeba na kuniambia, \"Tutakupenda wakati wote.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ninaweza kumwandikia barua akiwa huko.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 1,
+                    "word": "Ninaweza"
+                  },
+                  {
+                    "end": 229,
+                    "start": 104,
+                    "word": "kumwandikia"
+                  },
+                  {
+                    "end": 277,
+                    "start": 230,
+                    "word": "barua"
+                  },
+                  {
+                    "end": 354,
+                    "start": 278,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 438,
+                    "start": 355,
+                    "word": "huko"
+                  }
+                ],
+                "until": 438,
+                "utterances": "Ninaweza kumwandikia barua akiwa huko"
+              }
+            ],
+            "sentence": "\"Ninaweza kumwandikia barua akiwa huko?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "nilimuuliza baba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 128,
+                    "start": 21,
+                    "word": "nilimuuliza"
+                  },
+                  {
+                    "end": 167,
+                    "start": 129,
+                    "word": "baba"
+                  }
+                ],
+                "until": 167,
+                "utterances": "nilimuuliza baba"
+              }
+            ],
+            "sentence": "nilimuuliza baba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jioni hiyo nilianza kumtungia mama barua.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 20,
+                    "word": "Jioni"
+                  },
+                  {
+                    "end": 124,
+                    "start": 66,
+                    "word": "hiyo"
+                  },
+                  {
+                    "end": 217,
+                    "start": 150,
+                    "word": "nilianza"
+                  },
+                  {
+                    "end": 306,
+                    "start": 218,
+                    "word": "kumtungia"
+                  },
+                  {
+                    "end": 354,
+                    "start": 307,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 401,
+                    "start": 355,
+                    "word": "barua"
+                  }
+                ],
+                "until": 401,
+                "utterances": "Jioni hiyo nilianza kumtungia mama barua"
+              }
+            ],
+            "sentence": "Jioni hiyo, nilianza kumtungia mama barua."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilirarua karatasi kutoka daftari langu na kuanza kuandika.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 19,
+                    "word": "Nilirarua"
+                  },
+                  {
+                    "end": 192,
+                    "start": 107,
+                    "word": "karatasi"
+                  },
+                  {
+                    "end": 240,
+                    "start": 193,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 308,
+                    "start": 241,
+                    "word": "daftari"
+                  },
+                  {
+                    "end": 355,
+                    "start": 309,
+                    "word": "langu"
+                  },
+                  {
+                    "end": 406,
+                    "start": 396,
+                    "word": "na"
+                  },
+                  {
+                    "end": 460,
+                    "start": 407,
+                    "word": "kuanza"
+                  },
+                  {
+                    "end": 543,
+                    "start": 461,
+                    "word": "kuandika"
+                  }
+                ],
+                "until": 543,
+                "utterances": "Nilirarua karatasi kutoka daftari langu na kuanza kuandika"
+              }
+            ],
+            "sentence": "Nilirarua karatasi kutoka daftari langu na kuanza kuandika..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mama mama baba alisema kwamba umeenda kumleta mtoto mwingine.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 16,
+                    "word": "Mama"
+                  },
+                  {
+                    "end": 187,
+                    "start": 131,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 282,
+                    "start": 241,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 379,
+                    "start": 292,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 451,
+                    "start": 380,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 544,
+                    "start": 480,
+                    "word": "umeenda"
+                  },
+                  {
+                    "end": 614,
+                    "start": 545,
+                    "word": "kumleta"
+                  },
+                  {
+                    "end": 669,
+                    "start": 615,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 754,
+                    "start": 670,
+                    "word": "mwingine"
+                  }
+                ],
+                "until": 754,
+                "utterances": "Mama mama baba alisema kwamba umeenda kumleta mtoto mwingine"
+              }
+            ],
+            "sentence": "\"Mama, mama, baba alisema kwamba umeenda kumleta mtoto mwingine..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "..."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tafadhali harakisha urudi nyumbani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 21,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 199,
+                    "start": 102,
+                    "word": "harakisha"
+                  },
+                  {
+                    "end": 280,
+                    "start": 233,
+                    "word": "urudi"
+                  },
+                  {
+                    "end": 360,
+                    "start": 281,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 360,
+                "utterances": "Tafadhali harakisha urudi nyumbani"
+              }
+            ],
+            "sentence": "Tafadhali, harakisha urudi nyumbani..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "..."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ningependa umlete mtoto msichana ili niweze kucheza naye akiwa mkubwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 20,
+                    "word": "Ningependa"
+                  },
+                  {
+                    "end": 176,
+                    "start": 98,
+                    "word": "umlete"
+                  },
+                  {
+                    "end": 231,
+                    "start": 177,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 303,
+                    "start": 232,
+                    "word": "msichana"
+                  },
+                  {
+                    "end": 375,
+                    "start": 348,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 424,
+                    "start": 376,
+                    "word": "niweze"
+                  },
+                  {
+                    "end": 481,
+                    "start": 425,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 587,
+                    "start": 482,
+                    "word": "naye"
+                  },
+                  {
+                    "end": 627,
+                    "start": 588,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 699,
+                    "start": 628,
+                    "word": "mkubwa"
+                  }
+                ],
+                "until": 699,
+                "utterances": "Ningependa umlete mtoto msichana ili niweze kucheza naye akiwa mkubwa"
+              }
+            ],
+            "sentence": "Ningependa umlete mtoto msichana, ili niweze kucheza naye akiwa mkubwa..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "..."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Unaweza kuleta wawili ili mmoja awe wangu.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 22,
+                    "word": "Unaweza"
+                  },
+                  {
+                    "end": 158,
+                    "start": 95,
+                    "word": "kuleta"
+                  },
+                  {
+                    "end": 234,
+                    "start": 159,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 292,
+                    "start": 266,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 347,
+                    "start": 293,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 393,
+                    "start": 348,
+                    "word": "awe"
+                  },
+                  {
+                    "end": 463,
+                    "start": 394,
+                    "word": "wangu"
+                  }
+                ],
+                "until": 463,
+                "utterances": "Unaweza kuleta wawili ili mmoja awe wangu"
+              }
+            ],
+            "sentence": "Unaweza kuleta wawili ili mmoja awe wangu..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_18_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "..."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ninakusubiri hapa nje ya nyumba yetu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 143,
+                    "start": 20,
+                    "word": "Ninakusubiri"
+                  },
+                  {
+                    "end": 187,
+                    "start": 144,
+                    "word": "hapa"
+                  },
+                  {
+                    "end": 235,
+                    "start": 188,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 243,
+                    "start": 236,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 284,
+                    "start": 244,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 318,
+                    "start": 285,
+                    "word": "yetu"
+                  }
+                ],
+                "until": 318,
+                "utterances": "Ninakusubiri hapa nje ya nyumba yetu"
+              }
+            ],
+            "sentence": "Ninakusubiri hapa nje ya nyumba yetu.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_2_page_19_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Niliikunja barua yangu ili baba ampelekee mama.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 21,
+                    "word": "Niliikunja"
+                  },
+                  {
+                    "end": 156,
+                    "start": 106,
+                    "word": "barua"
+                  },
+                  {
+                    "end": 202,
+                    "start": 157,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 269,
+                    "start": 244,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 313,
+                    "start": 270,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 401,
+                    "start": 322,
+                    "word": "ampelekee"
+                  },
+                  {
+                    "end": 462,
+                    "start": 402,
+                    "word": "mama"
+                  }
+                ],
+                "until": 462,
+                "utterances": "Niliikunja barua yangu ili baba ampelekee mama"
+              }
+            ],
+            "sentence": "Niliikunja barua yangu ili baba ampelekee mama."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilipoamka asubuhi yake barua haikuwapo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 130,
+                    "start": 20,
+                    "word": "Nilipoamka"
+                  },
+                  {
+                    "end": 241,
+                    "start": 167,
+                    "word": "asubuhi"
+                  },
+                  {
+                    "end": 298,
+                    "start": 242,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 369,
+                    "start": 327,
+                    "word": "barua"
+                  },
+                  {
+                    "end": 476,
+                    "start": 370,
+                    "word": "haikuwapo"
+                  }
+                ],
+                "until": 476,
+                "utterances": "Nilipoamka asubuhi yake barua haikuwapo"
+              }
+            ],
+            "sentence": "Nilipoamka asubuhi yake, barua haikuwapo."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Catherine Groenewald",
+  "language": "Kiswahili",
+  "level": "1",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Ursula Nafula",
+  "title": "Barua kwa mama",
+  "titleimage": "level1_2_page_01_image_0001.jpg"
+}

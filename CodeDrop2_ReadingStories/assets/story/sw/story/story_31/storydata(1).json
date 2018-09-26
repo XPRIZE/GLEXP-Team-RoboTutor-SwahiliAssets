@@ -1,0 +1,1407 @@
+{
+  "authors": "Southern African Folktale",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_30_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Hapo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Hapo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zamani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zamani"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "za"
+                  }
+                ],
+                "until": -1,
+                "utterances": "za"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kale"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kale"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "paliishi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "paliishi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "familia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "familia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yenye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yenye"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "furaha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "furaha"
+              }
+            ],
+            "sentence": "Hapo zamani za kale, paliishi familia yenye furaha."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Hawakugombana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Hawakugombana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hata"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hata"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kidogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kidogo"
+              }
+            ],
+            "sentence": "Hawakugombana hata kidogo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Watoto"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Watoto"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "waliwasaidia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "waliwasaidia"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wazazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wazazi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyumbani"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "shambani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "shambani"
+              }
+            ],
+            "sentence": "Watoto waliwasaidia wazazi nyumbani na shambani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Lakini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Lakini"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walikatazwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walikatazwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwenda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwenda"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "karibu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "karibu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moto"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moto"
+              }
+            ],
+            "sentence": "Lakini, walikatazwa kwenda karibu na moto."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Walifanya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Walifanya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kazi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zao"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zao"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zote"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zote"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "usiku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "usiku"
+              }
+            ],
+            "sentence": "Walifanya kazi zao zote usiku."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Hii"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Hii"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sababu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sababu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walikuwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wameumbwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wameumbwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nta"
+              }
+            ],
+            "sentence": "Hii ni kwa sababu walikuwa wameumbwa kwa nta."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Lakini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Lakini"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kijana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kijana"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mmoja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mmoja"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alitamani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alitamani"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwenda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwenda"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nje"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nje"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakati"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakati"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mchana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mchana"
+              }
+            ],
+            "sentence": "Lakini, kijana mmoja alitamani kwenda nje wakati wa mchana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Siku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Siku"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tamaa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tamaa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwenda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwenda"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nje"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nje"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ikazidi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ikazidi"
+              }
+            ],
+            "sentence": "Siku moja tamaa ya kwenda nje ikazidi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Wenzake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Wenzake"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakamwonya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakamwonya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "asiende"
+                  }
+                ],
+                "until": -1,
+                "utterances": "asiende"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "juani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "juani"
+              }
+            ],
+            "sentence": "Wenzake wakamwonya asiende juani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Lakini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Lakini"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hakusikia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hakusikia"
+              }
+            ],
+            "sentence": "Lakini, hakusikia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Aliyeyuka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Aliyeyuka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sababu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sababu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "joto"
+                  }
+                ],
+                "until": -1,
+                "utterances": "joto"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lilikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lilikuwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kali"
+              }
+            ],
+            "sentence": "Aliyeyuka kwa sababu joto lilikuwa kali."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Watoto"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Watoto"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nta"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walihuzunika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walihuzunika"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walipoona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walipoona"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kaka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yao"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yao"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akiyeyuka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akiyeyuka"
+              }
+            ],
+            "sentence": "Watoto wa nta walihuzunika walipoona kaka yao akiyeyuka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Wakapanga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Wakapanga"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jambo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jambo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fulani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fulani"
+              }
+            ],
+            "sentence": "Wakapanga jambo fulani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Walichukua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Walichukua"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nta"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "iliyoyeyuka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "iliyoyeyuka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakatengeza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakatengeza"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndege"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndege"
+              }
+            ],
+            "sentence": "Walichukua nta iliyoyeyuka wakatengeza ndege."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Wakamweka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Wakamweka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndege"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndege"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "huyo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "huyo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "juu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "juu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ya"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mlima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mlima"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mrefu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mrefu"
+              }
+            ],
+            "sentence": "Wakamweka ndege huyo juu ya mlima mrefu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Jua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Jua"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lilipochomoza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lilipochomoza"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "asubuhi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "asubuhi"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akapeperuka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akapeperuka"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akiimba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akiimba"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "furaha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "furaha"
+              }
+            ],
+            "sentence": "Jua lilipochomoza asubuhi, akapeperuka akiimba kwa furaha."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Mutugi Kamundi",
+  "title": "Watoto wa Nta",
+  "titleimage": "level2_30_page_01_image_0001.jpg"
+}

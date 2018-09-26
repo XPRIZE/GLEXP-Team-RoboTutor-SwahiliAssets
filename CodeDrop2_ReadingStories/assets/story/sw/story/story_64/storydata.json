@@ -1,0 +1,2240 @@
+{
+  "authors": "Traditional San story",
+  "copyright": "Copyright (c) Manyeka Arts Trust, 2014",
+  "data": [
+    {
+      "image": "level4_4_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hapo zamani palikuwa na Bweha mvivu pia mjinga.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 21,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 142,
+                    "start": 60,
+                    "word": "zamani"
+                  },
+                  {
+                    "end": 213,
+                    "start": 158,
+                    "word": "palikuwa"
+                  },
+                  {
+                    "end": 234,
+                    "start": 214,
+                    "word": "na"
+                  },
+                  {
+                    "end": 289,
+                    "start": 235,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 369,
+                    "start": 290,
+                    "word": "mvivu"
+                  },
+                  {
+                    "end": 406,
+                    "start": 370,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 472,
+                    "start": 407,
+                    "word": "mjinga"
+                  }
+                ],
+                "until": 472,
+                "utterances": "Hapo zamani palikuwa na Bweha mvivu pia mjinga"
+              }
+            ],
+            "sentence": "Hapo zamani, palikuwa na Bweha mvivu pia mjinga."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliishi na babake mzee katika kichaka cha Kalahari.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 22,
+                    "word": "Aliishi"
+                  },
+                  {
+                    "end": 107,
+                    "start": 89,
+                    "word": "na"
+                  },
+                  {
+                    "end": 171,
+                    "start": 108,
+                    "word": "babake"
+                  },
+                  {
+                    "end": 235,
+                    "start": 172,
+                    "word": "mzee"
+                  },
+                  {
+                    "end": 298,
+                    "start": 236,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 358,
+                    "start": 299,
+                    "word": "kichaka"
+                  },
+                  {
+                    "end": 379,
+                    "start": 359,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 468,
+                    "start": 380,
+                    "word": "Kalahari"
+                  }
+                ],
+                "until": 468,
+                "utterances": "Aliishi na babake mzee katika kichaka cha Kalahari"
+              }
+            ],
+            "sentence": "Aliishi na babake mzee katika kichaka cha Kalahari."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Asubuhi moja Bweha Mzee aliamka na kumpata mwanawe amelala juani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 20,
+                    "word": "Asubuhi"
+                  },
+                  {
+                    "end": 145,
+                    "start": 85,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 223,
+                    "start": 156,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 285,
+                    "start": 224,
+                    "word": "Mzee"
+                  },
+                  {
+                    "end": 386,
+                    "start": 286,
+                    "word": "aliamka"
+                  },
+                  {
+                    "end": 436,
+                    "start": 425,
+                    "word": "na"
+                  },
+                  {
+                    "end": 521,
+                    "start": 437,
+                    "word": "kumpata"
+                  },
+                  {
+                    "end": 598,
+                    "start": 522,
+                    "word": "mwanawe"
+                  },
+                  {
+                    "end": 670,
+                    "start": 599,
+                    "word": "amelala"
+                  },
+                  {
+                    "end": 745,
+                    "start": 671,
+                    "word": "juani"
+                  }
+                ],
+                "until": 745,
+                "utterances": "Asubuhi moja Bweha Mzee aliamka na kumpata mwanawe amelala juani"
+              }
+            ],
+            "sentence": "Asubuhi moja, Bweha Mzee aliamka na kumpata mwanawe amelala juani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Chakula hakikuwa tayari na mbuzi walikuwa bado zizini.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 22,
+                    "word": "Chakula"
+                  },
+                  {
+                    "end": 170,
+                    "start": 84,
+                    "word": "hakikuwa"
+                  },
+                  {
+                    "end": 255,
+                    "start": 171,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 290,
+                    "start": 279,
+                    "word": "na"
+                  },
+                  {
+                    "end": 337,
+                    "start": 291,
+                    "word": "mbuzi"
+                  },
+                  {
+                    "end": 407,
+                    "start": 338,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 450,
+                    "start": 408,
+                    "word": "bado"
+                  },
+                  {
+                    "end": 524,
+                    "start": 451,
+                    "word": "zizini"
+                  }
+                ],
+                "until": 524,
+                "utterances": "Chakula hakikuwa tayari na mbuzi walikuwa bado zizini"
+              }
+            ],
+            "sentence": "Chakula hakikuwa tayari na mbuzi walikuwa bado zizini!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wewe kijana u mvivu sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 21,
+                    "word": "Wewe"
+                  },
+                  {
+                    "end": 137,
+                    "start": 63,
+                    "word": "kijana"
+                  },
+                  {
+                    "end": 191,
+                    "start": 169,
+                    "word": "u"
+                  },
+                  {
+                    "end": 241,
+                    "start": 192,
+                    "word": "mvivu"
+                  },
+                  {
+                    "end": 291,
+                    "start": 242,
+                    "word": "sana"
+                  }
+                ],
+                "until": 291,
+                "utterances": "Wewe kijana u mvivu sana"
+              }
+            ],
+            "sentence": "\"Wewe kijana, u mvivu sana!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nenda ukamtafute mke.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 20,
+                    "word": "Nenda"
+                  },
+                  {
+                    "end": 189,
+                    "start": 79,
+                    "word": "ukamtafute"
+                  },
+                  {
+                    "end": 221,
+                    "start": 190,
+                    "word": "mke"
+                  }
+                ],
+                "until": 221,
+                "utterances": "Nenda ukamtafute mke"
+              }
+            ],
+            "sentence": "Nenda ukamtafute mke."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nimezeeka sana siwezi kukukimu tena babake Bweha alisema.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 21,
+                    "word": "Nimezeeka"
+                  },
+                  {
+                    "end": 176,
+                    "start": 123,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 238,
+                    "start": 177,
+                    "word": "siwezi"
+                  },
+                  {
+                    "end": 330,
+                    "start": 264,
+                    "word": "kukukimu"
+                  },
+                  {
+                    "end": 374,
+                    "start": 331,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 491,
+                    "start": 425,
+                    "word": "babake"
+                  },
+                  {
+                    "end": 536,
+                    "start": 492,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 620,
+                    "start": 537,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 620,
+                "utterances": "Nimezeeka sana siwezi kukukimu tena babake Bweha alisema"
+              }
+            ],
+            "sentence": "Nimezeeka sana siwezi kukukimu tena,\" babake Bweha alisema."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo Bweha aliruka juu na kuwapeleka mbuzi malishoni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 104,
+                    "start": 35,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 168,
+                    "start": 129,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 248,
+                    "start": 169,
+                    "word": "aliruka"
+                  },
+                  {
+                    "end": 306,
+                    "start": 249,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 324,
+                    "start": 307,
+                    "word": "na"
+                  },
+                  {
+                    "end": 416,
+                    "start": 325,
+                    "word": "kuwapeleka"
+                  },
+                  {
+                    "end": 459,
+                    "start": 417,
+                    "word": "mbuzi"
+                  },
+                  {
+                    "end": 546,
+                    "start": 460,
+                    "word": "malishoni"
+                  }
+                ],
+                "until": 546,
+                "utterances": "Kwa hivyo Bweha aliruka juu na kuwapeleka mbuzi malishoni"
+              }
+            ],
+            "sentence": "Kwa hivyo Bweha aliruka juu na kuwapeleka mbuzi malishoni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kichakani aliona kitu kilichoangaza juu ya mwamba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 120,
+                    "start": 2,
+                    "word": "Kichakani"
+                  },
+                  {
+                    "end": 206,
+                    "start": 143,
+                    "word": "aliona"
+                  },
+                  {
+                    "end": 253,
+                    "start": 207,
+                    "word": "kitu"
+                  },
+                  {
+                    "end": 377,
+                    "start": 254,
+                    "word": "kilichoangaza"
+                  },
+                  {
+                    "end": 431,
+                    "start": 378,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 445,
+                    "start": 432,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 498,
+                    "start": 446,
+                    "word": "mwamba"
+                  }
+                ],
+                "until": 498,
+                "utterances": "Kichakani aliona kitu kilichoangaza juu ya mwamba"
+              }
+            ],
+            "sentence": "Kichakani, aliona kitu kilichoangaza juu ya mwamba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alizidi kuukaribia mwamba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 21,
+                    "word": "Alizidi"
+                  },
+                  {
+                    "end": 207,
+                    "start": 97,
+                    "word": "kuukaribia"
+                  },
+                  {
+                    "end": 260,
+                    "start": 208,
+                    "word": "mwamba"
+                  }
+                ],
+                "until": 260,
+                "utterances": "Alizidi kuukaribia mwamba"
+              }
+            ],
+            "sentence": "Alizidi kuukaribia mwamba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alipozidi kuukaribia ndipo mwangaza ulipozidi kupendeza.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 21,
+                    "word": "Alipozidi"
+                  },
+                  {
+                    "end": 217,
+                    "start": 96,
+                    "word": "kuukaribia"
+                  },
+                  {
+                    "end": 291,
+                    "start": 253,
+                    "word": "ndipo"
+                  },
+                  {
+                    "end": 357,
+                    "start": 292,
+                    "word": "mwangaza"
+                  },
+                  {
+                    "end": 439,
+                    "start": 361,
+                    "word": "ulipozidi"
+                  },
+                  {
+                    "end": 523,
+                    "start": 440,
+                    "word": "kupendeza"
+                  }
+                ],
+                "until": 523,
+                "utterances": "Alipozidi kuukaribia ndipo mwangaza ulipozidi kupendeza"
+              }
+            ],
+            "sentence": "Alipozidi kuukaribia ndipo mwangaza ulipozidi kupendeza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Labda huyu ndiye mke wake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 20,
+                    "word": "Labda"
+                  },
+                  {
+                    "end": 116,
+                    "start": 70,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 166,
+                    "start": 117,
+                    "word": "ndiye"
+                  },
+                  {
+                    "end": 215,
+                    "start": 167,
+                    "word": "mke"
+                  },
+                  {
+                    "end": 278,
+                    "start": 216,
+                    "word": "wake"
+                  }
+                ],
+                "until": 278,
+                "utterances": "Labda huyu ndiye mke wake"
+              }
+            ],
+            "sentence": "Labda huyu ndiye mke wake?!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "U-mzuri mno Bweha aliueleza mng_aro.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 21,
+                    "word": "U-mzuri"
+                  },
+                  {
+                    "end": 147,
+                    "start": 101,
+                    "word": "mno"
+                  },
+                  {
+                    "end": 223,
+                    "start": 175,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 319,
+                    "start": 224,
+                    "word": "aliueleza"
+                  },
+                  {
+                    "end": 383,
+                    "start": 320,
+                    "word": "mng'aro"
+                  }
+                ],
+                "until": 383,
+                "utterances": "U-mzuri mno Bweha aliueleza mng'aro"
+              }
+            ],
+            "sentence": "\"U-mzuri mno,\" Bweha aliueleza mng'aro."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini wewe ni nani.mp3",
+                "from": 50,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 50,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 131,
+                    "start": 100,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 148,
+                    "start": 132,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 236,
+                    "start": 149,
+                    "word": "nani"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Lakini wewe ni nani"
+              }
+            ],
+            "sentence": "\"Lakini, wewe ni nani?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Mbona uko peke yako.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "Mbona"
+                  },
+                  {
+                    "end": 82,
+                    "start": 59,
+                    "word": "uko"
+                  },
+                  {
+                    "end": 168,
+                    "start": 105,
+                    "word": "peke"
+                  },
+                  {
+                    "end": 217,
+                    "start": 169,
+                    "word": "yako"
+                  }
+                ],
+                "until": 217,
+                "utterances": "Mbona uko peke yako"
+              }
+            ],
+            "sentence": "Mbona uko peke yako?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mimi ni jua mng_aro ulijibu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 21,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 78,
+                    "start": 57,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 121,
+                    "start": 79,
+                    "word": "jua"
+                  },
+                  {
+                    "end": 187,
+                    "start": 140,
+                    "word": "mng'aro"
+                  },
+                  {
+                    "end": 269,
+                    "start": 188,
+                    "word": "ulijibu"
+                  }
+                ],
+                "until": 269,
+                "utterances": "Mimi ni jua mng'aro ulijibu"
+              }
+            ],
+            "sentence": "\"Mimi ni jua,\" mng'aro ulijibu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Familia yangu waliniacha hapa wakati walihama.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 2,
+                    "word": "Familia"
+                  },
+                  {
+                    "end": 137,
+                    "start": 77,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 259,
+                    "start": 167,
+                    "word": "waliniacha"
+                  },
+                  {
+                    "end": 313,
+                    "start": 260,
+                    "word": "hapa"
+                  },
+                  {
+                    "end": 397,
+                    "start": 347,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 476,
+                    "start": 398,
+                    "word": "walihama"
+                  }
+                ],
+                "until": 476,
+                "utterances": "Familia yangu waliniacha hapa wakati walihama"
+              }
+            ],
+            "sentence": "\"Familia yangu waliniacha hapa wakati walihama."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hawakutaka kunibeba maanake mimi ni moto sana.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 116,
+                    "start": 19,
+                    "word": "Hawakutaka"
+                  },
+                  {
+                    "end": 211,
+                    "start": 117,
+                    "word": "kunibeba"
+                  },
+                  {
+                    "end": 301,
+                    "start": 234,
+                    "word": "maanake"
+                  },
+                  {
+                    "end": 342,
+                    "start": 302,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 359,
+                    "start": 343,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 402,
+                    "start": 360,
+                    "word": "moto"
+                  },
+                  {
+                    "end": 452,
+                    "start": 403,
+                    "word": "sana"
+                  }
+                ],
+                "until": 452,
+                "utterances": "Hawakutaka kunibeba maanake mimi ni moto sana"
+              }
+            ],
+            "sentence": "Hawakutaka kunibeba maanake mimi ni moto sana.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Bweha alisema Lakini wewe u-mzuri sana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 2,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 142,
+                    "start": 60,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 220,
+                    "start": 171,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 259,
+                    "start": 221,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 346,
+                    "start": 276,
+                    "word": "u-mzuri"
+                  },
+                  {
+                    "end": 424,
+                    "start": 347,
+                    "word": "sana"
+                  }
+                ],
+                "until": 424,
+                "utterances": "Bweha alisema Lakini wewe u-mzuri sana"
+              }
+            ],
+            "sentence": "Bweha alisema, \"Lakini wewe u-mzuri sana!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mimi nitakubeba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 21,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 160,
+                    "start": 57,
+                    "word": "nitakubeba"
+                  }
+                ],
+                "until": 160,
+                "utterances": "Mimi nitakubeba"
+              }
+            ],
+            "sentence": "Mimi nitakubeba."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nitakupeleka nyumbani nikujulishe kwa babangu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 137,
+                    "start": 21,
+                    "word": "Nitakupeleka"
+                  },
+                  {
+                    "end": 225,
+                    "start": 138,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 322,
+                    "start": 243,
+                    "word": "nikujulishe"
+                  },
+                  {
+                    "end": 352,
+                    "start": 323,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 427,
+                    "start": 353,
+                    "word": "babangu"
+                  }
+                ],
+                "until": 427,
+                "utterances": "Nitakupeleka nyumbani nikujulishe kwa babangu"
+              }
+            ],
+            "sentence": "Nitakupeleka nyumbani nikujulishe kwa babangu.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sawa unaweza nibeba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Sawa"
+                  },
+                  {
+                    "end": 167,
+                    "start": 109,
+                    "word": "unaweza"
+                  },
+                  {
+                    "end": 245,
+                    "start": 168,
+                    "word": "nibeba"
+                  }
+                ],
+                "until": 245,
+                "utterances": "Sawa unaweza nibeba"
+              }
+            ],
+            "sentence": "\"Sawa, unaweza nibeba."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lakini usilalamike nikiwa moto kuliko unavyoweza kuhimili jua lilisema.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 22,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 220,
+                    "start": 115,
+                    "word": "usilalamike"
+                  },
+                  {
+                    "end": 270,
+                    "start": 221,
+                    "word": "nikiwa"
+                  },
+                  {
+                    "end": 300,
+                    "start": 271,
+                    "word": "moto"
+                  },
+                  {
+                    "end": 368,
+                    "start": 301,
+                    "word": "kuliko"
+                  },
+                  {
+                    "end": 453,
+                    "start": 369,
+                    "word": "unavyoweza"
+                  },
+                  {
+                    "end": 545,
+                    "start": 454,
+                    "word": "kuhimili"
+                  },
+                  {
+                    "end": 610,
+                    "start": 573,
+                    "word": "jua"
+                  },
+                  {
+                    "end": 698,
+                    "start": 611,
+                    "word": "lilisema"
+                  }
+                ],
+                "until": 698,
+                "utterances": "Lakini usilalamike nikiwa moto kuliko unavyoweza kuhimili jua lilisema"
+              }
+            ],
+            "sentence": "Lakini, usilalamike nikiwa moto kuliko unavyoweza kuhimili,\" jua lilisema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo Bweha alienda nyumbani bila ngozi wala manyoya mgongoni vile vile bila mke.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 102,
+                    "start": 36,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 173,
+                    "start": 127,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 234,
+                    "start": 174,
+                    "word": "alienda"
+                  },
+                  {
+                    "end": 301,
+                    "start": 235,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 338,
+                    "start": 302,
+                    "word": "bila"
+                  },
+                  {
+                    "end": 400,
+                    "start": 339,
+                    "word": "ngozi"
+                  },
+                  {
+                    "end": 457,
+                    "start": 426,
+                    "word": "wala"
+                  },
+                  {
+                    "end": 514,
+                    "start": 458,
+                    "word": "manyoya"
+                  },
+                  {
+                    "end": 607,
+                    "start": 515,
+                    "word": "mgongoni"
+                  },
+                  {
+                    "end": 672,
+                    "start": 627,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 717,
+                    "start": 673,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 785,
+                    "start": 726,
+                    "word": "bila"
+                  },
+                  {
+                    "end": 827,
+                    "start": 786,
+                    "word": "mke"
+                  }
+                ],
+                "until": 827,
+                "utterances": "Kwa hivyo Bweha alienda nyumbani bila ngozi wala manyoya mgongoni vile vile bila mke"
+              }
+            ],
+            "sentence": "Kwa hivyo Bweha alienda nyumbani bila ngozi wala manyoya mgongoni, vile vile bila mke."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Babake aliuguza mgongo wa Bweha kwa kutumia mafuta maalumu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 2,
+                    "word": "Babake"
+                  },
+                  {
+                    "end": 179,
+                    "start": 98,
+                    "word": "aliuguza"
+                  },
+                  {
+                    "end": 234,
+                    "start": 180,
+                    "word": "mgongo"
+                  },
+                  {
+                    "end": 253,
+                    "start": 235,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 300,
+                    "start": 254,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 352,
+                    "start": 301,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 421,
+                    "start": 353,
+                    "word": "kutumia"
+                  },
+                  {
+                    "end": 478,
+                    "start": 422,
+                    "word": "mafuta"
+                  },
+                  {
+                    "end": 553,
+                    "start": 479,
+                    "word": "maalumu"
+                  }
+                ],
+                "until": 553,
+                "utterances": "Babake aliuguza mgongo wa Bweha kwa kutumia mafuta maalumu"
+              }
+            ],
+            "sentence": "Babake aliuguza mgongo wa Bweha kwa kutumia mafuta maalumu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Na manyoya yakamea mara nyingine.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 22,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 107,
+                    "start": 40,
+                    "word": "manyoya"
+                  },
+                  {
+                    "end": 179,
+                    "start": 108,
+                    "word": "yakamea"
+                  },
+                  {
+                    "end": 216,
+                    "start": 180,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 284,
+                    "start": 217,
+                    "word": "nyingine"
+                  }
+                ],
+                "until": 284,
+                "utterances": "Na manyoya yakamea mara nyingine"
+              }
+            ],
+            "sentence": "Na manyoya yakamea mara nyingine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo Bweha alienda nyumbani bila ngozi wala manyoya mgongoni vile vile bila mke.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 102,
+                    "start": 36,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 173,
+                    "start": 127,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 234,
+                    "start": 174,
+                    "word": "alienda"
+                  },
+                  {
+                    "end": 301,
+                    "start": 235,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 338,
+                    "start": 302,
+                    "word": "bila"
+                  },
+                  {
+                    "end": 400,
+                    "start": 339,
+                    "word": "ngozi"
+                  },
+                  {
+                    "end": 457,
+                    "start": 426,
+                    "word": "wala"
+                  },
+                  {
+                    "end": 514,
+                    "start": 458,
+                    "word": "manyoya"
+                  },
+                  {
+                    "end": 607,
+                    "start": 515,
+                    "word": "mgongoni"
+                  },
+                  {
+                    "end": 672,
+                    "start": 627,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 717,
+                    "start": 673,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 785,
+                    "start": 726,
+                    "word": "bila"
+                  },
+                  {
+                    "end": 827,
+                    "start": 786,
+                    "word": "mke"
+                  }
+                ],
+                "until": 827,
+                "utterances": "Kwa hivyo Bweha alienda nyumbani bila ngozi wala manyoya mgongoni vile vile bila mke"
+              }
+            ],
+            "sentence": "Kwa hivyo Bweha alienda nyumbani bila ngozi wala manyoya mgongoni, vile vile bila mke."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Babake aliuguza mgongo wa Bweha kwa kutumia mafuta maalumu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 2,
+                    "word": "Babake"
+                  },
+                  {
+                    "end": 179,
+                    "start": 98,
+                    "word": "aliuguza"
+                  },
+                  {
+                    "end": 234,
+                    "start": 180,
+                    "word": "mgongo"
+                  },
+                  {
+                    "end": 253,
+                    "start": 235,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 300,
+                    "start": 254,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 352,
+                    "start": 301,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 421,
+                    "start": 353,
+                    "word": "kutumia"
+                  },
+                  {
+                    "end": 478,
+                    "start": 422,
+                    "word": "mafuta"
+                  },
+                  {
+                    "end": 553,
+                    "start": 479,
+                    "word": "maalumu"
+                  }
+                ],
+                "until": 553,
+                "utterances": "Babake aliuguza mgongo wa Bweha kwa kutumia mafuta maalumu"
+              }
+            ],
+            "sentence": "Babake aliuguza mgongo wa Bweha kwa kutumia mafuta maalumu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Na manyoya yakamea mara nyingine.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 22,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 107,
+                    "start": 40,
+                    "word": "manyoya"
+                  },
+                  {
+                    "end": 179,
+                    "start": 108,
+                    "word": "yakamea"
+                  },
+                  {
+                    "end": 216,
+                    "start": 180,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 284,
+                    "start": 217,
+                    "word": "nyingine"
+                  }
+                ],
+                "until": 284,
+                "utterances": "Na manyoya yakamea mara nyingine"
+              }
+            ],
+            "sentence": "Na manyoya yakamea mara nyingine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_4_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini manyoya mapya yalikuwa rangi tofauti na yale mengine mwilini.mp3",
+                "from": 59,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 59,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 171,
+                    "start": 112,
+                    "word": "manyoya"
+                  },
+                  {
+                    "end": 224,
+                    "start": 172,
+                    "word": "mapya"
+                  },
+                  {
+                    "end": 292,
+                    "start": 225,
+                    "word": "yalikuwa"
+                  },
+                  {
+                    "end": 333,
+                    "start": 293,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 407,
+                    "start": 334,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 425,
+                    "start": 408,
+                    "word": "na"
+                  },
+                  {
+                    "end": 460,
+                    "start": 426,
+                    "word": "yale"
+                  },
+                  {
+                    "end": 519,
+                    "start": 461,
+                    "word": "mengine"
+                  },
+                  {
+                    "end": 599,
+                    "start": 520,
+                    "word": "mwilini"
+                  }
+                ],
+                "until": 599,
+                "utterances": "Lakini manyoya mapya yalikuwa rangi tofauti na yale mengine mwilini"
+              }
+            ],
+            "sentence": "Lakini manyoya mapya yalikuwa rangi tofauti na yale mengine mwilini."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi zote tofauti zilimkumbusha Bweha kila mara kutokuwa mjinga tena.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 21,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 112,
+                    "start": 58,
+                    "word": "zote"
+                  },
+                  {
+                    "end": 191,
+                    "start": 113,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 299,
+                    "start": 192,
+                    "word": "zilimkumbusha"
+                  },
+                  {
+                    "end": 353,
+                    "start": 300,
+                    "word": "Bweha"
+                  },
+                  {
+                    "end": 421,
+                    "start": 370,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 478,
+                    "start": 422,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 582,
+                    "start": 479,
+                    "word": "kutokuwa"
+                  },
+                  {
+                    "end": 652,
+                    "start": 583,
+                    "word": "mjinga"
+                  },
+                  {
+                    "end": 701,
+                    "start": 653,
+                    "word": "tena"
+                  }
+                ],
+                "until": 701,
+                "utterances": "Rangi zote tofauti zilimkumbusha Bweha kila mara kutokuwa mjinga tena"
+              }
+            ],
+            "sentence": "Rangi zote tofauti zilimkumbusha Bweha kila mara kutokuwa mjinga tena."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Maelezo kuhusu hadithi Katika mwaka wa 2005 mwanahadithi wa Naro kwa jina la Bega Cgaze kutoka Jangw_92.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 20,
+                    "word": "Maelezo"
+                  },
+                  {
+                    "end": 155,
+                    "start": 98,
+                    "word": "kuhusu"
+                  },
+                  {
+                    "end": 225,
+                    "start": 156,
+                    "word": "hadithi"
+                  },
+                  {
+                    "end": 279,
+                    "start": 226,
+                    "word": "Katika"
+                  },
+                  {
+                    "end": 327,
+                    "start": 280,
+                    "word": "mwaka"
+                  },
+                  {
+                    "end": 346,
+                    "start": 328,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 500,
+                    "start": 347,
+                    "word": "2005"
+                  },
+                  {
+                    "end": 626,
+                    "start": 538,
+                    "word": "mwanahadithi"
+                  },
+                  {
+                    "end": 646,
+                    "start": 627,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 713,
+                    "start": 647,
+                    "word": "Naro"
+                  },
+                  {
+                    "end": 757,
+                    "start": 721,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 803,
+                    "start": 758,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 830,
+                    "start": 804,
+                    "word": "la"
+                  },
+                  {
+                    "end": 881,
+                    "start": 831,
+                    "word": "Bega"
+                  },
+                  {
+                    "end": 952,
+                    "start": 882,
+                    "word": "Cgaze"
+                  },
+                  {
+                    "end": 1038,
+                    "start": 980,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 1086,
+                    "start": 1039,
+                    "word": "Jangwa"
+                  },
+                  {
+                    "end": 1100,
+                    "start": 1087,
+                    "word": "la"
+                  },
+                  {
+                    "end": 1182,
+                    "start": 1101,
+                    "word": "Kalahari"
+                  },
+                  {
+                    "end": 1247,
+                    "start": 1183,
+                    "word": "nchini"
+                  },
+                  {
+                    "end": 1326,
+                    "start": 1248,
+                    "word": "Botswana"
+                  },
+                  {
+                    "end": 1480,
+                    "start": 1368,
+                    "word": "alimsimulia"
+                  },
+                  {
+                    "end": 1539,
+                    "start": 1481,
+                    "word": "Marlene"
+                  },
+                  {
+                    "end": 1612,
+                    "start": 1540,
+                    "word": "Winberg"
+                  },
+                  {
+                    "end": 1688,
+                    "start": 1630,
+                    "word": "hadithi"
+                  },
+                  {
+                    "end": 1730,
+                    "start": 1689,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 1815,
+                    "start": 1752,
+                    "word": "ambaye"
+                  },
+                  {
+                    "end": 1930,
+                    "start": 1816,
+                    "word": "anaielezea"
+                  },
+                  {
+                    "end": 1975,
+                    "start": 1931,
+                    "word": "hapa"
+                  }
+                ],
+                "until": 1975,
+                "utterances": "Maelezo kuhusu hadithi Katika mwaka wa 2005 mwanahadithi wa Naro kwa jina la Bega Cgaze kutoka Jangwa la Kalahari nchini Botswana alimsimulia Marlene Winberg hadithi hii ambaye anaielezea hapa"
+              }
+            ],
+            "sentence": "Maelezo kuhusu hadithi Katika mwaka wa 2005, mwanahadithi wa Naro kwa jina la Bega Cgaze kutoka Jangwa la Kalahari nchini Botswana alimsimulia Marlene Winberg hadithi hii ambaye anaielezea hapa."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Hadithi inapatikana katika mitindo tofauti katika jamii nyingi za kiSan za Afrika ya Kusini.mp3",
+                "from": 56,
+                "segmentation": [
+                  {
+                    "end": 123,
+                    "start": 56,
+                    "word": "Hadithi"
+                  },
+                  {
+                    "end": 227,
+                    "start": 124,
+                    "word": "inapatikana"
+                  },
+                  {
+                    "end": 289,
+                    "start": 228,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 365,
+                    "start": 290,
+                    "word": "mitindo"
+                  },
+                  {
+                    "end": 455,
+                    "start": 366,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 534,
+                    "start": 488,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 592,
+                    "start": 535,
+                    "word": "jamii"
+                  },
+                  {
+                    "end": 639,
+                    "start": 593,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 661,
+                    "start": 640,
+                    "word": "za"
+                  },
+                  {
+                    "end": 739,
+                    "start": 662,
+                    "word": "kiSan"
+                  },
+                  {
+                    "end": 789,
+                    "start": 758,
+                    "word": "za"
+                  },
+                  {
+                    "end": 861,
+                    "start": 790,
+                    "word": "Afrika"
+                  },
+                  {
+                    "end": 881,
+                    "start": 862,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 953,
+                    "start": 882,
+                    "word": "Kusini"
+                  }
+                ],
+                "until": 953,
+                "utterances": "Hadithi inapatikana katika mitindo tofauti katika jamii nyingi za kiSan za Afrika ya Kusini"
+              }
+            ],
+            "sentence": "Hadithi inapatikana katika mitindo tofauti katika jamii nyingi za kiSan za Afrika ya Kusini."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Inawaonya vijana wengi wa kiume dhidi ya kudanganywa na urembo wa kimwili wa wasichana na inawaeleze_79.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 112,
+                    "start": 22,
+                    "word": "Inawaonya"
+                  },
+                  {
+                    "end": 177,
+                    "start": 113,
+                    "word": "vijana"
+                  },
+                  {
+                    "end": 222,
+                    "start": 178,
+                    "word": "wengi"
+                  },
+                  {
+                    "end": 238,
+                    "start": 223,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 305,
+                    "start": 239,
+                    "word": "kiume"
+                  },
+                  {
+                    "end": 357,
+                    "start": 306,
+                    "word": "dhidi"
+                  },
+                  {
+                    "end": 369,
+                    "start": 358,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 472,
+                    "start": 370,
+                    "word": "kudanganywa"
+                  },
+                  {
+                    "end": 537,
+                    "start": 516,
+                    "word": "na"
+                  },
+                  {
+                    "end": 599,
+                    "start": 538,
+                    "word": "urembo"
+                  },
+                  {
+                    "end": 610,
+                    "start": 600,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 678,
+                    "start": 611,
+                    "word": "kimwili"
+                  },
+                  {
+                    "end": 696,
+                    "start": 679,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 778,
+                    "start": 697,
+                    "word": "wasichana"
+                  },
+                  {
+                    "end": 832,
+                    "start": 819,
+                    "word": "na"
+                  },
+                  {
+                    "end": 963,
+                    "start": 833,
+                    "word": "inawaelezea"
+                  },
+                  {
+                    "end": 1041,
+                    "start": 964,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 1200,
+                    "start": 1042,
+                    "word": "kutowalazimisha"
+                  },
+                  {
+                    "end": 1257,
+                    "start": 1201,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 1313,
+                    "start": 1258,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 1392,
+                    "start": 1327,
+                    "word": "kuoa"
+                  },
+                  {
+                    "end": 1430,
+                    "start": 1393,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 1497,
+                    "start": 1431,
+                    "word": "ajili"
+                  },
+                  {
+                    "end": 1506,
+                    "start": 1498,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1572,
+                    "start": 1507,
+                    "word": "kupata"
+                  },
+                  {
+                    "end": 1652,
+                    "start": 1573,
+                    "word": "msaada"
+                  },
+                  {
+                    "end": 1669,
+                    "start": 1653,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1744,
+                    "start": 1670,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 1744,
+                "utterances": "Inawaonya vijana wengi wa kiume dhidi ya kudanganywa na urembo wa kimwili wa wasichana na inawaelezea wazazi kutowalazimisha watoto wao kuoa kwa ajili ya kupata msaada wa nyumbani"
+              }
+            ],
+            "sentence": "Inawaonya vijana wengi wa kiume dhidi ya kudanganywa na urembo wa kimwili wa wasichana, na inawaelezea wazazi kutowalazimisha watoto wao kuoa kwa ajili ya kupata msaada wa nyumbani."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Vile vile inaonyesha nguvu za jua hasa jangwani na kutekeleza jukumu moja ambalo hutekelezwa na hadi_29.mp3",
+                "from": 54,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 54,
+                    "word": "Vile"
+                  },
+                  {
+                    "end": 139,
+                    "start": 93,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 264,
+                    "start": 167,
+                    "word": "inaonyesha"
+                  },
+                  {
+                    "end": 305,
+                    "start": 265,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 324,
+                    "start": 306,
+                    "word": "za"
+                  },
+                  {
+                    "end": 375,
+                    "start": 325,
+                    "word": "jua"
+                  },
+                  {
+                    "end": 445,
+                    "start": 409,
+                    "word": "hasa"
+                  },
+                  {
+                    "end": 525,
+                    "start": 446,
+                    "word": "jangwani"
+                  },
+                  {
+                    "end": 564,
+                    "start": 551,
+                    "word": "na"
+                  },
+                  {
+                    "end": 653,
+                    "start": 565,
+                    "word": "kutekeleza"
+                  },
+                  {
+                    "end": 713,
+                    "start": 654,
+                    "word": "jukumu"
+                  },
+                  {
+                    "end": 772,
+                    "start": 714,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 837,
+                    "start": 783,
+                    "word": "ambalo"
+                  },
+                  {
+                    "end": 928,
+                    "start": 838,
+                    "word": "hutekelezwa"
+                  },
+                  {
+                    "end": 947,
+                    "start": 929,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1014,
+                    "start": 948,
+                    "word": "hadithi"
+                  },
+                  {
+                    "end": 1100,
+                    "start": 1035,
+                    "word": "kuvipa"
+                  },
+                  {
+                    "end": 1162,
+                    "start": 1101,
+                    "word": "viumbe"
+                  },
+                  {
+                    "end": 1212,
+                    "start": 1163,
+                    "word": "vyote"
+                  },
+                  {
+                    "end": 1290,
+                    "start": 1213,
+                    "word": "uhai"
+                  }
+                ],
+                "until": 1290,
+                "utterances": "Vile vile inaonyesha nguvu za jua hasa jangwani na kutekeleza jukumu moja ambalo hutekelezwa na hadithi kuvipa viumbe vyote uhai"
+              }
+            ],
+            "sentence": "Vile vile inaonyesha nguvu za jua hasa jangwani na kutekeleza jukumu moja ambalo hutekelezwa na hadithi - kuvipa viumbe vyote uhai."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Michoro iliyomo katika hadithi hii imefanywa na Marlene Winberg na kufafanuliwa na Satsiri Winberg k_91.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 17,
+                    "word": "Michoro"
+                  },
+                  {
+                    "end": 178,
+                    "start": 95,
+                    "word": "iliyomo"
+                  },
+                  {
+                    "end": 235,
+                    "start": 179,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 300,
+                    "start": 236,
+                    "word": "hadithi"
+                  },
+                  {
+                    "end": 351,
+                    "start": 301,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 424,
+                    "start": 352,
+                    "word": "imefanywa"
+                  },
+                  {
+                    "end": 443,
+                    "start": 425,
+                    "word": "na"
+                  },
+                  {
+                    "end": 499,
+                    "start": 444,
+                    "word": "Marlene"
+                  },
+                  {
+                    "end": 575,
+                    "start": 500,
+                    "word": "Winberg"
+                  },
+                  {
+                    "end": 618,
+                    "start": 602,
+                    "word": "na"
+                  },
+                  {
+                    "end": 728,
+                    "start": 619,
+                    "word": "kufafanuliwa"
+                  },
+                  {
+                    "end": 750,
+                    "start": 729,
+                    "word": "na"
+                  },
+                  {
+                    "end": 822,
+                    "start": 751,
+                    "word": "Satsiri"
+                  },
+                  {
+                    "end": 898,
+                    "start": 823,
+                    "word": "Winberg"
+                  },
+                  {
+                    "end": 1007,
+                    "start": 926,
+                    "word": "kupitia"
+                  },
+                  {
+                    "end": 1086,
+                    "start": 1008,
+                    "word": "weldei"
+                  },
+                  {
+                    "end": 1127,
+                    "start": 1087,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1221,
+                    "start": 1128,
+                    "word": "kikundi"
+                  },
+                  {
+                    "end": 1245,
+                    "start": 1222,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 1314,
+                    "start": 1246,
+                    "word": "Manyeka"
+                  },
+                  {
+                    "end": 1344,
+                    "start": 1315,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 1444,
+                    "start": 1345,
+                    "word": "Kisanaa"
+                  },
+                  {
+                    "end": 1518,
+                    "start": 1468,
+                    "word": "ambacho"
+                  },
+                  {
+                    "end": 1642,
+                    "start": 1519,
+                    "word": "kimekamilishwa"
+                  },
+                  {
+                    "end": 1691,
+                    "start": 1677,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1766,
+                    "start": 1692,
+                    "word": "wasanii"
+                  },
+                  {
+                    "end": 1788,
+                    "start": 1767,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1848,
+                    "start": 1789,
+                    "word": "kiSan"
+                  }
+                ],
+                "until": 1848,
+                "utterances": "Michoro iliyomo katika hadithi hii imefanywa na Marlene Winberg na kufafanuliwa na Satsiri Winberg kupitia weldei wa kikundi cha Manyeka cha Kisanaa ambacho kimekamilishwa na wasanii wa kiSan"
+              }
+            ],
+            "sentence": "Michoro iliyomo katika hadithi hii imefanywa na Marlene Winberg na kufafanuliwa na Satsiri Winberg kupitia weldei wa kikundi cha Manyeka cha Kisanaa ambacho kimekamilishwa na wasanii wa kiSan."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Manyeka Arts Trust",
+  "language": "Kiswahili",
+  "level": "4",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Bweha na jua",
+  "titleimage": "level4_4_page_01_image_0001.jpg"
+}

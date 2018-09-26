@@ -1,0 +1,2523 @@
+{
+  "authors": "Lesley Koyi and Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level3_24_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kituo kidogo cha mabasi kijijini mwetu kilijaa shughuli za watu na mabasi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 2,
+                    "word": "Kituo"
+                  },
+                  {
+                    "end": 146,
+                    "start": 86,
+                    "word": "kidogo"
+                  },
+                  {
+                    "end": 167,
+                    "start": 147,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 235,
+                    "start": 168,
+                    "word": "mabasi"
+                  },
+                  {
+                    "end": 310,
+                    "start": 236,
+                    "word": "kijijini"
+                  },
+                  {
+                    "end": 361,
+                    "start": 311,
+                    "word": "mwetu"
+                  },
+                  {
+                    "end": 470,
+                    "start": 400,
+                    "word": "kilijaa"
+                  },
+                  {
+                    "end": 562,
+                    "start": 471,
+                    "word": "shughuli"
+                  },
+                  {
+                    "end": 600,
+                    "start": 584,
+                    "word": "za"
+                  },
+                  {
+                    "end": 644,
+                    "start": 601,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 664,
+                    "start": 645,
+                    "word": "na"
+                  },
+                  {
+                    "end": 733,
+                    "start": 665,
+                    "word": "mabasi"
+                  }
+                ],
+                "until": 733,
+                "utterances": "Kituo kidogo cha mabasi kijijini mwetu kilijaa shughuli za watu na mabasi"
+              }
+            ],
+            "sentence": "Kituo kidogo cha mabasi kijijini mwetu kilijaa shughuli za watu na mabasi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Basi nyingi zilikuwa zimejaza mizigo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 106,
+                    "start": 64,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 183,
+                    "start": 107,
+                    "word": "zilikuwa"
+                  },
+                  {
+                    "end": 272,
+                    "start": 184,
+                    "word": "zimejaza"
+                  },
+                  {
+                    "end": 356,
+                    "start": 273,
+                    "word": "mizigo"
+                  }
+                ],
+                "until": 356,
+                "utterances": "Basi nyingi zilikuwa zimejaza mizigo"
+              }
+            ],
+            "sentence": "Basi nyingi zilikuwa zimejaza mizigo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Chini palikuwa na mizigo zaidi ya kupakia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 20,
+                    "word": "Chini"
+                  },
+                  {
+                    "end": 168,
+                    "start": 105,
+                    "word": "palikuwa"
+                  },
+                  {
+                    "end": 190,
+                    "start": 169,
+                    "word": "na"
+                  },
+                  {
+                    "end": 258,
+                    "start": 191,
+                    "word": "mizigo"
+                  },
+                  {
+                    "end": 326,
+                    "start": 259,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 335,
+                    "start": 327,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 415,
+                    "start": 336,
+                    "word": "kupakia"
+                  }
+                ],
+                "until": 415,
+                "utterances": "Chini palikuwa na mizigo zaidi ya kupakia"
+              }
+            ],
+            "sentence": "Chini, palikuwa na mizigo zaidi ya kupakia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kondakta waliita majina tofauti ya mahali basi zilielekea.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 2,
+                    "word": "Kondakta"
+                  },
+                  {
+                    "end": 190,
+                    "start": 100,
+                    "word": "waliita"
+                  },
+                  {
+                    "end": 263,
+                    "start": 191,
+                    "word": "majina"
+                  },
+                  {
+                    "end": 364,
+                    "start": 264,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 375,
+                    "start": 365,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 453,
+                    "start": 376,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 524,
+                    "start": 486,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 642,
+                    "start": 525,
+                    "word": "zilielekea"
+                  }
+                ],
+                "until": 642,
+                "utterances": "Kondakta waliita majina tofauti ya mahali basi zilielekea"
+              }
+            ],
+            "sentence": "Kondakta waliita majina tofauti ya mahali basi zilielekea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jiji.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 18,
+                    "word": "Jiji"
+                  }
+                ],
+                "until": 96,
+                "utterances": "Jiji"
+              }
+            ],
+            "sentence": "\"Jiji!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Jiji.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 18,
+                    "word": "Jiji"
+                  }
+                ],
+                "until": 96,
+                "utterances": "Jiji"
+              }
+            ],
+            "sentence": "Jiji!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kwenda magharibi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Kwenda"
+                  },
+                  {
+                    "end": 154,
+                    "start": 54,
+                    "word": "magharibi"
+                  }
+                ],
+                "until": 154,
+                "utterances": "Kwenda magharibi"
+              }
+            ],
+            "sentence": "Kwenda magharibi!\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilisikia kondakta akiita kwa sauti.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 18,
+                    "word": "Nilisikia"
+                  },
+                  {
+                    "end": 179,
+                    "start": 102,
+                    "word": "kondakta"
+                  },
+                  {
+                    "end": 255,
+                    "start": 180,
+                    "word": "akiita"
+                  },
+                  {
+                    "end": 279,
+                    "start": 256,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 340,
+                    "start": 280,
+                    "word": "sauti"
+                  }
+                ],
+                "until": 340,
+                "utterances": "Nilisikia kondakta akiita kwa sauti"
+              }
+            ],
+            "sentence": "Nilisikia kondakta akiita kwa sauti."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ile ndiyo basi niliyohitaji kupanda kwa usafiri wangu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 20,
+                    "word": "Ile"
+                  },
+                  {
+                    "end": 99,
+                    "start": 55,
+                    "word": "ndiyo"
+                  },
+                  {
+                    "end": 147,
+                    "start": 100,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 254,
+                    "start": 148,
+                    "word": "niliyohitaji"
+                  },
+                  {
+                    "end": 335,
+                    "start": 255,
+                    "word": "kupanda"
+                  },
+                  {
+                    "end": 385,
+                    "start": 347,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 455,
+                    "start": 386,
+                    "word": "usafiri"
+                  },
+                  {
+                    "end": 500,
+                    "start": 456,
+                    "word": "wangu"
+                  }
+                ],
+                "until": 500,
+                "utterances": "Ile ndiyo basi niliyohitaji kupanda kwa usafiri wangu"
+              }
+            ],
+            "sentence": "Ile ndiyo basi niliyohitaji kupanda kwa usafiri wangu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Basi la kwenda jijini lilikuwa karibu kujaa lakini watu zaidi walijishughulisha kutaka kupanda.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 72,
+                    "start": 58,
+                    "word": "la"
+                  },
+                  {
+                    "end": 120,
+                    "start": 73,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 186,
+                    "start": 121,
+                    "word": "jijini"
+                  },
+                  {
+                    "end": 250,
+                    "start": 187,
+                    "word": "lilikuwa"
+                  },
+                  {
+                    "end": 314,
+                    "start": 251,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 373,
+                    "start": 315,
+                    "word": "kujaa"
+                  },
+                  {
+                    "end": 455,
+                    "start": 406,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 494,
+                    "start": 456,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 571,
+                    "start": 495,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 744,
+                    "start": 593,
+                    "word": "walijishughulisha"
+                  },
+                  {
+                    "end": 822,
+                    "start": 754,
+                    "word": "kutaka"
+                  },
+                  {
+                    "end": 890,
+                    "start": 823,
+                    "word": "kupanda"
+                  }
+                ],
+                "until": 890,
+                "utterances": "Basi la kwenda jijini lilikuwa karibu kujaa lakini watu zaidi walijishughulisha kutaka kupanda"
+              }
+            ],
+            "sentence": "Basi la kwenda jijini lilikuwa karibu kujaa, lakini watu zaidi walijishughulisha kutaka kupanda."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baadhi yao walipakia mizigo chini ya basi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 2,
+                    "word": "Baadhi"
+                  },
+                  {
+                    "end": 123,
+                    "start": 89,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 225,
+                    "start": 124,
+                    "word": "walipakia"
+                  },
+                  {
+                    "end": 311,
+                    "start": 226,
+                    "word": "mizigo"
+                  },
+                  {
+                    "end": 381,
+                    "start": 335,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 394,
+                    "start": 382,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 442,
+                    "start": 395,
+                    "word": "basi"
+                  }
+                ],
+                "until": 442,
+                "utterances": "Baadhi yao walipakia mizigo chini ya basi"
+              }
+            ],
+            "sentence": "Baadhi yao walipakia mizigo chini ya basi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wengine waliiweka katika sehemu ya juu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 20,
+                    "word": "Wengine"
+                  },
+                  {
+                    "end": 184,
+                    "start": 83,
+                    "word": "waliiweka"
+                  },
+                  {
+                    "end": 239,
+                    "start": 185,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 313,
+                    "start": 240,
+                    "word": "sehemu"
+                  },
+                  {
+                    "end": 325,
+                    "start": 314,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 358,
+                    "start": 326,
+                    "word": "juu"
+                  }
+                ],
+                "until": 358,
+                "utterances": "Wengine waliiweka katika sehemu ya juu"
+              }
+            ],
+            "sentence": "Wengine waliiweka katika sehemu ya juu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Abiria wapya walishika tiketi zao huku wakitafuta mahali pa kukaa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 21,
+                    "word": "Abiria"
+                  },
+                  {
+                    "end": 142,
+                    "start": 87,
+                    "word": "wapya"
+                  },
+                  {
+                    "end": 217,
+                    "start": 143,
+                    "word": "walishika"
+                  },
+                  {
+                    "end": 266,
+                    "start": 218,
+                    "word": "tiketi"
+                  },
+                  {
+                    "end": 331,
+                    "start": 267,
+                    "word": "zao"
+                  },
+                  {
+                    "end": 400,
+                    "start": 367,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 495,
+                    "start": 401,
+                    "word": "wakitafuta"
+                  },
+                  {
+                    "end": 550,
+                    "start": 496,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 570,
+                    "start": 551,
+                    "word": "pa"
+                  },
+                  {
+                    "end": 633,
+                    "start": 571,
+                    "word": "kukaa"
+                  }
+                ],
+                "until": 633,
+                "utterances": "Abiria wapya walishika tiketi zao huku wakitafuta mahali pa kukaa"
+              }
+            ],
+            "sentence": "Abiria wapya walishika tiketi zao huku wakitafuta mahali pa kukaa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wanawake waliokuwa na watoto wadogo waliwatayarisha kwa safari hiyo ndefu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 20,
+                    "word": "Wanawake"
+                  },
+                  {
+                    "end": 180,
+                    "start": 97,
+                    "word": "waliokuwa"
+                  },
+                  {
+                    "end": 205,
+                    "start": 181,
+                    "word": "na"
+                  },
+                  {
+                    "end": 264,
+                    "start": 206,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 325,
+                    "start": 265,
+                    "word": "wadogo"
+                  },
+                  {
+                    "end": 492,
+                    "start": 365,
+                    "word": "waliwatayarisha"
+                  },
+                  {
+                    "end": 509,
+                    "start": 493,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 570,
+                    "start": 510,
+                    "word": "safari"
+                  },
+                  {
+                    "end": 605,
+                    "start": 571,
+                    "word": "hiyo"
+                  },
+                  {
+                    "end": 640,
+                    "start": 606,
+                    "word": "ndefu"
+                  }
+                ],
+                "until": 640,
+                "utterances": "Wanawake waliokuwa na watoto wadogo waliwatayarisha kwa safari hiyo ndefu"
+              }
+            ],
+            "sentence": "Wanawake waliokuwa na watoto wadogo waliwatayarisha kwa safari hiyo ndefu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilipenyeza ndani nikakaa karibu na dirisha.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 19,
+                    "word": "Nilipenyeza"
+                  },
+                  {
+                    "end": 180,
+                    "start": 128,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 257,
+                    "start": 181,
+                    "word": "nikakaa"
+                  },
+                  {
+                    "end": 311,
+                    "start": 258,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 327,
+                    "start": 312,
+                    "word": "na"
+                  },
+                  {
+                    "end": 387,
+                    "start": 328,
+                    "word": "dirisha"
+                  }
+                ],
+                "until": 387,
+                "utterances": "Nilipenyeza ndani nikakaa karibu na dirisha"
+              }
+            ],
+            "sentence": "Nilipenyeza ndani nikakaa karibu na dirisha."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mtu aliyeketi karibu nami alishika mfuko wa plastiki wa kijani kibichi.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 12,
+                    "word": "Mtu"
+                  },
+                  {
+                    "end": 135,
+                    "start": 54,
+                    "word": "aliyeketi"
+                  },
+                  {
+                    "end": 186,
+                    "start": 136,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 243,
+                    "start": 187,
+                    "word": "nami"
+                  },
+                  {
+                    "end": 330,
+                    "start": 267,
+                    "word": "alishika"
+                  },
+                  {
+                    "end": 382,
+                    "start": 331,
+                    "word": "mfuko"
+                  },
+                  {
+                    "end": 406,
+                    "start": 383,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 494,
+                    "start": 407,
+                    "word": "plastiki"
+                  },
+                  {
+                    "end": 534,
+                    "start": 520,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 588,
+                    "start": 535,
+                    "word": "kijani"
+                  },
+                  {
+                    "end": 656,
+                    "start": 589,
+                    "word": "kibichi"
+                  }
+                ],
+                "until": 656,
+                "utterances": "Mtu aliyeketi karibu nami alishika mfuko wa plastiki wa kijani kibichi"
+              }
+            ],
+            "sentence": "Mtu aliyeketi karibu nami alishika mfuko wa plastiki wa kijani kibichi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alivaa viatu vilivyozeeka koti kuukuu na alionekana kuwa na wasiwasi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 20,
+                    "word": "Alivaa"
+                  },
+                  {
+                    "end": 189,
+                    "start": 93,
+                    "word": "viatu"
+                  },
+                  {
+                    "end": 282,
+                    "start": 190,
+                    "word": "vilivyozeeka"
+                  },
+                  {
+                    "end": 361,
+                    "start": 308,
+                    "word": "koti"
+                  },
+                  {
+                    "end": 420,
+                    "start": 362,
+                    "word": "kuukuu"
+                  },
+                  {
+                    "end": 493,
+                    "start": 477,
+                    "word": "na"
+                  },
+                  {
+                    "end": 597,
+                    "start": 494,
+                    "word": "alionekana"
+                  },
+                  {
+                    "end": 636,
+                    "start": 598,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 662,
+                    "start": 637,
+                    "word": "na"
+                  },
+                  {
+                    "end": 738,
+                    "start": 663,
+                    "word": "wasiwasi"
+                  }
+                ],
+                "until": 738,
+                "utterances": "Alivaa viatu vilivyozeeka koti kuukuu na alionekana kuwa na wasiwasi"
+              }
+            ],
+            "sentence": "Alivaa viatu vilivyozeeka, koti kuukuu na alionekana kuwa na wasiwasi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Niliangalia nje na kutambua kwamba nilikuwa naondoka kijijini mwangu mahali ambapo nililelewa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 20,
+                    "word": "Niliangalia"
+                  },
+                  {
+                    "end": 190,
+                    "start": 128,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 235,
+                    "start": 223,
+                    "word": "na"
+                  },
+                  {
+                    "end": 314,
+                    "start": 236,
+                    "word": "kutambua"
+                  },
+                  {
+                    "end": 385,
+                    "start": 315,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 491,
+                    "start": 417,
+                    "word": "nilikuwa"
+                  },
+                  {
+                    "end": 578,
+                    "start": 492,
+                    "word": "naondoka"
+                  },
+                  {
+                    "end": 664,
+                    "start": 579,
+                    "word": "kijijini"
+                  },
+                  {
+                    "end": 740,
+                    "start": 665,
+                    "word": "mwangu"
+                  },
+                  {
+                    "end": 818,
+                    "start": 757,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 881,
+                    "start": 819,
+                    "word": "ambapo"
+                  },
+                  {
+                    "end": 988,
+                    "start": 882,
+                    "word": "nililelewa"
+                  }
+                ],
+                "until": 988,
+                "utterances": "Niliangalia nje na kutambua kwamba nilikuwa naondoka kijijini mwangu mahali ambapo nililelewa"
+              }
+            ],
+            "sentence": "Niliangalia nje na kutambua kwamba nilikuwa naondoka kijijini mwangu, mahali ambapo nililelewa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikuwa naenda katika jiji kubwa.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 17,
+                    "word": "Nilikuwa"
+                  },
+                  {
+                    "end": 153,
+                    "start": 91,
+                    "word": "naenda"
+                  },
+                  {
+                    "end": 214,
+                    "start": 154,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 258,
+                    "start": 215,
+                    "word": "jiji"
+                  },
+                  {
+                    "end": 316,
+                    "start": 259,
+                    "word": "kubwa"
+                  }
+                ],
+                "until": 316,
+                "utterances": "Nilikuwa naenda katika jiji kubwa"
+              }
+            ],
+            "sentence": "Nilikuwa naenda katika jiji kubwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Upakiaji mizigo ulikamilika na abiria wakawa wameketi.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 16,
+                    "word": "Upakiaji"
+                  },
+                  {
+                    "end": 175,
+                    "start": 112,
+                    "word": "mizigo"
+                  },
+                  {
+                    "end": 321,
+                    "start": 176,
+                    "word": "ulikamilika"
+                  },
+                  {
+                    "end": 380,
+                    "start": 359,
+                    "word": "na"
+                  },
+                  {
+                    "end": 446,
+                    "start": 381,
+                    "word": "abiria"
+                  },
+                  {
+                    "end": 506,
+                    "start": 447,
+                    "word": "wakawa"
+                  },
+                  {
+                    "end": 598,
+                    "start": 507,
+                    "word": "wameketi"
+                  }
+                ],
+                "until": 598,
+                "utterances": "Upakiaji mizigo ulikamilika na abiria wakawa wameketi"
+              }
+            ],
+            "sentence": "Upakiaji mizigo ulikamilika na abiria wakawa wameketi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wachuuzi walizidi kusukumana kutaka kuingia ndani ya basi ili wauze bidhaa zao.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 20,
+                    "word": "Wachuuzi"
+                  },
+                  {
+                    "end": 194,
+                    "start": 107,
+                    "word": "walizidi"
+                  },
+                  {
+                    "end": 318,
+                    "start": 195,
+                    "word": "kusukumana"
+                  },
+                  {
+                    "end": 420,
+                    "start": 366,
+                    "word": "kutaka"
+                  },
+                  {
+                    "end": 496,
+                    "start": 421,
+                    "word": "kuingia"
+                  },
+                  {
+                    "end": 556,
+                    "start": 497,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 571,
+                    "start": 557,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 630,
+                    "start": 572,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 700,
+                    "start": 668,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 750,
+                    "start": 701,
+                    "word": "wauze"
+                  },
+                  {
+                    "end": 810,
+                    "start": 766,
+                    "word": "bidhaa"
+                  },
+                  {
+                    "end": 859,
+                    "start": 811,
+                    "word": "zao"
+                  }
+                ],
+                "until": 859,
+                "utterances": "Wachuuzi walizidi kusukumana kutaka kuingia ndani ya basi ili wauze bidhaa zao"
+              }
+            ],
+            "sentence": "Wachuuzi walizidi kusukumana kutaka kuingia ndani ya basi ili wauze bidhaa zao."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kila mmoja alitaja kwa sauti majina ya bidhaa alivyokuwa anauza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 131,
+                    "start": 55,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 242,
+                    "start": 165,
+                    "word": "alitaja"
+                  },
+                  {
+                    "end": 262,
+                    "start": 243,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 338,
+                    "start": 263,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 421,
+                    "start": 372,
+                    "word": "majina"
+                  },
+                  {
+                    "end": 452,
+                    "start": 422,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 512,
+                    "start": 453,
+                    "word": "bidhaa"
+                  },
+                  {
+                    "end": 610,
+                    "start": 513,
+                    "word": "alivyokuwa"
+                  },
+                  {
+                    "end": 685,
+                    "start": 611,
+                    "word": "anauza"
+                  }
+                ],
+                "until": 685,
+                "utterances": "Kila mmoja alitaja kwa sauti majina ya bidhaa alivyokuwa anauza"
+              }
+            ],
+            "sentence": "Kila mmoja alitaja kwa sauti majina ya bidhaa alivyokuwa anauza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Maneno yao yalinifurahisha.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 19,
+                    "word": "Maneno"
+                  },
+                  {
+                    "end": 115,
+                    "start": 74,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 251,
+                    "start": 116,
+                    "word": "yalinifurahisha"
+                  }
+                ],
+                "until": 251,
+                "utterances": "Maneno yao yalinifurahisha"
+              }
+            ],
+            "sentence": "Maneno yao yalinifurahisha."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baadhi ya abiria walinunua vinywaji.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Baadhi"
+                  },
+                  {
+                    "end": 88,
+                    "start": 74,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 167,
+                    "start": 94,
+                    "word": "abiria"
+                  },
+                  {
+                    "end": 299,
+                    "start": 196,
+                    "word": "walinunua"
+                  },
+                  {
+                    "end": 378,
+                    "start": 300,
+                    "word": "vinywaji"
+                  }
+                ],
+                "until": 378,
+                "utterances": "Baadhi ya abiria walinunua vinywaji"
+              }
+            ],
+            "sentence": "Baadhi ya abiria walinunua vinywaji."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wengine wakanunua vitafunaji vidogo na kuanza kutafuna.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 21,
+                    "word": "Wengine"
+                  },
+                  {
+                    "end": 176,
+                    "start": 79,
+                    "word": "wakanunua"
+                  },
+                  {
+                    "end": 289,
+                    "start": 177,
+                    "word": "vitafunaji"
+                  },
+                  {
+                    "end": 366,
+                    "start": 290,
+                    "word": "vidogo"
+                  },
+                  {
+                    "end": 408,
+                    "start": 397,
+                    "word": "na"
+                  },
+                  {
+                    "end": 468,
+                    "start": 409,
+                    "word": "kuanza"
+                  },
+                  {
+                    "end": 557,
+                    "start": 469,
+                    "word": "kutafuna"
+                  }
+                ],
+                "until": 557,
+                "utterances": "Wengine wakanunua vitafunaji vidogo na kuanza kutafuna"
+              }
+            ],
+            "sentence": "Wengine wakanunua vitafunaji vidogo na kuanza kutafuna."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wasiokuwa na fedha kama mimi walitazama tu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 107,
+                    "start": 21,
+                    "word": "Wasiokuwa"
+                  },
+                  {
+                    "end": 127,
+                    "start": 108,
+                    "word": "na"
+                  },
+                  {
+                    "end": 183,
+                    "start": 128,
+                    "word": "fedha"
+                  },
+                  {
+                    "end": 250,
+                    "start": 184,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 315,
+                    "start": 251,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 425,
+                    "start": 337,
+                    "word": "walitazama"
+                  },
+                  {
+                    "end": 464,
+                    "start": 426,
+                    "word": "tu"
+                  }
+                ],
+                "until": 464,
+                "utterances": "Wasiokuwa na fedha kama mimi walitazama tu"
+              }
+            ],
+            "sentence": "Wasiokuwa na fedha, kama mimi, walitazama tu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Shughuli hizi zilikatizwa kwa mlio wa honi ya basi ishara kwamba tulikuwa tayari kuondoka.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 19,
+                    "word": "Shughuli"
+                  },
+                  {
+                    "end": 135,
+                    "start": 104,
+                    "word": "hizi"
+                  },
+                  {
+                    "end": 237,
+                    "start": 136,
+                    "word": "zilikatizwa"
+                  },
+                  {
+                    "end": 258,
+                    "start": 238,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 303,
+                    "start": 259,
+                    "word": "mlio"
+                  },
+                  {
+                    "end": 334,
+                    "start": 304,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 390,
+                    "start": 335,
+                    "word": "honi"
+                  },
+                  {
+                    "end": 438,
+                    "start": 424,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 491,
+                    "start": 439,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 577,
+                    "start": 525,
+                    "word": "ishara"
+                  },
+                  {
+                    "end": 637,
+                    "start": 578,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 732,
+                    "start": 668,
+                    "word": "tulikuwa"
+                  },
+                  {
+                    "end": 817,
+                    "start": 733,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 902,
+                    "start": 818,
+                    "word": "kuondoka"
+                  }
+                ],
+                "until": 902,
+                "utterances": "Shughuli hizi zilikatizwa kwa mlio wa honi ya basi ishara kwamba tulikuwa tayari kuondoka"
+              }
+            ],
+            "sentence": "Shughuli hizi zilikatizwa kwa mlio wa honi ya basi, ishara kwamba tulikuwa tayari kuondoka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kondakta aliwataka wachuuzi kuondoka ndani ya basi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 2,
+                    "word": "Kondakta"
+                  },
+                  {
+                    "end": 190,
+                    "start": 101,
+                    "word": "aliwataka"
+                  },
+                  {
+                    "end": 270,
+                    "start": 191,
+                    "word": "wachuuzi"
+                  },
+                  {
+                    "end": 349,
+                    "start": 271,
+                    "word": "kuondoka"
+                  },
+                  {
+                    "end": 400,
+                    "start": 350,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 411,
+                    "start": 401,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 461,
+                    "start": 412,
+                    "word": "basi"
+                  }
+                ],
+                "until": 461,
+                "utterances": "Kondakta aliwataka wachuuzi kuondoka ndani ya basi"
+              }
+            ],
+            "sentence": "Kondakta aliwataka wachuuzi kuondoka ndani ya basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wachuuzi walisukumana huku wakitafuta njia ya kushuka.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 19,
+                    "word": "Wachuuzi"
+                  },
+                  {
+                    "end": 219,
+                    "start": 97,
+                    "word": "walisukumana"
+                  },
+                  {
+                    "end": 286,
+                    "start": 260,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 402,
+                    "start": 287,
+                    "word": "wakitafuta"
+                  },
+                  {
+                    "end": 446,
+                    "start": 403,
+                    "word": "njia"
+                  },
+                  {
+                    "end": 469,
+                    "start": 447,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 540,
+                    "start": 470,
+                    "word": "kushuka"
+                  }
+                ],
+                "until": 540,
+                "utterances": "Wachuuzi walisukumana huku wakitafuta njia ya kushuka"
+              }
+            ],
+            "sentence": "Wachuuzi walisukumana huku wakitafuta njia ya kushuka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wengine wao waliwarudisha abiria masalio ya hela zao.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 2,
+                    "word": "Wengine"
+                  },
+                  {
+                    "end": 142,
+                    "start": 80,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 283,
+                    "start": 170,
+                    "word": "waliwarudisha"
+                  },
+                  {
+                    "end": 355,
+                    "start": 284,
+                    "word": "abiria"
+                  },
+                  {
+                    "end": 439,
+                    "start": 356,
+                    "word": "masalio"
+                  },
+                  {
+                    "end": 463,
+                    "start": 440,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 506,
+                    "start": 464,
+                    "word": "hela"
+                  },
+                  {
+                    "end": 554,
+                    "start": 507,
+                    "word": "zao"
+                  }
+                ],
+                "until": 554,
+                "utterances": "Wengine wao waliwarudisha abiria masalio ya hela zao"
+              }
+            ],
+            "sentence": "Wengine wao waliwarudisha abiria masalio ya hela zao."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wengine walifanya juhudi za mwisho kuuza bidhaa zao.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 2,
+                    "word": "Wengine"
+                  },
+                  {
+                    "end": 155,
+                    "start": 76,
+                    "word": "walifanya"
+                  },
+                  {
+                    "end": 220,
+                    "start": 156,
+                    "word": "juhudi"
+                  },
+                  {
+                    "end": 243,
+                    "start": 221,
+                    "word": "za"
+                  },
+                  {
+                    "end": 306,
+                    "start": 244,
+                    "word": "mwisho"
+                  },
+                  {
+                    "end": 385,
+                    "start": 323,
+                    "word": "kuuza"
+                  },
+                  {
+                    "end": 442,
+                    "start": 386,
+                    "word": "bidhaa"
+                  },
+                  {
+                    "end": 487,
+                    "start": 443,
+                    "word": "zao"
+                  }
+                ],
+                "until": 487,
+                "utterances": "Wengine walifanya juhudi za mwisho kuuza bidhaa zao"
+              }
+            ],
+            "sentence": "Wengine walifanya juhudi za mwisho kuuza bidhaa zao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Basi lilipoondoka kituoni nilichungulia dirishani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 197,
+                    "start": 117,
+                    "word": "lilipoondoka"
+                  },
+                  {
+                    "end": 295,
+                    "start": 198,
+                    "word": "kituoni"
+                  },
+                  {
+                    "end": 434,
+                    "start": 324,
+                    "word": "nilichungulia"
+                  },
+                  {
+                    "end": 515,
+                    "start": 435,
+                    "word": "dirishani"
+                  }
+                ],
+                "until": 515,
+                "utterances": "Basi lilipoondoka kituoni nilichungulia dirishani"
+              }
+            ],
+            "sentence": "Basi lilipoondoka kituoni, nilichungulia dirishani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilijiuliza ikiwa ningewahi kwenda kijijini mwangu tena.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 133,
+                    "start": 18,
+                    "word": "Nilijiuliza"
+                  },
+                  {
+                    "end": 189,
+                    "start": 139,
+                    "word": "ikiwa"
+                  },
+                  {
+                    "end": 268,
+                    "start": 190,
+                    "word": "ningewahi"
+                  },
+                  {
+                    "end": 329,
+                    "start": 269,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 408,
+                    "start": 330,
+                    "word": "kijijini"
+                  },
+                  {
+                    "end": 453,
+                    "start": 409,
+                    "word": "mwangu"
+                  },
+                  {
+                    "end": 511,
+                    "start": 454,
+                    "word": "tena"
+                  }
+                ],
+                "until": 511,
+                "utterances": "Nilijiuliza ikiwa ningewahi kwenda kijijini mwangu tena"
+              }
+            ],
+            "sentence": "Nilijiuliza ikiwa ningewahi kwenda kijijini mwangu tena."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Safari ilipoendelea joto lilikuwa jingi ndani ya basi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 20,
+                    "word": "Safari"
+                  },
+                  {
+                    "end": 232,
+                    "start": 132,
+                    "word": "ilipoendelea"
+                  },
+                  {
+                    "end": 329,
+                    "start": 273,
+                    "word": "joto"
+                  },
+                  {
+                    "end": 402,
+                    "start": 330,
+                    "word": "lilikuwa"
+                  },
+                  {
+                    "end": 484,
+                    "start": 403,
+                    "word": "jingi"
+                  },
+                  {
+                    "end": 532,
+                    "start": 485,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 543,
+                    "start": 533,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 598,
+                    "start": 544,
+                    "word": "basi"
+                  }
+                ],
+                "until": 598,
+                "utterances": "Safari ilipoendelea joto lilikuwa jingi ndani ya basi"
+              }
+            ],
+            "sentence": "Safari ilipoendelea, joto lilikuwa jingi ndani ya basi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Niliyafumba macho yangu nikinuia kulala.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 19,
+                    "word": "Niliyafumba"
+                  },
+                  {
+                    "end": 165,
+                    "start": 118,
+                    "word": "macho"
+                  },
+                  {
+                    "end": 212,
+                    "start": 166,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 341,
+                    "start": 254,
+                    "word": "nikinuia"
+                  },
+                  {
+                    "end": 408,
+                    "start": 342,
+                    "word": "kulala"
+                  }
+                ],
+                "until": 408,
+                "utterances": "Niliyafumba macho yangu nikinuia kulala"
+              }
+            ],
+            "sentence": "Niliyafumba macho yangu nikinuia kulala."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini mawazo yangu yalirejea nyumbani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 143,
+                    "start": 84,
+                    "word": "mawazo"
+                  },
+                  {
+                    "end": 194,
+                    "start": 144,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 299,
+                    "start": 195,
+                    "word": "yalirejea"
+                  },
+                  {
+                    "end": 389,
+                    "start": 300,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 389,
+                "utterances": "Lakini mawazo yangu yalirejea nyumbani"
+              }
+            ],
+            "sentence": "Lakini mawazo yangu yalirejea nyumbani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je mamangu atakuwa salama.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 17,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 175,
+                    "start": 101,
+                    "word": "mamangu"
+                  },
+                  {
+                    "end": 256,
+                    "start": 176,
+                    "word": "atakuwa"
+                  },
+                  {
+                    "end": 369,
+                    "start": 257,
+                    "word": "salama"
+                  }
+                ],
+                "until": 369,
+                "utterances": "Je mamangu atakuwa salama"
+              }
+            ],
+            "sentence": "Je, mamangu atakuwa salama?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je sungura wangu wataleta hela zozote.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 17,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 145,
+                    "start": 84,
+                    "word": "sungura"
+                  },
+                  {
+                    "end": 219,
+                    "start": 146,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 321,
+                    "start": 242,
+                    "word": "wataleta"
+                  },
+                  {
+                    "end": 362,
+                    "start": 322,
+                    "word": "hela"
+                  },
+                  {
+                    "end": 446,
+                    "start": 363,
+                    "word": "zozote"
+                  }
+                ],
+                "until": 446,
+                "utterances": "Je sungura wangu wataleta hela zozote"
+              }
+            ],
+            "sentence": "Je, sungura wangu wataleta hela zozote?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je ndugu yangu atakumbuka kunyunyizia maji miche ya miti yangu.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 17,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 130,
+                    "start": 42,
+                    "word": "ndugu"
+                  },
+                  {
+                    "end": 172,
+                    "start": 131,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 282,
+                    "start": 186,
+                    "word": "atakumbuka"
+                  },
+                  {
+                    "end": 393,
+                    "start": 283,
+                    "word": "kunyunyizia"
+                  },
+                  {
+                    "end": 439,
+                    "start": 394,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 502,
+                    "start": 440,
+                    "word": "miche"
+                  },
+                  {
+                    "end": 508,
+                    "start": 503,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 558,
+                    "start": 509,
+                    "word": "miti"
+                  },
+                  {
+                    "end": 613,
+                    "start": 559,
+                    "word": "yangu"
+                  }
+                ],
+                "until": 613,
+                "utterances": "Je ndugu yangu atakumbuka kunyunyizia maji miche ya miti yangu"
+              }
+            ],
+            "sentence": "Je, ndugu yangu atakumbuka kunyunyizia maji miche ya miti yangu?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Njiani nilikariri jina la mahali mjombangu aliishi katika jiji kubwa.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 16,
+                    "word": "Njiani"
+                  },
+                  {
+                    "end": 212,
+                    "start": 136,
+                    "word": "nilikariri"
+                  },
+                  {
+                    "end": 295,
+                    "start": 253,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 321,
+                    "start": 296,
+                    "word": "la"
+                  },
+                  {
+                    "end": 399,
+                    "start": 322,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 486,
+                    "start": 400,
+                    "word": "mjombangu"
+                  },
+                  {
+                    "end": 562,
+                    "start": 487,
+                    "word": "aliishi"
+                  },
+                  {
+                    "end": 655,
+                    "start": 602,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 699,
+                    "start": 656,
+                    "word": "jiji"
+                  },
+                  {
+                    "end": 751,
+                    "start": 700,
+                    "word": "kubwa"
+                  }
+                ],
+                "until": 751,
+                "utterances": "Njiani nilikariri jina la mahali mjombangu aliishi katika jiji kubwa"
+              }
+            ],
+            "sentence": "Njiani, nilikariri jina la mahali mjombangu aliishi katika jiji kubwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikuwa bado najisemea wakati nilipatwa na usingizi.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 19,
+                    "word": "Nilikuwa"
+                  },
+                  {
+                    "end": 137,
+                    "start": 94,
+                    "word": "bado"
+                  },
+                  {
+                    "end": 239,
+                    "start": 138,
+                    "word": "najisemea"
+                  },
+                  {
+                    "end": 302,
+                    "start": 240,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 382,
+                    "start": 303,
+                    "word": "nilipatwa"
+                  },
+                  {
+                    "end": 400,
+                    "start": 383,
+                    "word": "na"
+                  },
+                  {
+                    "end": 478,
+                    "start": 401,
+                    "word": "usingizi"
+                  }
+                ],
+                "until": 478,
+                "utterances": "Nilikuwa bado najisemea wakati nilipatwa na usingizi"
+              }
+            ],
+            "sentence": "Nilikuwa bado najisemea wakati nilipatwa na usingizi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baada ya saa tisa niliamshwa kwa kelele za kuita abiria waliokwenda katika kijiji changu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 87,
+                    "start": 65,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 120,
+                    "start": 88,
+                    "word": "saa"
+                  },
+                  {
+                    "end": 179,
+                    "start": 121,
+                    "word": "tisa"
+                  },
+                  {
+                    "end": 299,
+                    "start": 213,
+                    "word": "niliamshwa"
+                  },
+                  {
+                    "end": 323,
+                    "start": 300,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 400,
+                    "start": 324,
+                    "word": "kelele"
+                  },
+                  {
+                    "end": 419,
+                    "start": 401,
+                    "word": "za"
+                  },
+                  {
+                    "end": 491,
+                    "start": 420,
+                    "word": "kuita"
+                  },
+                  {
+                    "end": 566,
+                    "start": 492,
+                    "word": "abiria"
+                  },
+                  {
+                    "end": 681,
+                    "start": 592,
+                    "word": "waliokwenda"
+                  },
+                  {
+                    "end": 741,
+                    "start": 682,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 804,
+                    "start": 742,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 860,
+                    "start": 805,
+                    "word": "changu"
+                  }
+                ],
+                "until": 860,
+                "utterances": "Baada ya saa tisa niliamshwa kwa kelele za kuita abiria waliokwenda katika kijiji changu"
+              }
+            ],
+            "sentence": "Baada ya saa tisa, niliamshwa kwa kelele za kuita abiria waliokwenda katika kijiji changu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilichukuwa mfuko wangu mdogo na kuruka nje ya basi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 20,
+                    "word": "Nilichukuwa"
+                  },
+                  {
+                    "end": 155,
+                    "start": 109,
+                    "word": "mfuko"
+                  },
+                  {
+                    "end": 197,
+                    "start": 156,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 274,
+                    "start": 198,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 315,
+                    "start": 302,
+                    "word": "na"
+                  },
+                  {
+                    "end": 399,
+                    "start": 316,
+                    "word": "kuruka"
+                  },
+                  {
+                    "end": 454,
+                    "start": 400,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 461,
+                    "start": 455,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 505,
+                    "start": 462,
+                    "word": "basi"
+                  }
+                ],
+                "until": 505,
+                "utterances": "Nilichukuwa mfuko wangu mdogo na kuruka nje ya basi"
+              }
+            ],
+            "sentence": "Nilichukuwa mfuko wangu mdogo na kuruka nje ya basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_24_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Basi la kurudi lilikuwa linajaa upesi.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 1,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 74,
+                    "start": 66,
+                    "word": "la"
+                  },
+                  {
+                    "end": 160,
+                    "start": 75,
+                    "word": "kurudi"
+                  },
+                  {
+                    "end": 249,
+                    "start": 184,
+                    "word": "lilikuwa"
+                  },
+                  {
+                    "end": 334,
+                    "start": 250,
+                    "word": "linajaa"
+                  },
+                  {
+                    "end": 391,
+                    "start": 335,
+                    "word": "upesi"
+                  }
+                ],
+                "until": 391,
+                "utterances": "Basi la kurudi lilikuwa linajaa upesi"
+              }
+            ],
+            "sentence": "Basi la kurudi lilikuwa linajaa upesi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Muda mfupi baadaye lingeanza safari ya kwenda mashariki.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 18,
+                    "word": "Muda"
+                  },
+                  {
+                    "end": 112,
+                    "start": 53,
+                    "word": "mfupi"
+                  },
+                  {
+                    "end": 176,
+                    "start": 113,
+                    "word": "baadaye"
+                  },
+                  {
+                    "end": 263,
+                    "start": 177,
+                    "word": "lingeanza"
+                  },
+                  {
+                    "end": 360,
+                    "start": 300,
+                    "word": "safari"
+                  },
+                  {
+                    "end": 370,
+                    "start": 361,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 414,
+                    "start": 371,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 506,
+                    "start": 415,
+                    "word": "mashariki"
+                  }
+                ],
+                "until": 506,
+                "utterances": "Muda mfupi baadaye lingeanza safari ya kwenda mashariki"
+              }
+            ],
+            "sentence": "Muda mfupi baadaye, lingeanza safari ya kwenda mashariki."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jambo la maana kwangu wakati huo lilikuwa kuanza kutafuta nyumba ya mjombangu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 20,
+                    "word": "Jambo"
+                  },
+                  {
+                    "end": 80,
+                    "start": 68,
+                    "word": "la"
+                  },
+                  {
+                    "end": 144,
+                    "start": 81,
+                    "word": "maana"
+                  },
+                  {
+                    "end": 194,
+                    "start": 145,
+                    "word": "kwangu"
+                  },
+                  {
+                    "end": 261,
+                    "start": 195,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 343,
+                    "start": 319,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 398,
+                    "start": 344,
+                    "word": "lilikuwa"
+                  },
+                  {
+                    "end": 461,
+                    "start": 399,
+                    "word": "kuanza"
+                  },
+                  {
+                    "end": 548,
+                    "start": 462,
+                    "word": "kutafuta"
+                  },
+                  {
+                    "end": 629,
+                    "start": 584,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 651,
+                    "start": 630,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 739,
+                    "start": 652,
+                    "word": "mjombangu"
+                  }
+                ],
+                "until": 739,
+                "utterances": "Jambo la maana kwangu wakati huo lilikuwa kuanza kutafuta nyumba ya mjombangu"
+              }
+            ],
+            "sentence": "Jambo la maana kwangu wakati huo lilikuwa kuanza kutafuta nyumba ya mjombangu."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Brian Wambi",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "status": "Translated by: Ursula Nafula",
+  "title": "Siku niliyoondoka nyumbani kuelekea jijini",
+  "titleimage": "level3_24_page_01_image_0001.jpg"
+}

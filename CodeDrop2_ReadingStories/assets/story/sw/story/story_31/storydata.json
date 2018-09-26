@@ -1,0 +1,783 @@
+{
+  "authors": "Southern African Folktale",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_30_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hapo zamani za kale paliishi familia yenye furaha.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 21,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 120,
+                    "start": 68,
+                    "word": "zamani"
+                  },
+                  {
+                    "end": 142,
+                    "start": 121,
+                    "word": "za"
+                  },
+                  {
+                    "end": 210,
+                    "start": 143,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 316,
+                    "start": 246,
+                    "word": "paliishi"
+                  },
+                  {
+                    "end": 409,
+                    "start": 317,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 489,
+                    "start": 442,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 571,
+                    "start": 490,
+                    "word": "furaha"
+                  }
+                ],
+                "until": 571,
+                "utterances": "Hapo zamani za kale paliishi familia yenye furaha"
+              }
+            ],
+            "sentence": "Hapo zamani za kale, paliishi familia yenye furaha."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hawakugombana hata kidogo.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 162,
+                    "start": 19,
+                    "word": "Hawakugombana"
+                  },
+                  {
+                    "end": 244,
+                    "start": 188,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 303,
+                    "start": 245,
+                    "word": "kidogo"
+                  }
+                ],
+                "until": 303,
+                "utterances": "Hawakugombana hata kidogo"
+              }
+            ],
+            "sentence": "Hawakugombana hata kidogo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto waliwasaidia wazazi nyumbani na shambani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 20,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 212,
+                    "start": 87,
+                    "word": "waliwasaidia"
+                  },
+                  {
+                    "end": 290,
+                    "start": 213,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 379,
+                    "start": 291,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 426,
+                    "start": 409,
+                    "word": "na"
+                  },
+                  {
+                    "end": 513,
+                    "start": 427,
+                    "word": "shambani"
+                  }
+                ],
+                "until": 513,
+                "utterances": "Watoto waliwasaidia wazazi nyumbani na shambani"
+              }
+            ],
+            "sentence": "Watoto waliwasaidia wazazi nyumbani na shambani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini walikatazwa kwenda karibu na moto.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 19,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 259,
+                    "start": 133,
+                    "word": "walikatazwa"
+                  },
+                  {
+                    "end": 304,
+                    "start": 260,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 370,
+                    "start": 305,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 390,
+                    "start": 371,
+                    "word": "na"
+                  },
+                  {
+                    "end": 449,
+                    "start": 391,
+                    "word": "moto"
+                  }
+                ],
+                "until": 449,
+                "utterances": "Lakini walikatazwa kwenda karibu na moto"
+              }
+            ],
+            "sentence": "Lakini, walikatazwa kwenda karibu na moto."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walifanya kazi zao zote usiku.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 107,
+                    "start": 19,
+                    "word": "Walifanya"
+                  },
+                  {
+                    "end": 153,
+                    "start": 108,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 201,
+                    "start": 154,
+                    "word": "zao"
+                  },
+                  {
+                    "end": 300,
+                    "start": 202,
+                    "word": "zote"
+                  },
+                  {
+                    "end": 391,
+                    "start": 327,
+                    "word": "usiku"
+                  }
+                ],
+                "until": 391,
+                "utterances": "Walifanya kazi zao zote usiku"
+              }
+            ],
+            "sentence": "Walifanya kazi zao zote usiku."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hii ni kwa sababu walikuwa wameumbwa kwa nta.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 18,
+                    "word": "Hii"
+                  },
+                  {
+                    "end": 86,
+                    "start": 62,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 103,
+                    "start": 87,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 168,
+                    "start": 104,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 274,
+                    "start": 206,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 361,
+                    "start": 275,
+                    "word": "wameumbwa"
+                  },
+                  {
+                    "end": 393,
+                    "start": 362,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 446,
+                    "start": 394,
+                    "word": "nta"
+                  }
+                ],
+                "until": 446,
+                "utterances": "Hii ni kwa sababu walikuwa wameumbwa kwa nta"
+              }
+            ],
+            "sentence": "Hii ni kwa sababu walikuwa wameumbwa kwa nta."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini kijana mmoja alitamani kwenda nje wakati wa mchana.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 158,
+                    "start": 94,
+                    "word": "kijana"
+                  },
+                  {
+                    "end": 226,
+                    "start": 159,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 329,
+                    "start": 227,
+                    "word": "alitamani"
+                  },
+                  {
+                    "end": 373,
+                    "start": 330,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 441,
+                    "start": 374,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 537,
+                    "start": 476,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 560,
+                    "start": 538,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 627,
+                    "start": 561,
+                    "word": "mchana"
+                  }
+                ],
+                "until": 627,
+                "utterances": "Lakini kijana mmoja alitamani kwenda nje wakati wa mchana"
+              }
+            ],
+            "sentence": "Lakini, kijana mmoja alitamani kwenda nje wakati wa mchana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku moja tamaa ya kwenda nje ikazidi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 132,
+                    "start": 79,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 226,
+                    "start": 169,
+                    "word": "tamaa"
+                  },
+                  {
+                    "end": 246,
+                    "start": 227,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 289,
+                    "start": 247,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 331,
+                    "start": 290,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 464,
+                    "start": 344,
+                    "word": "ikazidi"
+                  }
+                ],
+                "until": 464,
+                "utterances": "Siku moja tamaa ya kwenda nje ikazidi"
+              }
+            ],
+            "sentence": "Siku moja tamaa ya kwenda nje ikazidi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wenzake wakamwonya asiende juani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 20,
+                    "word": "Wenzake"
+                  },
+                  {
+                    "end": 198,
+                    "start": 95,
+                    "word": "wakamwonya"
+                  },
+                  {
+                    "end": 272,
+                    "start": 199,
+                    "word": "asiende"
+                  },
+                  {
+                    "end": 350,
+                    "start": 273,
+                    "word": "juani"
+                  }
+                ],
+                "until": 350,
+                "utterances": "Wenzake wakamwonya asiende juani"
+              }
+            ],
+            "sentence": "Wenzake wakamwonya asiende juani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini hakusikia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 247,
+                    "start": 138,
+                    "word": "hakusikia"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Lakini hakusikia"
+              }
+            ],
+            "sentence": "Lakini, hakusikia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliyeyuka kwa sababu joto lilikuwa kali.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 22,
+                    "word": "Aliyeyuka"
+                  },
+                  {
+                    "end": 138,
+                    "start": 115,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 196,
+                    "start": 139,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 239,
+                    "start": 197,
+                    "word": "joto"
+                  },
+                  {
+                    "end": 309,
+                    "start": 240,
+                    "word": "lilikuwa"
+                  },
+                  {
+                    "end": 390,
+                    "start": 310,
+                    "word": "kali"
+                  }
+                ],
+                "until": 390,
+                "utterances": "Aliyeyuka kwa sababu joto lilikuwa kali"
+              }
+            ],
+            "sentence": "Aliyeyuka kwa sababu joto lilikuwa kali."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto wa nta walihuzunika walipoona kaka yao akiyeyuka.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 19,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 109,
+                    "start": 87,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 143,
+                    "start": 110,
+                    "word": "nta"
+                  },
+                  {
+                    "end": 297,
+                    "start": 144,
+                    "word": "walihuzunika"
+                  },
+                  {
+                    "end": 417,
+                    "start": 332,
+                    "word": "walipoona"
+                  },
+                  {
+                    "end": 460,
+                    "start": 418,
+                    "word": "kaka"
+                  },
+                  {
+                    "end": 507,
+                    "start": 461,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 632,
+                    "start": 508,
+                    "word": "akiyeyuka"
+                  }
+                ],
+                "until": 632,
+                "utterances": "Watoto wa nta walihuzunika walipoona kaka yao akiyeyuka"
+              }
+            ],
+            "sentence": "Watoto wa nta walihuzunika walipoona kaka yao akiyeyuka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wakapanga jambo fulani.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 18,
+                    "word": "Wakapanga"
+                  },
+                  {
+                    "end": 146,
+                    "start": 107,
+                    "word": "jambo"
+                  },
+                  {
+                    "end": 218,
+                    "start": 147,
+                    "word": "fulani"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Wakapanga jambo fulani"
+              }
+            ],
+            "sentence": "Wakapanga jambo fulani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walichukua nta iliyoyeyuka wakatengeza ndege.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 19,
+                    "word": "Walichukua"
+                  },
+                  {
+                    "end": 172,
+                    "start": 115,
+                    "word": "nta"
+                  },
+                  {
+                    "end": 302,
+                    "start": 173,
+                    "word": "iliyoyeyuka"
+                  },
+                  {
+                    "end": 448,
+                    "start": 345,
+                    "word": "wakatengeza"
+                  },
+                  {
+                    "end": 502,
+                    "start": 449,
+                    "word": "ndege"
+                  }
+                ],
+                "until": 502,
+                "utterances": "Walichukua nta iliyoyeyuka wakatengeza ndege"
+              }
+            ],
+            "sentence": "Walichukua nta iliyoyeyuka wakatengeza ndege."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wakamweka ndege huyo juu ya mlima mrefu.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 22,
+                    "word": "Wakamweka"
+                  },
+                  {
+                    "end": 161,
+                    "start": 109,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 206,
+                    "start": 162,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 250,
+                    "start": 207,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 275,
+                    "start": 251,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 336,
+                    "start": 276,
+                    "word": "mlima"
+                  },
+                  {
+                    "end": 409,
+                    "start": 337,
+                    "word": "mrefu"
+                  }
+                ],
+                "until": 409,
+                "utterances": "Wakamweka ndege huyo juu ya mlima mrefu"
+              }
+            ],
+            "sentence": "Wakamweka ndege huyo juu ya mlima mrefu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_30_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Jua lilipochomoza asubuhi akapeperuka akiimba kwa furaha.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Jua"
+                  },
+                  {
+                    "end": 192,
+                    "start": 56,
+                    "word": "lilipochomoza"
+                  },
+                  {
+                    "end": 315,
+                    "start": 193,
+                    "word": "asubuhi"
+                  },
+                  {
+                    "end": 521,
+                    "start": 359,
+                    "word": "akapeperuka"
+                  },
+                  {
+                    "end": 639,
+                    "start": 555,
+                    "word": "akiimba"
+                  },
+                  {
+                    "end": 673,
+                    "start": 640,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 759,
+                    "start": 674,
+                    "word": "furaha"
+                  }
+                ],
+                "until": 759,
+                "utterances": "Jua lilipochomoza asubuhi akapeperuka akiimba kwa furaha"
+              }
+            ],
+            "sentence": "Jua lilipochomoza asubuhi, akapeperuka akiimba kwa furaha."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Mutugi Kamundi",
+  "title": "Watoto wa Nta",
+  "titleimage": "level2_30_page_01_image_0001.jpg"
+}

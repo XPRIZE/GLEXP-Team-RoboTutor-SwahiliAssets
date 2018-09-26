@@ -1,0 +1,811 @@
+{
+  "authors": "Mozambican folktale",
+  "copyright": "Copyright (c) Mozambican Writers, 2014",
+  "data": [
+    {
+      "image": "level2_24_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Miaka mingi iliyopita Mjusi na Chura walikuwa marafiki.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 20,
+                    "word": "Miaka"
+                  },
+                  {
+                    "end": 132,
+                    "start": 75,
+                    "word": "mingi"
+                  },
+                  {
+                    "end": 239,
+                    "start": 133,
+                    "word": "iliyopita"
+                  },
+                  {
+                    "end": 337,
+                    "start": 273,
+                    "word": "Mjusi"
+                  },
+                  {
+                    "end": 355,
+                    "start": 338,
+                    "word": "na"
+                  },
+                  {
+                    "end": 399,
+                    "start": 356,
+                    "word": "Chura"
+                  },
+                  {
+                    "end": 472,
+                    "start": 400,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 567,
+                    "start": 473,
+                    "word": "marafiki"
+                  }
+                ],
+                "until": 567,
+                "utterances": "Miaka mingi iliyopita Mjusi na Chura walikuwa marafiki"
+              }
+            ],
+            "sentence": "Miaka mingi iliyopita, Mjusi na Chura walikuwa marafiki."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku moja waliamua kutafuta wasichana wapenzi jijini.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 137,
+                    "start": 74,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 253,
+                    "start": 162,
+                    "word": "waliamua"
+                  },
+                  {
+                    "end": 346,
+                    "start": 254,
+                    "word": "kutafuta"
+                  },
+                  {
+                    "end": 421,
+                    "start": 347,
+                    "word": "wasichana"
+                  },
+                  {
+                    "end": 500,
+                    "start": 422,
+                    "word": "wapenzi"
+                  },
+                  {
+                    "end": 580,
+                    "start": 501,
+                    "word": "jijini"
+                  }
+                ],
+                "until": 580,
+                "utterances": "Siku moja waliamua kutafuta wasichana wapenzi jijini"
+              }
+            ],
+            "sentence": "Siku moja waliamua kutafuta wasichana wapenzi jijini."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Chura alimwonea Mjusi wivu kwa vile ngozi yake ilimetameta na kuvutia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 20,
+                    "word": "Chura"
+                  },
+                  {
+                    "end": 173,
+                    "start": 68,
+                    "word": "alimwonea"
+                  },
+                  {
+                    "end": 235,
+                    "start": 174,
+                    "word": "Mjusi"
+                  },
+                  {
+                    "end": 312,
+                    "start": 236,
+                    "word": "wivu"
+                  },
+                  {
+                    "end": 364,
+                    "start": 353,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 401,
+                    "start": 365,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 453,
+                    "start": 402,
+                    "word": "ngozi"
+                  },
+                  {
+                    "end": 490,
+                    "start": 454,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 640,
+                    "start": 491,
+                    "word": "ilimetameta"
+                  },
+                  {
+                    "end": 692,
+                    "start": 679,
+                    "word": "na"
+                  },
+                  {
+                    "end": 781,
+                    "start": 693,
+                    "word": "kuvutia"
+                  }
+                ],
+                "until": 781,
+                "utterances": "Chura alimwonea Mjusi wivu kwa vile ngozi yake ilimetameta na kuvutia"
+              }
+            ],
+            "sentence": "Chura alimwonea Mjusi wivu kwa vile ngozi yake ilimetameta na kuvutia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alisema Kipi ulifanya ili ukaonekana mrembo hivi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 21,
+                    "word": "Alisema"
+                  },
+                  {
+                    "end": 223,
+                    "start": 174,
+                    "word": "Kipi"
+                  },
+                  {
+                    "end": 292,
+                    "start": 224,
+                    "word": "ulifanya"
+                  },
+                  {
+                    "end": 339,
+                    "start": 306,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 426,
+                    "start": 340,
+                    "word": "ukaonekana"
+                  },
+                  {
+                    "end": 477,
+                    "start": 427,
+                    "word": "mrembo"
+                  },
+                  {
+                    "end": 565,
+                    "start": 478,
+                    "word": "hivi"
+                  }
+                ],
+                "until": 565,
+                "utterances": "Alisema Kipi ulifanya ili ukaonekana mrembo hivi"
+              }
+            ],
+            "sentence": "Alisema: Kipi ulifanya ili ukaonekana mrembo hivi?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hebu niangalie nina sura mbaya mno.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 20,
+                    "word": "Hebu"
+                  },
+                  {
+                    "end": 191,
+                    "start": 117,
+                    "word": "niangalie"
+                  },
+                  {
+                    "end": 279,
+                    "start": 248,
+                    "word": "nina"
+                  },
+                  {
+                    "end": 325,
+                    "start": 280,
+                    "word": "sura"
+                  },
+                  {
+                    "end": 393,
+                    "start": 326,
+                    "word": "mbaya"
+                  },
+                  {
+                    "end": 433,
+                    "start": 394,
+                    "word": "mno"
+                  }
+                ],
+                "until": 433,
+                "utterances": "Hebu niangalie nina sura mbaya mno"
+              }
+            ],
+            "sentence": "Hebu, niangalie, nina sura mbaya mno."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ninaweza kufanya nini kuhusu ngozi yangu.mp3",
+                "from": 57,
+                "segmentation": [
+                  {
+                    "end": 123,
+                    "start": 57,
+                    "word": "Ninaweza"
+                  },
+                  {
+                    "end": 170,
+                    "start": 124,
+                    "word": "kufanya"
+                  },
+                  {
+                    "end": 244,
+                    "start": 171,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 322,
+                    "start": 263,
+                    "word": "kuhusu"
+                  },
+                  {
+                    "end": 378,
+                    "start": 323,
+                    "word": "ngozi"
+                  },
+                  {
+                    "end": 457,
+                    "start": 379,
+                    "word": "yangu"
+                  }
+                ],
+                "until": 457,
+                "utterances": "Ninaweza kufanya nini kuhusu ngozi yangu"
+              }
+            ],
+            "sentence": "Ninaweza kufanya nini kuhusu ngozi yangu?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mjusi alisema Sikiliza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 2,
+                    "word": "Mjusi"
+                  },
+                  {
+                    "end": 157,
+                    "start": 80,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 305,
+                    "start": 209,
+                    "word": "Sikiliza"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Mjusi alisema Sikiliza"
+              }
+            ],
+            "sentence": "Mjusi alisema: Sikiliza!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tia maji chunguni kisha ukiweke mekoni.mp3",
+                "from": 26,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 26,
+                    "word": "Tia"
+                  },
+                  {
+                    "end": 125,
+                    "start": 63,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 229,
+                    "start": 126,
+                    "word": "chunguni"
+                  },
+                  {
+                    "end": 308,
+                    "start": 254,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 395,
+                    "start": 309,
+                    "word": "ukiweke"
+                  },
+                  {
+                    "end": 467,
+                    "start": 396,
+                    "word": "mekoni"
+                  }
+                ],
+                "until": 467,
+                "utterances": "Tia maji chunguni kisha ukiweke mekoni"
+              }
+            ],
+            "sentence": "Tia maji chunguni kisha ukiweke mekoni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Halafu u.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 20,
+                    "word": "Halafu"
+                  },
+                  {
+                    "end": 122,
+                    "start": 118,
+                    "word": "u"
+                  }
+                ],
+                "until": 122,
+                "utterances": "Halafu u"
+              }
+            ],
+            "sentence": "Halafu u..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini Chura akasema Najua tayari najua.mp3",
+                "from": 55,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 55,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 142,
+                    "start": 103,
+                    "word": "Chura"
+                  },
+                  {
+                    "end": 204,
+                    "start": 143,
+                    "word": "akasema"
+                  },
+                  {
+                    "end": 284,
+                    "start": 246,
+                    "word": "Najua"
+                  },
+                  {
+                    "end": 355,
+                    "start": 285,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 438,
+                    "start": 376,
+                    "word": "najua"
+                  }
+                ],
+                "until": 438,
+                "utterances": "Lakini Chura akasema Najua tayari najua"
+              }
+            ],
+            "sentence": "Lakini Chura akasema: Najua tayari, najua."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Fyata ulimi rafiki yangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 2,
+                    "word": "Fyata"
+                  },
+                  {
+                    "end": 150,
+                    "start": 69,
+                    "word": "ulimi"
+                  },
+                  {
+                    "end": 200,
+                    "start": 151,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 234,
+                    "start": 201,
+                    "word": "yangu"
+                  }
+                ],
+                "until": 234,
+                "utterances": "Fyata ulimi rafiki yangu"
+              }
+            ],
+            "sentence": "Fyata ulimi, rafiki yangu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mara akaondoka.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 2,
+                    "word": "Mara"
+                  },
+                  {
+                    "end": 216,
+                    "start": 66,
+                    "word": "akaondoka"
+                  }
+                ],
+                "until": 216,
+                "utterances": "Mara akaondoka"
+              }
+            ],
+            "sentence": "Mara akaondoka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo alifika nyumbani na kutia maji chunguni.mp3",
+                "from": 66,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 66,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 141,
+                    "start": 82,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 217,
+                    "start": 142,
+                    "word": "alifika"
+                  },
+                  {
+                    "end": 300,
+                    "start": 218,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 335,
+                    "start": 325,
+                    "word": "na"
+                  },
+                  {
+                    "end": 396,
+                    "start": 336,
+                    "word": "kutia"
+                  },
+                  {
+                    "end": 442,
+                    "start": 397,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 522,
+                    "start": 443,
+                    "word": "chunguni"
+                  }
+                ],
+                "until": 522,
+                "utterances": "Kwa hivyo alifika nyumbani na kutia maji chunguni"
+              }
+            ],
+            "sentence": "Kwa hivyo alifika nyumbani na kutia maji chunguni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Maji yalipoanza kuchemka alijitumbukiza ndani.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 15,
+                    "word": "Maji"
+                  },
+                  {
+                    "end": 163,
+                    "start": 78,
+                    "word": "yalipoanza"
+                  },
+                  {
+                    "end": 252,
+                    "start": 164,
+                    "word": "kuchemka"
+                  },
+                  {
+                    "end": 450,
+                    "start": 294,
+                    "word": "alijitumbukiza"
+                  },
+                  {
+                    "end": 499,
+                    "start": 451,
+                    "word": "ndani"
+                  }
+                ],
+                "until": 499,
+                "utterances": "Maji yalipoanza kuchemka alijitumbukiza ndani"
+              }
+            ],
+            "sentence": "Maji yalipoanza kuchemka, alijitumbukiza ndani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "na ngozi yake ikachomeka na mkia wake ukakatika.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 92,
+                    "start": 35,
+                    "word": "ngozi"
+                  },
+                  {
+                    "end": 128,
+                    "start": 93,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 244,
+                    "start": 129,
+                    "word": "ikachomeka"
+                  },
+                  {
+                    "end": 289,
+                    "start": 277,
+                    "word": "na"
+                  },
+                  {
+                    "end": 340,
+                    "start": 290,
+                    "word": "mkia"
+                  },
+                  {
+                    "end": 382,
+                    "start": 341,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 484,
+                    "start": 383,
+                    "word": "ukakatika"
+                  }
+                ],
+                "until": 484,
+                "utterances": "Na ngozi yake ikachomeka na mkia wake ukakatika"
+              }
+            ],
+            "sentence": "na ngozi yake ikachomeka na mkia wake ukakatika!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_24_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Na badala ya kumetameta na kuwa mrembo kama Mjusi alikuwa na sura mbaya zaidi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 20,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 92,
+                    "start": 34,
+                    "word": "badala"
+                  },
+                  {
+                    "end": 111,
+                    "start": 93,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 213,
+                    "start": 112,
+                    "word": "kumetameta"
+                  },
+                  {
+                    "end": 232,
+                    "start": 214,
+                    "word": "na"
+                  },
+                  {
+                    "end": 270,
+                    "start": 233,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 333,
+                    "start": 271,
+                    "word": "mrembo"
+                  },
+                  {
+                    "end": 373,
+                    "start": 334,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 439,
+                    "start": 374,
+                    "word": "Mjusi"
+                  },
+                  {
+                    "end": 563,
+                    "start": 487,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 588,
+                    "start": 564,
+                    "word": "na"
+                  },
+                  {
+                    "end": 647,
+                    "start": 589,
+                    "word": "sura"
+                  },
+                  {
+                    "end": 728,
+                    "start": 648,
+                    "word": "mbaya"
+                  },
+                  {
+                    "end": 792,
+                    "start": 729,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 792,
+                "utterances": "Na badala ya kumetameta na kuwa mrembo kama Mjusi alikuwa na sura mbaya zaidi"
+              }
+            ],
+            "sentence": "Na badala ya kumetameta na kuwa mrembo kama Mjusi, alikuwa na sura mbaya zaidi!"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Helder de Paz Alexandre",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Sababu Chura kuwa na Sura Mbaya",
+  "titleimage": "level2_24_page_01_image_0001.jpg"
+}

@@ -1,0 +1,415 @@
+{
+  "level": "1", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "una", 
+          "pumzi", 
+          "simu"
+        ], 
+        "nonsensical_english": [
+          "has", 
+          "exhale", 
+          "phone"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "dogo", 
+          "lini", 
+          "zetu"
+        ], 
+        "ungrammatical_english": [
+          "little", 
+          "time", 
+          "ours"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anaitwa Bi Simu.", 
+      "stem": "Anaitwa Bi", 
+      "target": "Simu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "!", 
+      "sentence": "Mwangalie!", 
+      "stem": "Mwangalie", 
+      "target": "Mwangalie"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "manjano", 
+          "namna", 
+          "mungu"
+        ], 
+        "nonsensical_english": [
+          "turmeric", 
+          "pattern", 
+          "destiny"
+        ], 
+        "plausible": [
+          "manjano", 
+          "mungu", 
+          "namna"
+        ], 
+        "plausible_english": [
+          "turmeric", 
+          "sympathy", 
+          "form"
+        ], 
+        "ungrammatical": [
+          "u", 
+          "huwa", 
+          "hizi"
+        ], 
+        "ungrammatical_english": [
+          "it", 
+          "perhaps", 
+          "endanger"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ana simu tano.", 
+      "stem": "Ana simu", 
+      "target": "tano"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "tumbo", 
+          "pumzi", 
+          "zama"
+        ], 
+        "nonsensical_english": [
+          "diarrhoea", 
+          "breath", 
+          "dive"
+        ], 
+        "plausible": [
+          "pumzi", 
+          "tumbo", 
+          "zama"
+        ], 
+        "plausible_english": [
+          "breathe", 
+          "interior", 
+          "sink"
+        ], 
+        "ungrammatical": [
+          "u", 
+          "muhimu", 
+          "huwa"
+        ], 
+        "ungrammatical_english": [
+          "it", 
+          "important", 
+          "rule"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Akiamka, anazipanga simu zake tano juu ya meza.", 
+      "stem": "Akiamka, anazipanga simu zake tano juu ya", 
+      "target": "meza"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "juu", 
+          "kuwa", 
+          "sana"
+        ], 
+        "ungrammatical_english": [
+          "up", 
+          "grow", 
+          "most"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ya manjano ni ya kuwasiliana na watu wa familia yake.", 
+      "stem": "Ya manjano ni ya kuwasiliana na watu wa familia", 
+      "target": "yake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "bwawa", 
+          "mbingu", 
+          "mchezo"
+        ], 
+        "ungrammatical_english": [
+          "swamp", 
+          "cloudiness", 
+          "play"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ile nyeupe ni ya kuwasiliana na wenzake kazini.", 
+      "stem": "Ile nyeupe ni ya kuwasiliana na wenzake", 
+      "target": "kazini"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "kwenye", 
+          "siku", 
+          "katika"
+        ], 
+        "ungrammatical_english": [
+          "possessing", 
+          "day", 
+          "on"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Bali ile nyekundu ni ya kuwasiliana na wale walio na madeni yake.", 
+      "stem": "Bali ile nyekundu ni ya kuwasiliana na wale walio na madeni", 
+      "target": "yake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "ambazo", 
+          "pumua", 
+          "taja"
+        ], 
+        "ungrammatical_english": [
+          "which", 
+          "breathe", 
+          "name"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nayo ile ya wardi ni ya kuwasiliana na marafiki zake wa dhati.", 
+      "stem": "Nayo ile ya wardi ni ya kuwasiliana na marafiki zake wa", 
+      "target": "dhati"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "tena", 
+          "chini", 
+          "kila"
+        ], 
+        "ungrammatical_english": [
+          "next", 
+          "genitals", 
+          "entire"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ile ya kizambarau anaitumia kuwasiliana na watu wanaohitaji msaada wake.", 
+      "stem": "Ile ya kizambarau anaitumia kuwasiliana na watu wanaohitaji msaada", 
+      "target": "wake"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Bi Simu hupenda watu kufurahi.", 
+      "stem": "Bi Simu hupenda watu", 
+      "target": "kufurahi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "tumbo", 
+          "simu", 
+          "una"
+        ], 
+        "nonsensical_english": [
+          "diarrhoea", 
+          "phone", 
+          "have"
+        ], 
+        "plausible": [
+          "una", 
+          "simu", 
+          "tumbo"
+        ], 
+        "plausible_english": [
+          "has", 
+          "telephone", 
+          "abdomen"
+        ], 
+        "ungrammatical": [
+          "dhaifu", 
+          "dogo", 
+          "tuli"
+        ], 
+        "ungrammatical_english": [
+          "slight", 
+          "slight", 
+          "still"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Hapendi ugomvi wala vita.", 
+      "stem": "Hapendi ugomvi wala", 
+      "target": "vita"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nani", 
+          "wao", 
+          "huyu"
+        ], 
+        "nonsensical_english": [
+          "who", 
+          "them", 
+          "this"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "zamani", 
+          "furaha", 
+          "jambo"
+        ], 
+        "ungrammatical_english": [
+          "times", 
+          "joy", 
+          "condition"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Huwaalika watoto kuangalia runinga katika duka lake.", 
+      "stem": "Huwaalika watoto kuangalia runinga katika duka", 
+      "target": "lake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "wapi", 
+          "hakuna", 
+          "tu"
+        ], 
+        "ungrammatical_english": [
+          "avail", 
+          "are", 
+          "completely"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Huwatembelea wagonjwa na wazee katika nyumba zao.", 
+      "stem": "Huwatembelea wagonjwa na wazee katika nyumba", 
+      "target": "zao"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "tumbo", 
+          "simu", 
+          "una"
+        ], 
+        "nonsensical_english": [
+          "womb", 
+          "telegram", 
+          "has"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "dogo", 
+          "kule", 
+          "huwa"
+        ], 
+        "ungrammatical_english": [
+          "junior", 
+          "there", 
+          "usually"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Kila apitapo, kuna mayowe ya, \"Bi Simu!", 
+      "stem": "Kila apitapo, kuna mayowe ya, \"Bi", 
+      "target": "Simu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "simu", 
+          "sio", 
+          "kitanda"
+        ], 
+        "nonsensical_english": [
+          "telegraph", 
+          "not", 
+          "bedclothes"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "dogo", 
+          "huwa", 
+          "kule"
+        ], 
+        "ungrammatical_english": [
+          "young", 
+          "usually", 
+          "there"
+        ]
+      }, 
+      "punctuation": "!\"", 
+      "sentence": "Bi Simu!\"", 
+      "stem": "Bi", 
+      "target": "Simu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "!\"", 
+      "sentence": "Naye hufurahia na kusema, \"Mimi ni Bi Simu na hizi simu zangu ziangalieni!\"", 
+      "stem": "Naye hufurahia na kusema, \"Mimi ni Bi Simu na hizi simu zangu", 
+      "target": "ziangalieni"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "namna", 
+          "damu", 
+          "mungu"
+        ], 
+        "nonsensical_english": [
+          "form", 
+          "blood", 
+          "divine"
+        ], 
+        "plausible": [
+          "mungu", 
+          "namna", 
+          "manjano"
+        ], 
+        "plausible_english": [
+          "providence", 
+          "way", 
+          "yellow"
+        ], 
+        "ungrammatical": [
+          "hizi", 
+          "ana", 
+          "u"
+        ], 
+        "ungrammatical_english": [
+          "these", 
+          "face", 
+          "it"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Huyo ni Bi Simu na simu zake tano.", 
+      "stem": "Huyo ni Bi Simu na simu zake", 
+      "target": "tano"
+    }
+  ], 
+  "title": "placeholder"
+}

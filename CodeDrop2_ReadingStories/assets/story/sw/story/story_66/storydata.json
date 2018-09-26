@@ -1,0 +1,1938 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level3_23_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilipokuwa na umri wa miaka mitano mjombangu alinipa zawadi ya ajabu sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 21,
+                    "word": "Nilipokuwa"
+                  },
+                  {
+                    "end": 149,
+                    "start": 115,
+                    "word": "na"
+                  },
+                  {
+                    "end": 188,
+                    "start": 150,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 205,
+                    "start": 189,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 261,
+                    "start": 206,
+                    "word": "miaka"
+                  },
+                  {
+                    "end": 346,
+                    "start": 262,
+                    "word": "mitano"
+                  },
+                  {
+                    "end": 456,
+                    "start": 373,
+                    "word": "mjombangu"
+                  },
+                  {
+                    "end": 534,
+                    "start": 457,
+                    "word": "alinipa"
+                  },
+                  {
+                    "end": 603,
+                    "start": 535,
+                    "word": "zawadi"
+                  },
+                  {
+                    "end": 609,
+                    "start": 604,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 666,
+                    "start": 610,
+                    "word": "ajabu"
+                  },
+                  {
+                    "end": 728,
+                    "start": 667,
+                    "word": "sana"
+                  }
+                ],
+                "until": 728,
+                "utterances": "Nilipokuwa na umri wa miaka mitano mjombangu alinipa zawadi ya ajabu sana"
+              }
+            ],
+            "sentence": "Nilipokuwa na umri wa miaka mitano, mjombangu alinipa zawadi ya ajabu sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Zawadi ilikuwa ya mbwa mdogo wa wiki tatu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 21,
+                    "word": "Zawadi"
+                  },
+                  {
+                    "end": 153,
+                    "start": 91,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 175,
+                    "start": 154,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 213,
+                    "start": 176,
+                    "word": "mbwa"
+                  },
+                  {
+                    "end": 249,
+                    "start": 214,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 285,
+                    "start": 250,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 324,
+                    "start": 286,
+                    "word": "wiki"
+                  },
+                  {
+                    "end": 379,
+                    "start": 325,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 379,
+                "utterances": "Zawadi ilikuwa ya mbwa mdogo wa wiki tatu"
+              }
+            ],
+            "sentence": "Zawadi ilikuwa ya mbwa mdogo wa wiki tatu!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku mjomba aliniletea mbwa huyo nilifurahi sana.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 15,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 133,
+                    "start": 82,
+                    "word": "mjomba"
+                  },
+                  {
+                    "end": 247,
+                    "start": 134,
+                    "word": "aliniletea"
+                  },
+                  {
+                    "end": 307,
+                    "start": 248,
+                    "word": "mbwa"
+                  },
+                  {
+                    "end": 351,
+                    "start": 308,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 490,
+                    "start": 387,
+                    "word": "nilifurahi"
+                  },
+                  {
+                    "end": 560,
+                    "start": 491,
+                    "word": "sana"
+                  }
+                ],
+                "until": 560,
+                "utterances": "Siku mjomba aliniletea mbwa huyo nilifurahi sana"
+              }
+            ],
+            "sentence": "Siku mjomba aliniletea mbwa huyo, nilifurahi sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilijua nimempata rafiki.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 20,
+                    "word": "Nilijua"
+                  },
+                  {
+                    "end": 178,
+                    "start": 96,
+                    "word": "nimempata"
+                  },
+                  {
+                    "end": 255,
+                    "start": 179,
+                    "word": "rafiki"
+                  }
+                ],
+                "until": 255,
+                "utterances": "Nilijua nimempata rafiki"
+              }
+            ],
+            "sentence": "Nilijua nimempata rafiki."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baada ya kumweka chini mjomba alinigeukia na kuuliza Utampa jina gani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 93,
+                    "start": 74,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 171,
+                    "start": 94,
+                    "word": "kumweka"
+                  },
+                  {
+                    "end": 240,
+                    "start": 172,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 317,
+                    "start": 265,
+                    "word": "mjomba"
+                  },
+                  {
+                    "end": 449,
+                    "start": 318,
+                    "word": "alinigeukia"
+                  },
+                  {
+                    "end": 475,
+                    "start": 450,
+                    "word": "na"
+                  },
+                  {
+                    "end": 559,
+                    "start": 476,
+                    "word": "kuuliza"
+                  },
+                  {
+                    "end": 671,
+                    "start": 600,
+                    "word": "Utampa"
+                  },
+                  {
+                    "end": 716,
+                    "start": 672,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 789,
+                    "start": 717,
+                    "word": "gani"
+                  }
+                ],
+                "until": 789,
+                "utterances": "Baada ya kumweka chini mjomba alinigeukia na kuuliza Utampa jina gani"
+              }
+            ],
+            "sentence": "Baada ya kumweka chini, mjomba alinigeukia na kuuliza, \"Utampa jina gani?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilimwangalia mbwa wangu kisha nikasema Coco.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 144,
+                    "start": 20,
+                    "word": "Nilimwangalia"
+                  },
+                  {
+                    "end": 191,
+                    "start": 145,
+                    "word": "mbwa"
+                  },
+                  {
+                    "end": 236,
+                    "start": 192,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 320,
+                    "start": 256,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 409,
+                    "start": 321,
+                    "word": "nikasema"
+                  },
+                  {
+                    "end": 507,
+                    "start": 419,
+                    "word": "Coco"
+                  }
+                ],
+                "until": 507,
+                "utterances": "Nilimwangalia mbwa wangu kisha nikasema Coco"
+              }
+            ],
+            "sentence": "Nilimwangalia mbwa wangu kisha nikasema, \"Coco.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mjombangu alishangaa sana.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 14,
+                    "word": "Mjombangu"
+                  },
+                  {
+                    "end": 224,
+                    "start": 101,
+                    "word": "alishangaa"
+                  },
+                  {
+                    "end": 291,
+                    "start": 225,
+                    "word": "sana"
+                  }
+                ],
+                "until": 291,
+                "utterances": "Mjombangu alishangaa sana"
+              }
+            ],
+            "sentence": "Mjombangu alishangaa sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliniuliza mbona unamwita Coco.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 134,
+                    "start": 20,
+                    "word": "Aliniuliza"
+                  },
+                  {
+                    "end": 206,
+                    "start": 166,
+                    "word": "mbona"
+                  },
+                  {
+                    "end": 299,
+                    "start": 207,
+                    "word": "unamwita"
+                  },
+                  {
+                    "end": 376,
+                    "start": 300,
+                    "word": "Coco"
+                  }
+                ],
+                "until": 376,
+                "utterances": "Aliniuliza mbona unamwita Coco"
+              }
+            ],
+            "sentence": "Aliniuliza, \"mbona unamwita Coco?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilisema Kwa sababu anafanana kama koko.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 21,
+                    "word": "Nilisema"
+                  },
+                  {
+                    "end": 161,
+                    "start": 127,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 234,
+                    "start": 162,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 330,
+                    "start": 235,
+                    "word": "anafanana"
+                  },
+                  {
+                    "end": 376,
+                    "start": 331,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 405,
+                    "start": 377,
+                    "word": "koko"
+                  }
+                ],
+                "until": 405,
+                "utterances": "Nilisema Kwa sababu anafanana kama koko"
+              }
+            ],
+            "sentence": "Nilisema, \"Kwa sababu anafanana kama koko.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilimwuliza mjomba iwapo Coco alizaliwa peke yake.mp3",
+                "from": 32,
+                "segmentation": [
+                  {
+                    "end": 135,
+                    "start": 32,
+                    "word": "Nilimwuliza"
+                  },
+                  {
+                    "end": 210,
+                    "start": 136,
+                    "word": "mjomba"
+                  },
+                  {
+                    "end": 277,
+                    "start": 227,
+                    "word": "iwapo"
+                  },
+                  {
+                    "end": 325,
+                    "start": 278,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 414,
+                    "start": 326,
+                    "word": "alizaliwa"
+                  },
+                  {
+                    "end": 477,
+                    "start": 415,
+                    "word": "peke"
+                  },
+                  {
+                    "end": 500,
+                    "start": 478,
+                    "word": "yake"
+                  }
+                ],
+                "until": 500,
+                "utterances": "Nilimwuliza mjomba iwapo Coco alizaliwa peke yake"
+              }
+            ],
+            "sentence": "Nilimwuliza mjomba iwapo Coco alizaliwa peke yake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mjomba alisema kwamba alikuwa na ndugu yake aliyemfanana kabisa.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 16,
+                    "word": "Mjomba"
+                  },
+                  {
+                    "end": 141,
+                    "start": 77,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 190,
+                    "start": 142,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 252,
+                    "start": 191,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 272,
+                    "start": 253,
+                    "word": "na"
+                  },
+                  {
+                    "end": 318,
+                    "start": 273,
+                    "word": "ndugu"
+                  },
+                  {
+                    "end": 358,
+                    "start": 319,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 507,
+                    "start": 398,
+                    "word": "aliyemfanana"
+                  },
+                  {
+                    "end": 576,
+                    "start": 508,
+                    "word": "kabisa"
+                  }
+                ],
+                "until": 576,
+                "utterances": "Mjomba alisema kwamba alikuwa na ndugu yake aliyemfanana kabisa"
+              }
+            ],
+            "sentence": "Mjomba alisema kwamba alikuwa na ndugu yake aliyemfanana kabisa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilienda kumuona ndugu yake Coco.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 20,
+                    "word": "Nilienda"
+                  },
+                  {
+                    "end": 163,
+                    "start": 89,
+                    "word": "kumuona"
+                  },
+                  {
+                    "end": 206,
+                    "start": 164,
+                    "word": "ndugu"
+                  },
+                  {
+                    "end": 235,
+                    "start": 207,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 282,
+                    "start": 236,
+                    "word": "Coco"
+                  }
+                ],
+                "until": 282,
+                "utterances": "Nilienda kumuona ndugu yake Coco"
+              }
+            ],
+            "sentence": "Nilienda kumuona ndugu yake Coco."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Coco alipomwona nduguye alichangamka sana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 163,
+                    "start": 65,
+                    "word": "alipomwona"
+                  },
+                  {
+                    "end": 288,
+                    "start": 164,
+                    "word": "nduguye"
+                  },
+                  {
+                    "end": 430,
+                    "start": 289,
+                    "word": "alichangamka"
+                  },
+                  {
+                    "end": 505,
+                    "start": 434,
+                    "word": "sana"
+                  }
+                ],
+                "until": 505,
+                "utterances": "Coco alipomwona nduguye alichangamka sana"
+              }
+            ],
+            "sentence": "Coco alipomwona nduguye, alichangamka sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wawili hao waliweka vichwa vyao pamoja kana kwamba wanaongea.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 20,
+                    "word": "Wawili"
+                  },
+                  {
+                    "end": 123,
+                    "start": 83,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 200,
+                    "start": 124,
+                    "word": "waliweka"
+                  },
+                  {
+                    "end": 243,
+                    "start": 201,
+                    "word": "vichwa"
+                  },
+                  {
+                    "end": 290,
+                    "start": 244,
+                    "word": "vyao"
+                  },
+                  {
+                    "end": 358,
+                    "start": 291,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 434,
+                    "start": 379,
+                    "word": "kana"
+                  },
+                  {
+                    "end": 486,
+                    "start": 435,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 574,
+                    "start": 487,
+                    "word": "wanaongea"
+                  }
+                ],
+                "until": 574,
+                "utterances": "Wawili hao waliweka vichwa vyao pamoja kana kwamba wanaongea"
+              }
+            ],
+            "sentence": "Wawili hao waliweka vichwa vyao pamoja kana kwamba wanaongea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilimuuliza mjombangu kama ningewaweka Coco na nduguye.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 129,
+                    "start": 20,
+                    "word": "Nilimuuliza"
+                  },
+                  {
+                    "end": 237,
+                    "start": 130,
+                    "word": "mjombangu"
+                  },
+                  {
+                    "end": 287,
+                    "start": 243,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 386,
+                    "start": 288,
+                    "word": "ningewaweka"
+                  },
+                  {
+                    "end": 454,
+                    "start": 387,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 491,
+                    "start": 476,
+                    "word": "na"
+                  },
+                  {
+                    "end": 545,
+                    "start": 492,
+                    "word": "nduguye"
+                  }
+                ],
+                "until": 545,
+                "utterances": "Nilimuuliza mjombangu kama ningewaweka Coco na nduguye"
+              }
+            ],
+            "sentence": "Nilimuuliza mjombangu kama ningewaweka Coco na nduguye."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mjomba alibaki kimya kidogo kisha akasema Ni sawa wewe kuwaweka wote wawili.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 14,
+                    "word": "Mjomba"
+                  },
+                  {
+                    "end": 151,
+                    "start": 75,
+                    "word": "alibaki"
+                  },
+                  {
+                    "end": 190,
+                    "start": 152,
+                    "word": "kimya"
+                  },
+                  {
+                    "end": 244,
+                    "start": 191,
+                    "word": "kidogo"
+                  },
+                  {
+                    "end": 333,
+                    "start": 270,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 421,
+                    "start": 334,
+                    "word": "akasema"
+                  },
+                  {
+                    "end": 476,
+                    "start": 462,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 538,
+                    "start": 477,
+                    "word": "sawa"
+                  },
+                  {
+                    "end": 600,
+                    "start": 574,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 681,
+                    "start": 601,
+                    "word": "kuwaweka"
+                  },
+                  {
+                    "end": 724,
+                    "start": 682,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 780,
+                    "start": 725,
+                    "word": "wawili"
+                  }
+                ],
+                "until": 780,
+                "utterances": "Mjomba alibaki kimya kidogo kisha akasema Ni sawa wewe kuwaweka wote wawili"
+              }
+            ],
+            "sentence": "Mjomba alibaki kimya kidogo kisha akasema, \"Ni sawa wewe kuwaweka wote wawili.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hata hivyo alisema Lakini lazima uwalinde vizuri.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "Hata"
+                  },
+                  {
+                    "end": 128,
+                    "start": 58,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 226,
+                    "start": 147,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 335,
+                    "start": 278,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 396,
+                    "start": 336,
+                    "word": "lazima"
+                  },
+                  {
+                    "end": 475,
+                    "start": 397,
+                    "word": "uwalinde"
+                  },
+                  {
+                    "end": 577,
+                    "start": 476,
+                    "word": "vizuri"
+                  }
+                ],
+                "until": 577,
+                "utterances": "Hata hivyo alisema Lakini lazima uwalinde vizuri"
+              }
+            ],
+            "sentence": "Hata hivyo, alisema, \"Lakini lazima uwalinde vizuri.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo kila jioni nilicheza nao na kuwapeleka mazoezi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 95,
+                    "start": 31,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 125,
+                    "start": 96,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 203,
+                    "start": 126,
+                    "word": "jioni"
+                  },
+                  {
+                    "end": 293,
+                    "start": 222,
+                    "word": "nilicheza"
+                  },
+                  {
+                    "end": 352,
+                    "start": 294,
+                    "word": "nao"
+                  },
+                  {
+                    "end": 386,
+                    "start": 374,
+                    "word": "na"
+                  },
+                  {
+                    "end": 475,
+                    "start": 387,
+                    "word": "kuwapeleka"
+                  },
+                  {
+                    "end": 558,
+                    "start": 476,
+                    "word": "mazoezi"
+                  }
+                ],
+                "until": 558,
+                "utterances": "Kwa hivyo kila jioni nilicheza nao na kuwapeleka mazoezi"
+              }
+            ],
+            "sentence": "Kwa hivyo kila jioni, nilicheza nao na kuwapeleka mazoezi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Miezi michache baadaye Coco na nduguye walikuwa wamekuwa wakubwa.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 19,
+                    "word": "Miezi"
+                  },
+                  {
+                    "end": 138,
+                    "start": 74,
+                    "word": "michache"
+                  },
+                  {
+                    "end": 223,
+                    "start": 139,
+                    "word": "baadaye"
+                  },
+                  {
+                    "end": 290,
+                    "start": 237,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 307,
+                    "start": 291,
+                    "word": "na"
+                  },
+                  {
+                    "end": 369,
+                    "start": 308,
+                    "word": "nduguye"
+                  },
+                  {
+                    "end": 438,
+                    "start": 370,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 512,
+                    "start": 439,
+                    "word": "wamekuwa"
+                  },
+                  {
+                    "end": 587,
+                    "start": 513,
+                    "word": "wakubwa"
+                  }
+                ],
+                "until": 587,
+                "utterances": "Miezi michache baadaye Coco na nduguye walikuwa wamekuwa wakubwa"
+              }
+            ],
+            "sentence": "Miezi michache baadaye, Coco na nduguye walikuwa wamekuwa wakubwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walikuwa wenye nguvu na wenye afya.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 18,
+                    "word": "Walikuwa"
+                  },
+                  {
+                    "end": 133,
+                    "start": 89,
+                    "word": "wenye"
+                  },
+                  {
+                    "end": 190,
+                    "start": 134,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 243,
+                    "start": 228,
+                    "word": "na"
+                  },
+                  {
+                    "end": 298,
+                    "start": 244,
+                    "word": "wenye"
+                  },
+                  {
+                    "end": 340,
+                    "start": 299,
+                    "word": "afya"
+                  }
+                ],
+                "until": 340,
+                "utterances": "Walikuwa wenye nguvu na wenye afya"
+              }
+            ],
+            "sentence": "Walikuwa wenye nguvu na wenye afya."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nami singeweza kuwachunga peke yangu tena.mp3",
+                "from": 51,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 51,
+                    "word": "Nami"
+                  },
+                  {
+                    "end": 229,
+                    "start": 144,
+                    "word": "singeweza"
+                  },
+                  {
+                    "end": 305,
+                    "start": 230,
+                    "word": "kuwachunga"
+                  },
+                  {
+                    "end": 346,
+                    "start": 306,
+                    "word": "peke"
+                  },
+                  {
+                    "end": 382,
+                    "start": 347,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 437,
+                    "start": 383,
+                    "word": "tena"
+                  }
+                ],
+                "until": 437,
+                "utterances": "Nami singeweza kuwachunga peke yangu tena"
+              }
+            ],
+            "sentence": "Nami singeweza kuwachunga peke yangu tena."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo nilimuuliza mjombangu kumrudisha nduguye Coco kwake.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 1,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 112,
+                    "start": 36,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 215,
+                    "start": 122,
+                    "word": "nilimuuliza"
+                  },
+                  {
+                    "end": 362,
+                    "start": 216,
+                    "word": "mjombangu"
+                  },
+                  {
+                    "end": 422,
+                    "start": 363,
+                    "word": "kumrudisha"
+                  },
+                  {
+                    "end": 484,
+                    "start": 423,
+                    "word": "nduguye"
+                  },
+                  {
+                    "end": 520,
+                    "start": 485,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 605,
+                    "start": 521,
+                    "word": "kwake"
+                  }
+                ],
+                "until": 605,
+                "utterances": "Kwa hivyo nilimuuliza mjombangu kumrudisha nduguye Coco kwake"
+              }
+            ],
+            "sentence": "Kwa hivyo nilimuuliza mjombangu kumrudisha nduguye Coco kwake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini Coco alipoachwa peke yake alihuzunika mno.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 21,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 121,
+                    "start": 80,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 209,
+                    "start": 122,
+                    "word": "alipoachwa"
+                  },
+                  {
+                    "end": 246,
+                    "start": 210,
+                    "word": "peke"
+                  },
+                  {
+                    "end": 289,
+                    "start": 247,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 451,
+                    "start": 340,
+                    "word": "alihuzunika"
+                  },
+                  {
+                    "end": 487,
+                    "start": 452,
+                    "word": "mno"
+                  }
+                ],
+                "until": 487,
+                "utterances": "Lakini Coco alipoachwa peke yake alihuzunika mno"
+              }
+            ],
+            "sentence": "Lakini Coco alipoachwa peke yake, alihuzunika mno."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ilionekana kana kwamba aliniuliza Kwa nini ulifanya hivyo.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 129,
+                    "start": 22,
+                    "word": "Ilionekana"
+                  },
+                  {
+                    "end": 166,
+                    "start": 130,
+                    "word": "kana"
+                  },
+                  {
+                    "end": 220,
+                    "start": 167,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 340,
+                    "start": 221,
+                    "word": "aliniuliza"
+                  },
+                  {
+                    "end": 386,
+                    "start": 365,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 426,
+                    "start": 387,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 503,
+                    "start": 427,
+                    "word": "ulifanya"
+                  },
+                  {
+                    "end": 580,
+                    "start": 504,
+                    "word": "hivyo"
+                  }
+                ],
+                "until": 580,
+                "utterances": "Ilionekana kana kwamba aliniuliza Kwa nini ulifanya hivyo"
+              }
+            ],
+            "sentence": "Ilionekana kana kwamba aliniuliza, \"Kwa nini ulifanya hivyo?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Coco alikoma kucheza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 2,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 176,
+                    "start": 126,
+                    "word": "alikoma"
+                  },
+                  {
+                    "end": 239,
+                    "start": 177,
+                    "word": "kucheza"
+                  }
+                ],
+                "until": 239,
+                "utterances": "Coco alikoma kucheza"
+              }
+            ],
+            "sentence": "Coco alikoma kucheza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wakati mwingine alikataa kwenda nami matembezini.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 161,
+                    "start": 77,
+                    "word": "mwingine"
+                  },
+                  {
+                    "end": 257,
+                    "start": 162,
+                    "word": "alikataa"
+                  },
+                  {
+                    "end": 304,
+                    "start": 258,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 354,
+                    "start": 305,
+                    "word": "nami"
+                  },
+                  {
+                    "end": 458,
+                    "start": 355,
+                    "word": "matembezini"
+                  }
+                ],
+                "until": 458,
+                "utterances": "Wakati mwingine alikataa kwenda nami matembezini"
+              }
+            ],
+            "sentence": "Wakati mwingine alikataa kwenda nami matembezini."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alipendelea tu kulala nje ya nyumba yetu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 133,
+                    "start": 21,
+                    "word": "Alipendelea"
+                  },
+                  {
+                    "end": 175,
+                    "start": 134,
+                    "word": "tu"
+                  },
+                  {
+                    "end": 271,
+                    "start": 201,
+                    "word": "kulala"
+                  },
+                  {
+                    "end": 318,
+                    "start": 272,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 337,
+                    "start": 319,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 381,
+                    "start": 338,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 414,
+                    "start": 382,
+                    "word": "yetu"
+                  }
+                ],
+                "until": 414,
+                "utterances": "Alipendelea tu kulala nje ya nyumba yetu"
+              }
+            ],
+            "sentence": "Alipendelea tu kulala nje ya nyumba yetu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wakati mwingine Coco alikula chakula kidogo sana.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 13,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 150,
+                    "start": 72,
+                    "word": "mwingine"
+                  },
+                  {
+                    "end": 241,
+                    "start": 158,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 317,
+                    "start": 242,
+                    "word": "alikula"
+                  },
+                  {
+                    "end": 377,
+                    "start": 318,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 475,
+                    "start": 378,
+                    "word": "kidogo"
+                  },
+                  {
+                    "end": 526,
+                    "start": 476,
+                    "word": "sana"
+                  }
+                ],
+                "until": 526,
+                "utterances": "Wakati mwingine Coco alikula chakula kidogo sana"
+              }
+            ],
+            "sentence": "Wakati mwingine Coco alikula chakula kidogo sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilikuwa na wasiwasi.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 17,
+                    "word": "Nilikuwa"
+                  },
+                  {
+                    "end": 127,
+                    "start": 104,
+                    "word": "na"
+                  },
+                  {
+                    "end": 215,
+                    "start": 128,
+                    "word": "wasiwasi"
+                  }
+                ],
+                "until": 215,
+                "utterances": "Nilikuwa na wasiwasi"
+              }
+            ],
+            "sentence": "Nilikuwa na wasiwasi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilijiuliza vipi ningeweza kumsaidia Coco.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 139,
+                    "start": 20,
+                    "word": "Nilijiuliza"
+                  },
+                  {
+                    "end": 219,
+                    "start": 178,
+                    "word": "vipi"
+                  },
+                  {
+                    "end": 290,
+                    "start": 220,
+                    "word": "ningeweza"
+                  },
+                  {
+                    "end": 381,
+                    "start": 291,
+                    "word": "kumsaidia"
+                  },
+                  {
+                    "end": 467,
+                    "start": 382,
+                    "word": "Coco"
+                  }
+                ],
+                "until": 467,
+                "utterances": "Nilijiuliza vipi ningeweza kumsaidia Coco"
+              }
+            ],
+            "sentence": "Nilijiuliza vipi ningeweza kumsaidia Coco?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Halafu siku moja mjombangu alikuja kututembelea.mp3",
+                "from": 115,
+                "segmentation": [
+                  {
+                    "end": 173,
+                    "start": 115,
+                    "word": "Halafu"
+                  },
+                  {
+                    "end": 216,
+                    "start": 174,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 256,
+                    "start": 217,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 346,
+                    "start": 257,
+                    "word": "mjombangu"
+                  },
+                  {
+                    "end": 434,
+                    "start": 347,
+                    "word": "alikuja"
+                  },
+                  {
+                    "end": 547,
+                    "start": 435,
+                    "word": "kututembelea"
+                  }
+                ],
+                "until": 547,
+                "utterances": "Halafu siku moja mjombangu alikuja kututembelea"
+              }
+            ],
+            "sentence": "Halafu siku moja mjombangu alikuja kututembelea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Niliposikia sauti yake niliharakisha kutoka nje ya nyumba.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 20,
+                    "word": "Niliposikia"
+                  },
+                  {
+                    "end": 188,
+                    "start": 127,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 232,
+                    "start": 189,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 393,
+                    "start": 269,
+                    "word": "niliharakisha"
+                  },
+                  {
+                    "end": 448,
+                    "start": 394,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 491,
+                    "start": 449,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 512,
+                    "start": 492,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 560,
+                    "start": 513,
+                    "word": "nyumba"
+                  }
+                ],
+                "until": 560,
+                "utterances": "Niliposikia sauti yake niliharakisha kutoka nje ya nyumba"
+              }
+            ],
+            "sentence": "Niliposikia sauti yake, niliharakisha kutoka nje ya nyumba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kabla ya kumwona nilisikia mbwa wakibweka.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Kabla"
+                  },
+                  {
+                    "end": 82,
+                    "start": 65,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 169,
+                    "start": 83,
+                    "word": "kumwona"
+                  },
+                  {
+                    "end": 305,
+                    "start": 211,
+                    "word": "nilisikia"
+                  },
+                  {
+                    "end": 353,
+                    "start": 306,
+                    "word": "mbwa"
+                  },
+                  {
+                    "end": 447,
+                    "start": 354,
+                    "word": "wakibweka"
+                  }
+                ],
+                "until": 447,
+                "utterances": "Kabla ya kumwona nilisikia mbwa wakibweka"
+              }
+            ],
+            "sentence": "Kabla ya kumwona, nilisikia mbwa wakibweka..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mbele yangu Coco na nduguye walikuwa wakicheza nyuma ya jikoni.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 21,
+                    "word": "Mbele"
+                  },
+                  {
+                    "end": 107,
+                    "start": 53,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 185,
+                    "start": 148,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 195,
+                    "start": 186,
+                    "word": "na"
+                  },
+                  {
+                    "end": 258,
+                    "start": 196,
+                    "word": "nduguye"
+                  },
+                  {
+                    "end": 323,
+                    "start": 259,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 401,
+                    "start": 324,
+                    "word": "wakicheza"
+                  },
+                  {
+                    "end": 441,
+                    "start": 402,
+                    "word": "nyuma"
+                  },
+                  {
+                    "end": 460,
+                    "start": 442,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 535,
+                    "start": 461,
+                    "word": "jikoni"
+                  }
+                ],
+                "until": 535,
+                "utterances": "Mbele yangu Coco na nduguye walikuwa wakicheza nyuma ya jikoni"
+              }
+            ],
+            "sentence": "Mbele yangu, Coco na nduguye walikuwa wakicheza nyuma ya jikoni!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_23_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilifurahi sana hadi sikujua nimkumbatie nani kwanza Coco au mjombangu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 21,
+                    "word": "Nilifurahi"
+                  },
+                  {
+                    "end": 195,
+                    "start": 120,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 266,
+                    "start": 232,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 342,
+                    "start": 267,
+                    "word": "sikujua"
+                  },
+                  {
+                    "end": 445,
+                    "start": 343,
+                    "word": "nimkumbatie"
+                  },
+                  {
+                    "end": 484,
+                    "start": 446,
+                    "word": "nani"
+                  },
+                  {
+                    "end": 542,
+                    "start": 485,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 644,
+                    "start": 549,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 693,
+                    "start": 670,
+                    "word": "au"
+                  },
+                  {
+                    "end": 788,
+                    "start": 694,
+                    "word": "mjombangu"
+                  }
+                ],
+                "until": 788,
+                "utterances": "Nilifurahi sana hadi sikujua nimkumbatie nani kwanza Coco au mjombangu"
+              }
+            ],
+            "sentence": "Nilifurahi sana hadi sikujua nimkumbatie nani kwanza, Coco au mjombangu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nilijua kwamba Coco angerejelea ile hali yake ya kawaida kwa vile nduguye alikuwa amerudi.mp3",
+                "from": 51,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 51,
+                    "word": "Nilijua"
+                  },
+                  {
+                    "end": 172,
+                    "start": 120,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 241,
+                    "start": 173,
+                    "word": "Coco"
+                  },
+                  {
+                    "end": 384,
+                    "start": 267,
+                    "word": "angerejelea"
+                  },
+                  {
+                    "end": 428,
+                    "start": 395,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 487,
+                    "start": 429,
+                    "word": "hali"
+                  },
+                  {
+                    "end": 537,
+                    "start": 488,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 580,
+                    "start": 569,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 661,
+                    "start": 581,
+                    "word": "kawaida"
+                  },
+                  {
+                    "end": 708,
+                    "start": 662,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 747,
+                    "start": 709,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 831,
+                    "start": 748,
+                    "word": "nduguye"
+                  },
+                  {
+                    "end": 885,
+                    "start": 832,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 972,
+                    "start": 886,
+                    "word": "amerudi"
+                  }
+                ],
+                "until": 972,
+                "utterances": "Nilijua kwamba Coco angerejelea ile hali yake ya kawaida kwa vile nduguye alikuwa amerudi"
+              }
+            ],
+            "sentence": "Nilijua kwamba Coco angerejelea ile hali yake ya kawaida kwa vile nduguye alikuwa amerudi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tungeenda kukimbia wanjani tena.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 21,
+                    "word": "Tungeenda"
+                  },
+                  {
+                    "end": 223,
+                    "start": 123,
+                    "word": "kukimbia"
+                  },
+                  {
+                    "end": 317,
+                    "start": 224,
+                    "word": "wanjani"
+                  },
+                  {
+                    "end": 378,
+                    "start": 318,
+                    "word": "tena"
+                  }
+                ],
+                "until": 378,
+                "utterances": "Tungeenda kukimbia wanjani tena"
+              }
+            ],
+            "sentence": "Tungeenda kukimbia wanjani tena!"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Ursula Nafula",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Ursula Nafula",
+  "title": "Rafiki yangu Coco",
+  "titleimage": "level3_23_page_01_image_0001.jpg"
+}

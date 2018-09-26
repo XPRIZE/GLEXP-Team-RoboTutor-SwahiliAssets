@@ -1,0 +1,1790 @@
+{
+  "authors": "Kholeka Mabeta and Judith Baker",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_5_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ilikuwa siku yenye joto katika msitu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 21,
+                    "word": "Ilikuwa"
+                  },
+                  {
+                    "end": 129,
+                    "start": 86,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 164,
+                    "start": 130,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 238,
+                    "start": 165,
+                    "word": "joto"
+                  },
+                  {
+                    "end": 291,
+                    "start": 245,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 338,
+                    "start": 292,
+                    "word": "msitu"
+                  }
+                ],
+                "until": 338,
+                "utterances": "Ilikuwa siku yenye joto katika msitu"
+              }
+            ],
+            "sentence": "Ilikuwa siku yenye joto katika msitu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siafu Mdogo hakuwa na maji kwa siku nyingi.mp3",
+                "from": 33,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 33,
+                    "word": "Siafu"
+                  },
+                  {
+                    "end": 158,
+                    "start": 97,
+                    "word": "Mdogo"
+                  },
+                  {
+                    "end": 228,
+                    "start": 159,
+                    "word": "hakuwa"
+                  },
+                  {
+                    "end": 246,
+                    "start": 229,
+                    "word": "na"
+                  },
+                  {
+                    "end": 290,
+                    "start": 247,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 313,
+                    "start": 291,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 362,
+                    "start": 314,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 458,
+                    "start": 363,
+                    "word": "nyingi"
+                  }
+                ],
+                "until": 458,
+                "utterances": "Siafu Mdogo hakuwa na maji kwa siku nyingi"
+              }
+            ],
+            "sentence": "Siafu Mdogo hakuwa na maji kwa siku nyingi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nahitaji tone la maji hata kama linatoka kwenye jani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 107,
+                    "start": 21,
+                    "word": "Nahitaji"
+                  },
+                  {
+                    "end": 158,
+                    "start": 108,
+                    "word": "tone"
+                  },
+                  {
+                    "end": 175,
+                    "start": 159,
+                    "word": "la"
+                  },
+                  {
+                    "end": 239,
+                    "start": 176,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 299,
+                    "start": 240,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 332,
+                    "start": 300,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 412,
+                    "start": 333,
+                    "word": "linatoka"
+                  },
+                  {
+                    "end": 461,
+                    "start": 413,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 521,
+                    "start": 462,
+                    "word": "jani"
+                  }
+                ],
+                "until": 521,
+                "utterances": "Nahitaji tone la maji hata kama linatoka kwenye jani"
+              }
+            ],
+            "sentence": "\"Nahitaji tone la maji, hata kama linatoka kwenye jani.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini hata umande ulikuwa umekauka.mp3",
+                "from": 45,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 45,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 153,
+                    "start": 105,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 218,
+                    "start": 154,
+                    "word": "umande"
+                  },
+                  {
+                    "end": 290,
+                    "start": 219,
+                    "word": "ulikuwa"
+                  },
+                  {
+                    "end": 373,
+                    "start": 291,
+                    "word": "umekauka"
+                  }
+                ],
+                "until": 373,
+                "utterances": "Lakini hata umande ulikuwa umekauka"
+              }
+            ],
+            "sentence": "Lakini hata umande ulikuwa umekauka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nisipokunywa maji nitakufa Siafu Mdogo alilia.mp3",
+                "from": 24,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 24,
+                    "word": "Nisipokunywa"
+                  },
+                  {
+                    "end": 182,
+                    "start": 114,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 330,
+                    "start": 244,
+                    "word": "nitakufa"
+                  },
+                  {
+                    "end": 450,
+                    "start": 397,
+                    "word": "Siafu"
+                  },
+                  {
+                    "end": 495,
+                    "start": 451,
+                    "word": "Mdogo"
+                  },
+                  {
+                    "end": 562,
+                    "start": 496,
+                    "word": "alilia"
+                  }
+                ],
+                "until": 562,
+                "utterances": "Nisipokunywa maji nitakufa Siafu Mdogo alilia"
+              }
+            ],
+            "sentence": "\"Nisipokunywa maji, nitakufa,\" Siafu Mdogo alilia.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lazima niende kwenye mto ambao nilisikia juu yake.mp3",
+                "from": 69,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 69,
+                    "word": "Lazima"
+                  },
+                  {
+                    "end": 183,
+                    "start": 127,
+                    "word": "niende"
+                  },
+                  {
+                    "end": 227,
+                    "start": 184,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 279,
+                    "start": 228,
+                    "word": "mto"
+                  },
+                  {
+                    "end": 335,
+                    "start": 283,
+                    "word": "ambao"
+                  },
+                  {
+                    "end": 421,
+                    "start": 336,
+                    "word": "nilisikia"
+                  },
+                  {
+                    "end": 464,
+                    "start": 422,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 505,
+                    "start": 465,
+                    "word": "yake"
+                  }
+                ],
+                "until": 505,
+                "utterances": "Lazima niende kwenye mto ambao nilisikia juu yake"
+              }
+            ],
+            "sentence": "\"Lazima niende kwenye mto ambao nilisikia juu yake.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mto utakufagilia mbali panya mmoja mwenye hekima alimwonya.mp3",
+                "from": 72,
+                "segmentation": [
+                  {
+                    "end": 133,
+                    "start": 72,
+                    "word": "Mto"
+                  },
+                  {
+                    "end": 304,
+                    "start": 200,
+                    "word": "utakufagilia"
+                  },
+                  {
+                    "end": 379,
+                    "start": 305,
+                    "word": "mbali"
+                  },
+                  {
+                    "end": 458,
+                    "start": 424,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 515,
+                    "start": 459,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 560,
+                    "start": 516,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 618,
+                    "start": 561,
+                    "word": "hekima"
+                  },
+                  {
+                    "end": 739,
+                    "start": 655,
+                    "word": "alimwonya"
+                  }
+                ],
+                "until": 739,
+                "utterances": "Mto utakufagilia mbali panya mmoja mwenye hekima alimwonya"
+              }
+            ],
+            "sentence": "\"Mto utakufagilia mbali,\" panya mmoja mwenye hekima alimwonya."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini Siafu Mdogo alikuwa na kiu sana.mp3",
+                "from": 25,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 25,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 126,
+                    "start": 75,
+                    "word": "Siafu"
+                  },
+                  {
+                    "end": 180,
+                    "start": 127,
+                    "word": "Mdogo"
+                  },
+                  {
+                    "end": 235,
+                    "start": 181,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 253,
+                    "start": 236,
+                    "word": "na"
+                  },
+                  {
+                    "end": 307,
+                    "start": 254,
+                    "word": "kiu"
+                  },
+                  {
+                    "end": 397,
+                    "start": 316,
+                    "word": "sana"
+                  }
+                ],
+                "until": 397,
+                "utterances": "Lakini Siafu Mdogo alikuwa na kiu sana"
+              }
+            ],
+            "sentence": "Lakini Siafu Mdogo alikuwa na kiu sana."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nitakufa ikiwa sitikunywa maji yoyote.mp3",
+                "from": 55,
+                "segmentation": [
+                  {
+                    "end": 150,
+                    "start": 55,
+                    "word": "Nitakufa"
+                  },
+                  {
+                    "end": 234,
+                    "start": 184,
+                    "word": "ikiwa"
+                  },
+                  {
+                    "end": 309,
+                    "start": 235,
+                    "word": "sitikunywa"
+                  },
+                  {
+                    "end": 371,
+                    "start": 310,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 456,
+                    "start": 388,
+                    "word": "yoyote"
+                  }
+                ],
+                "until": 456,
+                "utterances": "Nitakufa ikiwa sitikunywa maji yoyote"
+              }
+            ],
+            "sentence": "\"Nitakufa ikiwa sitikunywa maji yoyote.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siafu Mdogo alienda kuutafuta mto.mp3",
+                "from": 46,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 46,
+                    "word": "Siafu"
+                  },
+                  {
+                    "end": 180,
+                    "start": 110,
+                    "word": "Mdogo"
+                  },
+                  {
+                    "end": 253,
+                    "start": 181,
+                    "word": "alienda"
+                  },
+                  {
+                    "end": 366,
+                    "start": 254,
+                    "word": "kuutafuta"
+                  },
+                  {
+                    "end": 426,
+                    "start": 367,
+                    "word": "mto"
+                  }
+                ],
+                "until": 426,
+                "utterances": "Siafu Mdogo alienda kuutafuta mto"
+              }
+            ],
+            "sentence": "Siafu Mdogo alienda kuutafuta mto..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kupita kwenye nyasi zilizokauka na kwenye matawi yaliyokauka.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Kupita"
+                  },
+                  {
+                    "end": 114,
+                    "start": 68,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 173,
+                    "start": 115,
+                    "word": "nyasi"
+                  },
+                  {
+                    "end": 307,
+                    "start": 174,
+                    "word": "zilizokauka"
+                  },
+                  {
+                    "end": 352,
+                    "start": 340,
+                    "word": "na"
+                  },
+                  {
+                    "end": 390,
+                    "start": 353,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 480,
+                    "start": 391,
+                    "word": "matawi"
+                  },
+                  {
+                    "end": 601,
+                    "start": 481,
+                    "word": "yaliyokauka"
+                  }
+                ],
+                "until": 601,
+                "utterances": "Kupita kwenye nyasi zilizokauka na kwenye matawi yaliyokauka"
+              }
+            ],
+            "sentence": "Kupita kwenye nyasi zilizokauka na kwenye matawi yaliyokauka..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hadi aliposikia mawimbi ya mto yakinguruma.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 19,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 164,
+                    "start": 78,
+                    "word": "aliposikia"
+                  },
+                  {
+                    "end": 237,
+                    "start": 165,
+                    "word": "mawimbi"
+                  },
+                  {
+                    "end": 245,
+                    "start": 238,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 295,
+                    "start": 246,
+                    "word": "mto"
+                  },
+                  {
+                    "end": 437,
+                    "start": 323,
+                    "word": "yakinguruma"
+                  }
+                ],
+                "until": 437,
+                "utterances": "hadi aliposikia mawimbi ya mto yakinguruma"
+              }
+            ],
+            "sentence": "hadi aliposikia mawimbi ya mto yakinguruma."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siafu Mdogo alikunywa maji baridi.mp3",
+                "from": 28,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 28,
+                    "word": "Siafu"
+                  },
+                  {
+                    "end": 139,
+                    "start": 88,
+                    "word": "Mdogo"
+                  },
+                  {
+                    "end": 237,
+                    "start": 140,
+                    "word": "alikunywa"
+                  },
+                  {
+                    "end": 297,
+                    "start": 238,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 387,
+                    "start": 298,
+                    "word": "baridi"
+                  }
+                ],
+                "until": 387,
+                "utterances": "Siafu Mdogo alikunywa maji baridi"
+              }
+            ],
+            "sentence": "Siafu Mdogo alikunywa maji baridi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alifurahia sana kiasi cha kwamba hakuona wimbi kubwa likija.mp3",
+                "from": 70,
+                "segmentation": [
+                  {
+                    "end": 179,
+                    "start": 70,
+                    "word": "Alifurahia"
+                  },
+                  {
+                    "end": 262,
+                    "start": 180,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 353,
+                    "start": 304,
+                    "word": "kiasi"
+                  },
+                  {
+                    "end": 372,
+                    "start": 354,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 426,
+                    "start": 373,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 529,
+                    "start": 427,
+                    "word": "hakuona"
+                  },
+                  {
+                    "end": 569,
+                    "start": 530,
+                    "word": "wimbi"
+                  },
+                  {
+                    "end": 633,
+                    "start": 570,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 689,
+                    "start": 634,
+                    "word": "likija"
+                  }
+                ],
+                "until": 689,
+                "utterances": "Alifurahia sana kiasi cha kwamba hakuona wimbi kubwa likija"
+              }
+            ],
+            "sentence": "Alifurahia sana kiasi cha kwamba hakuona wimbi kubwa likija."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siafu alijaribu kushika nyasi kavu zilizompita zikielea.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 22,
+                    "word": "Siafu"
+                  },
+                  {
+                    "end": 176,
+                    "start": 93,
+                    "word": "alijaribu"
+                  },
+                  {
+                    "end": 240,
+                    "start": 177,
+                    "word": "kushika"
+                  },
+                  {
+                    "end": 290,
+                    "start": 241,
+                    "word": "nyasi"
+                  },
+                  {
+                    "end": 351,
+                    "start": 291,
+                    "word": "kavu"
+                  },
+                  {
+                    "end": 496,
+                    "start": 391,
+                    "word": "zilizompita"
+                  },
+                  {
+                    "end": 592,
+                    "start": 497,
+                    "word": "zikielea"
+                  }
+                ],
+                "until": 592,
+                "utterances": "Siafu alijaribu kushika nyasi kavu zilizompita zikielea"
+              }
+            ],
+            "sentence": "Siafu alijaribu kushika nyasi kavu zilizompita zikielea."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lakini alifagiliwa mbali kwa maji.mp3",
+                "from": 32,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 32,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 209,
+                    "start": 103,
+                    "word": "alifagiliwa"
+                  },
+                  {
+                    "end": 289,
+                    "start": 210,
+                    "word": "mbali"
+                  },
+                  {
+                    "end": 309,
+                    "start": 290,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 355,
+                    "start": 310,
+                    "word": "maji"
+                  }
+                ],
+                "until": 355,
+                "utterances": "Lakini alifagiliwa mbali kwa maji"
+              }
+            ],
+            "sentence": "Lakini alifagiliwa mbali kwa maji."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mtu anisaidie.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 21,
+                    "word": "Mtu"
+                  },
+                  {
+                    "end": 166,
+                    "start": 62,
+                    "word": "anisaidie"
+                  }
+                ],
+                "until": 166,
+                "utterances": "Mtu anisaidie"
+              }
+            ],
+            "sentence": "\"Mtu anisaidie."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nisaidie tafadhali.mp3",
+                "from": 50,
+                "segmentation": [
+                  {
+                    "end": 125,
+                    "start": 50,
+                    "word": "Nisaidie"
+                  },
+                  {
+                    "end": 213,
+                    "start": 126,
+                    "word": "tafadhali"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Nisaidie tafadhali"
+              }
+            ],
+            "sentence": "Nisaidie tafadhali.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Haraka panda juu Njiwa Mweupe alisema huku akiwa amemnyoshea tawi kwenye mdomo wake.mp3",
+                "from": 94,
+                "segmentation": [
+                  {
+                    "end": 161,
+                    "start": 94,
+                    "word": "Haraka"
+                  },
+                  {
+                    "end": 232,
+                    "start": 199,
+                    "word": "panda"
+                  },
+                  {
+                    "end": 274,
+                    "start": 233,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 370,
+                    "start": 319,
+                    "word": "Njiwa"
+                  },
+                  {
+                    "end": 429,
+                    "start": 371,
+                    "word": "Mweupe"
+                  },
+                  {
+                    "end": 510,
+                    "start": 430,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 572,
+                    "start": 538,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 632,
+                    "start": 582,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 735,
+                    "start": 633,
+                    "word": "amemnyoshea"
+                  },
+                  {
+                    "end": 806,
+                    "start": 736,
+                    "word": "tawi"
+                  },
+                  {
+                    "end": 862,
+                    "start": 827,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 911,
+                    "start": 863,
+                    "word": "mdomo"
+                  },
+                  {
+                    "end": 952,
+                    "start": 912,
+                    "word": "wake"
+                  }
+                ],
+                "until": 952,
+                "utterances": "Haraka panda juu Njiwa Mweupe alisema huku akiwa amemnyoshea tawi kwenye mdomo wake"
+              }
+            ],
+            "sentence": "\"Haraka, panda juu,\" Njiwa Mweupe alisema, huku akiwa amemnyoshea tawi kwenye mdomo wake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_17_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level2_5_page_18_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sitaondoka kabla kutoa shukurani zangu kwa Njiwa.mp3",
+                "from": 49,
+                "segmentation": [
+                  {
+                    "end": 150,
+                    "start": 49,
+                    "word": "Sitaondoka"
+                  },
+                  {
+                    "end": 196,
+                    "start": 151,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 243,
+                    "start": 197,
+                    "word": "kutoa"
+                  },
+                  {
+                    "end": 304,
+                    "start": 244,
+                    "word": "shukurani"
+                  },
+                  {
+                    "end": 338,
+                    "start": 305,
+                    "word": "zangu"
+                  },
+                  {
+                    "end": 358,
+                    "start": 339,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 412,
+                    "start": 359,
+                    "word": "Njiwa"
+                  }
+                ],
+                "until": 412,
+                "utterances": "Sitaondoka kabla kutoa shukurani zangu kwa Njiwa"
+              }
+            ],
+            "sentence": "\"Sitaondoka kabla kutoa shukurani zangu kwa Njiwa."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nitasubiri hadi atakapokuja kunywa maji.mp3",
+                "from": 49,
+                "segmentation": [
+                  {
+                    "end": 133,
+                    "start": 49,
+                    "word": "Nitasubiri"
+                  },
+                  {
+                    "end": 244,
+                    "start": 193,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 341,
+                    "start": 245,
+                    "word": "atakapokuja"
+                  },
+                  {
+                    "end": 381,
+                    "start": 342,
+                    "word": "kunywa"
+                  },
+                  {
+                    "end": 432,
+                    "start": 382,
+                    "word": "maji"
+                  }
+                ],
+                "until": 432,
+                "utterances": "Nitasubiri hadi atakapokuja kunywa maji"
+              }
+            ],
+            "sentence": "Nitasubiri hadi atakapokuja kunywa maji.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_19_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku moja aliposubiri wavulana wawili walikuja mtoni wakiwa na mitego yao.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 18,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 126,
+                    "start": 85,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 242,
+                    "start": 137,
+                    "word": "aliposubiri"
+                  },
+                  {
+                    "end": 361,
+                    "start": 294,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 417,
+                    "start": 362,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 493,
+                    "start": 418,
+                    "word": "walikuja"
+                  },
+                  {
+                    "end": 567,
+                    "start": 494,
+                    "word": "mtoni"
+                  },
+                  {
+                    "end": 651,
+                    "start": 595,
+                    "word": "wakiwa"
+                  },
+                  {
+                    "end": 671,
+                    "start": 652,
+                    "word": "na"
+                  },
+                  {
+                    "end": 734,
+                    "start": 672,
+                    "word": "mitego"
+                  },
+                  {
+                    "end": 778,
+                    "start": 735,
+                    "word": "yao"
+                  }
+                ],
+                "until": 778,
+                "utterances": "Siku moja aliposubiri wavulana wawili walikuja mtoni wakiwa na mitego yao"
+              }
+            ],
+            "sentence": "Siku moja aliposubiri, wavulana wawili walikuja mtoni wakiwa na mitego yao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_20_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna Njiwa mmoja mweupe ambaye huja hapa kunywa maji mvulana mmoja alisema.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 123,
+                    "start": 54,
+                    "word": "Njiwa"
+                  },
+                  {
+                    "end": 187,
+                    "start": 124,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 253,
+                    "start": 188,
+                    "word": "mweupe"
+                  },
+                  {
+                    "end": 338,
+                    "start": 288,
+                    "word": "ambaye"
+                  },
+                  {
+                    "end": 377,
+                    "start": 339,
+                    "word": "huja"
+                  },
+                  {
+                    "end": 411,
+                    "start": 378,
+                    "word": "hapa"
+                  },
+                  {
+                    "end": 454,
+                    "start": 412,
+                    "word": "kunywa"
+                  },
+                  {
+                    "end": 507,
+                    "start": 455,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 605,
+                    "start": 551,
+                    "word": "mvulana"
+                  },
+                  {
+                    "end": 660,
+                    "start": 606,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 737,
+                    "start": 661,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 737,
+                "utterances": "Kuna Njiwa mmoja mweupe ambaye huja hapa kunywa maji mvulana mmoja alisema"
+              }
+            ],
+            "sentence": "\"Kuna Njiwa mmoja mweupe ambaye huja hapa kunywa maji,\" mvulana mmoja alisema."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tutamla kwa chakula cha jioni.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 21,
+                    "word": "Tutamla"
+                  },
+                  {
+                    "end": 158,
+                    "start": 147,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 211,
+                    "start": 159,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 232,
+                    "start": 212,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 297,
+                    "start": 233,
+                    "word": "jioni"
+                  }
+                ],
+                "until": 297,
+                "utterances": "Tutamla kwa chakula cha jioni"
+              }
+            ],
+            "sentence": "\"Tutamla kwa chakula cha jioni.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_21_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level2_5_page_22_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sitawacha wavulana hao wamuue Njiwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 20,
+                    "word": "Sitawacha"
+                  },
+                  {
+                    "end": 159,
+                    "start": 102,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 187,
+                    "start": 160,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 261,
+                    "start": 188,
+                    "word": "wamuue"
+                  },
+                  {
+                    "end": 318,
+                    "start": 262,
+                    "word": "Njiwa"
+                  }
+                ],
+                "until": 318,
+                "utterances": "Sitawacha wavulana hao wamuue Njiwa"
+              }
+            ],
+            "sentence": "\"Sitawacha wavulana hao wamuue Njiwa."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lakini mimi ni mdogo sana nitafanyaje.mp3",
+                "from": 32,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 32,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 115,
+                    "start": 84,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 130,
+                    "start": 116,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 181,
+                    "start": 131,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 267,
+                    "start": 182,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 477,
+                    "start": 324,
+                    "word": "nitafanyaje"
+                  }
+                ],
+                "until": 477,
+                "utterances": "Lakini mimi ni mdogo sana nitafanyaje"
+              }
+            ],
+            "sentence": "Lakini mimi ni mdogo sana, nitafanyaje?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_23_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wakati huo huo Njiwa Mweupe aliruka chini kutoka mtini kunywa maji.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 16,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 79,
+                    "start": 70,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 155,
+                    "start": 80,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 216,
+                    "start": 178,
+                    "word": "Njiwa"
+                  },
+                  {
+                    "end": 269,
+                    "start": 217,
+                    "word": "Mweupe"
+                  },
+                  {
+                    "end": 361,
+                    "start": 270,
+                    "word": "aliruka"
+                  },
+                  {
+                    "end": 421,
+                    "start": 362,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 510,
+                    "start": 458,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 589,
+                    "start": 511,
+                    "word": "mtini"
+                  },
+                  {
+                    "end": 652,
+                    "start": 590,
+                    "word": "kunywa"
+                  },
+                  {
+                    "end": 706,
+                    "start": 653,
+                    "word": "maji"
+                  }
+                ],
+                "until": 706,
+                "utterances": "Wakati huo huo Njiwa Mweupe aliruka chini kutoka mtini kunywa maji"
+              }
+            ],
+            "sentence": "Wakati huo huo Njiwa Mweupe aliruka chini kutoka mtini kunywa maji ."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_24_image_0001.jpg",
+      "text": []
+    },
+    {
+      "image": "level2_5_page_25_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Siafu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Siafu"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Mdogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Mdogo"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alikuwa"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": null,
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wazo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wazo"
+              }
+            ],
+            "sentence": "Siafu Mdogo alikuwa na wazo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_26_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliurukia mguu wa mvulana mmoja na kuuuma kwa nguvu zake zote.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 129,
+                    "start": 20,
+                    "word": "Aliurukia"
+                  },
+                  {
+                    "end": 189,
+                    "start": 130,
+                    "word": "mguu"
+                  },
+                  {
+                    "end": 201,
+                    "start": 190,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 262,
+                    "start": 202,
+                    "word": "mvulana"
+                  },
+                  {
+                    "end": 320,
+                    "start": 263,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 361,
+                    "start": 348,
+                    "word": "na"
+                  },
+                  {
+                    "end": 460,
+                    "start": 362,
+                    "word": "kuuuma"
+                  },
+                  {
+                    "end": 514,
+                    "start": 499,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 562,
+                    "start": 515,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 605,
+                    "start": 563,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 654,
+                    "start": 606,
+                    "word": "zote"
+                  }
+                ],
+                "until": 654,
+                "utterances": "Aliurukia mguu wa mvulana mmoja na kuuuma kwa nguvu zake zote"
+              }
+            ],
+            "sentence": "Aliurukia mguu wa mvulana mmoja na kuuuma kwa nguvu zake zote."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_27_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mvulana huyo aliruka.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 20,
+                    "word": "Mvulana"
+                  },
+                  {
+                    "end": 111,
+                    "start": 72,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 179,
+                    "start": 112,
+                    "word": "aliruka"
+                  }
+                ],
+                "until": 179,
+                "utterances": "Mvulana huyo aliruka"
+              }
+            ],
+            "sentence": "Mvulana huyo aliruka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Uuui.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 22,
+                    "word": "Uuui"
+                  }
+                ],
+                "until": 131,
+                "utterances": "Uuui"
+              }
+            ],
+            "sentence": "\"Uuui!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "alilia.mp3",
+                "from": 44,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 44,
+                    "word": "alilia"
+                  }
+                ],
+                "until": 119,
+                "utterances": "alilia"
+              }
+            ],
+            "sentence": "alilia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_28_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Njiwa Mweupe alishituliwa na kuondoka kwenda.mp3",
+                "from": 91,
+                "segmentation": [
+                  {
+                    "end": 149,
+                    "start": 91,
+                    "word": "Njiwa"
+                  },
+                  {
+                    "end": 218,
+                    "start": 150,
+                    "word": "Mweupe"
+                  },
+                  {
+                    "end": 336,
+                    "start": 219,
+                    "word": "alishituliwa"
+                  },
+                  {
+                    "end": 388,
+                    "start": 375,
+                    "word": "na"
+                  },
+                  {
+                    "end": 461,
+                    "start": 389,
+                    "word": "kuondoka"
+                  },
+                  {
+                    "end": 506,
+                    "start": 462,
+                    "word": "kwenda"
+                  }
+                ],
+                "until": 506,
+                "utterances": "Njiwa Mweupe alishituliwa na kuondoka kwenda"
+              }
+            ],
+            "sentence": "Njiwa Mweupe alishituliwa na kuondoka kwenda."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_5_page_29_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hivyo ndivyo Siafu Mdogo alimshukuru Njiwa Mweupe kwa kumwokoa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 2,
+                    "word": "Hivyo"
+                  },
+                  {
+                    "end": 131,
+                    "start": 78,
+                    "word": "ndivyo"
+                  },
+                  {
+                    "end": 196,
+                    "start": 132,
+                    "word": "Siafu"
+                  },
+                  {
+                    "end": 260,
+                    "start": 197,
+                    "word": "Mdogo"
+                  },
+                  {
+                    "end": 398,
+                    "start": 289,
+                    "word": "alimshukuru"
+                  },
+                  {
+                    "end": 450,
+                    "start": 399,
+                    "word": "Njiwa"
+                  },
+                  {
+                    "end": 528,
+                    "start": 451,
+                    "word": "Mweupe"
+                  },
+                  {
+                    "end": 564,
+                    "start": 553,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 660,
+                    "start": 565,
+                    "word": "kumwokoa"
+                  }
+                ],
+                "until": 660,
+                "utterances": "Hivyo ndivyo Siafu Mdogo alimshukuru Njiwa Mweupe kwa kumwokoa"
+              }
+            ],
+            "sentence": "Hivyo ndivyo Siafu Mdogo alimshukuru Njiwa Mweupe kwa kumwokoa."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Ursula Nafula",
+  "title": "Jinsi Siafu alimwokoa Njiwa",
+  "titleimage": "level2_5_page_01_image_0001.jpg"
+}

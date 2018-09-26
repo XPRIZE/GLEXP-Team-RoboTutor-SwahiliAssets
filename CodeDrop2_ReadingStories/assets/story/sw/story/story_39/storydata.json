@@ -1,0 +1,1816 @@
+{
+  "authors": "Marion Drew",
+  "copyright": "Copyright (c) Marion Drew, 2014",
+  "data": [
+    {
+      "image": "level2_27_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hujambo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 2,
+                    "word": "Hujambo"
+                  }
+                ],
+                "until": 97,
+                "utterances": "Hujambo"
+              }
+            ],
+            "sentence": "Hujambo!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Jina langu ni Nanu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 20,
+                    "word": "Jina"
+                  },
+                  {
+                    "end": 92,
+                    "start": 50,
+                    "word": "langu"
+                  },
+                  {
+                    "end": 111,
+                    "start": 93,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 161,
+                    "start": 112,
+                    "word": "Nanu"
+                  }
+                ],
+                "until": 161,
+                "utterances": "Jina langu ni Nanu"
+              }
+            ],
+            "sentence": "Jina langu ni Nanu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ninasubiri teksi na mamangu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 20,
+                    "word": "Ninasubiri"
+                  },
+                  {
+                    "end": 167,
+                    "start": 111,
+                    "word": "teksi"
+                  },
+                  {
+                    "end": 185,
+                    "start": 168,
+                    "word": "na"
+                  },
+                  {
+                    "end": 260,
+                    "start": 186,
+                    "word": "mamangu"
+                  }
+                ],
+                "until": 260,
+                "utterances": "Ninasubiri teksi na mamangu"
+              }
+            ],
+            "sentence": "Ninasubiri teksi na mamangu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tunaenda nyumbani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 20,
+                    "word": "Tunaenda"
+                  },
+                  {
+                    "end": 162,
+                    "start": 86,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 162,
+                "utterances": "Tunaenda nyumbani"
+              }
+            ],
+            "sentence": "Tunaenda nyumbani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hapa nimesimama kwenye mstari.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Hapa"
+                  },
+                  {
+                    "end": 194,
+                    "start": 104,
+                    "word": "nimesimama"
+                  },
+                  {
+                    "end": 237,
+                    "start": 195,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 312,
+                    "start": 238,
+                    "word": "mstari"
+                  }
+                ],
+                "until": 312,
+                "utterances": "Hapa nimesimama kwenye mstari"
+              }
+            ],
+            "sentence": "Hapa nimesimama kwenye mstari."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Mamangu ananiimbia wimbo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 20,
+                    "word": "Mamangu"
+                  },
+                  {
+                    "end": 227,
+                    "start": 123,
+                    "word": "ananiimbia"
+                  },
+                  {
+                    "end": 271,
+                    "start": 228,
+                    "word": "wimbo"
+                  }
+                ],
+                "until": 271,
+                "utterances": "Mamangu ananiimbia wimbo"
+              }
+            ],
+            "sentence": "Mamangu ananiimbia wimbo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Njoo Bwana Teksi kwani huoni.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 1,
+                    "word": "Njoo"
+                  },
+                  {
+                    "end": 104,
+                    "start": 70,
+                    "word": "Bwana"
+                  },
+                  {
+                    "end": 199,
+                    "start": 105,
+                    "word": "Teksi"
+                  },
+                  {
+                    "end": 247,
+                    "start": 200,
+                    "word": "kwani"
+                  },
+                  {
+                    "end": 334,
+                    "start": 248,
+                    "word": "huoni"
+                  }
+                ],
+                "until": 334,
+                "utterances": "Njoo Bwana Teksi kwani huoni"
+              }
+            ],
+            "sentence": "\"Njoo Bwana Teksi kwani huoni!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Twasubiri Nanu na mimi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 20,
+                    "word": "Twasubiri"
+                  },
+                  {
+                    "end": 171,
+                    "start": 87,
+                    "word": "Nanu"
+                  },
+                  {
+                    "end": 236,
+                    "start": 200,
+                    "word": "na"
+                  },
+                  {
+                    "end": 343,
+                    "start": 237,
+                    "word": "mimi"
+                  }
+                ],
+                "until": 343,
+                "utterances": "Twasubiri Nanu na mimi"
+              }
+            ],
+            "sentence": "Twasubiri, Nanu na mimi!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mwanamke aliye karibu nami anawapeleka kuku nyumbani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 21,
+                    "word": "Mwanamke"
+                  },
+                  {
+                    "end": 150,
+                    "start": 104,
+                    "word": "aliye"
+                  },
+                  {
+                    "end": 210,
+                    "start": 151,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 266,
+                    "start": 211,
+                    "word": "nami"
+                  },
+                  {
+                    "end": 397,
+                    "start": 294,
+                    "word": "anawapeleka"
+                  },
+                  {
+                    "end": 435,
+                    "start": 398,
+                    "word": "kuku"
+                  },
+                  {
+                    "end": 504,
+                    "start": 436,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 504,
+                "utterances": "Mwanamke aliye karibu nami anawapeleka kuku nyumbani"
+              }
+            ],
+            "sentence": "Mwanamke aliye karibu nami anawapeleka kuku nyumbani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watataga mayai ili ale.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 18,
+                    "word": "Watataga"
+                  },
+                  {
+                    "end": 173,
+                    "start": 96,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 234,
+                    "start": 193,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 268,
+                    "start": 260,
+                    "word": "ale"
+                  }
+                ],
+                "until": 268,
+                "utterances": "Watataga mayai ili ale"
+              }
+            ],
+            "sentence": "Watataga mayai ili ale."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wanaume hawa wanarudi kutoka kazi.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 19,
+                    "word": "Wanaume"
+                  },
+                  {
+                    "end": 161,
+                    "start": 94,
+                    "word": "hawa"
+                  },
+                  {
+                    "end": 272,
+                    "start": 186,
+                    "word": "wanarudi"
+                  },
+                  {
+                    "end": 347,
+                    "start": 273,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 401,
+                    "start": 348,
+                    "word": "kazi"
+                  }
+                ],
+                "until": 401,
+                "utterances": "Wanaume hawa wanarudi kutoka kazi"
+              }
+            ],
+            "sentence": "Wanaume hawa wanarudi kutoka kazi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wanatabasamu.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 178,
+                    "start": 19,
+                    "word": "Wanatabasamu"
+                  }
+                ],
+                "until": 178,
+                "utterances": "Wanatabasamu"
+              }
+            ],
+            "sentence": "Wanatabasamu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nawasikia wakiimba Nanu mdogo usiwe na wasiwasi.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 19,
+                    "word": "Nawasikia"
+                  },
+                  {
+                    "end": 181,
+                    "start": 105,
+                    "word": "wakiimba"
+                  },
+                  {
+                    "end": 272,
+                    "start": 221,
+                    "word": "Nanu"
+                  },
+                  {
+                    "end": 352,
+                    "start": 273,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 401,
+                    "start": 353,
+                    "word": "usiwe"
+                  },
+                  {
+                    "end": 429,
+                    "start": 402,
+                    "word": "na"
+                  },
+                  {
+                    "end": 542,
+                    "start": 430,
+                    "word": "wasiwasi"
+                  }
+                ],
+                "until": 542,
+                "utterances": "Nawasikia wakiimba Nanu mdogo usiwe na wasiwasi"
+              }
+            ],
+            "sentence": "Nawasikia wakiimba, \"Nanu mdogo, usiwe na wasiwasi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Teksi yaja kwa haraka.mp3",
+                "from": 33,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 33,
+                    "word": "Teksi"
+                  },
+                  {
+                    "end": 119,
+                    "start": 88,
+                    "word": "yaja"
+                  },
+                  {
+                    "end": 144,
+                    "start": 120,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 242,
+                    "start": 145,
+                    "word": "haraka"
+                  }
+                ],
+                "until": 242,
+                "utterances": "Teksi yaja kwa haraka"
+              }
+            ],
+            "sentence": "Teksi yaja kwa haraka.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mwanamke anapita akitembea.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 20,
+                    "word": "Mwanamke"
+                  },
+                  {
+                    "end": 193,
+                    "start": 110,
+                    "word": "anapita"
+                  },
+                  {
+                    "end": 291,
+                    "start": 201,
+                    "word": "akitembea"
+                  }
+                ],
+                "until": 291,
+                "utterances": "Mwanamke anapita akitembea"
+              }
+            ],
+            "sentence": "Mwanamke anapita akitembea."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Yuko nadhifu sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 21,
+                    "word": "Yuko"
+                  },
+                  {
+                    "end": 150,
+                    "start": 65,
+                    "word": "nadhifu"
+                  },
+                  {
+                    "end": 229,
+                    "start": 151,
+                    "word": "sana"
+                  }
+                ],
+                "until": 229,
+                "utterances": "Yuko nadhifu sana"
+              }
+            ],
+            "sentence": "Yuko nadhifu sana."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Viatu vyake si vizuri kweli.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 2,
+                    "word": "Viatu"
+                  },
+                  {
+                    "end": 116,
+                    "start": 72,
+                    "word": "vyake"
+                  },
+                  {
+                    "end": 142,
+                    "start": 117,
+                    "word": "si"
+                  },
+                  {
+                    "end": 206,
+                    "start": 143,
+                    "word": "vizuri"
+                  },
+                  {
+                    "end": 250,
+                    "start": 207,
+                    "word": "kweli"
+                  }
+                ],
+                "until": 250,
+                "utterances": "Viatu vyake si vizuri kweli"
+              }
+            ],
+            "sentence": "Viatu vyake si vizuri kweli?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Vinaenda click click click.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 2,
+                    "word": "Vinaenda"
+                  },
+                  {
+                    "end": 193,
+                    "start": 131,
+                    "word": "click"
+                  },
+                  {
+                    "end": 244,
+                    "start": 194,
+                    "word": "click"
+                  },
+                  {
+                    "end": 290,
+                    "start": 245,
+                    "word": "click"
+                  }
+                ],
+                "until": 290,
+                "utterances": "Vinaenda click click click"
+              }
+            ],
+            "sentence": "Vinaenda \"click, click, click..."
+          },
+          {
+            "narration": [
+              {
+                "audio": "click click click.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 1,
+                    "word": "click"
+                  },
+                  {
+                    "end": 120,
+                    "start": 76,
+                    "word": "click"
+                  },
+                  {
+                    "end": 158,
+                    "start": 121,
+                    "word": "click"
+                  }
+                ],
+                "until": 158,
+                "utterances": "click click click"
+              }
+            ],
+            "sentence": "click click, click..\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "anapotembea.mp3",
+                "from": 28,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 28,
+                    "word": "anapotembea"
+                  }
+                ],
+                "until": 126,
+                "utterances": "anapotembea"
+              }
+            ],
+            "sentence": "anapotembea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mwanamme huyo anauza vinywaji baridi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 21,
+                    "word": "Mwanamme"
+                  },
+                  {
+                    "end": 158,
+                    "start": 97,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 252,
+                    "start": 181,
+                    "word": "anauza"
+                  },
+                  {
+                    "end": 331,
+                    "start": 253,
+                    "word": "vinywaji"
+                  },
+                  {
+                    "end": 405,
+                    "start": 332,
+                    "word": "baridi"
+                  }
+                ],
+                "until": 405,
+                "utterances": "Mwanamme huyo anauza vinywaji baridi"
+              }
+            ],
+            "sentence": "Mwanamme huyo anauza vinywaji baridi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Napenda vinywaji baridi.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 18,
+                    "word": "Napenda"
+                  },
+                  {
+                    "end": 186,
+                    "start": 102,
+                    "word": "vinywaji"
+                  },
+                  {
+                    "end": 274,
+                    "start": 187,
+                    "word": "baridi"
+                  }
+                ],
+                "until": 274,
+                "utterances": "Napenda vinywaji baridi"
+              }
+            ],
+            "sentence": "Napenda vinywaji baridi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ni baridi na vitamu sana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 2,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 103,
+                    "start": 23,
+                    "word": "baridi"
+                  },
+                  {
+                    "end": 131,
+                    "start": 104,
+                    "word": "na"
+                  },
+                  {
+                    "end": 214,
+                    "start": 132,
+                    "word": "vitamu"
+                  },
+                  {
+                    "end": 296,
+                    "start": 218,
+                    "word": "sana"
+                  }
+                ],
+                "until": 296,
+                "utterances": "Ni baridi na vitamu sana"
+              }
+            ],
+            "sentence": "Ni baridi na vitamu sana."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je unavipenda.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 18,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 199,
+                    "start": 87,
+                    "word": "unavipenda"
+                  }
+                ],
+                "until": 199,
+                "utterances": "Je unavipenda"
+              }
+            ],
+            "sentence": "Je, unavipenda?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hebu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 20,
+                    "word": "Hebu"
+                  }
+                ],
+                "until": 73,
+                "utterances": "Hebu"
+              }
+            ],
+            "sentence": "Hebu!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kuna wanawake wanapeleka chakula chao cha jioni nyumbani vichwani mwao.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 157,
+                    "start": 62,
+                    "word": "wanawake"
+                  },
+                  {
+                    "end": 258,
+                    "start": 158,
+                    "word": "wanapeleka"
+                  },
+                  {
+                    "end": 315,
+                    "start": 259,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 373,
+                    "start": 316,
+                    "word": "chao"
+                  },
+                  {
+                    "end": 397,
+                    "start": 374,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 484,
+                    "start": 398,
+                    "word": "jioni"
+                  },
+                  {
+                    "end": 596,
+                    "start": 513,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 676,
+                    "start": 619,
+                    "word": "vichwani"
+                  },
+                  {
+                    "end": 729,
+                    "start": 677,
+                    "word": "mwao"
+                  }
+                ],
+                "until": 729,
+                "utterances": "Kuna wanawake wanapeleka chakula chao cha jioni nyumbani vichwani mwao"
+              }
+            ],
+            "sentence": "Kuna wanawake wanapeleka chakula chao cha jioni nyumbani vichwani mwao."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je si werevu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 107,
+                    "start": 83,
+                    "word": "si"
+                  },
+                  {
+                    "end": 181,
+                    "start": 108,
+                    "word": "werevu"
+                  }
+                ],
+                "until": 181,
+                "utterances": "Je si werevu"
+              }
+            ],
+            "sentence": "Je, si werevu?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mwanamke huyo anasukwa nywele zake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 20,
+                    "word": "Mwanamke"
+                  },
+                  {
+                    "end": 157,
+                    "start": 87,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 256,
+                    "start": 180,
+                    "word": "anasukwa"
+                  },
+                  {
+                    "end": 294,
+                    "start": 257,
+                    "word": "nywele"
+                  },
+                  {
+                    "end": 347,
+                    "start": 295,
+                    "word": "zake"
+                  }
+                ],
+                "until": 347,
+                "utterances": "Mwanamke huyo anasukwa nywele zake"
+              }
+            ],
+            "sentence": "Mwanamke huyo anasukwa nywele zake."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ataenda nje na marafiki zake leo usiku.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 21,
+                    "word": "Ataenda"
+                  },
+                  {
+                    "end": 149,
+                    "start": 98,
+                    "word": "nje"
+                  },
+                  {
+                    "end": 172,
+                    "start": 150,
+                    "word": "na"
+                  },
+                  {
+                    "end": 250,
+                    "start": 173,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 307,
+                    "start": 251,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 381,
+                    "start": 340,
+                    "word": "leo"
+                  },
+                  {
+                    "end": 443,
+                    "start": 382,
+                    "word": "usiku"
+                  }
+                ],
+                "until": 443,
+                "utterances": "Ataenda nje na marafiki zake leo usiku"
+              }
+            ],
+            "sentence": "Ataenda nje na marafiki zake leo usiku."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nimechoka sasa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 2,
+                    "word": "Nimechoka"
+                  },
+                  {
+                    "end": 156,
+                    "start": 95,
+                    "word": "sasa"
+                  }
+                ],
+                "until": 156,
+                "utterances": "Nimechoka sasa"
+              }
+            ],
+            "sentence": "Nimechoka sasa."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Mamangu ananiweka mgongoni kwake nikapumzike.mp3",
+                "from": 31,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 31,
+                    "word": "Mamangu"
+                  },
+                  {
+                    "end": 187,
+                    "start": 94,
+                    "word": "ananiweka"
+                  },
+                  {
+                    "end": 265,
+                    "start": 188,
+                    "word": "mgongoni"
+                  },
+                  {
+                    "end": 321,
+                    "start": 266,
+                    "word": "kwake"
+                  },
+                  {
+                    "end": 490,
+                    "start": 359,
+                    "word": "nikapumzike"
+                  }
+                ],
+                "until": 490,
+                "utterances": "Mamangu ananiweka mgongoni kwake nikapumzike"
+              }
+            ],
+            "sentence": "Mamangu ananiweka mgongoni kwake nikapumzike."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Anaimba Tafadhali Bwana Teksi usichelewe Gogo anasubiri kwenye lango kuu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 20,
+                    "word": "Anaimba"
+                  },
+                  {
+                    "end": 224,
+                    "start": 140,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 266,
+                    "start": 225,
+                    "word": "Bwana"
+                  },
+                  {
+                    "end": 347,
+                    "start": 267,
+                    "word": "Teksi"
+                  },
+                  {
+                    "end": 508,
+                    "start": 371,
+                    "word": "usichelewe"
+                  },
+                  {
+                    "end": 609,
+                    "start": 565,
+                    "word": "Gogo"
+                  },
+                  {
+                    "end": 715,
+                    "start": 610,
+                    "word": "anasubiri"
+                  },
+                  {
+                    "end": 763,
+                    "start": 716,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 812,
+                    "start": 764,
+                    "word": "lango"
+                  },
+                  {
+                    "end": 905,
+                    "start": 893,
+                    "word": "kuu"
+                  }
+                ],
+                "until": 905,
+                "utterances": "Anaimba Tafadhali Bwana Teksi usichelewe Gogo anasubiri kwenye lango kuu"
+              }
+            ],
+            "sentence": "Anaimba, \"Tafadhali Bwana Teksi, usichelewe, Gogo anasubiri kwenye lango kuu.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna rafiki yangu Tumi.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 1,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 120,
+                    "start": 56,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 179,
+                    "start": 121,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 204,
+                    "start": 180,
+                    "word": "Tumi"
+                  }
+                ],
+                "until": 204,
+                "utterances": "Kuna rafiki yangu Tumi"
+              }
+            ],
+            "sentence": "Kuna rafiki yangu Tumi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Yeye pia anapumzika.mp3",
+                "from": 25,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 25,
+                    "word": "Yeye"
+                  },
+                  {
+                    "end": 137,
+                    "start": 127,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 234,
+                    "start": 138,
+                    "word": "anapumzika"
+                  }
+                ],
+                "until": 234,
+                "utterances": "Yeye pia anapumzika"
+              }
+            ],
+            "sentence": "Yeye pia anapumzika."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tutakuwa nyumbani hivi karibuni.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 21,
+                    "word": "Tutakuwa"
+                  },
+                  {
+                    "end": 176,
+                    "start": 103,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 219,
+                    "start": 177,
+                    "word": "hivi"
+                  },
+                  {
+                    "end": 296,
+                    "start": 220,
+                    "word": "karibuni"
+                  }
+                ],
+                "until": 296,
+                "utterances": "Tutakuwa nyumbani hivi karibuni"
+              }
+            ],
+            "sentence": "Tutakuwa nyumbani hivi karibuni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hapo juu ndege wanaruka kwenda nyumbani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 2,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 108,
+                    "start": 73,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 188,
+                    "start": 109,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 280,
+                    "start": 189,
+                    "word": "wanaruka"
+                  },
+                  {
+                    "end": 373,
+                    "start": 330,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 453,
+                    "start": 374,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 453,
+                "utterances": "Hapo juu ndege wanaruka kwenda nyumbani"
+              }
+            ],
+            "sentence": "Hapo juu ndege wanaruka kwenda nyumbani."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Lazima wafike nyumbani kabla giza kuingia.mp3",
+                "from": 55,
+                "segmentation": [
+                  {
+                    "end": 124,
+                    "start": 55,
+                    "word": "Lazima"
+                  },
+                  {
+                    "end": 187,
+                    "start": 125,
+                    "word": "wafike"
+                  },
+                  {
+                    "end": 270,
+                    "start": 188,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 335,
+                    "start": 295,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 379,
+                    "start": 336,
+                    "word": "giza"
+                  },
+                  {
+                    "end": 458,
+                    "start": 380,
+                    "word": "kuingia"
+                  }
+                ],
+                "until": 458,
+                "utterances": "Lazima wafike nyumbani kabla giza kuingia"
+              }
+            ],
+            "sentence": "Lazima wafike nyumbani kabla giza kuingia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mwanamke huyu ana vipuli maridadi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 20,
+                    "word": "Mwanamke"
+                  },
+                  {
+                    "end": 139,
+                    "start": 88,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 196,
+                    "start": 171,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 261,
+                    "start": 197,
+                    "word": "vipuli"
+                  },
+                  {
+                    "end": 396,
+                    "start": 262,
+                    "word": "maridadi"
+                  }
+                ],
+                "until": 396,
+                "utterances": "Mwanamke huyu ana vipuli maridadi"
+              }
+            ],
+            "sentence": "Mwanamke huyu ana vipuli maridadi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nadhani alivinunua mjini leo.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 18,
+                    "word": "Nadhani"
+                  },
+                  {
+                    "end": 218,
+                    "start": 92,
+                    "word": "alivinunua"
+                  },
+                  {
+                    "end": 316,
+                    "start": 245,
+                    "word": "mjini"
+                  },
+                  {
+                    "end": 348,
+                    "start": 317,
+                    "word": "leo"
+                  }
+                ],
+                "until": 348,
+                "utterances": "Nadhani alivinunua mjini leo"
+              }
+            ],
+            "sentence": "Nadhani alivinunua mjini leo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nikiwa mkubwa nitanunua vipuli vingi vyangu na vya mamangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Nikiwa"
+                  },
+                  {
+                    "end": 132,
+                    "start": 65,
+                    "word": "mkubwa"
+                  },
+                  {
+                    "end": 249,
+                    "start": 169,
+                    "word": "nitanunua"
+                  },
+                  {
+                    "end": 313,
+                    "start": 250,
+                    "word": "vipuli"
+                  },
+                  {
+                    "end": 395,
+                    "start": 314,
+                    "word": "vingi"
+                  },
+                  {
+                    "end": 480,
+                    "start": 396,
+                    "word": "vyangu"
+                  },
+                  {
+                    "end": 509,
+                    "start": 498,
+                    "word": "na"
+                  },
+                  {
+                    "end": 534,
+                    "start": 510,
+                    "word": "vya"
+                  },
+                  {
+                    "end": 604,
+                    "start": 535,
+                    "word": "mamangu"
+                  }
+                ],
+                "until": 604,
+                "utterances": "Nikiwa mkubwa nitanunua vipuli vingi vyangu na vya mamangu"
+              }
+            ],
+            "sentence": "Nikiwa mkubwa, nitanunua vipuli vingi vyangu na vya mamangu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mamangu anaanza kuchoka sasa.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 19,
+                    "word": "Mamangu"
+                  },
+                  {
+                    "end": 179,
+                    "start": 98,
+                    "word": "anaanza"
+                  },
+                  {
+                    "end": 246,
+                    "start": 180,
+                    "word": "kuchoka"
+                  },
+                  {
+                    "end": 306,
+                    "start": 247,
+                    "word": "sasa"
+                  }
+                ],
+                "until": 306,
+                "utterances": "Mamangu anaanza kuchoka sasa"
+              }
+            ],
+            "sentence": "Mamangu anaanza kuchoka sasa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Namwimbia wimbo Tafadhali Bwana Teksi unakuja tunasubiri mimi na mamangu.mp3",
+                "from": 51,
+                "segmentation": [
+                  {
+                    "end": 142,
+                    "start": 51,
+                    "word": "Namwimbia"
+                  },
+                  {
+                    "end": 195,
+                    "start": 143,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 304,
+                    "start": 224,
+                    "word": "Tafadhali"
+                  },
+                  {
+                    "end": 350,
+                    "start": 305,
+                    "word": "Bwana"
+                  },
+                  {
+                    "end": 442,
+                    "start": 351,
+                    "word": "Teksi"
+                  },
+                  {
+                    "end": 582,
+                    "start": 469,
+                    "word": "unakuja"
+                  },
+                  {
+                    "end": 764,
+                    "start": 626,
+                    "word": "tunasubiri"
+                  },
+                  {
+                    "end": 821,
+                    "start": 786,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 843,
+                    "start": 822,
+                    "word": "na"
+                  },
+                  {
+                    "end": 937,
+                    "start": 844,
+                    "word": "mamangu"
+                  }
+                ],
+                "until": 937,
+                "utterances": "Namwimbia wimbo Tafadhali Bwana Teksi unakuja tunasubiri mimi na mamangu"
+              }
+            ],
+            "sentence": "Namwimbia wimbo, \"Tafadhali Bwana Teksi, unakuja, tunasubiri, mimi na mamangu.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ngoja.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 14,
+                    "word": "Ngoja"
+                  }
+                ],
+                "until": 80,
+                "utterances": "Ngoja"
+              }
+            ],
+            "sentence": "Ngoja!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ninasikia teksi.mp3",
+                "from": 51,
+                "segmentation": [
+                  {
+                    "end": 135,
+                    "start": 51,
+                    "word": "Ninasikia"
+                  },
+                  {
+                    "end": 190,
+                    "start": 136,
+                    "word": "teksi"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Ninasikia teksi"
+              }
+            ],
+            "sentence": "Ninasikia teksi!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Hivi hapa inakuja.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 2,
+                    "word": "Hivi"
+                  },
+                  {
+                    "end": 133,
+                    "start": 92,
+                    "word": "hapa"
+                  },
+                  {
+                    "end": 234,
+                    "start": 157,
+                    "word": "inakuja"
+                  }
+                ],
+                "until": 234,
+                "utterances": "Hivi hapa inakuja"
+              }
+            ],
+            "sentence": "Hivi hapa inakuja!!!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hii ni teksi yetu kubwa nyekundu.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 19,
+                    "word": "Hii"
+                  },
+                  {
+                    "end": 85,
+                    "start": 66,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 144,
+                    "start": 86,
+                    "word": "teksi"
+                  },
+                  {
+                    "end": 166,
+                    "start": 145,
+                    "word": "yetu"
+                  },
+                  {
+                    "end": 229,
+                    "start": 167,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 307,
+                    "start": 230,
+                    "word": "nyekundu"
+                  }
+                ],
+                "until": 307,
+                "utterances": "Hii ni teksi yetu kubwa nyekundu"
+              }
+            ],
+            "sentence": "Hii ni teksi yetu kubwa nyekundu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Imekuja kunipeleka mimi na mamangu nyumbani.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 123,
+                    "start": 22,
+                    "word": "Imekuja"
+                  },
+                  {
+                    "end": 229,
+                    "start": 124,
+                    "word": "kunipeleka"
+                  },
+                  {
+                    "end": 304,
+                    "start": 266,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 324,
+                    "start": 305,
+                    "word": "na"
+                  },
+                  {
+                    "end": 402,
+                    "start": 325,
+                    "word": "mamangu"
+                  },
+                  {
+                    "end": 492,
+                    "start": 403,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 492,
+                "utterances": "Imekuja kunipeleka mimi na mamangu nyumbani"
+              }
+            ],
+            "sentence": "Imekuja kunipeleka mimi na mamangu nyumbani."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nimefurahi sana.mp3",
+                "from": 78,
+                "segmentation": [
+                  {
+                    "end": 217,
+                    "start": 78,
+                    "word": "Nimefurahi"
+                  },
+                  {
+                    "end": 341,
+                    "start": 218,
+                    "word": "sana"
+                  }
+                ],
+                "until": 341,
+                "utterances": "Nimefurahi sana"
+              }
+            ],
+            "sentence": "Nimefurahi sana!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_27_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwaheri.mp3",
+                "from": 55,
+                "segmentation": [
+                  {
+                    "end": 167,
+                    "start": 55,
+                    "word": "Kwaheri"
+                  }
+                ],
+                "until": 167,
+                "utterances": "Kwaheri"
+              }
+            ],
+            "sentence": "Kwaheri!!!"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Marion Drew",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Teksi ya Nanu",
+  "titleimage": "level2_27_page_01_image_0001.jpg"
+}

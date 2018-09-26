@@ -1,0 +1,2699 @@
+{
+  "authors": "Ursula Nafula and Nina Orange",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level3_11_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hi ni hadithi ya Mlinzi na chekechea yake ya wanyama mayatima.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 19,
+                    "word": "Hi"
+                  },
+                  {
+                    "end": 88,
+                    "start": 62,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 168,
+                    "start": 89,
+                    "word": "hadithi"
+                  },
+                  {
+                    "end": 178,
+                    "start": 169,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 262,
+                    "start": 179,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 306,
+                    "start": 294,
+                    "word": "na"
+                  },
+                  {
+                    "end": 408,
+                    "start": 307,
+                    "word": "chekechea"
+                  },
+                  {
+                    "end": 522,
+                    "start": 463,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 557,
+                    "start": 541,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 615,
+                    "start": 558,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 702,
+                    "start": 616,
+                    "word": "mayatima"
+                  }
+                ],
+                "until": 702,
+                "utterances": "Hi ni hadithi ya Mlinzi na chekechea yake ya wanyama mayatima"
+              }
+            ],
+            "sentence": "Hi ni hadithi ya Mlinzi na chekechea yake ya wanyama mayatima."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Agosti ulikuwa mwezi wenye shughuli nyingi sana kwa Mlinzi na wasaidizi wake katika chekechea.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 21,
+                    "word": "Agosti"
+                  },
+                  {
+                    "end": 164,
+                    "start": 101,
+                    "word": "ulikuwa"
+                  },
+                  {
+                    "end": 219,
+                    "start": 165,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 255,
+                    "start": 220,
+                    "word": "wenye"
+                  },
+                  {
+                    "end": 342,
+                    "start": 256,
+                    "word": "shughuli"
+                  },
+                  {
+                    "end": 421,
+                    "start": 363,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 478,
+                    "start": 422,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 540,
+                    "start": 523,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 618,
+                    "start": 541,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 657,
+                    "start": 639,
+                    "word": "na"
+                  },
+                  {
+                    "end": 739,
+                    "start": 658,
+                    "word": "wasaidizi"
+                  },
+                  {
+                    "end": 791,
+                    "start": 740,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 878,
+                    "start": 829,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 963,
+                    "start": 879,
+                    "word": "chekechea"
+                  }
+                ],
+                "until": 963,
+                "utterances": "Agosti ulikuwa mwezi wenye shughuli nyingi sana kwa Mlinzi na wasaidizi wake katika chekechea"
+              }
+            ],
+            "sentence": "Agosti ulikuwa mwezi wenye shughuli nyingi sana kwa Mlinzi na wasaidizi wake katika chekechea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliyefika kwanza alikuwa Mkite wa umri wa mwaka mmoja.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 112,
+                    "start": 22,
+                    "word": "Aliyefika"
+                  },
+                  {
+                    "end": 182,
+                    "start": 113,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 276,
+                    "start": 210,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 347,
+                    "start": 277,
+                    "word": "Mkite"
+                  },
+                  {
+                    "end": 413,
+                    "start": 389,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 453,
+                    "start": 414,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 475,
+                    "start": 454,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 519,
+                    "start": 476,
+                    "word": "mwaka"
+                  },
+                  {
+                    "end": 589,
+                    "start": 520,
+                    "word": "mmoja"
+                  }
+                ],
+                "until": 589,
+                "utterances": "Aliyefika kwanza alikuwa Mkite wa umri wa mwaka mmoja"
+              }
+            ],
+            "sentence": "Aliyefika kwanza alikuwa Mkite wa umri wa mwaka mmoja."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa amebebwa katika lori la kijani kibichi.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 22,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 209,
+                    "start": 107,
+                    "word": "amebebwa"
+                  },
+                  {
+                    "end": 290,
+                    "start": 226,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 341,
+                    "start": 291,
+                    "word": "lori"
+                  },
+                  {
+                    "end": 356,
+                    "start": 342,
+                    "word": "la"
+                  },
+                  {
+                    "end": 415,
+                    "start": 357,
+                    "word": "kijani"
+                  },
+                  {
+                    "end": 490,
+                    "start": 416,
+                    "word": "kibichi"
+                  }
+                ],
+                "until": 490,
+                "utterances": "Alikuwa amebebwa katika lori la kijani kibichi"
+              }
+            ],
+            "sentence": "Alikuwa amebebwa katika lori la kijani kibichi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mlinzi na wasaidizi wake walimwonea Mkite huruma sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 21,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 119,
+                    "start": 92,
+                    "word": "na"
+                  },
+                  {
+                    "end": 213,
+                    "start": 120,
+                    "word": "wasaidizi"
+                  },
+                  {
+                    "end": 280,
+                    "start": 214,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 429,
+                    "start": 314,
+                    "word": "walimwonea"
+                  },
+                  {
+                    "end": 532,
+                    "start": 430,
+                    "word": "Mkite"
+                  },
+                  {
+                    "end": 564,
+                    "start": 533,
+                    "word": "huruma"
+                  },
+                  {
+                    "end": 660,
+                    "start": 565,
+                    "word": "sana"
+                  }
+                ],
+                "until": 660,
+                "utterances": "Mlinzi na wasaidizi wake walimwonea Mkite huruma sana"
+              }
+            ],
+            "sentence": "Mlinzi na wasaidizi wake walimwonea Mkite huruma sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa amekonda na mwenye huzuni.mp3",
+                "from": 27,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 27,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 216,
+                    "start": 105,
+                    "word": "amekonda"
+                  },
+                  {
+                    "end": 239,
+                    "start": 217,
+                    "word": "na"
+                  },
+                  {
+                    "end": 284,
+                    "start": 240,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 364,
+                    "start": 285,
+                    "word": "huzuni"
+                  }
+                ],
+                "until": 364,
+                "utterances": "Alikuwa amekonda na mwenye huzuni"
+              }
+            ],
+            "sentence": "Alikuwa amekonda na mwenye huzuni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini muda mfupi baadaye Mkite alikuwa mwenye afya.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 23,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 123,
+                    "start": 82,
+                    "word": "muda"
+                  },
+                  {
+                    "end": 182,
+                    "start": 124,
+                    "word": "mfupi"
+                  },
+                  {
+                    "end": 275,
+                    "start": 183,
+                    "word": "baadaye"
+                  },
+                  {
+                    "end": 370,
+                    "start": 308,
+                    "word": "Mkite"
+                  },
+                  {
+                    "end": 429,
+                    "start": 371,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 477,
+                    "start": 430,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 540,
+                    "start": 491,
+                    "word": "afya"
+                  }
+                ],
+                "until": 540,
+                "utterances": "Lakini muda mfupi baadaye Mkite alikuwa mwenye afya"
+              }
+            ],
+            "sentence": "Lakini muda mfupi baadaye, Mkite alikuwa mwenye afya."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alianza kucheza na wanyama wengine katika chekechea.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 21,
+                    "word": "Alianza"
+                  },
+                  {
+                    "end": 180,
+                    "start": 105,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 204,
+                    "start": 181,
+                    "word": "na"
+                  },
+                  {
+                    "end": 273,
+                    "start": 205,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 359,
+                    "start": 274,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 441,
+                    "start": 389,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 529,
+                    "start": 442,
+                    "word": "chekechea"
+                  }
+                ],
+                "until": 529,
+                "utterances": "Alianza kucheza na wanyama wengine katika chekechea"
+              }
+            ],
+            "sentence": "Alianza kucheza na wanyama wengine katika chekechea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku nyingine katika mwezi huo wa Agosti helikopta ilitua mbele ya chekechea.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 139,
+                    "start": 70,
+                    "word": "nyingine"
+                  },
+                  {
+                    "end": 199,
+                    "start": 140,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 241,
+                    "start": 200,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 256,
+                    "start": 242,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 302,
+                    "start": 257,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 382,
+                    "start": 303,
+                    "word": "Agosti"
+                  },
+                  {
+                    "end": 502,
+                    "start": 412,
+                    "word": "helikopta"
+                  },
+                  {
+                    "end": 527,
+                    "start": 503,
+                    "word": "ilitua"
+                  },
+                  {
+                    "end": 645,
+                    "start": 579,
+                    "word": "mbele"
+                  },
+                  {
+                    "end": 651,
+                    "start": 646,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 732,
+                    "start": 652,
+                    "word": "chekechea"
+                  }
+                ],
+                "until": 732,
+                "utterances": "Siku nyingine katika mwezi huo wa Agosti helikopta ilitua mbele ya chekechea"
+              }
+            ],
+            "sentence": "Siku nyingine katika mwezi huo wa Agosti, helikopta ilitua mbele ya chekechea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mlinzi na wasaidizi wake waliharakisha kwenda nje.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 19,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 110,
+                    "start": 84,
+                    "word": "na"
+                  },
+                  {
+                    "end": 201,
+                    "start": 111,
+                    "word": "wasaidizi"
+                  },
+                  {
+                    "end": 265,
+                    "start": 202,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 428,
+                    "start": 299,
+                    "word": "waliharakisha"
+                  },
+                  {
+                    "end": 480,
+                    "start": 429,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 531,
+                    "start": 481,
+                    "word": "nje"
+                  }
+                ],
+                "until": 531,
+                "utterances": "Mlinzi na wasaidizi wake waliharakisha kwenda nje"
+              }
+            ],
+            "sentence": "Mlinzi na wasaidizi wake waliharakisha kwenda nje."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndani ya helikopta mtoto wa ndovu alifungwa katika blanketi kubwa.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 17,
+                    "word": "Ndani"
+                  },
+                  {
+                    "end": 77,
+                    "start": 68,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 177,
+                    "start": 78,
+                    "word": "helikopta"
+                  },
+                  {
+                    "end": 282,
+                    "start": 215,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 299,
+                    "start": 283,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 356,
+                    "start": 300,
+                    "word": "ndovu"
+                  },
+                  {
+                    "end": 453,
+                    "start": 372,
+                    "word": "alifungwa"
+                  },
+                  {
+                    "end": 524,
+                    "start": 454,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 589,
+                    "start": 525,
+                    "word": "blanketi"
+                  },
+                  {
+                    "end": 668,
+                    "start": 590,
+                    "word": "kubwa"
+                  }
+                ],
+                "until": 668,
+                "utterances": "Ndani ya helikopta mtoto wa ndovu alifungwa katika blanketi kubwa"
+              }
+            ],
+            "sentence": "Ndani ya helikopta, mtoto wa ndovu alifungwa katika blanketi kubwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ni Ndiwa aliyekuwa katika blanketi.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 18,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 114,
+                    "start": 49,
+                    "word": "Ndiwa"
+                  },
+                  {
+                    "end": 218,
+                    "start": 115,
+                    "word": "aliyekuwa"
+                  },
+                  {
+                    "end": 288,
+                    "start": 219,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 381,
+                    "start": 289,
+                    "word": "blanketi"
+                  }
+                ],
+                "until": 381,
+                "utterances": "Ni Ndiwa aliyekuwa katika blanketi"
+              }
+            ],
+            "sentence": "Ni Ndiwa aliyekuwa katika blanketi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa na umri wa siku tano.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 20,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 115,
+                    "start": 96,
+                    "word": "na"
+                  },
+                  {
+                    "end": 173,
+                    "start": 116,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 189,
+                    "start": 174,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 237,
+                    "start": 190,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 292,
+                    "start": 238,
+                    "word": "tano"
+                  }
+                ],
+                "until": 292,
+                "utterances": "Alikuwa na umri wa siku tano"
+              }
+            ],
+            "sentence": "Alikuwa na umri wa siku tano."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mlinzi alimlisha Ndiwa kutumia chupa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 20,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 174,
+                    "start": 92,
+                    "word": "alimlisha"
+                  },
+                  {
+                    "end": 232,
+                    "start": 175,
+                    "word": "Ndiwa"
+                  },
+                  {
+                    "end": 306,
+                    "start": 233,
+                    "word": "kutumia"
+                  },
+                  {
+                    "end": 363,
+                    "start": 307,
+                    "word": "chupa"
+                  }
+                ],
+                "until": 363,
+                "utterances": "Mlinzi alimlisha Ndiwa kutumia chupa"
+              }
+            ],
+            "sentence": "Mlinzi alimlisha Ndiwa kutumia chupa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Yatima wa tatu mwezi huo alikuwa Malea.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 22,
+                    "word": "Yatima"
+                  },
+                  {
+                    "end": 101,
+                    "start": 86,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 158,
+                    "start": 102,
+                    "word": "tatu"
+                  },
+                  {
+                    "end": 243,
+                    "start": 208,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 258,
+                    "start": 244,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 358,
+                    "start": 299,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 414,
+                    "start": 359,
+                    "word": "Malea"
+                  }
+                ],
+                "until": 414,
+                "utterances": "Yatima wa tatu mwezi huo alikuwa Malea"
+              }
+            ],
+            "sentence": "Yatima wa tatu mwezi huo alikuwa Malea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alifikishwa katika chekechea kwa kubebwa kwenye trekta nyekundu.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 121,
+                    "start": 22,
+                    "word": "Alifikishwa"
+                  },
+                  {
+                    "end": 191,
+                    "start": 122,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 288,
+                    "start": 192,
+                    "word": "chekechea"
+                  },
+                  {
+                    "end": 338,
+                    "start": 328,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 413,
+                    "start": 339,
+                    "word": "kubebwa"
+                  },
+                  {
+                    "end": 464,
+                    "start": 414,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 525,
+                    "start": 465,
+                    "word": "trekta"
+                  },
+                  {
+                    "end": 606,
+                    "start": 526,
+                    "word": "nyekundu"
+                  }
+                ],
+                "until": 606,
+                "utterances": "Alifikishwa katika chekechea kwa kubebwa kwenye trekta nyekundu"
+              }
+            ],
+            "sentence": "Alifikishwa katika chekechea kwa kubebwa kwenye trekta nyekundu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa na umri wa miezi sita.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 21,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 110,
+                    "start": 88,
+                    "word": "na"
+                  },
+                  {
+                    "end": 169,
+                    "start": 111,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 185,
+                    "start": 170,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 246,
+                    "start": 186,
+                    "word": "miezi"
+                  },
+                  {
+                    "end": 304,
+                    "start": 247,
+                    "word": "sita"
+                  }
+                ],
+                "until": 304,
+                "utterances": "Alikuwa na umri wa miezi sita"
+              }
+            ],
+            "sentence": "Alikuwa na umri wa miezi sita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Malea alikuwa kifaru.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 20,
+                    "word": "Malea"
+                  },
+                  {
+                    "end": 155,
+                    "start": 88,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 229,
+                    "start": 156,
+                    "word": "kifaru"
+                  }
+                ],
+                "until": 229,
+                "utterances": "Malea alikuwa kifaru"
+              }
+            ],
+            "sentence": "Malea alikuwa kifaru."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa rafiki wa karibu wa Enkare ambaye alikuwa nyati mtoto.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 20,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 153,
+                    "start": 93,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 170,
+                    "start": 154,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 239,
+                    "start": 171,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 267,
+                    "start": 240,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 341,
+                    "start": 268,
+                    "word": "Enkare"
+                  },
+                  {
+                    "end": 469,
+                    "start": 392,
+                    "word": "ambaye"
+                  },
+                  {
+                    "end": 528,
+                    "start": 470,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 587,
+                    "start": 529,
+                    "word": "nyati"
+                  },
+                  {
+                    "end": 661,
+                    "start": 588,
+                    "word": "mtoto"
+                  }
+                ],
+                "until": 661,
+                "utterances": "Alikuwa rafiki wa karibu wa Enkare ambaye alikuwa nyati mtoto"
+              }
+            ],
+            "sentence": "Alikuwa rafiki wa karibu wa Enkare ambaye alikuwa nyati mtoto."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walienda pamoja kila mahali.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 20,
+                    "word": "Walienda"
+                  },
+                  {
+                    "end": 178,
+                    "start": 98,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 255,
+                    "start": 210,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 328,
+                    "start": 256,
+                    "word": "mahali"
+                  }
+                ],
+                "until": 328,
+                "utterances": "Walienda pamoja kila mahali"
+              }
+            ],
+            "sentence": "Walienda pamoja kila mahali."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Usiku mmoja kila mmoja aliamshwa na kufika kwa Ambia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 21,
+                    "word": "Usiku"
+                  },
+                  {
+                    "end": 147,
+                    "start": 72,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 271,
+                    "start": 194,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 316,
+                    "start": 272,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 416,
+                    "start": 317,
+                    "word": "aliamshwa"
+                  },
+                  {
+                    "end": 468,
+                    "start": 455,
+                    "word": "na"
+                  },
+                  {
+                    "end": 531,
+                    "start": 469,
+                    "word": "kufika"
+                  },
+                  {
+                    "end": 567,
+                    "start": 532,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 629,
+                    "start": 573,
+                    "word": "Ambia"
+                  }
+                ],
+                "until": 629,
+                "utterances": "Usiku mmoja kila mmoja aliamshwa na kufika kwa Ambia"
+              }
+            ],
+            "sentence": "Usiku mmoja, kila mmoja aliamshwa na kufika kwa Ambia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ambia alikuwa na umri wa miezi mitano.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 21,
+                    "word": "Ambia"
+                  },
+                  {
+                    "end": 159,
+                    "start": 87,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 182,
+                    "start": 160,
+                    "word": "na"
+                  },
+                  {
+                    "end": 235,
+                    "start": 183,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 254,
+                    "start": 236,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 315,
+                    "start": 255,
+                    "word": "miezi"
+                  },
+                  {
+                    "end": 384,
+                    "start": 316,
+                    "word": "mitano"
+                  }
+                ],
+                "until": 384,
+                "utterances": "Ambia alikuwa na umri wa miezi mitano"
+              }
+            ],
+            "sentence": "Ambia alikuwa na umri wa miezi mitano."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alihisi njaa na uchovu baada ya safari ndefu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 21,
+                    "word": "Alihisi"
+                  },
+                  {
+                    "end": 167,
+                    "start": 102,
+                    "word": "njaa"
+                  },
+                  {
+                    "end": 199,
+                    "start": 168,
+                    "word": "na"
+                  },
+                  {
+                    "end": 298,
+                    "start": 200,
+                    "word": "uchovu"
+                  },
+                  {
+                    "end": 379,
+                    "start": 299,
+                    "word": "baada"
+                  },
+                  {
+                    "end": 402,
+                    "start": 380,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 454,
+                    "start": 403,
+                    "word": "safari"
+                  },
+                  {
+                    "end": 553,
+                    "start": 455,
+                    "word": "ndefu"
+                  }
+                ],
+                "until": 553,
+                "utterances": "Alihisi njaa na uchovu baada ya safari ndefu"
+              }
+            ],
+            "sentence": "Alihisi njaa na uchovu baada ya safari ndefu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa sababu ya shingo lake refu Mlinzi aliishikia chupa juu ili kumlisha.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 89,
+                    "start": 30,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 106,
+                    "start": 90,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 161,
+                    "start": 107,
+                    "word": "shingo"
+                  },
+                  {
+                    "end": 205,
+                    "start": 162,
+                    "word": "lake"
+                  },
+                  {
+                    "end": 246,
+                    "start": 206,
+                    "word": "refu"
+                  },
+                  {
+                    "end": 356,
+                    "start": 291,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 476,
+                    "start": 372,
+                    "word": "aliishikia"
+                  },
+                  {
+                    "end": 534,
+                    "start": 477,
+                    "word": "chupa"
+                  },
+                  {
+                    "end": 580,
+                    "start": 535,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 654,
+                    "start": 612,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 732,
+                    "start": 655,
+                    "word": "kumlisha"
+                  }
+                ],
+                "until": 732,
+                "utterances": "Kwa sababu ya shingo lake refu Mlinzi aliishikia chupa juu ili kumlisha"
+              }
+            ],
+            "sentence": "Kwa sababu ya shingo lake refu, Mlinzi aliishikia chupa juu ili kumlisha."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mapacha Abei na Moit walifika katikati ya mwezi Agosti.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 20,
+                    "word": "Mapacha"
+                  },
+                  {
+                    "end": 160,
+                    "start": 126,
+                    "word": "Abei"
+                  },
+                  {
+                    "end": 182,
+                    "start": 161,
+                    "word": "na"
+                  },
+                  {
+                    "end": 251,
+                    "start": 183,
+                    "word": "Moit"
+                  },
+                  {
+                    "end": 361,
+                    "start": 286,
+                    "word": "walifika"
+                  },
+                  {
+                    "end": 475,
+                    "start": 362,
+                    "word": "katikati"
+                  },
+                  {
+                    "end": 481,
+                    "start": 476,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 539,
+                    "start": 482,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 618,
+                    "start": 543,
+                    "word": "Agosti"
+                  }
+                ],
+                "until": 618,
+                "utterances": "Mapacha Abei na Moit walifika katikati ya mwezi Agosti"
+              }
+            ],
+            "sentence": "Mapacha Abei na Moit walifika katikati ya mwezi Agosti."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walikuwa wamezaliwa saa chache tu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 20,
+                    "word": "Walikuwa"
+                  },
+                  {
+                    "end": 196,
+                    "start": 97,
+                    "word": "wamezaliwa"
+                  },
+                  {
+                    "end": 246,
+                    "start": 197,
+                    "word": "saa"
+                  },
+                  {
+                    "end": 272,
+                    "start": 247,
+                    "word": "chache"
+                  },
+                  {
+                    "end": 300,
+                    "start": 273,
+                    "word": "tu"
+                  }
+                ],
+                "until": 300,
+                "utterances": "Walikuwa wamezaliwa saa chache tu"
+              }
+            ],
+            "sentence": "Walikuwa wamezaliwa saa chache tu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walikuwa wagonjwa sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 21,
+                    "word": "Walikuwa"
+                  },
+                  {
+                    "end": 206,
+                    "start": 91,
+                    "word": "wagonjwa"
+                  },
+                  {
+                    "end": 262,
+                    "start": 207,
+                    "word": "sana"
+                  }
+                ],
+                "until": 262,
+                "utterances": "Walikuwa wagonjwa sana"
+              }
+            ],
+            "sentence": "Walikuwa wagonjwa sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kila mmoja alihuzunika wakati Abei aliaga dunia wiki moja baada ya kufika pale chekechea.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 130,
+                    "start": 65,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 295,
+                    "start": 131,
+                    "word": "alihuzunika"
+                  },
+                  {
+                    "end": 405,
+                    "start": 347,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 484,
+                    "start": 406,
+                    "word": "Abei"
+                  },
+                  {
+                    "end": 580,
+                    "start": 513,
+                    "word": "aliaga"
+                  },
+                  {
+                    "end": 649,
+                    "start": 581,
+                    "word": "dunia"
+                  },
+                  {
+                    "end": 725,
+                    "start": 690,
+                    "word": "wiki"
+                  },
+                  {
+                    "end": 785,
+                    "start": 726,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 854,
+                    "start": 810,
+                    "word": "baada"
+                  },
+                  {
+                    "end": 878,
+                    "start": 855,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 941,
+                    "start": 879,
+                    "word": "kufika"
+                  },
+                  {
+                    "end": 988,
+                    "start": 942,
+                    "word": "pale"
+                  },
+                  {
+                    "end": 1087,
+                    "start": 989,
+                    "word": "chekechea"
+                  }
+                ],
+                "until": 1087,
+                "utterances": "Kila mmoja alihuzunika wakati Abei aliaga dunia wiki moja baada ya kufika pale chekechea"
+              }
+            ],
+            "sentence": "Kila mmoja alihuzunika wakati Abei aliaga dunia wiki moja baada ya kufika pale chekechea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lakini Mlinzi na wasaidizi wake walimwokoa Moit.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 148,
+                    "start": 81,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 168,
+                    "start": 149,
+                    "word": "na"
+                  },
+                  {
+                    "end": 257,
+                    "start": 169,
+                    "word": "wasaidizi"
+                  },
+                  {
+                    "end": 318,
+                    "start": 258,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 469,
+                    "start": 353,
+                    "word": "walimwokoa"
+                  },
+                  {
+                    "end": 533,
+                    "start": 470,
+                    "word": "Moit"
+                  }
+                ],
+                "until": 533,
+                "utterances": "Lakini Mlinzi na wasaidizi wake walimwokoa Moit"
+              }
+            ],
+            "sentence": "Lakini Mlinzi na wasaidizi wake walimwokoa Moit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mayatima wa mwisho kufika mwezi huo wa Agosti walikuwa Kopi Kepi na Keji.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 20,
+                    "word": "Mayatima"
+                  },
+                  {
+                    "end": 131,
+                    "start": 109,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 182,
+                    "start": 132,
+                    "word": "mwisho"
+                  },
+                  {
+                    "end": 253,
+                    "start": 183,
+                    "word": "kufika"
+                  },
+                  {
+                    "end": 298,
+                    "start": 254,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 313,
+                    "start": 299,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 365,
+                    "start": 314,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 457,
+                    "start": 366,
+                    "word": "Agosti"
+                  },
+                  {
+                    "end": 549,
+                    "start": 485,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 632,
+                    "start": 550,
+                    "word": "Kopi"
+                  },
+                  {
+                    "end": 737,
+                    "start": 692,
+                    "word": "Kepi"
+                  },
+                  {
+                    "end": 800,
+                    "start": 786,
+                    "word": "na"
+                  },
+                  {
+                    "end": 874,
+                    "start": 801,
+                    "word": "Keji"
+                  }
+                ],
+                "until": 874,
+                "utterances": "Mayatima wa mwisho kufika mwezi huo wa Agosti walikuwa Kopi Kepi na Keji"
+              }
+            ],
+            "sentence": "Mayatima wa mwisho kufika mwezi huo wa Agosti walikuwa Kopi, Kepi na Keji."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hawa wanasimba walikuwa na umri wa wiki mbili.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 18,
+                    "word": "Hawa"
+                  },
+                  {
+                    "end": 187,
+                    "start": 94,
+                    "word": "wanasimba"
+                  },
+                  {
+                    "end": 276,
+                    "start": 218,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 299,
+                    "start": 277,
+                    "word": "na"
+                  },
+                  {
+                    "end": 351,
+                    "start": 300,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 371,
+                    "start": 352,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 411,
+                    "start": 372,
+                    "word": "wiki"
+                  },
+                  {
+                    "end": 455,
+                    "start": 412,
+                    "word": "mbili"
+                  }
+                ],
+                "until": 455,
+                "utterances": "Hawa wanasimba walikuwa na umri wa wiki mbili"
+              }
+            ],
+            "sentence": "Hawa wanasimba walikuwa na umri wa wiki mbili."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walihisi kiu sana walikpofika.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 19,
+                    "word": "Walihisi"
+                  },
+                  {
+                    "end": 140,
+                    "start": 100,
+                    "word": "kiu"
+                  },
+                  {
+                    "end": 199,
+                    "start": 141,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 308,
+                    "start": 200,
+                    "word": "walikpofika"
+                  }
+                ],
+                "until": 308,
+                "utterances": "Walihisi kiu sana walikpofika"
+              }
+            ],
+            "sentence": "Walihisi kiu sana walikpofika."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_18_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mlinzi na wasaidizi wake waliwapenda wanyama wote hata wale watukutu.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 18,
+                    "word": "Mlinzi"
+                  },
+                  {
+                    "end": 128,
+                    "start": 102,
+                    "word": "na"
+                  },
+                  {
+                    "end": 208,
+                    "start": 129,
+                    "word": "wasaidizi"
+                  },
+                  {
+                    "end": 264,
+                    "start": 209,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 394,
+                    "start": 303,
+                    "word": "waliwapenda"
+                  },
+                  {
+                    "end": 454,
+                    "start": 395,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 502,
+                    "start": 455,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 580,
+                    "start": 541,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 617,
+                    "start": 581,
+                    "word": "wale"
+                  },
+                  {
+                    "end": 705,
+                    "start": 618,
+                    "word": "watukutu"
+                  }
+                ],
+                "until": 705,
+                "utterances": "Mlinzi na wasaidizi wake waliwapenda wanyama wote hata wale watukutu"
+              }
+            ],
+            "sentence": "Mlinzi na wasaidizi wake waliwapenda wanyama wote hata wale watukutu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_19_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mtukutu zaidi alikuwa Lobolia.mp3",
+                "from": 9,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 9,
+                    "word": "Mtukutu"
+                  },
+                  {
+                    "end": 137,
+                    "start": 82,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 197,
+                    "start": 138,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 250,
+                    "start": 198,
+                    "word": "Lobolia"
+                  }
+                ],
+                "until": 250,
+                "utterances": "Mtukutu zaidi alikuwa Lobolia"
+              }
+            ],
+            "sentence": "Mtukutu zaidi alikuwa Lobolia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Lobolia alizoea kuficha miwani ya Mlinzi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 2,
+                    "word": "Lobolia"
+                  },
+                  {
+                    "end": 186,
+                    "start": 98,
+                    "word": "alizoea"
+                  },
+                  {
+                    "end": 260,
+                    "start": 187,
+                    "word": "kuficha"
+                  },
+                  {
+                    "end": 339,
+                    "start": 261,
+                    "word": "miwani"
+                  },
+                  {
+                    "end": 345,
+                    "start": 340,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 411,
+                    "start": 346,
+                    "word": "Mlinzi"
+                  }
+                ],
+                "until": 411,
+                "utterances": "Lobolia alizoea kuficha miwani ya Mlinzi"
+              }
+            ],
+            "sentence": "Lobolia alizoea kuficha miwani ya Mlinzi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_20_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watu wote hapo chekechea wanafanya bidii kuwatunza wanyama hawa watoto.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 17,
+                    "word": "Watu"
+                  },
+                  {
+                    "end": 129,
+                    "start": 71,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 194,
+                    "start": 130,
+                    "word": "hapo"
+                  },
+                  {
+                    "end": 278,
+                    "start": 195,
+                    "word": "chekechea"
+                  },
+                  {
+                    "end": 385,
+                    "start": 312,
+                    "word": "wanafanya"
+                  },
+                  {
+                    "end": 459,
+                    "start": 386,
+                    "word": "bidii"
+                  },
+                  {
+                    "end": 568,
+                    "start": 490,
+                    "word": "kuwatunza"
+                  },
+                  {
+                    "end": 635,
+                    "start": 569,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 690,
+                    "start": 636,
+                    "word": "hawa"
+                  },
+                  {
+                    "end": 760,
+                    "start": 691,
+                    "word": "watoto"
+                  }
+                ],
+                "until": 760,
+                "utterances": "Watu wote hapo chekechea wanafanya bidii kuwatunza wanyama hawa watoto"
+              }
+            ],
+            "sentence": "Watu wote hapo chekechea wanafanya bidii kuwatunza wanyama hawa watoto."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wanatumai kwamba siku moja mayatima hao wataweza kujitegemea wenyewe siku moja.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 125,
+                    "start": 20,
+                    "word": "Wanatumai"
+                  },
+                  {
+                    "end": 155,
+                    "start": 126,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 198,
+                    "start": 156,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 254,
+                    "start": 199,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 369,
+                    "start": 295,
+                    "word": "mayatima"
+                  },
+                  {
+                    "end": 419,
+                    "start": 370,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 531,
+                    "start": 454,
+                    "word": "wataweza"
+                  },
+                  {
+                    "end": 659,
+                    "start": 532,
+                    "word": "kujitegemea"
+                  },
+                  {
+                    "end": 757,
+                    "start": 697,
+                    "word": "wenyewe"
+                  },
+                  {
+                    "end": 800,
+                    "start": 758,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 844,
+                    "start": 801,
+                    "word": "moja"
+                  }
+                ],
+                "until": 844,
+                "utterances": "Wanatumai kwamba siku moja mayatima hao wataweza kujitegemea wenyewe siku moja"
+              }
+            ],
+            "sentence": "Wanatumai kwamba siku moja mayatima hao wataweza kujitegemea wenyewe siku moja."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Halafu wataweza kurudi porini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 2,
+                    "word": "Halafu"
+                  },
+                  {
+                    "end": 207,
+                    "start": 136,
+                    "word": "wataweza"
+                  },
+                  {
+                    "end": 266,
+                    "start": 208,
+                    "word": "kurudi"
+                  },
+                  {
+                    "end": 348,
+                    "start": 267,
+                    "word": "porini"
+                  }
+                ],
+                "until": 348,
+                "utterances": "Halafu wataweza kurudi porini"
+              }
+            ],
+            "sentence": "Halafu wataweza kurudi porini."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wana umri gani na ni wangapi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 20,
+                    "word": "Wana"
+                  },
+                  {
+                    "end": 110,
+                    "start": 55,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 181,
+                    "start": 111,
+                    "word": "gani"
+                  },
+                  {
+                    "end": 214,
+                    "start": 204,
+                    "word": "na"
+                  },
+                  {
+                    "end": 237,
+                    "start": 215,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 337,
+                    "start": 238,
+                    "word": "wangapi"
+                  }
+                ],
+                "until": 337,
+                "utterances": "Wana umri gani na ni wangapi"
+              }
+            ],
+            "sentence": "Wana umri gani na ni wangapi?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Soma tena hadithi kisha ujibu maswali haya.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 21,
+                    "word": "Soma"
+                  },
+                  {
+                    "end": 131,
+                    "start": 74,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 223,
+                    "start": 132,
+                    "word": "hadithi"
+                  },
+                  {
+                    "end": 303,
+                    "start": 257,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 361,
+                    "start": 307,
+                    "word": "ujibu"
+                  },
+                  {
+                    "end": 428,
+                    "start": 362,
+                    "word": "maswali"
+                  },
+                  {
+                    "end": 457,
+                    "start": 429,
+                    "word": "haya"
+                  }
+                ],
+                "until": 457,
+                "utterances": "Soma tena hadithi kisha ujibu maswali haya"
+              }
+            ],
+            "sentence": "Soma tena hadithi kisha ujibu maswali haya."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_11_page_22_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ni wanyama wangapi walifika katika chekechea mwezi Agosti.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 17,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 116,
+                    "start": 39,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 194,
+                    "start": 117,
+                    "word": "wangapi"
+                  },
+                  {
+                    "end": 283,
+                    "start": 195,
+                    "word": "walifika"
+                  },
+                  {
+                    "end": 345,
+                    "start": 284,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 429,
+                    "start": 346,
+                    "word": "chekechea"
+                  },
+                  {
+                    "end": 484,
+                    "start": 430,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 577,
+                    "start": 485,
+                    "word": "Agosti"
+                  }
+                ],
+                "until": 577,
+                "utterances": "Ni wanyama wangapi walifika katika chekechea mwezi Agosti"
+              }
+            ],
+            "sentence": "Ni wanyama wangapi walifika katika chekechea mwezi Agosti?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nani alifika kwanza.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 14,
+                    "word": "Nani"
+                  },
+                  {
+                    "end": 142,
+                    "start": 72,
+                    "word": "alifika"
+                  },
+                  {
+                    "end": 221,
+                    "start": 143,
+                    "word": "kwanza"
+                  }
+                ],
+                "until": 221,
+                "utterances": "Nani alifika kwanza"
+              }
+            ],
+            "sentence": "Nani alifika kwanza?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Mnyama huyu alikuwa na umri gani.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 16,
+                    "word": "Mnyama"
+                  },
+                  {
+                    "end": 127,
+                    "start": 84,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 231,
+                    "start": 172,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 251,
+                    "start": 232,
+                    "word": "na"
+                  },
+                  {
+                    "end": 300,
+                    "start": 252,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 371,
+                    "start": 301,
+                    "word": "gani"
+                  }
+                ],
+                "until": 371,
+                "utterances": "Mnyama huyu alikuwa na umri gani"
+              }
+            ],
+            "sentence": "Mnyama huyu alikuwa na umri gani?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nani alifika mwisho.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 18,
+                    "word": "Nani"
+                  },
+                  {
+                    "end": 144,
+                    "start": 74,
+                    "word": "alifika"
+                  },
+                  {
+                    "end": 215,
+                    "start": 145,
+                    "word": "mwisho"
+                  }
+                ],
+                "until": 215,
+                "utterances": "Nani alifika mwisho"
+              }
+            ],
+            "sentence": "Nani alifika mwisho?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wanyama hao walikuwa na umri gani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 21,
+                    "word": "Wanyama"
+                  },
+                  {
+                    "end": 134,
+                    "start": 80,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 225,
+                    "start": 163,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 253,
+                    "start": 226,
+                    "word": "na"
+                  },
+                  {
+                    "end": 294,
+                    "start": 254,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 368,
+                    "start": 295,
+                    "word": "gani"
+                  }
+                ],
+                "until": 368,
+                "utterances": "Wanyama hao walikuwa na umri gani"
+              }
+            ],
+            "sentence": "Wanyama hao walikuwa na umri gani?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ni wanyama gani waliofika mwezi Agosti waliokuwa na umri wa chini zaidi.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 16,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 108,
+                    "start": 39,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 181,
+                    "start": 109,
+                    "word": "gani"
+                  },
+                  {
+                    "end": 295,
+                    "start": 209,
+                    "word": "waliofika"
+                  },
+                  {
+                    "end": 352,
+                    "start": 296,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 436,
+                    "start": 356,
+                    "word": "Agosti"
+                  },
+                  {
+                    "end": 549,
+                    "start": 470,
+                    "word": "waliokuwa"
+                  },
+                  {
+                    "end": 570,
+                    "start": 550,
+                    "word": "na"
+                  },
+                  {
+                    "end": 621,
+                    "start": 571,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 637,
+                    "start": 622,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 681,
+                    "start": 638,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 771,
+                    "start": 682,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 771,
+                "utterances": "Ni wanyama gani waliofika mwezi Agosti waliokuwa na umri wa chini zaidi"
+              }
+            ],
+            "sentence": "Ni wanyama gani waliofika mwezi Agosti waliokuwa na umri wa chini zaidi?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Walikuwa na umri gani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 20,
+                    "word": "Walikuwa"
+                  },
+                  {
+                    "end": 107,
+                    "start": 88,
+                    "word": "na"
+                  },
+                  {
+                    "end": 152,
+                    "start": 108,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 225,
+                    "start": 153,
+                    "word": "gani"
+                  }
+                ],
+                "until": 225,
+                "utterances": "Walikuwa na umri gani"
+              }
+            ],
+            "sentence": "Walikuwa na umri gani?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": null,
+            "sentence": "."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ni mnyama yupi aliyefika mwezi Agosti aliyekuwa mzee kwa wote.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 16,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 89,
+                    "start": 36,
+                    "word": "mnyama"
+                  },
+                  {
+                    "end": 163,
+                    "start": 90,
+                    "word": "yupi"
+                  },
+                  {
+                    "end": 265,
+                    "start": 186,
+                    "word": "aliyefika"
+                  },
+                  {
+                    "end": 316,
+                    "start": 266,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 394,
+                    "start": 317,
+                    "word": "Agosti"
+                  },
+                  {
+                    "end": 496,
+                    "start": 426,
+                    "word": "aliyekuwa"
+                  },
+                  {
+                    "end": 541,
+                    "start": 497,
+                    "word": "mzee"
+                  },
+                  {
+                    "end": 567,
+                    "start": 542,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 642,
+                    "start": 568,
+                    "word": "wote"
+                  }
+                ],
+                "until": 642,
+                "utterances": "Ni mnyama yupi aliyefika mwezi Agosti aliyekuwa mzee kwa wote"
+              }
+            ],
+            "sentence": "Ni mnyama yupi aliyefika mwezi Agosti aliyekuwa mzee kwa wote?"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Magriet Brink",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "status": "Translated by: Ursula Nafula",
+  "title": "Mlinzi na chekechea yake ya kipekee",
+  "titleimage": "level3_11_page_01_image_0001.jpg"
+}

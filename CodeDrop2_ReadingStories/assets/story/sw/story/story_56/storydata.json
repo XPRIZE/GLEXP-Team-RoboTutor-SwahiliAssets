@@ -1,0 +1,1640 @@
+{
+  "authors": "Agnes Gichaba",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level3_27_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hapo zamani za kale Ndovu na Sungura walikuwa marafiki wakubwa sana.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 20,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 112,
+                    "start": 61,
+                    "word": "zamani"
+                  },
+                  {
+                    "end": 132,
+                    "start": 113,
+                    "word": "za"
+                  },
+                  {
+                    "end": 170,
+                    "start": 133,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 271,
+                    "start": 171,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 286,
+                    "start": 272,
+                    "word": "na"
+                  },
+                  {
+                    "end": 350,
+                    "start": 287,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 417,
+                    "start": 351,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 486,
+                    "start": 418,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 566,
+                    "start": 487,
+                    "word": "wakubwa"
+                  },
+                  {
+                    "end": 613,
+                    "start": 567,
+                    "word": "sana"
+                  }
+                ],
+                "until": 613,
+                "utterances": "Hapo zamani za kale Ndovu na Sungura walikuwa marafiki wakubwa sana"
+              }
+            ],
+            "sentence": "Hapo zamani za kale, Ndovu na Sungura walikuwa marafiki wakubwa sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walikuwa na ngamia ng_ombe na kondoo wengi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 20,
+                    "word": "Walikuwa"
+                  },
+                  {
+                    "end": 105,
+                    "start": 84,
+                    "word": "na"
+                  },
+                  {
+                    "end": 199,
+                    "start": 106,
+                    "word": "ngamia"
+                  },
+                  {
+                    "end": 308,
+                    "start": 236,
+                    "word": "ng'ombe"
+                  },
+                  {
+                    "end": 345,
+                    "start": 333,
+                    "word": "na"
+                  },
+                  {
+                    "end": 386,
+                    "start": 346,
+                    "word": "kondoo"
+                  },
+                  {
+                    "end": 454,
+                    "start": 387,
+                    "word": "wengi"
+                  }
+                ],
+                "until": 454,
+                "utterances": "Walikuwa na ngamia ng'ombe na kondoo wengi"
+              }
+            ],
+            "sentence": "Walikuwa na ngamia, ng'ombe na kondoo wengi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walilisha wanyama hao katika bonde la Kingilo.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 19,
+                    "word": "Walilisha"
+                  },
+                  {
+                    "end": 164,
+                    "start": 107,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 230,
+                    "start": 165,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 310,
+                    "start": 231,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 354,
+                    "start": 311,
+                    "word": "bonde"
+                  },
+                  {
+                    "end": 372,
+                    "start": 355,
+                    "word": "la"
+                  },
+                  {
+                    "end": 441,
+                    "start": 373,
+                    "word": "Kingilo"
+                  }
+                ],
+                "until": 441,
+                "utterances": "Walilisha wanyama hao katika bonde la Kingilo"
+              }
+            ],
+            "sentence": "Walilisha wanyama hao katika bonde la Kingilo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wakati mwingine waliwapeleka wanyama milimani ambako kulikuwa na nyasi na maji kwa wingi.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 14,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 144,
+                    "start": 71,
+                    "word": "mwingine"
+                  },
+                  {
+                    "end": 284,
+                    "start": 177,
+                    "word": "waliwapeleka"
+                  },
+                  {
+                    "end": 355,
+                    "start": 285,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 467,
+                    "start": 356,
+                    "word": "milimani"
+                  },
+                  {
+                    "end": 551,
+                    "start": 493,
+                    "word": "ambako"
+                  },
+                  {
+                    "end": 621,
+                    "start": 552,
+                    "word": "kulikuwa"
+                  },
+                  {
+                    "end": 640,
+                    "start": 622,
+                    "word": "na"
+                  },
+                  {
+                    "end": 720,
+                    "start": 641,
+                    "word": "nyasi"
+                  },
+                  {
+                    "end": 756,
+                    "start": 741,
+                    "word": "na"
+                  },
+                  {
+                    "end": 804,
+                    "start": 757,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 835,
+                    "start": 805,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 889,
+                    "start": 836,
+                    "word": "wingi"
+                  }
+                ],
+                "until": 889,
+                "utterances": "Wakati mwingine waliwapeleka wanyama milimani ambako kulikuwa na nyasi na maji kwa wingi"
+              }
+            ],
+            "sentence": "Wakati mwingine waliwapeleka wanyama milimani ambako kulikuwa na nyasi na maji kwa wingi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Wanyama walipokula Sungura na Ndovu walicheza.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 20,
+                    "word": "Wanyama"
+                  },
+                  {
+                    "end": 185,
+                    "start": 78,
+                    "word": "walipokula"
+                  },
+                  {
+                    "end": 271,
+                    "start": 211,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 290,
+                    "start": 272,
+                    "word": "na"
+                  },
+                  {
+                    "end": 334,
+                    "start": 291,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 431,
+                    "start": 335,
+                    "word": "walicheza"
+                  }
+                ],
+                "until": 431,
+                "utterances": "Wanyama walipokula Sungura na Ndovu walicheza"
+              }
+            ],
+            "sentence": "Wanyama walipokula, Sungura na Ndovu walicheza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Walifurahia sana kucheza mpira wa miguu.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 18,
+                    "word": "Walifurahia"
+                  },
+                  {
+                    "end": 212,
+                    "start": 132,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 302,
+                    "start": 213,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 373,
+                    "start": 303,
+                    "word": "mpira"
+                  },
+                  {
+                    "end": 395,
+                    "start": 374,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 443,
+                    "start": 396,
+                    "word": "miguu"
+                  }
+                ],
+                "until": 443,
+                "utterances": "Walifurahia sana kucheza mpira wa miguu"
+              }
+            ],
+            "sentence": "Walifurahia sana kucheza mpira wa miguu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kila walipocheza Ndovu aliingiza mabao mengi kuliko Sungura.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 174,
+                    "start": 56,
+                    "word": "walipocheza"
+                  },
+                  {
+                    "end": 251,
+                    "start": 205,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 357,
+                    "start": 252,
+                    "word": "aliingiza"
+                  },
+                  {
+                    "end": 422,
+                    "start": 358,
+                    "word": "mabao"
+                  },
+                  {
+                    "end": 484,
+                    "start": 423,
+                    "word": "mengi"
+                  },
+                  {
+                    "end": 535,
+                    "start": 485,
+                    "word": "kuliko"
+                  },
+                  {
+                    "end": 602,
+                    "start": 536,
+                    "word": "Sungura"
+                  }
+                ],
+                "until": 602,
+                "utterances": "Kila walipocheza Ndovu aliingiza mabao mengi kuliko Sungura"
+              }
+            ],
+            "sentence": "Kila walipocheza, Ndovu aliingiza mabao mengi kuliko Sungura."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hili lilimkasirisha Sungura mno.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 2,
+                    "word": "Hili"
+                  },
+                  {
+                    "end": 201,
+                    "start": 88,
+                    "word": "lilimkasirisha"
+                  },
+                  {
+                    "end": 264,
+                    "start": 202,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 336,
+                    "start": 265,
+                    "word": "mno"
+                  }
+                ],
+                "until": 336,
+                "utterances": "Hili lilimkasirisha Sungura mno"
+              }
+            ],
+            "sentence": "Hili lilimkasirisha Sungura mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku moja Sungura alimuuliza Ndovu Nini kinachokuwezesha kuwa mwingizaji goli maarufu.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 19,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 137,
+                    "start": 74,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 217,
+                    "start": 157,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 316,
+                    "start": 218,
+                    "word": "alimuuliza"
+                  },
+                  {
+                    "end": 364,
+                    "start": 317,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 476,
+                    "start": 420,
+                    "word": "Nini"
+                  },
+                  {
+                    "end": 634,
+                    "start": 477,
+                    "word": "kinachokuwezesha"
+                  },
+                  {
+                    "end": 701,
+                    "start": 668,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 790,
+                    "start": 702,
+                    "word": "mwingizaji"
+                  },
+                  {
+                    "end": 833,
+                    "start": 791,
+                    "word": "goli"
+                  },
+                  {
+                    "end": 931,
+                    "start": 834,
+                    "word": "maarufu"
+                  }
+                ],
+                "until": 931,
+                "utterances": "Siku moja Sungura alimuuliza Ndovu Nini kinachokuwezesha kuwa mwingizaji goli maarufu"
+              }
+            ],
+            "sentence": "Siku moja Sungura alimuuliza Ndovu, \"Nini kinachokuwezesha kuwa mwingizaji goli maarufu?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndovu alijibu kwa haraka Miguu yangu minene.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 19,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 128,
+                    "start": 73,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 161,
+                    "start": 129,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 219,
+                    "start": 162,
+                    "word": "haraka"
+                  },
+                  {
+                    "end": 310,
+                    "start": 263,
+                    "word": "Miguu"
+                  },
+                  {
+                    "end": 357,
+                    "start": 311,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 418,
+                    "start": 358,
+                    "word": "minene"
+                  }
+                ],
+                "until": 418,
+                "utterances": "Ndovu alijibu kwa haraka Miguu yangu minene"
+              }
+            ],
+            "sentence": "Ndovu alijibu kwa haraka, \"Miguu yangu minene.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Siku iliyofuata Sungura alipendekeza wawe na mashindano ya mbio.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 182,
+                    "start": 74,
+                    "word": "iliyofuata"
+                  },
+                  {
+                    "end": 286,
+                    "start": 219,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 421,
+                    "start": 287,
+                    "word": "alipendekeza"
+                  },
+                  {
+                    "end": 484,
+                    "start": 450,
+                    "word": "wawe"
+                  },
+                  {
+                    "end": 504,
+                    "start": 485,
+                    "word": "na"
+                  },
+                  {
+                    "end": 587,
+                    "start": 505,
+                    "word": "mashindano"
+                  },
+                  {
+                    "end": 607,
+                    "start": 588,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 655,
+                    "start": 608,
+                    "word": "mbio"
+                  }
+                ],
+                "until": 655,
+                "utterances": "Siku iliyofuata Sungura alipendekeza wawe na mashindano ya mbio"
+              }
+            ],
+            "sentence": "Siku iliyofuata, Sungura alipendekeza wawe na mashindano ya mbio."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndovu alikubali na wakaanza mbio.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 16,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 190,
+                    "start": 81,
+                    "word": "alikubali"
+                  },
+                  {
+                    "end": 229,
+                    "start": 219,
+                    "word": "na"
+                  },
+                  {
+                    "end": 311,
+                    "start": 230,
+                    "word": "wakaanza"
+                  },
+                  {
+                    "end": 357,
+                    "start": 312,
+                    "word": "mbio"
+                  }
+                ],
+                "until": 357,
+                "utterances": "Ndovu alikubali na wakaanza mbio"
+              }
+            ],
+            "sentence": "Ndovu alikubali na wakaanza mbio."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sungura alishinda mbio zote.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 22,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 175,
+                    "start": 85,
+                    "word": "alishinda"
+                  },
+                  {
+                    "end": 216,
+                    "start": 176,
+                    "word": "mbio"
+                  },
+                  {
+                    "end": 284,
+                    "start": 217,
+                    "word": "zote"
+                  }
+                ],
+                "until": 284,
+                "utterances": "Sungura alishinda mbio zote"
+              }
+            ],
+            "sentence": "Sungura alishinda mbio zote."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndovu alikasirika kwa sababu hakuwahi kushindwa.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 12,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 188,
+                    "start": 68,
+                    "word": "alikasirika"
+                  },
+                  {
+                    "end": 206,
+                    "start": 189,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 254,
+                    "start": 207,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 367,
+                    "start": 290,
+                    "word": "hakuwahi"
+                  },
+                  {
+                    "end": 434,
+                    "start": 368,
+                    "word": "kushindwa"
+                  }
+                ],
+                "until": 434,
+                "utterances": "Ndovu alikasirika kwa sababu hakuwahi kushindwa"
+              }
+            ],
+            "sentence": "Ndovu alikasirika kwa sababu hakuwahi kushindwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo alimuuliza Sungura Nini kinachokuwezesha kuwa mkimbiaji maarufu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 86,
+                    "start": 32,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 176,
+                    "start": 87,
+                    "word": "alimuuliza"
+                  },
+                  {
+                    "end": 242,
+                    "start": 177,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 337,
+                    "start": 287,
+                    "word": "Nini"
+                  },
+                  {
+                    "end": 465,
+                    "start": 338,
+                    "word": "kinachokuwezesha"
+                  },
+                  {
+                    "end": 500,
+                    "start": 466,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 588,
+                    "start": 501,
+                    "word": "mkimbiaji"
+                  },
+                  {
+                    "end": 690,
+                    "start": 589,
+                    "word": "maarufu"
+                  }
+                ],
+                "until": 690,
+                "utterances": "Kwa hivyo alimuuliza Sungura Nini kinachokuwezesha kuwa mkimbiaji maarufu"
+              }
+            ],
+            "sentence": "Kwa hivyo alimuuliza Sungura, \"Nini kinachokuwezesha kuwa mkimbiaji maarufu?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sungura alijibu Miguu yangu myembamba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 171,
+                    "start": 85,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 255,
+                    "start": 205,
+                    "word": "Miguu"
+                  },
+                  {
+                    "end": 324,
+                    "start": 256,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 405,
+                    "start": 325,
+                    "word": "myembamba"
+                  }
+                ],
+                "until": 405,
+                "utterances": "Sungura alijibu Miguu yangu myembamba"
+              }
+            ],
+            "sentence": "Sungura alijibu, \"Miguu yangu myembamba.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Bila kuwaza zaidi Ndovu aliuliza kile angelifanya ili miguu yake iwe myembamba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 21,
+                    "word": "Bila"
+                  },
+                  {
+                    "end": 109,
+                    "start": 49,
+                    "word": "kuwaza"
+                  },
+                  {
+                    "end": 186,
+                    "start": 110,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 261,
+                    "start": 220,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 364,
+                    "start": 276,
+                    "word": "aliuliza"
+                  },
+                  {
+                    "end": 429,
+                    "start": 365,
+                    "word": "kile"
+                  },
+                  {
+                    "end": 539,
+                    "start": 430,
+                    "word": "angelifanya"
+                  },
+                  {
+                    "end": 605,
+                    "start": 577,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 658,
+                    "start": 606,
+                    "word": "miguu"
+                  },
+                  {
+                    "end": 693,
+                    "start": 659,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 741,
+                    "start": 709,
+                    "word": "iwe"
+                  },
+                  {
+                    "end": 838,
+                    "start": 742,
+                    "word": "myembamba"
+                  }
+                ],
+                "until": 838,
+                "utterances": "Bila kuwaza zaidi Ndovu aliuliza kile angelifanya ili miguu yake iwe myembamba"
+              }
+            ],
+            "sentence": "Bila kuwaza zaidi, Ndovu aliuliza kile angelifanya ili miguu yake iwe myembamba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sungura alisema Ni rahisi nitakuonyesha.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 167,
+                    "start": 84,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 234,
+                    "start": 217,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 299,
+                    "start": 235,
+                    "word": "rahisi"
+                  },
+                  {
+                    "end": 457,
+                    "start": 337,
+                    "word": "nitakuonyesha"
+                  }
+                ],
+                "until": 457,
+                "utterances": "Sungura alisema Ni rahisi nitakuonyesha"
+              }
+            ],
+            "sentence": "Sungura alisema, \"Ni rahisi, nitakuonyesha."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Tafuta kuni na ukoke moto.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 23,
+                    "word": "Tafuta"
+                  },
+                  {
+                    "end": 139,
+                    "start": 85,
+                    "word": "kuni"
+                  },
+                  {
+                    "end": 186,
+                    "start": 165,
+                    "word": "na"
+                  },
+                  {
+                    "end": 229,
+                    "start": 187,
+                    "word": "ukoke"
+                  },
+                  {
+                    "end": 284,
+                    "start": 230,
+                    "word": "moto"
+                  }
+                ],
+                "until": 284,
+                "utterances": "Tafuta kuni na ukoke moto"
+              }
+            ],
+            "sentence": "Tafuta kuni na ukoke moto.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndovu alikusanya kuni na kukoka moto mkubwa.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 14,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 180,
+                    "start": 57,
+                    "word": "alikusanya"
+                  },
+                  {
+                    "end": 247,
+                    "start": 181,
+                    "word": "kuni"
+                  },
+                  {
+                    "end": 294,
+                    "start": 276,
+                    "word": "na"
+                  },
+                  {
+                    "end": 365,
+                    "start": 295,
+                    "word": "kukoka"
+                  },
+                  {
+                    "end": 415,
+                    "start": 366,
+                    "word": "moto"
+                  },
+                  {
+                    "end": 524,
+                    "start": 416,
+                    "word": "mkubwa"
+                  }
+                ],
+                "until": 524,
+                "utterances": "Ndovu alikusanya kuni na kukoka moto mkubwa"
+              }
+            ],
+            "sentence": "Ndovu alikusanya kuni na kukoka moto mkubwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sungura alisema Sasa iweke miguu yako motoni.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 22,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 164,
+                    "start": 84,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 268,
+                    "start": 201,
+                    "word": "Sasa"
+                  },
+                  {
+                    "end": 349,
+                    "start": 294,
+                    "word": "iweke"
+                  },
+                  {
+                    "end": 403,
+                    "start": 350,
+                    "word": "miguu"
+                  },
+                  {
+                    "end": 451,
+                    "start": 404,
+                    "word": "yako"
+                  },
+                  {
+                    "end": 518,
+                    "start": 452,
+                    "word": "motoni"
+                  }
+                ],
+                "until": 518,
+                "utterances": "Sungura alisema Sasa iweke miguu yako motoni"
+              }
+            ],
+            "sentence": "Sungura alisema, \"Sasa iweke miguu yako motoni.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndovu alisimama ndani ya moto.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 12,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 159,
+                    "start": 72,
+                    "word": "alisimama"
+                  },
+                  {
+                    "end": 213,
+                    "start": 160,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 221,
+                    "start": 214,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 273,
+                    "start": 222,
+                    "word": "moto"
+                  }
+                ],
+                "until": 273,
+                "utterances": "Ndovu alisimama ndani ya moto"
+              }
+            ],
+            "sentence": "Ndovu alisimama ndani ya moto."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alipiga kelele Nateketea.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Alipiga"
+                  },
+                  {
+                    "end": 140,
+                    "start": 94,
+                    "word": "kelele"
+                  },
+                  {
+                    "end": 289,
+                    "start": 197,
+                    "word": "Nateketea"
+                  }
+                ],
+                "until": 289,
+                "utterances": "Alipiga kelele Nateketea"
+              }
+            ],
+            "sentence": "Alipiga kelele, \"Nateketea!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Nateketea.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 160,
+                    "start": 30,
+                    "word": "Nateketea"
+                  }
+                ],
+                "until": 160,
+                "utterances": "Nateketea"
+              }
+            ],
+            "sentence": "Nateketea!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sungura alifurahi.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 18,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 317,
+                    "start": 102,
+                    "word": "alifurahi"
+                  }
+                ],
+                "until": 317,
+                "utterances": "Sungura alifurahi"
+              }
+            ],
+            "sentence": "Sungura alifurahi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Alimhimiza Ndovu aendelea hivyo hivyo maanake hivyo tu ndivyo miguu yake ingelikuwa myembamba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 21,
+                    "word": "Alimhimiza"
+                  },
+                  {
+                    "end": 186,
+                    "start": 128,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 319,
+                    "start": 187,
+                    "word": "aendelea"
+                  },
+                  {
+                    "end": 408,
+                    "start": 346,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 481,
+                    "start": 429,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 588,
+                    "start": 513,
+                    "word": "maanake"
+                  },
+                  {
+                    "end": 640,
+                    "start": 589,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 657,
+                    "start": 641,
+                    "word": "tu"
+                  },
+                  {
+                    "end": 730,
+                    "start": 658,
+                    "word": "ndivyo"
+                  },
+                  {
+                    "end": 782,
+                    "start": 731,
+                    "word": "miguu"
+                  },
+                  {
+                    "end": 836,
+                    "start": 783,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 949,
+                    "start": 867,
+                    "word": "ingelikuwa"
+                  },
+                  {
+                    "end": 1024,
+                    "start": 950,
+                    "word": "myembamba"
+                  }
+                ],
+                "until": 1024,
+                "utterances": "Alimhimiza Ndovu aendelea hivyo hivyo maanake hivyo tu ndivyo miguu yake ingelikuwa myembamba"
+              }
+            ],
+            "sentence": "Alimhimiza Ndovu aendelea hivyo hivyo maanake hivyo tu ndivyo miguu yake ingelikuwa myembamba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Miguu ya Ndovu ilijeruhiwa vibaya kwa hivyo aliondoka motoni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 2,
+                    "word": "Miguu"
+                  },
+                  {
+                    "end": 61,
+                    "start": 38,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 97,
+                    "start": 62,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 270,
+                    "start": 98,
+                    "word": "ilijeruhiwa"
+                  },
+                  {
+                    "end": 392,
+                    "start": 271,
+                    "word": "vibaya"
+                  },
+                  {
+                    "end": 457,
+                    "start": 443,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 509,
+                    "start": 458,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 598,
+                    "start": 510,
+                    "word": "aliondoka"
+                  },
+                  {
+                    "end": 669,
+                    "start": 599,
+                    "word": "motoni"
+                  }
+                ],
+                "until": 669,
+                "utterances": "Miguu ya Ndovu ilijeruhiwa vibaya kwa hivyo aliondoka motoni"
+              }
+            ],
+            "sentence": "Miguu ya Ndovu ilijeruhiwa vibaya, kwa hivyo aliondoka motoni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hangeweza kusimama kwa hivyo alilala chini.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 19,
+                    "word": "Hangeweza"
+                  },
+                  {
+                    "end": 206,
+                    "start": 112,
+                    "word": "kusimama"
+                  },
+                  {
+                    "end": 258,
+                    "start": 245,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 300,
+                    "start": 259,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 372,
+                    "start": 301,
+                    "word": "alilala"
+                  },
+                  {
+                    "end": 423,
+                    "start": 373,
+                    "word": "chini"
+                  }
+                ],
+                "until": 423,
+                "utterances": "Hangeweza kusimama kwa hivyo alilala chini"
+              }
+            ],
+            "sentence": "Hangeweza kusimama kwa hivyo alilala chini."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ndovu aliketi kwa siku nyingi kabla kuweza kusimama kwa miguu yake.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 12,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 156,
+                    "start": 76,
+                    "word": "aliketi"
+                  },
+                  {
+                    "end": 181,
+                    "start": 157,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 226,
+                    "start": 182,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 307,
+                    "start": 227,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 372,
+                    "start": 335,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 430,
+                    "start": 373,
+                    "word": "kuweza"
+                  },
+                  {
+                    "end": 504,
+                    "start": 431,
+                    "word": "kusimama"
+                  },
+                  {
+                    "end": 527,
+                    "start": 505,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 591,
+                    "start": 528,
+                    "word": "miguu"
+                  },
+                  {
+                    "end": 627,
+                    "start": 592,
+                    "word": "yake"
+                  }
+                ],
+                "until": 627,
+                "utterances": "Ndovu aliketi kwa siku nyingi kabla kuweza kusimama kwa miguu yake"
+              }
+            ],
+            "sentence": "Ndovu aliketi kwa siku nyingi kabla kuweza kusimama kwa miguu yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hatimaye aliweza kuchechemea na kwenda nyumbani kwa familia yake.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 19,
+                    "word": "Hatimaye"
+                  },
+                  {
+                    "end": 229,
+                    "start": 156,
+                    "word": "aliweza"
+                  },
+                  {
+                    "end": 340,
+                    "start": 230,
+                    "word": "kuchechemea"
+                  },
+                  {
+                    "end": 384,
+                    "start": 371,
+                    "word": "na"
+                  },
+                  {
+                    "end": 427,
+                    "start": 385,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 489,
+                    "start": 428,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 512,
+                    "start": 490,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 599,
+                    "start": 513,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 625,
+                    "start": 600,
+                    "word": "yake"
+                  }
+                ],
+                "until": 625,
+                "utterances": "Hatimaye aliweza kuchechemea na kwenda nyumbani kwa familia yake"
+              }
+            ],
+            "sentence": "Hatimaye, aliweza kuchechemea na kwenda nyumbani kwa familia yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_27_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sungura na Ndovu si marafiki tena.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 21,
+                    "word": "Sungura"
+                  },
+                  {
+                    "end": 114,
+                    "start": 92,
+                    "word": "na"
+                  },
+                  {
+                    "end": 166,
+                    "start": 115,
+                    "word": "Ndovu"
+                  },
+                  {
+                    "end": 223,
+                    "start": 172,
+                    "word": "si"
+                  },
+                  {
+                    "end": 314,
+                    "start": 224,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 384,
+                    "start": 342,
+                    "word": "tena"
+                  }
+                ],
+                "until": 384,
+                "utterances": "Sungura na Ndovu si marafiki tena"
+              }
+            ],
+            "sentence": "Sungura na Ndovu si marafiki tena."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Sungura na Ndovu (Tena!)",
+  "titleimage": "level3_27_page_01_image_0001.jpg"
+}

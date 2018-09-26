@@ -1,0 +1,772 @@
+{
+  "authors": "Caren Echesa",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level2_23_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Upinde una rangi saba.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "Upinde"
+                  },
+                  {
+                    "end": 123,
+                    "start": 91,
+                    "word": "una"
+                  },
+                  {
+                    "end": 171,
+                    "start": 124,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 235,
+                    "start": 172,
+                    "word": "saba"
+                  }
+                ],
+                "until": 235,
+                "utterances": "Upinde una rangi saba"
+              }
+            ],
+            "sentence": "Upinde una rangi saba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi ya kwanza ni nyekundu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 20,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 85,
+                    "start": 77,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 170,
+                    "start": 86,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 211,
+                    "start": 196,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 293,
+                    "start": 212,
+                    "word": "nyekundu"
+                  }
+                ],
+                "until": 293,
+                "utterances": "Rangi ya kwanza ni nyekundu"
+              }
+            ],
+            "sentence": "Rangi ya kwanza ni nyekundu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kweyu amevalia shati la rangi nyekundu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 2,
+                    "word": "Kweyu"
+                  },
+                  {
+                    "end": 179,
+                    "start": 76,
+                    "word": "amevalia"
+                  },
+                  {
+                    "end": 248,
+                    "start": 180,
+                    "word": "shati"
+                  },
+                  {
+                    "end": 267,
+                    "start": 249,
+                    "word": "la"
+                  },
+                  {
+                    "end": 324,
+                    "start": 268,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 403,
+                    "start": 325,
+                    "word": "nyekundu"
+                  }
+                ],
+                "until": 403,
+                "utterances": "Kweyu amevalia shati la rangi nyekundu"
+              }
+            ],
+            "sentence": "Kweyu amevalia shati la rangi nyekundu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi ya pili ni ya chungwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 20,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 86,
+                    "start": 77,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 162,
+                    "start": 87,
+                    "word": "pili"
+                  },
+                  {
+                    "end": 213,
+                    "start": 189,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 232,
+                    "start": 214,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 299,
+                    "start": 233,
+                    "word": "chungwa"
+                  }
+                ],
+                "until": 299,
+                "utterances": "Rangi ya pili ni ya chungwa"
+              }
+            ],
+            "sentence": "Rangi ya pili ni ya chungwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hili ni chungwa.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 17,
+                    "word": "Hili"
+                  },
+                  {
+                    "end": 79,
+                    "start": 58,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 149,
+                    "start": 80,
+                    "word": "chungwa"
+                  }
+                ],
+                "until": 149,
+                "utterances": "Hili ni chungwa"
+              }
+            ],
+            "sentence": "Hili ni chungwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi ya tatu ni manjano.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 19,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 84,
+                    "start": 74,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 152,
+                    "start": 85,
+                    "word": "tatu"
+                  },
+                  {
+                    "end": 200,
+                    "start": 187,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 281,
+                    "start": 201,
+                    "word": "manjano"
+                  }
+                ],
+                "until": 281,
+                "utterances": "Rangi ya tatu ni manjano"
+              }
+            ],
+            "sentence": "Rangi ya tatu ni manjano."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Yai pingu lina rangi ya manjano.mp3",
+                "from": 25,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 25,
+                    "word": "Yai"
+                  },
+                  {
+                    "end": 146,
+                    "start": 105,
+                    "word": "pingu"
+                  },
+                  {
+                    "end": 219,
+                    "start": 147,
+                    "word": "lina"
+                  },
+                  {
+                    "end": 290,
+                    "start": 220,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 303,
+                    "start": 291,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 387,
+                    "start": 304,
+                    "word": "manjano"
+                  }
+                ],
+                "until": 387,
+                "utterances": "Yai pingu lina rangi ya manjano"
+              }
+            ],
+            "sentence": "Yai pingu lina rangi ya manjano."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi ya nne ni kijani.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 19,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 84,
+                    "start": 71,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 155,
+                    "start": 85,
+                    "word": "nne"
+                  },
+                  {
+                    "end": 206,
+                    "start": 187,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 278,
+                    "start": 207,
+                    "word": "kijani"
+                  }
+                ],
+                "until": 278,
+                "utterances": "Rangi ya nne ni kijani"
+              }
+            ],
+            "sentence": "Rangi ya nne ni kijani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Miwa ni rangi ya kijani.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 16,
+                    "word": "Miwa"
+                  },
+                  {
+                    "end": 132,
+                    "start": 114,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 181,
+                    "start": 133,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 193,
+                    "start": 182,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 268,
+                    "start": 194,
+                    "word": "kijani"
+                  }
+                ],
+                "until": 268,
+                "utterances": "Miwa ni rangi ya kijani"
+              }
+            ],
+            "sentence": "Miwa ni rangi ya kijani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi ya tano ni samawati.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 21,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 79,
+                    "start": 69,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 154,
+                    "start": 80,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 191,
+                    "start": 180,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 299,
+                    "start": 192,
+                    "word": "samawati"
+                  }
+                ],
+                "until": 299,
+                "utterances": "Rangi ya tano ni samawati"
+              }
+            ],
+            "sentence": "Rangi ya tano ni samawati."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mbingu ni samawati.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Mbingu"
+                  },
+                  {
+                    "end": 112,
+                    "start": 66,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 212,
+                    "start": 113,
+                    "word": "samawati"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Mbingu ni samawati"
+              }
+            ],
+            "sentence": "Mbingu ni samawati."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi ya sita ni nili.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 20,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 83,
+                    "start": 71,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 140,
+                    "start": 84,
+                    "word": "sita"
+                  },
+                  {
+                    "end": 166,
+                    "start": 141,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 227,
+                    "start": 167,
+                    "word": "nili"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Rangi ya sita ni nili"
+              }
+            ],
+            "sentence": "Rangi ya sita ni nili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Matunda haya ni ya rangi ya nili.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 19,
+                    "word": "Matunda"
+                  },
+                  {
+                    "end": 162,
+                    "start": 92,
+                    "word": "haya"
+                  },
+                  {
+                    "end": 215,
+                    "start": 192,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 230,
+                    "start": 216,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 283,
+                    "start": 231,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 296,
+                    "start": 284,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 355,
+                    "start": 297,
+                    "word": "nili"
+                  }
+                ],
+                "until": 355,
+                "utterances": "Matunda haya ni ya rangi ya nili"
+              }
+            ],
+            "sentence": "Matunda haya ni ya rangi ya nili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Rangi ya saba ni zambarau.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 20,
+                    "word": "Rangi"
+                  },
+                  {
+                    "end": 81,
+                    "start": 73,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 152,
+                    "start": 82,
+                    "word": "saba"
+                  },
+                  {
+                    "end": 194,
+                    "start": 183,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 289,
+                    "start": 195,
+                    "word": "zambarau"
+                  }
+                ],
+                "until": 289,
+                "utterances": "Rangi ya saba ni zambarau"
+              }
+            ],
+            "sentence": "Rangi ya saba ni zambarau."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Nguo yangu ni ya kizambarau.mp3",
+                "from": 50,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 50,
+                    "word": "Nguo"
+                  },
+                  {
+                    "end": 102,
+                    "start": 70,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 174,
+                    "start": 151,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 180,
+                    "start": 175,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 286,
+                    "start": 181,
+                    "word": "kizambarau"
+                  }
+                ],
+                "until": 286,
+                "utterances": "Nguo yangu ni ya kizambarau"
+              }
+            ],
+            "sentence": "Nguo yangu ni ya kizambarau."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ni rangi niipendayo zaidi.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 16,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 90,
+                    "start": 45,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 247,
+                    "start": 164,
+                    "word": "niipendayo"
+                  },
+                  {
+                    "end": 360,
+                    "start": 248,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 360,
+                "utterances": "Ni rangi niipendayo zaidi"
+              }
+            ],
+            "sentence": "Ni rangi niipendayo zaidi!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_23_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Je unazijua rangi saba za upinde.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 238,
+                    "start": 123,
+                    "word": "unazijua"
+                  },
+                  {
+                    "end": 285,
+                    "start": 239,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 343,
+                    "start": 286,
+                    "word": "saba"
+                  },
+                  {
+                    "end": 372,
+                    "start": 344,
+                    "word": "za"
+                  },
+                  {
+                    "end": 473,
+                    "start": 373,
+                    "word": "upinde"
+                  }
+                ],
+                "until": 473,
+                "utterances": "Je unazijua rangi saba za upinde"
+              }
+            ],
+            "sentence": "Je, unazijua rangi saba za upinde?"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Jesse Breytenbach",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Rangi za upinde",
+  "titleimage": "level2_23_page_01_image_0001.jpg"
+}
