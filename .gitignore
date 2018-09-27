@@ -3,6 +3,7 @@ CodeDrop1_*.json
 CodeDrop2_*.json
 CodeDrop2_*.1.1.0*
 *.py
+!convert_wav_mp3.py
 number_conv*
 CodeDrop1_Master/
 RTAssets_Audio_SW
