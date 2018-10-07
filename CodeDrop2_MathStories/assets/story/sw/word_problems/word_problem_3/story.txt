@@ -1,0 +1,351 @@
+{title:Word Problems}{author:RoboTutor}{level:1}
+
+
+{{{potatoes.jpg
+Mama Musa ana viazi vidogo vitatu. Pia ana viazi vikubwa.
+Kwa jumla, ana viazi saba.
+Mama Musa ana viazi ngapi vikubwa?
+____
+
+
+
+
+
+{{{3by1.jpg
+Mama Musa ana viazi vidogo vitatu.
+
+
+
+
+
+{{{3and4.jpg
+Kwa jumla, ana viazi saba.
+
+
+
+
+
+{{{Slide22.jpg
+Kwa hivyo, ana viazi vinne vikubwa.
+
+
+
+
+
+{{{letters.jpg
+Ali aliandika herufi sita ubaoni.
+Kisha Musa akaandika herufi zaidi ubaoni.
+Kwa sasa kuna herufi kumi kwa jumla.
+Je, Musa aliandika herufi ngapi ubaoni?
+____
+
+
+
+
+
+{{{3by2.jpg
+Ali aliandika herufi sita ubaoni.
+
+
+
+
+
+{{{6and4.jpg
+Sasa kuna herufi kumi kwa jumla.
+
+
+
+
+
+{{{Slide23.jpg
+Kwa hivyo Ali aliandika herufi nne ubaoni.
+
+
+
+
+
+{{{children.jpg
+Nje,watoto watano walikuwa wanacheza.
+Baadaye,watoto wengine walikuja.
+Sasa, kuna watoto tisa nje.
+Ni watoto wangapi waliongezeka nje?
+____
+
+
+
+
+
+{{{5by1.jpg
+Nje, watoto watano walikuwa wanacheza.
+
+
+
+
+
+{{{5and4.jpg
+Baadaye, watoto wengine walikuja.
+
+
+
+
+
+{{{Slide24.jpg
+Kwa hivyo, watoto wanne waliongezeka.
+
+
+
+
+
+{{{chickens.jpg
+Kuku sita wamo kwenye bustani.
+Kuku wengine wanakimbia nyuma ya nyumba.
+Tuna kuku wanane kwa jumla.
+Je, kuku wangapi wanakimbia nyuma ya nyumba?
+____
+
+
+
+
+
+{{{3by2.jpg
+Kuna kuku sita katika bustani yetu.
+
+
+
+
+
+{{{6and2.jpg
+Tuna kuku wanane kwa jumla.
+
+
+
+
+
+{{{Slide25.jpg
+Kwa hivyo kuna kuku wawili wanakimbia nyuma ya nyumba.
+
+
+
+
+
+{{{kid_soccer.jpg
+Vijana watano walikuwa wanacheza mpira.
+Baadhi ya wasichana walianza pia kucheza mpira.
+Kulikuwa na wasichana na wavulana kumi kwa jumla.
+Je, wasichana wangapi walikuwa wanacheza mpira?
+____
+
+
+
+
+
+{{{5by1.jpg
+Vijana watano walikuwa wanacheza mpira.
+
+
+
+
+
+{{{5by2.jpg
+Kulikuwa na wavulana na wasichana kumi kwa jumla wakicheza mpira.
+
+
+
+
+
+{{{Slide26.jpg
+Kwa hivyo, wasichana watano walikuwa wanacheza mpira.
+
+
+
+
+
+{{{cows_sheep.jpg
+Kuna ng'ombe wanane shambani.
+Pia kuna kondoo kadhaa shambani.
+Kuna wanyama kumi kwa jumla.
+Je, kuna kondoo wangapi shambani?
+____
+
+
+
+
+
+{{{4by2.jpg
+Kuna ng'ombe wanane shambani.
+
+
+
+
+
+{{{8and2.jpg
+Kuna wanyama kumi kwa jumla.
+
+
+
+
+
+{{{Slide27.jpg
+Kwa hivyo kuna kondoo wawili shambani.
+
+
+
+
+
+{{{dogs.jpg
+Kulikuwa na mbwa wawili wakitembea nje ya nyumba.
+Kulikuwa na mbwa wengine ndani ya nyumba.
+Kwa jumla, kulikuwa na mbwa wanane.
+Mbwa waliokuwa ndani ya nyumba ni wangapi?
+____
+
+
+
+
+
+{{{2by1.jpg
+Kulikuwa na mbwa wawili wakitembea nje ya nyumba.
+
+
+
+
+
+{{{2and6.jpg
+Kwa jumla, kulikuwa na mbwa wanane.
+
+
+
+
+
+{{{Slide28.jpg
+Kwa hivyo, kulikuwa na mbwa sita ndani ya nyumba.
+
+
+
+
+
+{{{trees.jpg
+Mbele ya nyumba ya Baraka kuna miti mitatu.
+Kuna miti mingine nyuma ya nyumba yake.
+Kwa jumla, kuna miti minane.
+Miti iliyo nyuma ya nyumba ni mingapi?
+____
+
+
+
+
+
+{{{3by1.jpg
+Mbele ya nyumba ya Baraka kuna miti mitatu.
+
+
+
+
+
+{{{3and5.jpg
+Kwa jumla, kuna miti minane.
+
+
+
+
+
+{{{Slide29.jpg
+Kwa hivyo, kuna miti mitano nyuma ya nyumba ya Baraka.
+
+
+
+
+
+{{{stones.jpg
+Msichana alikuwa na mawe tano mkononi.
+Akapata mawe mengine. Sasa, ana mawe nane.
+Msichana aliokota mawe mangapi?
+____
+
+
+
+
+
+{{{5by1.jpg
+Msichana alikuwa na mawe tano mkononi.
+
+
+
+
+
+{{{5and3.jpg
+Baada ya kupata mawe zaidi, sasa ana mawe nane kwa jumla.
+
+
+
+
+
+{{{Slide30.jpg
+Kwa hivyo, alipata mawe matatu.
+
+
+
+
+
+{{{mandazi.jpg
+Mamake Lukaka alipika mandazi nane leo asubuhi na leo mchana.
+Alipika mandazi matatu leo asubuhi.
+Je,alipika mandazi ngapi mchana?
+____
+
+
+
+
+
+{{{5and3.jpg
+Mamake Lukaka alipika mandazi nane leo asubuhi na leo mchana.
+
+
+
+
+
+{{{3by1.jpg
+Alipika mandazi matatu leo asubuhi.
+
+
+
+
+
+{{{Slide31.jpg
+Kwa hivyo alipika mandazi tano leo mchana.
+
+
+
+
+
+{{{coins.jpg
+Ahmed alikuwa na shilingi nane.
+Alinunua mpira kwa shillingi nne.
+Je, amebaki na shilingi ngapi?
+____
+
+
+
+
+
+{{{4by2.jpg
+Ahmed alikuwa na shilingi nane.
+
+
+
+
+
+{{{4by1.jpg
+Alinunua mpira kwa shilingi nne.
+
+
+
+
+
+{{{Slide32.jpg
+Kwa hivyo amebaki na shilingi nne.
+
+
+
+
+

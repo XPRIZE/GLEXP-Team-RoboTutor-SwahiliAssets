@@ -1,0 +1,357 @@
+{title:Word Problems}{author:RoboTutor}{level:1}
+
+
+{{{toy_cars.jpg
+Baraka alikuwa na magari matatu ya kuchezea.
+Alimpa rafiki yake Musa magari mawili.
+Baraka amebaki na magari mangapi sasa?
+____
+
+
+
+
+
+{{{3by1.jpg
+Baraka alikuwa na magari matatu ya kuchezea.
+
+
+
+
+
+{{{2by1.jpg
+Alimpa rafiki yake Musa magari mawili.
+
+
+
+
+
+{{{Slide33.jpg
+Kwa hivyo, amebaki na gari moja.
+
+
+
+
+
+{{{black_kids.jpg
+Fatima ana kaka watano.
+Nora ana kaka watatu.
+Fatima ana kaka wangapi zaidi ya Nora?
+____
+
+
+
+
+
+{{{5by1.jpg
+Fatima ana kaka watano.
+
+
+
+
+
+{{{3by1.jpg
+Nora ana kaka watatu.
+
+
+
+
+
+{{{Slide34.jpg
+Kwa hivyo, Fatima ana kaka wawili zaidi ya Nora.
+
+
+
+
+
+{{{cows.jpg
+Baba Rehema ana ng'ombe tisa kwa jumla.
+Ana ng'ombe sita kuzidi Baba Helena.
+Baba Helena ana ng'ombe wangapi?
+____
+
+
+
+
+
+{{{3by3.jpg
+Baba Rehema ana ng'ombe tisa kwa jumla.
+
+
+
+
+
+{{{3and6.jpg
+Ana ng'ombe sita kuzidi Baba Helena.
+
+
+
+
+
+{{{Slide35.jpg
+Kwa hivyo, Baba Helena ana ng'ombe tatu.
+
+
+
+
+
+{{{shirts.jpg
+Abdul aliosha shati saba leo asubuhi.
+Baada ya kukauka, aligundua kwamba shati mbili zilikuwa bado chafu.
+Ni shati ngapi zilikuwa safi?
+____
+
+
+
+
+
+{{{5and2.jpg
+Abdul aliosha shati saba leo asubuhi.
+
+
+
+
+
+{{{2by1.jpg
+Shati mbili zilikuwa chafu bado.
+
+
+
+
+
+{{{Slide36.jpg
+Kwa hivyo, shati zilizokuwa safi ni tano.
+
+
+
+
+
+{{{chapati.jpg
+Baraka alikula chapati nne Jumatatu.
+Akala chapati tatu Jumanne.
+Alikula chapati ngapi.
+Jumatatu zaidi ya Jumanne?
+____
+
+
+
+
+
+{{{4by1.jpg
+Baraka alikula chapati nne Jumatatu.
+
+
+
+
+
+{{{3by1.jpg
+Akala chapati tatu Jumanne.
+
+
+
+
+
+{{{Slide37.jpg
+Kwa hivyo, alikula chapati moja Jumatatu zaidi ya Jumanne.
+
+
+
+
+
+{{{books.jpg
+Ali alikuwa na vitabu vitano.
+Akapeana vitabu vitatu.
+Ana vitabu vingapi sasa?
+____
+
+
+
+
+
+{{{5by1.jpg
+Ali alikuwa na vitabu vitano.
+
+
+
+
+
+{{{3by1.jpg
+Akapeana vitabu vitatu.
+
+
+
+
+
+{{{Slide38.jpg
+Kwa hivyo, ana vitabu viwili sasa.
+
+
+
+
+
+{{{sticks.jpg
+Rehema alipata vijiti saba kwa siku mbili.
+Alipata vijiti vinne Jumatatu.
+Alipata vijiti vingapi Jumanne?
+____
+
+
+
+
+
+{{{3and4.jpg
+Rehema alipata vijiti saba kwa siku mbili.
+
+
+
+
+
+{{{4by1.jpg
+Alipata vijiti vinne Jumatatu.
+
+
+
+
+
+{{{Slide39.jpg
+Kwa hivyo, alipata vijiti vitatu Jumanne.
+
+
+
+
+
+{{{carrots.jpg
+Helena alikuwa na karoti nane.
+Akampa kaka yake karoti nne.
+Ana karoti ngapi sasa?
+____
+
+
+
+
+
+{{{4by2.jpg
+Helena alikuwa na karoti nane.
+
+
+
+
+
+{{{4by1.jpg
+Akampa kaka yake karoti nne.
+
+
+
+
+
+{{{Slide40.jpg
+Kwa hivyo, ana karoti nne sasa.
+
+
+
+
+
+{{{biscuits.jpg
+Bwana Andrew anataka kununua biskuti mbili kwa kila watoto wake watatu.
+Je, anahitaji kununua biskuti ngapi kwa jumla?
+____
+
+
+
+
+
+{{{2by1.jpg
+Kwa mtoto wa kwanza, anahitaji kununua biskuti mbili.
+
+
+
+
+
+{{{2by2.jpg
+Kwa mtoto wa pili, anahitaji kununua biskuti zingine mbili.
+
+
+
+
+
+{{{2by3.jpg
+Kwa mtoto wa tatu, anahitaji kununua biskuti mbili pia.
+
+
+
+
+
+{{{Slide41.jpg
+Kwa hivyo, kwa watoto wote sita, anahitaji kununua biskuti sita.
+
+
+
+
+
+{{{dogs.jpg
+Mbwa wa baraka hupata watoto wanne kila mwaka.
+Mbwa wake atakuwa na watoto wangapi baada ya miaka minne?
+____
+
+
+
+
+
+{{{4by1.jpg
+Mwaka wa kwanza, mbwa anapata watoto wanne.
+
+
+
+
+
+{{{4by2.jpg
+Mwaka wa pili, mbwa anapata watoto wengine wanne.
+
+
+
+
+
+{{{Slide42.jpg
+Kwa hivyo katika miaka miwili, mbwa anapata watoto wanane kwa jumla.
+
+
+
+
+
+{{{girl_soccer.jpg
+Halima anacheza soka kwa saa moja kila siku.
+Alicheza sokasiku tatu wiki hii.
+Alicheza masaa mangapi wiki hii?
+____
+
+
+
+
+
+{{{1by1.jpg
+Siku ya kwanza, alicheza kwa saa moja.
+
+
+
+
+
+{{{2by1.jpg
+Siku ya pili, alicheza kwa saa lingine moja.
+
+
+
+
+
+{{{3by1.jpg
+Siku ya tatu, alicheza kwa saa lingine moja.
+
+
+
+
+
+{{{Slide43.jpg
+Kwa hivyo, katika siku tatu, alicheza masaa matatu kwa jumla.
+
+
+
+
+
