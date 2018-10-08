@@ -47,7 +47,40 @@
                 "utterances": "Mama Musa ana viazi vidogo vitatu"
               }
             ],
-            "sentence": "Mama Musa ana viazi vidogo vitatu. Pia ana viazi vikubwa."
+            "sentence": "Mama Musa ana viazi vidogo vitatu."
+          },
+                    {
+            "narration": [
+              {
+                "audio": "Pia ana viazi vikubwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 20,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 104,
+                    "start": 75,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 164,
+                    "start": 105,
+                    "word": "viazi"
+                  },
+                  {
+                    "end": 236,
+                    "start": 165,
+                    "word": "vikubwa"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Pia ana viazi vikubwa"
+              }
+            ],
+            "sentence": "Pia ana viazi vikubwa."
           },
           {
             "narration": [
