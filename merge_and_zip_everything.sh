@@ -7,7 +7,8 @@ cp -n -r -v CodeDrop1_LitStories/* CodeDrop1_Master/
 
 cp -n -r -v CodeDrop1_NumberStories/* CodeDrop1_Master/
 
-cp -n -r -v CodeDrop1_ReadingStories/* CodeDrop1_Master/
+# now in CodeDrop2
+# cp -n -r -v CodeDrop1_ReadingStories/* CodeDrop1_Master/
 
 cp -n -r -v CodeDrop1_Songs/* CodeDrop1_Master/
 
