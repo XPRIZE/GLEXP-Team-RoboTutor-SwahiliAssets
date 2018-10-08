@@ -1,0 +1,349 @@
+{title:Word Problems}{author:RoboTutor}{level:1}
+
+
+{{{null
+Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu.
+
+
+
+
+
+{{{goats.jpg
+Kulikuwa na mbuzi sita shambani.
+Ali alileta mbuzi wengine watatu zaidi katika shamba.
+Kuna mbuzi wangapi katika shamba?
+____
+
+
+
+
+
+{{{3by2.jpg
+Kulikuwa na mbuzi sita shambani.
+
+
+
+
+
+{{{3by1.jpg
+Kisha Ali alileta mbuzi wengine watatu zaidi shambani.
+
+
+
+
+
+{{{Slide11.jpg
+Sasa kuna mbuzi tisa shambani.
+
+
+
+
+
+{{{bus.jpg
+Kwenye basi kulikuwa na watu watatu.
+Kisha watu wengine watano wakaingia.
+Kuna watu wangapi sasa kwenye basi?
+____
+
+
+
+
+
+{{{3by1.jpg
+Kulikuwa na watu watatu kwenye basi.
+
+
+
+
+
+{{{5by1.jpg
+Kisha watu wengine watano wakaingia.
+
+
+
+
+
+{{{Slide12.jpg
+Kwa pamoja kuna watu wanane kwenye basi.
+
+
+
+
+
+{{{chickens.jpg
+Mtu mmoja alinunua kuku wanane Jumatatu.
+Jumanne alinunua kuku mmoja zaidi.
+Je, ni kuku wangapi anao sasa?
+____
+
+
+
+
+
+{{{4by2.jpg
+Mtu mmoja alinunua kuku wanane Jumatatu.
+
+
+
+
+
+{{{1by1.jpg
+Jumanne alinununua kuku mmoja zaidi.
+
+
+
+
+
+{{{Slide13.jpg
+Kwa jumla ana kuku tisa.
+
+
+
+
+
+{{{dogs.jpg
+Fatima aliona mbwa wawili wadogo kwenye soko na mbwa watatu wakubwa shuleni.
+Fatima aliona mbwa wangapi kwa jumla?
+____
+
+
+
+
+
+{{{2by1.jpg
+Fatima aliona mbwa wawili wadogo kwenye soko.
+
+
+
+
+
+{{{3by1.jpg
+Pia aliona mbwa watatu wakubwa shuleni.
+
+
+
+
+
+{{{Slide14.jpg
+Kwa jumla aliona mbwa watano.
+
+
+
+
+
+{{{dishes.jpg
+Kuna sahani mbili kwenye meza.
+Mama aliongeza sahani mbili zaidi kwenye meza.
+Ni sahani ngapi sasa ziko kwenye meza?
+____
+
+
+
+
+
+{{{2by1.jpg
+Kuna sahani mbili kwenye meza.
+
+
+
+
+
+{{{2by1.jpg
+Mama aliongeza sahani mbili zaidi kwenye meza.
+
+
+
+
+
+{{{Slide15.jpg
+Kwa pamoja, kuna sahani nne kwenye meza.
+
+
+
+
+
+{{{farm_animals.jpg
+Katika bustani kuna kuku wawili, na mbuzi mmoja.
+Kuna wanyama wangapi katika bustani?
+____
+
+
+
+
+
+{{{2by1.jpg
+Katika bustani kuna kuku wawili.
+
+
+
+
+
+{{{1by1.jpg
+Pia kuna mbuzi mmoja.
+
+
+
+
+
+{{{Slide16.jpg
+Kwa pamoja kuna wanyama watatu.
+
+
+
+
+
+{{{chapati.jpg
+Musa alikula chapati tano asubuhi.
+Mchana alikula chapati mbili.
+Ni chapati ngapi ambazo Musa alikula leo?
+____
+
+
+
+
+
+{{{5by1.jpg
+Musa alikula chapati tano asubuhi.
+
+
+
+
+
+{{{2by1.jpg
+Mchana alikula chapati mbili.
+
+
+
+
+
+{{{Slide17.jpg
+Kwa jumla alikula chapati saba leo.
+
+
+
+
+
+{{{sheep.jpg
+Katika soko, Petro aliona kondoo wawili.
+Kisha akaona kondoo saba zaidi.
+Je, Petro aliona kondoo wangapi wote?
+____
+
+
+
+
+
+{{{2by1.jpg
+Katika soko, Petro aliona kondoo wawili.
+
+
+
+
+
+{{{3and4.jpg
+Kisha akaona kondoo saba zaidi.
+
+
+
+
+
+{{{Slide18.jpg
+Aliona kondoo tisa kwa jumla.
+
+
+
+
+
+{{{stones.jpg
+Ali ana mawe manne katika mfuko wake.
+Aliweka mawe matano zaidi katika mfuko wake.
+Je, Ali ana mawe mangapi sasa katika mfuko wake?
+____
+
+
+
+
+
+{{{4by1.jpg
+Ali ana mawe manne mfukoni.
+
+
+
+
+
+{{{5by1.jpg
+Aliweka mawe tano zaidi mfukoni.
+
+
+
+
+
+{{{Slide19.jpg
+Sasa ana mawe tisa mfukoni.
+
+
+
+
+
+{{{children.jpg
+Darasa la Bwana Yohana lina wasichana watano na wavulana watano.
+Je, kuna watoto wangapi katika darasa lake?
+____
+
+
+
+
+
+{{{5by1.jpg
+Darasa la Bwana Yohana lina wasichana watano.
+
+
+
+
+
+{{{5by1.jpg
+Darasa lake pia lina wavulana watano.
+
+
+
+
+
+{{{Slide20.jpg
+Kwa jumla kuna watoto kumi darasani.
+
+
+
+
+
+{{{trees.jpg
+Kuna miti sita mbele ya shule.
+Kuna miti mingine nyuma ya shule.
+Kwa jumla, kuna miti tisa.
+Ni miti mingapi iko nyuma ya shule?
+____
+
+
+
+
+
+{{{3by2.jpg
+Kuna miti sita mbele ya shule.
+
+
+
+
+
+{{{3by3.jpg
+Kwa jumla, kuna miti tisa.
+
+
+
+
+
+{{{Slide21.jpg
+Kwa hivyo, kuna miti mitatu nyuma ya shule.
+
+
+
+
+

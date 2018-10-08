@@ -1,0 +1,314 @@
+{title:Word Problems}{author:RoboTutor}{level:1}
+
+
+{{{null
+Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu.
+
+
+
+
+
+{{{mangoes.jpg
+Anna ana maembe matatu na Fatima ana maembe mawili.
+Je, ni maembe mangapi wanayo kwa jumla?
+____
+
+
+
+
+
+{{{3by1.jpg
+Anna ana maembe matatu.
+
+
+
+
+
+{{{2by1.jpg
+Fatima ana maembe mawili.
+
+
+
+
+
+{{{Slide1.jpg
+Kwa pamoja, wana maembe matano.
+
+
+
+
+
+{{{stones.jpg
+Kuna mawe matatu katika mfuko wangu na mawe manne kwenye mfuko wako. 
+Je, Kuna mawe mangapi kwa jumla?
+____
+
+
+
+
+
+{{{3by1.jpg
+Kuna mawe matatu kwenye mfuko wangu.
+
+
+
+
+
+{{{4by1.jpg
+Kuna mawe manne kwenye mfuko wako.
+
+
+
+
+
+{{{Slide2.jpg
+Kwa jumla, kuna mawe saba.
+
+
+
+
+
+{{{bananas.jpg
+Baraka ana ndizi nne.
+Ali ana ndizi tatu.
+Wana ndizi ngapi pamoja?
+____
+
+
+
+
+
+{{{4by1.jpg
+Baraka ana ndizi nne.
+
+
+
+
+
+{{{3by1.jpg
+Ali ana ndizi tatu.
+
+
+
+
+
+{{{Slide3.jpg
+Pamoja wana ndizi saba.
+
+
+
+
+
+{{{coins.jpg
+Musa ana shilingi tatu.
+Anahitaji shilingi tano zaidi ili kununua kitabu chake anachopenda.
+Je, kitabu ni bei gani?
+____
+
+
+
+
+
+{{{3by1.jpg
+Musa ana shilingi tatu.
+
+
+
+
+
+{{{5by1.jpg
+Anahitaji shilingi tano zaidi.
+
+
+
+
+
+{{{Slide4.jpg
+Bei ya kitabu ni shilingi nane.
+
+
+
+
+
+{{{eggs.jpg
+Baraka aliuza mayai tano Jumamosi.
+Aliuza mayai mawili zaidi Jumapili.
+Alikuwa na mayai mangapi kwa jumla?
+____
+
+
+
+
+
+{{{5by1.jpg
+Baraka aliuza mayai tano Jumamosi.
+
+
+
+
+
+{{{2by1.jpg
+Aliuza mayai mawili zaidi Jumapili.
+
+
+
+
+
+{{{Slide5.jpg
+Kwa pamoja, aliuza mayai saba.
+
+
+
+
+
+{{{shirts.jpg
+Abdul ana mashati matatu ya bluu na mashati matatu mekundu.
+Je, ana mashati mangapi kwa jumla?
+____
+
+
+
+
+
+{{{3by1.jpg
+Abdul ana mashati matatu ya bluu.
+
+
+
+
+
+{{{3by1.jpg
+Pia ana mashati matatu mekundu.
+
+
+
+
+
+{{{Slide6.jpg
+Kwa jumla, ana mashati sita.
+
+
+
+
+
+{{{pencils.jpg
+Baraka na Musa ni marafiki.
+Baraka alinunua penseli kwa shilingi tano na Musa alinunua kifutio kwa shilingi nne.
+Walitumia fedha ngapi?
+____
+
+
+
+
+
+{{{5by1.jpg
+Baraka alinunua penseli kwa shilingi tano.
+
+
+
+
+
+{{{4by1.jpg
+Musa alinunua kifutio kwa shilingi nne.
+
+
+
+
+
+{{{Slide7.jpg
+Kwa pamoja walitumia shilingi tisa.
+
+
+
+
+
+{{{mandazi.jpg
+Musa ana mandazi manne.
+Ananunua mandazi matano zaidi. Ni mandazi mangapi anayo sasa?
+____
+
+
+
+
+
+{{{4by1.jpg
+Musa ana mandazi manne.
+
+
+
+
+
+{{{5by1.jpg
+Ananunua mandazi tano zaidi.
+
+
+
+
+
+{{{Slide8.jpg
+Kwa jumla ana mandazi tisa.
+
+
+
+
+
+{{{children.jpg
+Kuna wavulana wawili na wasichana watatu nyumbani kwangu.
+Je, kuna watoto wangapi ndani ya nyumba yangu?
+____
+
+
+
+
+
+{{{2by1.jpg
+Kuna wavulana wawili nyumbani kwangu.
+
+
+
+
+
+{{{3by1.jpg
+Kuna wasichana watatu nyumbani kwangu.
+
+
+
+
+
+{{{Slide9.jpg
+Kwa pamoja kuna watoto watano nyumbani kwangu.
+
+
+
+
+
+{{{fruit-stand.jpg
+Mama wa Anna alinunua ndizi mbili na machungwa matatu kutoka sokoni.
+Alikuwa na matunda mangapi kwa jumla?
+____
+
+
+
+
+
+{{{2by1.jpg
+Mama wa Anna alinunua ndizi mbili.
+
+
+
+
+
+{{{3by1.jpg
+Pia alinunua machungwa matatu.
+
+
+
+
+
+{{{Slide10.jpg
+Kwa pamoja alinunua matunda tano.
+
+
+
+
+

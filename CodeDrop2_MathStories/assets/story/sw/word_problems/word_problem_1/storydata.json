@@ -1,0 +1,2816 @@
+{
+  "author": "RoboTutor",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Angalia"
+                  },
+                  {
+                    "end": 168,
+                    "start": 94,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 281,
+                    "start": 207,
+                    "word": "unaweza"
+                  },
+                  {
+                    "end": 366,
+                    "start": 282,
+                    "word": "kuambia"
+                  },
+                  {
+                    "end": 445,
+                    "start": 367,
+                    "word": "RoboTutor"
+                  },
+                  {
+                    "end": 493,
+                    "start": 446,
+                    "word": "jibu"
+                  },
+                  {
+                    "end": 589,
+                    "start": 549,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 676,
+                    "start": 590,
+                    "word": "RoboTutor"
+                  },
+                  {
+                    "end": 774,
+                    "start": 677,
+                    "word": "ikuonyeshe"
+                  },
+                  {
+                    "end": 819,
+                    "start": 775,
+                    "word": "jibu"
+                  }
+                ],
+                "until": 819,
+                "utterances": "Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu"
+              }
+            ],
+            "sentence": "Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mangoes.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Anna ana maembe matatu na Fatima ana maembe mawili.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 21,
+                    "word": "Anna"
+                  },
+                  {
+                    "end": 135,
+                    "start": 109,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 186,
+                    "start": 136,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 270,
+                    "start": 187,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 315,
+                    "start": 295,
+                    "word": "na"
+                  },
+                  {
+                    "end": 369,
+                    "start": 316,
+                    "word": "Fatima"
+                  },
+                  {
+                    "end": 400,
+                    "start": 370,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 450,
+                    "start": 401,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 512,
+                    "start": 451,
+                    "word": "mawili"
+                  }
+                ],
+                "until": 512,
+                "utterances": "Anna ana maembe matatu na Fatima ana maembe mawili"
+              }
+            ],
+            "sentence": "Anna ana maembe matatu na Fatima ana maembe mawili."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je ni maembe mangapi wanayo kwa jumla.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 116,
+                    "start": 105,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 182,
+                    "start": 117,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 254,
+                    "start": 183,
+                    "word": "mangapi"
+                  },
+                  {
+                    "end": 323,
+                    "start": 255,
+                    "word": "wanayo"
+                  },
+                  {
+                    "end": 341,
+                    "start": 324,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 421,
+                    "start": 342,
+                    "word": "jumla"
+                  }
+                ],
+                "until": 421,
+                "utterances": "Je ni maembe mangapi wanayo kwa jumla"
+              }
+            ],
+            "sentence": "Je, ni maembe mangapi wanayo kwa jumla?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Anna ana maembe matatu.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 22,
+                    "word": "Anna"
+                  },
+                  {
+                    "end": 121,
+                    "start": 94,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 177,
+                    "start": 122,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 252,
+                    "start": 178,
+                    "word": "matatu"
+                  }
+                ],
+                "until": 252,
+                "utterances": "Anna ana maembe matatu"
+              }
+            ],
+            "sentence": "Anna ana maembe matatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Fatima ana maembe mawili.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 2,
+                    "word": "Fatima"
+                  },
+                  {
+                    "end": 133,
+                    "start": 106,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 184,
+                    "start": 134,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 258,
+                    "start": 185,
+                    "word": "mawili"
+                  }
+                ],
+                "until": 258,
+                "utterances": "Fatima ana maembe mawili"
+              }
+            ],
+            "sentence": "Fatima ana maembe mawili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide1.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa pamoja wana maembe matano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 113,
+                    "start": 53,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 163,
+                    "start": 133,
+                    "word": "wana"
+                  },
+                  {
+                    "end": 216,
+                    "start": 164,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 286,
+                    "start": 217,
+                    "word": "matano"
+                  }
+                ],
+                "until": 286,
+                "utterances": "Kwa pamoja wana maembe matano"
+              }
+            ],
+            "sentence": "Kwa pamoja, wana maembe matano."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "stones.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna mawe matatu katika mfuko wangu na mawe manne kwenye mfuko wako.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 111,
+                    "start": 57,
+                    "word": "mawe"
+                  },
+                  {
+                    "end": 189,
+                    "start": 112,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 247,
+                    "start": 201,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 299,
+                    "start": 248,
+                    "word": "mfuko"
+                  },
+                  {
+                    "end": 343,
+                    "start": 300,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 403,
+                    "start": 390,
+                    "word": "na"
+                  },
+                  {
+                    "end": 442,
+                    "start": 404,
+                    "word": "mawe"
+                  },
+                  {
+                    "end": 502,
+                    "start": 443,
+                    "word": "manne"
+                  },
+                  {
+                    "end": 543,
+                    "start": 503,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 590,
+                    "start": 544,
+                    "word": "mfuko"
+                  },
+                  {
+                    "end": 638,
+                    "start": 591,
+                    "word": "wako"
+                  }
+                ],
+                "until": 638,
+                "utterances": "Kuna mawe matatu katika mfuko wangu na mawe manne kwenye mfuko wako"
+              }
+            ],
+            "sentence": "Kuna mawe matatu katika mfuko wangu na mawe manne kwenye mfuko wako. "
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je Kuna mawe mangapi kwa jumla.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 134,
+                    "start": 78,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 178,
+                    "start": 135,
+                    "word": "mawe"
+                  },
+                  {
+                    "end": 243,
+                    "start": 179,
+                    "word": "mangapi"
+                  },
+                  {
+                    "end": 263,
+                    "start": 244,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 330,
+                    "start": 264,
+                    "word": "jumla"
+                  }
+                ],
+                "until": 330,
+                "utterances": "Je Kuna mawe mangapi kwa jumla"
+              }
+            ],
+            "sentence": "Je, Kuna mawe mangapi kwa jumla?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna mawe matatu kwenye mfuko wangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 100,
+                    "start": 55,
+                    "word": "mawe"
+                  },
+                  {
+                    "end": 167,
+                    "start": 101,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 213,
+                    "start": 168,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 278,
+                    "start": 214,
+                    "word": "mfuko"
+                  },
+                  {
+                    "end": 325,
+                    "start": 279,
+                    "word": "wangu"
+                  }
+                ],
+                "until": 325,
+                "utterances": "Kuna mawe matatu kwenye mfuko wangu"
+              }
+            ],
+            "sentence": "Kuna mawe matatu kwenye mfuko wangu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4by1.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna mawe manne kwenye mfuko wako.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 85,
+                    "start": 45,
+                    "word": "mawe"
+                  },
+                  {
+                    "end": 150,
+                    "start": 86,
+                    "word": "manne"
+                  },
+                  {
+                    "end": 193,
+                    "start": 151,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 235,
+                    "start": 194,
+                    "word": "mfuko"
+                  },
+                  {
+                    "end": 293,
+                    "start": 236,
+                    "word": "wako"
+                  }
+                ],
+                "until": 293,
+                "utterances": "Kuna mawe manne kwenye mfuko wako"
+              }
+            ],
+            "sentence": "Kuna mawe manne kwenye mfuko wako."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide2.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa jumla kuna mawe saba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 102,
+                    "start": 36,
+                    "word": "jumla"
+                  },
+                  {
+                    "end": 150,
+                    "start": 103,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 186,
+                    "start": 151,
+                    "word": "mawe"
+                  },
+                  {
+                    "end": 238,
+                    "start": 187,
+                    "word": "saba"
+                  }
+                ],
+                "until": 238,
+                "utterances": "Kwa jumla kuna mawe saba"
+              }
+            ],
+            "sentence": "Kwa jumla, kuna mawe saba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bananas.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baraka ana ndizi nne.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 2,
+                    "word": "Baraka"
+                  },
+                  {
+                    "end": 132,
+                    "start": 115,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 182,
+                    "start": 133,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 212,
+                    "start": 183,
+                    "word": "nne"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Baraka ana ndizi nne"
+              }
+            ],
+            "sentence": "Baraka ana ndizi nne."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ali ana ndizi tatu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "Ali"
+                  },
+                  {
+                    "end": 110,
+                    "start": 92,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 153,
+                    "start": 111,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 210,
+                    "start": 154,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Ali ana ndizi tatu"
+              }
+            ],
+            "sentence": "Ali ana ndizi tatu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wana ndizi ngapi pamoja.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 20,
+                    "word": "Wana"
+                  },
+                  {
+                    "end": 95,
+                    "start": 54,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 140,
+                    "start": 96,
+                    "word": "ngapi"
+                  },
+                  {
+                    "end": 226,
+                    "start": 141,
+                    "word": "pamoja"
+                  }
+                ],
+                "until": 226,
+                "utterances": "Wana ndizi ngapi pamoja"
+              }
+            ],
+            "sentence": "Wana ndizi ngapi pamoja?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4by1.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baraka ana ndizi nne.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 2,
+                    "word": "Baraka"
+                  },
+                  {
+                    "end": 132,
+                    "start": 115,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 182,
+                    "start": 133,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 212,
+                    "start": 183,
+                    "word": "nne"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Baraka ana ndizi nne"
+              }
+            ],
+            "sentence": "Baraka ana ndizi nne."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ali ana ndizi tatu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "Ali"
+                  },
+                  {
+                    "end": 110,
+                    "start": 92,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 153,
+                    "start": 111,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 210,
+                    "start": 154,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Ali ana ndizi tatu"
+              }
+            ],
+            "sentence": "Ali ana ndizi tatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide3.jpg",
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Pamoja wana ndizi saba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 21,
+                    "word": "Pamoja"
+                  },
+                  {
+                    "end": 116,
+                    "start": 79,
+                    "word": "wana"
+                  },
+                  {
+                    "end": 160,
+                    "start": 117,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 213,
+                    "start": 161,
+                    "word": "saba"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Pamoja wana ndizi saba"
+              }
+            ],
+            "sentence": "Pamoja wana ndizi saba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "coins.jpg",
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Musa ana shilingi tatu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 20,
+                    "word": "Musa"
+                  },
+                  {
+                    "end": 106,
+                    "start": 69,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 162,
+                    "start": 107,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 218,
+                    "start": 163,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Musa ana shilingi tatu"
+              }
+            ],
+            "sentence": "Musa ana shilingi tatu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Anahitaji shilingi tano Zaidi ili kununua kitabu chake anachopenda.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 133,
+                    "start": 21,
+                    "word": "Anahitaji"
+                  },
+                  {
+                    "end": 197,
+                    "start": 134,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 249,
+                    "start": 198,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 334,
+                    "start": 250,
+                    "word": "Zaidi"
+                  },
+                  {
+                    "end": 406,
+                    "start": 371,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 481,
+                    "start": 407,
+                    "word": "kununua"
+                  },
+                  {
+                    "end": 547,
+                    "start": 482,
+                    "word": "kitabu"
+                  },
+                  {
+                    "end": 601,
+                    "start": 548,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 725,
+                    "start": 602,
+                    "word": "anachopenda"
+                  }
+                ],
+                "until": 725,
+                "utterances": "Anahitaji shilingi tano Zaidi ili kununua kitabu chake anachopenda"
+              }
+            ],
+            "sentence": "Anahitaji shilingi tano zaidi ili kununua kitabu chake anachopenda."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je kitabu ni bei gani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 147,
+                    "start": 92,
+                    "word": "kitabu"
+                  },
+                  {
+                    "end": 169,
+                    "start": 148,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 191,
+                    "start": 170,
+                    "word": "bei"
+                  },
+                  {
+                    "end": 261,
+                    "start": 192,
+                    "word": "gani"
+                  }
+                ],
+                "until": 261,
+                "utterances": "Je kitabu ni bei gani"
+              }
+            ],
+            "sentence": "Je, kitabu ni bei gani?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Musa ana shilingi tatu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 20,
+                    "word": "Musa"
+                  },
+                  {
+                    "end": 106,
+                    "start": 69,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 162,
+                    "start": 107,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 218,
+                    "start": 163,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Musa ana shilingi tatu"
+              }
+            ],
+            "sentence": "Musa ana shilingi tatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by1.jpg",
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Anahitaji shilingi tano zaidi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 21,
+                    "word": "Anahitaji"
+                  },
+                  {
+                    "end": 155,
+                    "start": 106,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 196,
+                    "start": 156,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 266,
+                    "start": 197,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 266,
+                "utterances": "Anahitaji shilingi tano zaidi"
+              }
+            ],
+            "sentence": "Anahitaji shilingi tano zaidi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide4.jpg",
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Bei ya kitabu ni shilingi nane.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Bei"
+                  },
+                  {
+                    "end": 67,
+                    "start": 56,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 126,
+                    "start": 68,
+                    "word": "kitabu"
+                  },
+                  {
+                    "end": 173,
+                    "start": 162,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 229,
+                    "start": 174,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 276,
+                    "start": 230,
+                    "word": "nane"
+                  }
+                ],
+                "until": 276,
+                "utterances": "Bei ya kitabu ni shilingi nane"
+              }
+            ],
+            "sentence": "Bei ya kitabu ni shilingi nane."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "eggs.jpg",
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baraka aliuza mayai tano Jumamosi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Baraka"
+                  },
+                  {
+                    "end": 179,
+                    "start": 74,
+                    "word": "aliuza"
+                  },
+                  {
+                    "end": 271,
+                    "start": 217,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 312,
+                    "start": 272,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 404,
+                    "start": 313,
+                    "word": "Jumamosi"
+                  }
+                ],
+                "until": 404,
+                "utterances": "Baraka aliuza mayai tano Jumamosi"
+              }
+            ],
+            "sentence": "Baraka aliuza mayai tano Jumamosi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Aliuza mayai mawili zaidi Jumapili.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 22,
+                    "word": "Aliuza"
+                  },
+                  {
+                    "end": 162,
+                    "start": 94,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 216,
+                    "start": 163,
+                    "word": "mawili"
+                  },
+                  {
+                    "end": 279,
+                    "start": 217,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 372,
+                    "start": 280,
+                    "word": "Jumapili"
+                  }
+                ],
+                "until": 372,
+                "utterances": "Aliuza mayai mawili zaidi Jumapili"
+              }
+            ],
+            "sentence": "Aliuza mayai mawili zaidi Jumapili."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa na mayai mangapi kwa jumla.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 112,
+                    "start": 89,
+                    "word": "na"
+                  },
+                  {
+                    "end": 163,
+                    "start": 113,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 230,
+                    "start": 164,
+                    "word": "mangapi"
+                  },
+                  {
+                    "end": 252,
+                    "start": 231,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 326,
+                    "start": 253,
+                    "word": "jumla"
+                  }
+                ],
+                "until": 326,
+                "utterances": "Alikuwa na mayai mangapi kwa jumla"
+              }
+            ],
+            "sentence": "Alikuwa na mayai mangapi kwa jumla?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by1.jpg",
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baraka aliuza mayai tano Jumamosi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Baraka"
+                  },
+                  {
+                    "end": 179,
+                    "start": 74,
+                    "word": "aliuza"
+                  },
+                  {
+                    "end": 271,
+                    "start": 217,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 312,
+                    "start": 272,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 404,
+                    "start": 313,
+                    "word": "Jumamosi"
+                  }
+                ],
+                "until": 404,
+                "utterances": "Baraka aliuza mayai tano Jumamosi"
+              }
+            ],
+            "sentence": "Baraka aliuza mayai tano Jumamosi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Aliuza mayai mawili zaidi Jumapili.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 22,
+                    "word": "Aliuza"
+                  },
+                  {
+                    "end": 162,
+                    "start": 94,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 216,
+                    "start": 163,
+                    "word": "mawili"
+                  },
+                  {
+                    "end": 279,
+                    "start": 217,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 372,
+                    "start": 280,
+                    "word": "Jumapili"
+                  }
+                ],
+                "until": 372,
+                "utterances": "Aliuza mayai mawili zaidi Jumapili"
+              }
+            ],
+            "sentence": "Aliuza mayai mawili zaidi Jumapili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide5.jpg",
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa pamoja aliuza mayai saba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 117,
+                    "start": 44,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 208,
+                    "start": 145,
+                    "word": "aliuza"
+                  },
+                  {
+                    "end": 255,
+                    "start": 209,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 308,
+                    "start": 256,
+                    "word": "saba"
+                  }
+                ],
+                "until": 308,
+                "utterances": "Kwa pamoja aliuza mayai saba"
+              }
+            ],
+            "sentence": "Kwa pamoja, aliuza mayai saba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "shirts.jpg",
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Abdul ana mashati matatu ya bluu na mashati matatu mekundu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "Abdul"
+                  },
+                  {
+                    "end": 113,
+                    "start": 85,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 179,
+                    "start": 114,
+                    "word": "mashati"
+                  },
+                  {
+                    "end": 245,
+                    "start": 180,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 261,
+                    "start": 246,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 299,
+                    "start": 262,
+                    "word": "bluu"
+                  },
+                  {
+                    "end": 371,
+                    "start": 356,
+                    "word": "na"
+                  },
+                  {
+                    "end": 433,
+                    "start": 372,
+                    "word": "mashati"
+                  },
+                  {
+                    "end": 493,
+                    "start": 434,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 560,
+                    "start": 494,
+                    "word": "mekundu"
+                  }
+                ],
+                "until": 560,
+                "utterances": "Abdul ana mashati matatu ya bluu na mashati matatu mekundu"
+              }
+            ],
+            "sentence": "Abdul ana mashati matatu ya bluu na mashati matatu mekundu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je ana mashati mangapi kwa jumla.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 119,
+                    "start": 92,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 181,
+                    "start": 120,
+                    "word": "mashati"
+                  },
+                  {
+                    "end": 244,
+                    "start": 182,
+                    "word": "mangapi"
+                  },
+                  {
+                    "end": 263,
+                    "start": 245,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 332,
+                    "start": 264,
+                    "word": "jumla"
+                  }
+                ],
+                "until": 332,
+                "utterances": "Je ana mashati mangapi kwa jumla"
+              }
+            ],
+            "sentence": "Je, ana mashati mangapi kwa jumla?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Abdul ana mashati matatu ya bluu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Abdul"
+                  },
+                  {
+                    "end": 119,
+                    "start": 94,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 182,
+                    "start": 120,
+                    "word": "mashati"
+                  },
+                  {
+                    "end": 255,
+                    "start": 183,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 267,
+                    "start": 256,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 308,
+                    "start": 268,
+                    "word": "bluu"
+                  }
+                ],
+                "until": 308,
+                "utterances": "Abdul ana mashati matatu ya bluu"
+              }
+            ],
+            "sentence": "Abdul ana mashati matatu ya bluu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Pia ana mashati matatu mekundu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 20,
+                    "word": "Pia"
+                  },
+                  {
+                    "end": 92,
+                    "start": 57,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 152,
+                    "start": 93,
+                    "word": "mashati"
+                  },
+                  {
+                    "end": 213,
+                    "start": 153,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 282,
+                    "start": 214,
+                    "word": "mekundu"
+                  }
+                ],
+                "until": 282,
+                "utterances": "Pia ana mashati matatu mekundu"
+              }
+            ],
+            "sentence": "Pia ana mashati matatu mekundu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide6.jpg",
+      "page": 26,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa jumla ana mashati sita.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 98,
+                    "start": 35,
+                    "word": "jumla"
+                  },
+                  {
+                    "end": 131,
+                    "start": 105,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 191,
+                    "start": 132,
+                    "word": "mashati"
+                  },
+                  {
+                    "end": 236,
+                    "start": 192,
+                    "word": "sita"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Kwa jumla ana mashati sita"
+              }
+            ],
+            "sentence": "Kwa jumla, ana mashati sita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pencils.jpg",
+      "page": 27,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baraka na Musa ni marafiki.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Baraka"
+                  },
+                  {
+                    "end": 85,
+                    "start": 68,
+                    "word": "na"
+                  },
+                  {
+                    "end": 123,
+                    "start": 86,
+                    "word": "Musa"
+                  },
+                  {
+                    "end": 140,
+                    "start": 124,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 230,
+                    "start": 141,
+                    "word": "marafiki"
+                  }
+                ],
+                "until": 230,
+                "utterances": "Baraka na Musa ni marafiki"
+              }
+            ],
+            "sentence": "Baraka na Musa ni marafiki."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Baraka alinunua penseli kwa shilingi tano na Musa alinunua kifutio kwa shilingi nne.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 2,
+                    "word": "Baraka"
+                  },
+                  {
+                    "end": 158,
+                    "start": 73,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 232,
+                    "start": 159,
+                    "word": "penseli"
+                  },
+                  {
+                    "end": 255,
+                    "start": 233,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 304,
+                    "start": 256,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 368,
+                    "start": 305,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 415,
+                    "start": 404,
+                    "word": "na"
+                  },
+                  {
+                    "end": 463,
+                    "start": 416,
+                    "word": "Musa"
+                  },
+                  {
+                    "end": 534,
+                    "start": 464,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 631,
+                    "start": 535,
+                    "word": "kifutio"
+                  },
+                  {
+                    "end": 652,
+                    "start": 639,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 702,
+                    "start": 653,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 747,
+                    "start": 703,
+                    "word": "nne"
+                  }
+                ],
+                "until": 747,
+                "utterances": "Baraka alinunua penseli kwa shilingi tano na Musa alinunua kifutio kwa shilingi nne"
+              }
+            ],
+            "sentence": "Baraka alinunua penseli kwa shilingi tano na Musa alinunua kifutio kwa shilingi nne."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Walitumia fedha ngapi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 20,
+                    "word": "Walitumia"
+                  },
+                  {
+                    "end": 144,
+                    "start": 106,
+                    "word": "fedha"
+                  },
+                  {
+                    "end": 231,
+                    "start": 145,
+                    "word": "ngapi"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Walitumia fedha ngapi"
+              }
+            ],
+            "sentence": "Walitumia fedha ngapi?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by1.jpg",
+      "page": 28,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Baraka alinunua penseli kwa shilingi tano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 121,
+                    "start": 2,
+                    "word": "Baraka"
+                  },
+                  {
+                    "end": 195,
+                    "start": 122,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 276,
+                    "start": 196,
+                    "word": "penseli"
+                  },
+                  {
+                    "end": 304,
+                    "start": 277,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 362,
+                    "start": 305,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 419,
+                    "start": 363,
+                    "word": "tano"
+                  }
+                ],
+                "until": 419,
+                "utterances": "Baraka alinunua penseli kwa shilingi tano"
+              }
+            ],
+            "sentence": "Baraka alinunua penseli kwa shilingi tano."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4by1.jpg",
+      "page": 29,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Musa alinunua kifutio kwa shilingi nne.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 20,
+                    "word": "Musa"
+                  },
+                  {
+                    "end": 164,
+                    "start": 88,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 263,
+                    "start": 165,
+                    "word": "kifutio"
+                  },
+                  {
+                    "end": 287,
+                    "start": 264,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 341,
+                    "start": 288,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 379,
+                    "start": 342,
+                    "word": "nne"
+                  }
+                ],
+                "until": 379,
+                "utterances": "Musa alinunua kifutio kwa shilingi nne"
+              }
+            ],
+            "sentence": "Musa alinunua kifutio kwa shilingi nne."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide7.jpg",
+      "page": 30,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa pamoja walitumia shilingi tisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 113,
+                    "start": 37,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 205,
+                    "start": 129,
+                    "word": "walitumia"
+                  },
+                  {
+                    "end": 262,
+                    "start": 206,
+                    "word": "shilingi"
+                  },
+                  {
+                    "end": 311,
+                    "start": 263,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 311,
+                "utterances": "Kwa pamoja walitumia shilingi tisa"
+              }
+            ],
+            "sentence": "Kwa pamoja walitumia shilingi tisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mandazi.jpg",
+      "page": 31,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Musa ana mandazi manne.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 18,
+                    "word": "Musa"
+                  },
+                  {
+                    "end": 103,
+                    "start": 66,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 166,
+                    "start": 104,
+                    "word": "mandazi"
+                  },
+                  {
+                    "end": 220,
+                    "start": 167,
+                    "word": "manne"
+                  }
+                ],
+                "until": 220,
+                "utterances": "Musa ana mandazi manne"
+              }
+            ],
+            "sentence": "Musa ana mandazi manne."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ananunua mandazi matano zaidi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 20,
+                    "word": "Ananunua"
+                  },
+                  {
+                    "end": 170,
+                    "start": 101,
+                    "word": "mandazi"
+                  },
+                  {
+                    "end": 238,
+                    "start": 171,
+                    "word": "matano"
+                  },
+                  {
+                    "end": 306,
+                    "start": 239,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 306,
+                "utterances": "Ananunua mandazi matano zaidi"
+              }
+            ],
+            "sentence": "Ananunua mandazi matano zaidi. Ni mandazi mangapi anayo sasa?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4by1.jpg",
+      "page": 32,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Musa ana mandazi manne.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 18,
+                    "word": "Musa"
+                  },
+                  {
+                    "end": 103,
+                    "start": 66,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 166,
+                    "start": 104,
+                    "word": "mandazi"
+                  },
+                  {
+                    "end": 220,
+                    "start": 167,
+                    "word": "manne"
+                  }
+                ],
+                "until": 220,
+                "utterances": "Musa ana mandazi manne"
+              }
+            ],
+            "sentence": "Musa ana mandazi manne."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by1.jpg",
+      "page": 33,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ananunua mandazi tano zaidi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 120,
+                    "start": 21,
+                    "word": "Ananunua"
+                  },
+                  {
+                    "end": 198,
+                    "start": 121,
+                    "word": "mandazi"
+                  },
+                  {
+                    "end": 269,
+                    "start": 199,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 343,
+                    "start": 270,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 343,
+                "utterances": "Ananunua mandazi tano zaidi"
+              }
+            ],
+            "sentence": "Ananunua mandazi tano zaidi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide8.jpg",
+      "page": 34,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa jumla ana mandazi tisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 104,
+                    "start": 30,
+                    "word": "jumla"
+                  },
+                  {
+                    "end": 136,
+                    "start": 110,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 195,
+                    "start": 137,
+                    "word": "mandazi"
+                  },
+                  {
+                    "end": 250,
+                    "start": 196,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 250,
+                "utterances": "Kwa jumla ana mandazi tisa"
+              }
+            ],
+            "sentence": "Kwa jumla ana mandazi tisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children.jpg",
+      "page": 35,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna wavulana wawili na wasichana watatu nyumbani kwangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 122,
+                    "start": 69,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 199,
+                    "start": 123,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 236,
+                    "start": 224,
+                    "word": "na"
+                  },
+                  {
+                    "end": 307,
+                    "start": 237,
+                    "word": "wasichana"
+                  },
+                  {
+                    "end": 366,
+                    "start": 308,
+                    "word": "watatu"
+                  },
+                  {
+                    "end": 437,
+                    "start": 367,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 483,
+                    "start": 438,
+                    "word": "kwangu"
+                  }
+                ],
+                "until": 483,
+                "utterances": "Kuna wavulana wawili na wasichana watatu nyumbani kwangu"
+              }
+            ],
+            "sentence": "Kuna wavulana wawili na wasichana watatu nyumbani kwangu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je kuna watoto wangapi ndani ya nyumba yangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 123,
+                    "start": 93,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 184,
+                    "start": 124,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 244,
+                    "start": 185,
+                    "word": "wangapi"
+                  },
+                  {
+                    "end": 294,
+                    "start": 245,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 300,
+                    "start": 295,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 338,
+                    "start": 301,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 400,
+                    "start": 339,
+                    "word": "yangu"
+                  }
+                ],
+                "until": 400,
+                "utterances": "Je kuna watoto wangapi ndani ya nyumba yangu"
+              }
+            ],
+            "sentence": "Je, kuna watoto wangapi ndani ya nyumba yangu?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 36,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna wavulana wawili nyumbani kwangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 134,
+                    "start": 65,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 175,
+                    "start": 135,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 230,
+                    "start": 176,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 280,
+                    "start": 231,
+                    "word": "kwangu"
+                  }
+                ],
+                "until": 280,
+                "utterances": "Kuna wavulana wawili nyumbani kwangu"
+              }
+            ],
+            "sentence": "Kuna wavulana wawili nyumbani kwangu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 37,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna wasichana watatu nyumbani kwangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 113,
+                    "start": 54,
+                    "word": "wasichana"
+                  },
+                  {
+                    "end": 173,
+                    "start": 114,
+                    "word": "watatu"
+                  },
+                  {
+                    "end": 257,
+                    "start": 174,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 309,
+                    "start": 258,
+                    "word": "kwangu"
+                  }
+                ],
+                "until": 309,
+                "utterances": "Kuna wasichana watatu nyumbani kwangu"
+              }
+            ],
+            "sentence": "Kuna wasichana watatu nyumbani kwangu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide9.jpg",
+      "page": 38,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa pamoja kuna watoto watano nyumbani kwangu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 110,
+                    "start": 39,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 153,
+                    "start": 111,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 217,
+                    "start": 154,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 291,
+                    "start": 218,
+                    "word": "watano"
+                  },
+                  {
+                    "end": 372,
+                    "start": 320,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 419,
+                    "start": 373,
+                    "word": "kwangu"
+                  }
+                ],
+                "until": 419,
+                "utterances": "Kwa pamoja kuna watoto watano nyumbani kwangu"
+              }
+            ],
+            "sentence": "Kwa pamoja kuna watoto watano nyumbani kwangu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fruit-stand.jpg",
+      "page": 39,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mama wa Anna alinunua ndizi mbili na machungwa matatu kutoka sokoni.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 21,
+                    "word": "Mama"
+                  },
+                  {
+                    "end": 72,
+                    "start": 63,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 131,
+                    "start": 73,
+                    "word": "Anna"
+                  },
+                  {
+                    "end": 223,
+                    "start": 145,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 267,
+                    "start": 224,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 330,
+                    "start": 268,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 370,
+                    "start": 358,
+                    "word": "na"
+                  },
+                  {
+                    "end": 434,
+                    "start": 371,
+                    "word": "machungwa"
+                  },
+                  {
+                    "end": 507,
+                    "start": 435,
+                    "word": "matatu"
+                  },
+                  {
+                    "end": 582,
+                    "start": 523,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 656,
+                    "start": 583,
+                    "word": "sokoni"
+                  }
+                ],
+                "until": 656,
+                "utterances": "Mama wa Anna alinunua ndizi mbili na machungwa matatu kutoka sokoni"
+              }
+            ],
+            "sentence": "Mama wa Anna alinunua ndizi mbili na machungwa matatu kutoka sokoni."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Alikuwa na matunda mangapi kwa jumla.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 21,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 117,
+                    "start": 96,
+                    "word": "na"
+                  },
+                  {
+                    "end": 179,
+                    "start": 118,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 242,
+                    "start": 180,
+                    "word": "mangapi"
+                  },
+                  {
+                    "end": 263,
+                    "start": 243,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 327,
+                    "start": 264,
+                    "word": "jumla"
+                  }
+                ],
+                "until": 327,
+                "utterances": "Alikuwa na matunda mangapi kwa jumla"
+              }
+            ],
+            "sentence": "Alikuwa na matunda mangapi kwa jumla?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 40,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Mama wa Anna alinunua ndizi mbili.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 2,
+                    "word": "Mama"
+                  },
+                  {
+                    "end": 79,
+                    "start": 61,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 121,
+                    "start": 80,
+                    "word": "Anna"
+                  },
+                  {
+                    "end": 206,
+                    "start": 122,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 256,
+                    "start": 207,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 309,
+                    "start": 257,
+                    "word": "mbili"
+                  }
+                ],
+                "until": 309,
+                "utterances": "Mama wa Anna alinunua ndizi mbili"
+              }
+            ],
+            "sentence": "Mama wa Anna alinunua ndizi mbili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 41,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Pia alinunua machungwa matatu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 21,
+                    "word": "Pia"
+                  },
+                  {
+                    "end": 172,
+                    "start": 77,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 257,
+                    "start": 173,
+                    "word": "machungwa"
+                  },
+                  {
+                    "end": 329,
+                    "start": 258,
+                    "word": "matatu"
+                  }
+                ],
+                "until": 329,
+                "utterances": "Pia alinunua machungwa matatu"
+              }
+            ],
+            "sentence": "Pia alinunua machungwa matatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide10.jpg",
+      "page": 42,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa pamoja alinunua matunda tano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 111,
+                    "start": 40,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 211,
+                    "start": 112,
+                    "word": "alinunua"
+                  },
+                  {
+                    "end": 273,
+                    "start": 212,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 324,
+                    "start": 274,
+                    "word": "tano"
+                  }
+                ],
+                "until": 324,
+                "utterances": "Kwa pamoja alinunua matunda tano"
+              }
+            ],
+            "sentence": "Kwa pamoja alinunua matunda tano."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "",
+  "title": "Word Problems",
+  "titleimage": "{title:Word Problems}{author:RoboTutor}{level:1}"
+}

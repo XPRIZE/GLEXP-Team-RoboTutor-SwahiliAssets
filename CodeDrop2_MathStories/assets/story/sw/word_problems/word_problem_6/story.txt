@@ -1,0 +1,308 @@
+{title:Word Problems}{author:RoboTutor}{level:1}
+
+
+{{{null
+Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu.
+
+
+
+
+
+{{{kid_soccer.jpg
+Kuna timu mbili kwenye uwanja wa michezo.
+Kuna watoto wawili katika kila timu.
+Je, kuna watoto wangapi kwenye uwanja wa michezo kwa jumla?
+____
+
+
+
+
+
+{{{2by1.jpg
+Kwenye timu ya kwanza kuna watoto wanne.
+
+
+
+
+
+{{{Slide60.jpg
+Kwa hivyo, kwenye timu mbili kuna watoto wanne.
+
+
+
+
+
+{{{apples.jpg
+Kuna maembe makubwa kumi juu ya meza.
+Kuna wanafunzi watano.
+Kila mwanafunzi anapata idadi sawa ya maembe.
+Kila mwanafunzi anapata maembe mangapi?
+____
+
+
+
+
+
+{{{5by2.jpg
+Kuna maembe makubwa kumi juu ya meza.
+
+
+
+
+
+{{{5by2_scatter_1.jpg
+Ukimpa kila mwanafunzi tunda moja, matunda matano yatabaki.
+
+
+
+
+
+{{{5by2_scatter_2.jpg
+Ukimpa kila mwanafunzi matunda mawili, hakuna matunda yatabaki.
+
+
+
+
+
+{{{Slide61.jpg
+Kwa hivyo kila mwanafunzi atapata matunda mawili.
+
+
+
+
+
+{{{biscuits.jpg
+Kuna biskuti sita kwenye sanduku.
+Kuna watoto wawili.
+Watoto wanagawa biskuti idadi sawa.
+Je, ni biskuti ngapi kila mtoto anapata?
+____
+
+
+
+
+
+{{{3by2.jpg
+Kuna biskuti sita kwenye sanduku.
+
+
+
+
+
+{{{3by2_split.jpg
+Kuna watoto wawili.
+
+
+
+
+
+{{{Slide62.jpg
+Kwa hivyo kila mwanafunzi anapata matunda matatu.
+
+
+
+
+
+{{{students_bus.jpg
+Watoto 2 wako kwenye basi; watoto wengine 3 wanaingia.
+Je, ni watoto wangapi wako kwenye basi sasa?
+____
+
+
+
+
+
+{{{2by1.jpg
+Watoto wawili wako kwenye basi.
+
+
+
+
+
+{{{3by1.jpg
+Watoto wengine watatu wanaingia.
+
+
+
+
+
+{{{Slide63.jpg
+Kwa hivyo kuna watoto 5 kwenye basi.
+
+
+
+
+
+{{{students_bus.jpg
+Watoto 5 wanaingia kwenye basi.
+Sasa kuna watoto 12 kwenye basi.
+Je, ni watoto wangapi waliokuwa kwenye basi mwanzoni?
+____
+
+
+
+
+
+{{{5by1.jpg
+Watoto 5 wanaingia kwenye basi.
+
+
+
+
+
+{{{5and7.jpg
+Sasa kuna watoto 12 kwenye basi.
+
+
+
+
+
+{{{Slide64.jpg
+Kwa hivyo kulikuwa na watoto 7 kwenye basi mwanzoni.
+
+
+
+
+
+{{{students_bus.jpg
+Kuna watoto 6 kwenye basi; 2 ni wavulana.
+Wengine wote ni wasichana. Kuna wasichana wangapi kwenye basi?
+____
+
+
+
+
+
+{{{3by2.jpg
+Kuna watoto 6 kwenye basi.
+
+
+
+
+
+{{{1by2.jpg
+Wawili ni wavulana.
+
+
+
+
+
+{{{Slide65.jpg
+Kwa hivyo watoto wanne ni wasichana.
+
+
+
+
+
+{{{students_bus.jpg
+Kuna watoto wawili kwenye basi la Yohana na watoto saba kwenye basi la Maria.
+Ni watoto wangapi lazima waingie kwenye basi la Yohana ili kuwa na idadi sawa ya watoto kama basi la Maria?
+____
+
+
+
+
+
+{{{2by1.jpg
+Kuna watoto wawili kwenye basi la Yohana.
+
+
+
+
+
+{{{2and5.jpg
+Kuna watoto 7 kwenye basi la Maria.
+
+
+
+
+
+{{{Slide66.jpg
+Hivyo watoto 5 lazima wajiunge na basi la Yohana ili kuwa sawa na basi la Maria.
+
+
+
+
+
+{{{students_bus.jpg
+Kuna viti vitano kwenye basi.
+Kuna watoto 2 kwenye kila kiti.
+Je, ni watoto wangapi wako kwenye basi?
+____
+
+
+
+
+
+{{{2by1.jpg
+Kwenye kiti cha kwanza, kuna watoto 2.
+
+
+
+
+
+{{{2by2_split.jpg
+Kwenye viti 2, kuna watoto 4.
+
+
+
+
+
+{{{2by3_split.jpg
+Kwenye viti 3, kuna watoto 6.
+
+
+
+
+
+{{{2by4_split.jpg
+Kwenye viti 4, kuna watoto 8.
+
+
+
+
+
+{{{Slide67.jpg
+Kwenye viti 5, kuna watoto 10.
+
+
+
+
+
+{{{sweets.jpg
+Watoto 4 wanagawana pipi 12 kwa usawa kati yao wenyewe.
+Je, kila mtoto anapata pipi ngapi?
+____
+
+
+
+
+
+{{{4by3_scatter_1.jpg
+Kama kila mtoto anapata pipi moja, kutakuwa na pipi 8 zilizobaki.
+
+
+
+
+
+{{{4by3_scatter_2.jpg
+Kama kila mtoto anapata pipi 2, kutakuwa na pipi 4 zilizobaki.
+
+
+
+
+
+{{{4by3_scatter_3.jpg
+Kama kila mtoto anapata pipi 3, hakutakuwa na pipi iliyobaki.
+
+
+
+
+
+{{{Slide68.jpg
+Kwa hivyo kila mtoto anapata pipi 3.
+
+
+
+
+

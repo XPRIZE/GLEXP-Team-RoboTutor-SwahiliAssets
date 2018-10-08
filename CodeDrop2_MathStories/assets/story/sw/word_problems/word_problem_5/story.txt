@@ -1,0 +1,385 @@
+{title:Word Problems}{author:RoboTutor}{level:1}
+
+
+{{{null
+Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu.
+
+
+
+
+
+{{{sweets.jpg
+Anna alikuwa na pipi nane.
+Akazigawa nusu kati yake na rafiki yake Halima.
+Kila mmoja wao alipata pipi ngapi?
+____
+
+
+
+
+
+{{{4by2.jpg
+Anna alikuwa na pipi nane.
+
+
+
+
+
+{{{4by2_split.jpg
+Akazigawa nusu kati yake na rafiki yake Halima.
+
+
+
+
+
+{{{Slide49.jpg
+Kwa hivyo, kila mmoja alipata pipi nne.
+
+
+
+
+
+{{{oranges.jpg
+Fatima ana machungwa sita.
+Anahitaji kugawa sawa kati yake, Rehema na Baraka.
+Kila mmoja atapata machungwa mangapi?
+____
+
+
+
+
+
+{{{2by3.jpg
+Fatima ana machungwa sita.
+
+
+
+
+
+{{{2by3_split.jpg
+Anataka kugawa sawa kati yake, Rehema na Baraka.
+
+
+
+
+
+{{{Slide50.jpg
+Kwa hivyo, kila mmoja atapata machungwa mawili.
+
+
+
+
+
+{{{oranges.jpg
+Adie ana machungwa manne.
+Ismail ana machungwa mawili.
+Je, ni machungwa mangapi wanayo yote?
+____
+
+
+
+
+
+{{{4by1.jpg
+Adie ana machungwa manne.
+
+
+
+
+
+{{{2by1.jpg
+Ismail ana machungwa mawili.
+
+
+
+
+
+{{{Slide51.jpg
+Wana machungwa 6 kwa jumla.
+
+
+
+
+
+{{{children.jpg
+Kuna wavulana watatu nyumbani.
+Kuna wasichana wengine nyumbani.
+Kuna watoto nane nyumbani.
+Kuna wasichana wangapi nyumbani?
+____
+
+
+
+
+
+{{{3by1.jpg
+Kuna wavulana watatu nyumbani.
+
+
+
+
+
+{{{3and5.jpg
+Kuna watoto nane nyumbani.
+
+
+
+
+
+{{{Slide52.jpg
+Kwa hivyo kuna wasichana 5 nyumbani.
+
+
+
+
+
+{{{pens.jpg
+Tomasi alinunua kalamu kadhaa Jumatatu.
+Tomasi alinunua kalamu tatu zaidi siku ya Ijumaa.
+Tomasi ana kalamu tano sasa.
+Tomasi alinunua kalamu ngapi Jumatatu?
+____
+
+
+
+
+
+{{{unknown.jpg
+Tomasi alinunua kalamu kadhaa Jumatatu.
+
+
+
+
+
+{{{3by1.jpg
+Tomasi alinunua kalamu tatu zaidi siku ya Ijumaa.
+
+
+
+
+
+{{{5by1.jpg
+Tomasi ana kalamu tano sasa.
+
+
+
+
+
+{{{Slide53.jpg
+Kwa hivyo Tomasi alikuwa na kalamu mbili Jumatatu.
+
+
+
+
+
+{{{mangoes.jpg
+Billy alikuwa na maembe sita.
+Kisha Billy alikula maembe matatu.
+Billy alibaki na maembe mangapi?
+____
+
+
+
+
+
+{{{3by2.jpg
+Amani alikuwa na maembe sita.
+
+
+
+
+
+{{{3by2_split.jpg
+Kisha Amani akala maembe matatu.
+
+
+
+
+
+{{{Slide54.jpg
+Kwa hivyo Amani alibaki na maembe matatu mwishoni.
+
+
+
+
+
+{{{students_bus.jpg
+Kulikuwa na wanafunzi saba kwenye basi.
+Kisha wanafunzi wengine wakaondoka basi.
+Baada ya hapo, kulikuwa na mwanafunzi mmoja tu kwenye basi.
+Wanafunzi wangapi waliondoka kwenye basi?
+____
+
+
+
+
+
+{{{3and4.jpg
+Kulikuwa na wanafunzi saba kwenye basi.
+
+
+
+
+
+{{{unknown.jpg
+Kisha baadhi ya wanafunzi walitoka kwenye basi.
+
+
+
+
+
+{{{1by1.jpg
+Baada ya hapo, kulikuwa na mwanafunzi mmoja tu kwenye basi.
+
+
+
+
+
+{{{Slide55.jpg
+Kwa hivyo wanafunzi wanne walitoka kwenye basi.
+
+
+
+
+
+{{{mugs.jpg
+Maria alikuwa na vikombe.
+Kisha akavunja vikombe vitatu.
+Maria alibaki na vikombe viwili.
+Maria alianza na vikombe vingapi?
+____
+
+
+
+
+
+{{{unknown.jpg
+Maria alikuwa na vikombe kadhaa.
+
+
+
+
+
+{{{3by1.jpg
+Halafu alivunja vikombe vitatu.
+
+
+
+
+
+{{{Slide56.jpg
+Maria alibaki na vikombe viwili.
+
+
+
+
+
+{{{5by1.jpg
+Kwa hivyo Maria alikuwa na vikombe vitano.
+
+
+
+
+
+{{{caps.jpg
+Akai ana kofia mbili.
+Daudi ana kofia kadhaa.
+Daudi ana kofia nne zaidi ya Akai.
+Je, Daudi ana kofia ngapi?
+____
+
+
+
+
+
+{{{2by1.jpg
+Akai ana kofia mbili.
+
+
+
+
+
+{{{unknown.jpg
+Daudi ana kofia kadhaa.
+
+
+
+
+
+{{{4by1.jpg
+Daudi ana kofia nne zaidi kuliko Akai.
+
+
+
+
+
+{{{Slide57.jpg
+Kwa hivyo Daudi ana kofia 6.
+
+
+
+
+
+{{{pencil_group.jpg
+Mfuko mwekundu una penseli.
+Mfuko wa bluu una penseli tano.
+Mfuko mwekundu una penseli mbili zaidi kuliko mfuko wa bluu.
+Je, penseli ngapi zimo katika mfuko mwekundu?
+____
+
+
+
+
+
+{{{5by1.jpg
+Mfuko wa bluu una penseli tano.
+
+
+
+
+
+{{{Slide58.jpg
+Mfuko mwekundu una penseli mbili zaidi ya mfuko wa bluu.
+
+
+
+
+
+{{{5and2.jpg
+Kwa hivyo, mfuko mwekundu una penseli 7.
+
+
+
+
+
+{{{cupcakes.jpg
+Yohana ana masanduku matatu.
+Kila sanduku lina keki tatu tamu.
+Yohana ana keki ngapi?
+____
+
+
+
+
+
+{{{3by1.jpg
+Sanduku la kwanza lina keki tatu.
+
+
+
+
+
+{{{3by2_split.jpg
+Kwenye sanduku la kwanza na la pili kuna keki sita.
+
+
+
+
+
+{{{Slide59.jpg
+Kwa hivyo, masanduku mawili yana keki tisa.
+
+
+
+
+

@@ -1,0 +1,3048 @@
+{
+  "author": "RoboTutor",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Angalia"
+                  },
+                  {
+                    "end": 168,
+                    "start": 94,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 281,
+                    "start": 207,
+                    "word": "unaweza"
+                  },
+                  {
+                    "end": 366,
+                    "start": 282,
+                    "word": "kuambia"
+                  },
+                  {
+                    "end": 445,
+                    "start": 367,
+                    "word": "RoboTutor"
+                  },
+                  {
+                    "end": 493,
+                    "start": 446,
+                    "word": "jibu"
+                  },
+                  {
+                    "end": 589,
+                    "start": 549,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 676,
+                    "start": 590,
+                    "word": "RoboTutor"
+                  },
+                  {
+                    "end": 774,
+                    "start": 677,
+                    "word": "ikuonyeshe"
+                  },
+                  {
+                    "end": 819,
+                    "start": 775,
+                    "word": "jibu"
+                  }
+                ],
+                "until": 819,
+                "utterances": "Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu"
+              }
+            ],
+            "sentence": "Angalia kama unaweza kuambia RoboTutor jibu kabla RoboTutor ikuonyeshe jibu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kid_soccer.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna timu mbili kwenye uwanja wa michezo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 95,
+                    "start": 47,
+                    "word": "timu"
+                  },
+                  {
+                    "end": 160,
+                    "start": 96,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 203,
+                    "start": 161,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 264,
+                    "start": 204,
+                    "word": "uwanja"
+                  },
+                  {
+                    "end": 281,
+                    "start": 265,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 356,
+                    "start": 282,
+                    "word": "michezo"
+                  }
+                ],
+                "until": 356,
+                "utterances": "Kuna timu mbili kwenye uwanja wa michezo"
+              }
+            ],
+            "sentence": "Kuna timu mbili kwenye uwanja wa michezo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto wawili katika kila timu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 115,
+                    "start": 56,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 190,
+                    "start": 116,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 252,
+                    "start": 191,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 295,
+                    "start": 253,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 348,
+                    "start": 296,
+                    "word": "timu"
+                  }
+                ],
+                "until": 348,
+                "utterances": "Kuna watoto wawili katika kila timu"
+              }
+            ],
+            "sentence": "Kuna watoto wawili katika kila timu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je kuna watoto wangapi kwenye uwanja wa michezo kwa jumla.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 120,
+                    "start": 56,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 174,
+                    "start": 121,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 259,
+                    "start": 175,
+                    "word": "wangapi"
+                  },
+                  {
+                    "end": 318,
+                    "start": 278,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 383,
+                    "start": 319,
+                    "word": "uwanja"
+                  },
+                  {
+                    "end": 393,
+                    "start": 384,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 459,
+                    "start": 394,
+                    "word": "michezo"
+                  },
+                  {
+                    "end": 474,
+                    "start": 460,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 538,
+                    "start": 475,
+                    "word": "jumla"
+                  }
+                ],
+                "until": 538,
+                "utterances": "Je kuna watoto wangapi kwenye uwanja wa michezo kwa jumla"
+              }
+            ],
+            "sentence": "Je, kuna watoto wangapi kwenye uwanja wa michezo kwa jumla?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwenye timu ya kwanza kuna watoto wanne.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 2,
+                    "word": "Kwenye"
+                  },
+                  {
+                    "end": 95,
+                    "start": 51,
+                    "word": "timu"
+                  },
+                  {
+                    "end": 111,
+                    "start": 96,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 181,
+                    "start": 112,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 235,
+                    "start": 182,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 285,
+                    "start": 236,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 343,
+                    "start": 286,
+                    "word": "wanne"
+                  }
+                ],
+                "until": 343,
+                "utterances": "Kwenye timu ya kwanza kuna watoto wanne"
+              }
+            ],
+            "sentence": "Kwenye timu ya kwanza kuna watoto wanne."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide60.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo kwenye timu mbili kuna watoto wanne.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 95,
+                    "start": 32,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 135,
+                    "start": 96,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 175,
+                    "start": 136,
+                    "word": "timu"
+                  },
+                  {
+                    "end": 233,
+                    "start": 176,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 281,
+                    "start": 234,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 334,
+                    "start": 282,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 383,
+                    "start": 335,
+                    "word": "wanne"
+                  }
+                ],
+                "until": 383,
+                "utterances": "Kwa hivyo kwenye timu mbili kuna watoto wanne"
+              }
+            ],
+            "sentence": "Kwa hivyo, kwenye timu mbili kuna watoto wanne."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "apples.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna maembe makubwa kumi juu ya meza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 107,
+                    "start": 49,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 169,
+                    "start": 108,
+                    "word": "makubwa"
+                  },
+                  {
+                    "end": 240,
+                    "start": 170,
+                    "word": "kumi"
+                  },
+                  {
+                    "end": 289,
+                    "start": 259,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 310,
+                    "start": 290,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 359,
+                    "start": 311,
+                    "word": "meza"
+                  }
+                ],
+                "until": 359,
+                "utterances": "Kuna maembe makubwa kumi juu ya meza"
+              }
+            ],
+            "sentence": "Kuna maembe makubwa kumi juu ya meza."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kuna wanafunzi watano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 135,
+                    "start": 54,
+                    "word": "wanafunzi"
+                  },
+                  {
+                    "end": 212,
+                    "start": 136,
+                    "word": "watano"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Kuna wanafunzi watano"
+              }
+            ],
+            "sentence": "Kuna wanafunzi watano."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kila mwanafunzi anapata idadi sawa ya maembe.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 169,
+                    "start": 53,
+                    "word": "mwanafunzi"
+                  },
+                  {
+                    "end": 240,
+                    "start": 170,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 300,
+                    "start": 255,
+                    "word": "idadi"
+                  },
+                  {
+                    "end": 341,
+                    "start": 301,
+                    "word": "sawa"
+                  },
+                  {
+                    "end": 361,
+                    "start": 342,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 427,
+                    "start": 362,
+                    "word": "maembe"
+                  }
+                ],
+                "until": 427,
+                "utterances": "Kila mwanafunzi anapata idadi sawa ya maembe"
+              }
+            ],
+            "sentence": "Kila mwanafunzi anapata idadi sawa ya maembe."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kila mwanafunzi anapata maembe mangapi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 161,
+                    "start": 55,
+                    "word": "mwanafunzi"
+                  },
+                  {
+                    "end": 234,
+                    "start": 162,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 293,
+                    "start": 235,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 396,
+                    "start": 294,
+                    "word": "mangapi"
+                  }
+                ],
+                "until": 396,
+                "utterances": "Kila mwanafunzi anapata maembe mangapi"
+              }
+            ],
+            "sentence": "Kila mwanafunzi anapata maembe mangapi?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by2.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna maembe makubwa kumi juu ya meza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 107,
+                    "start": 49,
+                    "word": "maembe"
+                  },
+                  {
+                    "end": 169,
+                    "start": 108,
+                    "word": "makubwa"
+                  },
+                  {
+                    "end": 240,
+                    "start": 170,
+                    "word": "kumi"
+                  },
+                  {
+                    "end": 289,
+                    "start": 259,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 310,
+                    "start": 290,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 359,
+                    "start": 311,
+                    "word": "meza"
+                  }
+                ],
+                "until": 359,
+                "utterances": "Kuna maembe makubwa kumi juu ya meza"
+              }
+            ],
+            "sentence": "Kuna maembe makubwa kumi juu ya meza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by2_scatter_1.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ukimpa kila mwanafunzi tunda moja matunda matano yatabaki.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 22,
+                    "word": "Ukimpa"
+                  },
+                  {
+                    "end": 121,
+                    "start": 84,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 206,
+                    "start": 122,
+                    "word": "mwanafunzi"
+                  },
+                  {
+                    "end": 246,
+                    "start": 207,
+                    "word": "tunda"
+                  },
+                  {
+                    "end": 297,
+                    "start": 247,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 407,
+                    "start": 353,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 472,
+                    "start": 408,
+                    "word": "matano"
+                  },
+                  {
+                    "end": 560,
+                    "start": 473,
+                    "word": "yatabaki"
+                  }
+                ],
+                "until": 560,
+                "utterances": "Ukimpa kila mwanafunzi tunda moja matunda matano yatabaki"
+              }
+            ],
+            "sentence": "Ukimpa kila mwanafunzi tunda moja, matunda matano yatabaki."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by2_scatter_2.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Ukimpa kila mwanafunzi matunda mawili hakuna matunda yatabaki.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 13,
+                    "word": "Ukimpa"
+                  },
+                  {
+                    "end": 120,
+                    "start": 82,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 209,
+                    "start": 121,
+                    "word": "mwanafunzi"
+                  },
+                  {
+                    "end": 269,
+                    "start": 210,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 358,
+                    "start": 270,
+                    "word": "mawili"
+                  },
+                  {
+                    "end": 435,
+                    "start": 379,
+                    "word": "hakuna"
+                  },
+                  {
+                    "end": 494,
+                    "start": 436,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 583,
+                    "start": 495,
+                    "word": "yatabaki"
+                  }
+                ],
+                "until": 583,
+                "utterances": "Ukimpa kila mwanafunzi matunda mawili hakuna matunda yatabaki"
+              }
+            ],
+            "sentence": "Ukimpa kila mwanafunzi matunda mawili, hakuna matunda yatabaki."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide61.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo kila mwanafunzi atapata matunda mawili.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 106,
+                    "start": 34,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 159,
+                    "start": 131,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 253,
+                    "start": 160,
+                    "word": "mwanafunzi"
+                  },
+                  {
+                    "end": 325,
+                    "start": 254,
+                    "word": "atapata"
+                  },
+                  {
+                    "end": 387,
+                    "start": 326,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 458,
+                    "start": 388,
+                    "word": "mawili"
+                  }
+                ],
+                "until": 458,
+                "utterances": "Kwa hivyo kila mwanafunzi atapata matunda mawili"
+              }
+            ],
+            "sentence": "Kwa hivyo kila mwanafunzi atapata matunda mawili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "biscuits.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna biskuti sita kwenye sanduku.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 117,
+                    "start": 51,
+                    "word": "biskuti"
+                  },
+                  {
+                    "end": 160,
+                    "start": 118,
+                    "word": "sita"
+                  },
+                  {
+                    "end": 206,
+                    "start": 161,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 253,
+                    "start": 207,
+                    "word": "sanduku"
+                  }
+                ],
+                "until": 253,
+                "utterances": "Kuna biskuti sita kwenye sanduku"
+              }
+            ],
+            "sentence": "Kuna biskuti sita kwenye sanduku."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto wawili.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 117,
+                    "start": 53,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 183,
+                    "start": 118,
+                    "word": "wawili"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Kuna watoto wawili"
+              }
+            ],
+            "sentence": "Kuna watoto wawili."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Watoto wanagawa biskuti idadi sawa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 156,
+                    "start": 76,
+                    "word": "wanagawa"
+                  },
+                  {
+                    "end": 231,
+                    "start": 157,
+                    "word": "biskuti"
+                  },
+                  {
+                    "end": 281,
+                    "start": 232,
+                    "word": "idadi"
+                  },
+                  {
+                    "end": 335,
+                    "start": 282,
+                    "word": "sawa"
+                  }
+                ],
+                "until": 335,
+                "utterances": "Watoto wanagawa biskuti idadi sawa"
+              }
+            ],
+            "sentence": "Watoto wanagawa biskuti idadi sawa."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je ni biskuti ngapi kila mtoto anapata.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 72,
+                    "start": 55,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 136,
+                    "start": 73,
+                    "word": "biskuti"
+                  },
+                  {
+                    "end": 191,
+                    "start": 137,
+                    "word": "ngapi"
+                  },
+                  {
+                    "end": 227,
+                    "start": 192,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 281,
+                    "start": 228,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 384,
+                    "start": 282,
+                    "word": "anapata"
+                  }
+                ],
+                "until": 384,
+                "utterances": "Je ni biskuti ngapi kila mtoto anapata"
+              }
+            ],
+            "sentence": "Je, ni biskuti ngapi kila mtoto anapata?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by2.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna biskuti sita kwenye sanduku.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 117,
+                    "start": 51,
+                    "word": "biskuti"
+                  },
+                  {
+                    "end": 160,
+                    "start": 118,
+                    "word": "sita"
+                  },
+                  {
+                    "end": 206,
+                    "start": 161,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 253,
+                    "start": 207,
+                    "word": "sanduku"
+                  }
+                ],
+                "until": 253,
+                "utterances": "Kuna biskuti sita kwenye sanduku"
+              }
+            ],
+            "sentence": "Kuna biskuti sita kwenye sanduku."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by2_split.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto wawili.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 117,
+                    "start": 53,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 183,
+                    "start": 118,
+                    "word": "wawili"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Kuna watoto wawili"
+              }
+            ],
+            "sentence": "Kuna watoto wawili."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide62.jpg",
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo kila mwanafunzi anapata matunda matatu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 102,
+                    "start": 33,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 141,
+                    "start": 112,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 229,
+                    "start": 142,
+                    "word": "mwanafunzi"
+                  },
+                  {
+                    "end": 301,
+                    "start": 230,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 360,
+                    "start": 302,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 436,
+                    "start": 361,
+                    "word": "matatu"
+                  }
+                ],
+                "until": 436,
+                "utterances": "Kwa hivyo kila mwanafunzi anapata matunda matatu"
+              }
+            ],
+            "sentence": "Kwa hivyo kila mwanafunzi anapata matunda matatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "students_bus.jpg",
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto 2 wako kwenye basi.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 1,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 102,
+                    "start": 84,
+                    "word": "2"
+                  },
+                  {
+                    "end": 124,
+                    "start": 103,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 201,
+                    "start": 125,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 241,
+                    "start": 202,
+                    "word": "basi"
+                  }
+                ],
+                "until": 241,
+                "utterances": "Watoto 2 wako kwenye basi"
+              }
+            ],
+            "sentence": "Watoto 2 wako kwenye basi; watoto wengine 3 wanaingia."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je ni watoto wangapi wako kwenye basi sasa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 105,
+                    "start": 90,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 168,
+                    "start": 106,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 235,
+                    "start": 169,
+                    "word": "wangapi"
+                  },
+                  {
+                    "end": 263,
+                    "start": 236,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 313,
+                    "start": 264,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 354,
+                    "start": 314,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 423,
+                    "start": 355,
+                    "word": "sasa"
+                  }
+                ],
+                "until": 423,
+                "utterances": "Je ni watoto wangapi wako kwenye basi sasa"
+              }
+            ],
+            "sentence": "Je, ni watoto wangapi wako kwenye basi sasa?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto wawili wako kwenye basi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 141,
+                    "start": 89,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 168,
+                    "start": 142,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 223,
+                    "start": 169,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 278,
+                    "start": 224,
+                    "word": "basi"
+                  }
+                ],
+                "until": 278,
+                "utterances": "Watoto wawili wako kwenye basi"
+              }
+            ],
+            "sentence": "Watoto wawili wako kwenye basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by1.jpg",
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "watoto wengine watatu wanaingia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 21,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 130,
+                    "start": 75,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 196,
+                    "start": 131,
+                    "word": "watatu"
+                  },
+                  {
+                    "end": 300,
+                    "start": 197,
+                    "word": "wanaingia"
+                  }
+                ],
+                "until": 300,
+                "utterances": "watoto wengine watatu wanaingia"
+              }
+            ],
+            "sentence": "Watoto wengine watatu wanaingia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide63.jpg",
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo kuna watoto 5 kwenye basi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 101,
+                    "start": 36,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 164,
+                    "start": 130,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 223,
+                    "start": 165,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 250,
+                    "start": 224,
+                    "word": "5"
+                  },
+                  {
+                    "end": 303,
+                    "start": 251,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 359,
+                    "start": 304,
+                    "word": "basi"
+                  }
+                ],
+                "until": 359,
+                "utterances": "Kwa hivyo kuna watoto 5 kwenye basi"
+              }
+            ],
+            "sentence": "Kwa hivyo kuna watoto 5 kwenye basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "students_bus.jpg",
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto 5 wanaingia kwenye basi.mp3",
+                "from": 102,
+                "segmentation": [
+                  {
+                    "end": 171,
+                    "start": 102,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 391,
+                    "start": 172,
+                    "word": "5"
+                  },
+                  {
+                    "end": 595,
+                    "start": 463,
+                    "word": "wanaingia"
+                  },
+                  {
+                    "end": 747,
+                    "start": 663,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 906,
+                    "start": 880,
+                    "word": "basi"
+                  }
+                ],
+                "until": 906,
+                "utterances": "Watoto 5 wanaingia kwenye basi"
+              }
+            ],
+            "sentence": "Watoto 5 wanaingia kwenye basi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Sasa kuna watoto 12 kwenye basi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 20,
+                    "word": "Sasa"
+                  },
+                  {
+                    "end": 114,
+                    "start": 75,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 177,
+                    "start": 115,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 237,
+                    "start": 211,
+                    "word": "12"
+                  },
+                  {
+                    "end": 348,
+                    "start": 295,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 399,
+                    "start": 349,
+                    "word": "basi"
+                  }
+                ],
+                "until": 399,
+                "utterances": "Sasa kuna watoto 12 kwenye basi"
+              }
+            ],
+            "sentence": "Sasa kuna watoto 12 kwenye basi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je ni watoto wangapi waliokuwa kwenye basi mwanzoni.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 21,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 92,
+                    "start": 81,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 156,
+                    "start": 93,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 222,
+                    "start": 157,
+                    "word": "wangapi"
+                  },
+                  {
+                    "end": 334,
+                    "start": 258,
+                    "word": "waliokuwa"
+                  },
+                  {
+                    "end": 379,
+                    "start": 335,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 420,
+                    "start": 380,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 515,
+                    "start": 421,
+                    "word": "mwanzoni"
+                  }
+                ],
+                "until": 515,
+                "utterances": "Je ni watoto wangapi waliokuwa kwenye basi mwanzoni"
+              }
+            ],
+            "sentence": "Je, ni watoto wangapi waliokuwa kwenye basi mwanzoni?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5by1.jpg",
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto 5 wanaingia kwenye basi.mp3",
+                "from": 102,
+                "segmentation": [
+                  {
+                    "end": 171,
+                    "start": 102,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 391,
+                    "start": 172,
+                    "word": "5"
+                  },
+                  {
+                    "end": 595,
+                    "start": 463,
+                    "word": "wanaingia"
+                  },
+                  {
+                    "end": 747,
+                    "start": 663,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 906,
+                    "start": 880,
+                    "word": "basi"
+                  }
+                ],
+                "until": 906,
+                "utterances": "Watoto 5 wanaingia kwenye basi"
+              }
+            ],
+            "sentence": "Watoto 5 wanaingia kwenye basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5and7.jpg",
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Sasa kuna watoto 12 kwenye basi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 20,
+                    "word": "Sasa"
+                  },
+                  {
+                    "end": 114,
+                    "start": 75,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 177,
+                    "start": 115,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 237,
+                    "start": 211,
+                    "word": "12"
+                  },
+                  {
+                    "end": 348,
+                    "start": 295,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 399,
+                    "start": 349,
+                    "word": "basi"
+                  }
+                ],
+                "until": 399,
+                "utterances": "Sasa kuna watoto 12 kwenye basi"
+              }
+            ],
+            "sentence": "Sasa kuna watoto 12 kwenye basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide64.jpg",
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo kulikuwa na watoto 7 kwenye basi mwanzoni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 104,
+                    "start": 33,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 186,
+                    "start": 122,
+                    "word": "kulikuwa"
+                  },
+                  {
+                    "end": 215,
+                    "start": 187,
+                    "word": "na"
+                  },
+                  {
+                    "end": 273,
+                    "start": 216,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 342,
+                    "start": 274,
+                    "word": "7"
+                  },
+                  {
+                    "end": 417,
+                    "start": 379,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 454,
+                    "start": 418,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 534,
+                    "start": 455,
+                    "word": "mwanzoni"
+                  }
+                ],
+                "until": 534,
+                "utterances": "Kwa hivyo kulikuwa na watoto 7 kwenye basi mwanzoni"
+              }
+            ],
+            "sentence": "Kwa hivyo kulikuwa na watoto 7 kwenye basi mwanzoni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "students_bus.jpg",
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto 6 kwenye basi 2 ni wavulana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 110,
+                    "start": 54,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 142,
+                    "start": 111,
+                    "word": "6"
+                  },
+                  {
+                    "end": 205,
+                    "start": 143,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 263,
+                    "start": 206,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 310,
+                    "start": 282,
+                    "word": "2"
+                  },
+                  {
+                    "end": 348,
+                    "start": 311,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 426,
+                    "start": 349,
+                    "word": "wavulana"
+                  }
+                ],
+                "until": 426,
+                "utterances": "Kuna watoto 6 kwenye basi 2 ni wavulana"
+              }
+            ],
+            "sentence": "Kuna watoto 6 kwenye basi; 2 ni wavulana."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Wengine wote ni wasichana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 21,
+                    "word": "Wengine"
+                  },
+                  {
+                    "end": 111,
+                    "start": 81,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 127,
+                    "start": 112,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 205,
+                    "start": 128,
+                    "word": "wasichana"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Wengine wote ni wasichana"
+              }
+            ],
+            "sentence": "Wengine wote ni wasichana. Kuna wasichana wangapi kwenye basi?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3by2.jpg",
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto 6 kwenye basi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 111,
+                    "start": 59,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 146,
+                    "start": 112,
+                    "word": "6"
+                  },
+                  {
+                    "end": 198,
+                    "start": 147,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 256,
+                    "start": 199,
+                    "word": "basi"
+                  }
+                ],
+                "until": 256,
+                "utterances": "Kuna watoto 6 kwenye basi"
+              }
+            ],
+            "sentence": "Kuna watoto 6 kwenye basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "1by2.jpg",
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wawili ni wavulana.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 19,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 86,
+                    "start": 66,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 163,
+                    "start": 87,
+                    "word": "wavulana"
+                  }
+                ],
+                "until": 163,
+                "utterances": "wawili ni wavulana"
+              }
+            ],
+            "sentence": "Wawili ni wavulana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide65.jpg",
+      "page": 26,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo watoto wanne ni wasichana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 109,
+                    "start": 34,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 189,
+                    "start": 135,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 260,
+                    "start": 190,
+                    "word": "wanne"
+                  },
+                  {
+                    "end": 287,
+                    "start": 276,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 372,
+                    "start": 288,
+                    "word": "wasichana"
+                  }
+                ],
+                "until": 372,
+                "utterances": "Kwa hivyo watoto wanne ni wasichana"
+              }
+            ],
+            "sentence": "Kwa hivyo watoto wanne ni wasichana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "students_bus.jpg",
+      "page": 27,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto wawili kwenye basi la Yohana na watoto saba kwenye basi la Maria.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 106,
+                    "start": 51,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 166,
+                    "start": 107,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 210,
+                    "start": 167,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 258,
+                    "start": 211,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 274,
+                    "start": 259,
+                    "word": "la"
+                  },
+                  {
+                    "end": 341,
+                    "start": 275,
+                    "word": "Yohana"
+                  },
+                  {
+                    "end": 414,
+                    "start": 396,
+                    "word": "na"
+                  },
+                  {
+                    "end": 469,
+                    "start": 415,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 514,
+                    "start": 470,
+                    "word": "saba"
+                  },
+                  {
+                    "end": 557,
+                    "start": 515,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 595,
+                    "start": 558,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 613,
+                    "start": 596,
+                    "word": "la"
+                  },
+                  {
+                    "end": 669,
+                    "start": 614,
+                    "word": "Maria"
+                  }
+                ],
+                "until": 669,
+                "utterances": "Kuna watoto wawili kwenye basi la Yohana na watoto saba kwenye basi la Maria"
+              }
+            ],
+            "sentence": "Kuna watoto wawili kwenye basi la Yohana na watoto saba kwenye basi la Maria."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Ni watoto wangapi lazima waingie kwenye basi la Yohana ili kuwa na idadi sawa ya watoto kama basi la_6.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 2,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 117,
+                    "start": 47,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 192,
+                    "start": 118,
+                    "word": "wangapi"
+                  },
+                  {
+                    "end": 244,
+                    "start": 193,
+                    "word": "lazima"
+                  },
+                  {
+                    "end": 340,
+                    "start": 245,
+                    "word": "waingie"
+                  },
+                  {
+                    "end": 420,
+                    "start": 366,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 455,
+                    "start": 421,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 472,
+                    "start": 456,
+                    "word": "la"
+                  },
+                  {
+                    "end": 534,
+                    "start": 473,
+                    "word": "Yohana"
+                  },
+                  {
+                    "end": 621,
+                    "start": 593,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 655,
+                    "start": 622,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 684,
+                    "start": 656,
+                    "word": "na"
+                  },
+                  {
+                    "end": 738,
+                    "start": 685,
+                    "word": "idadi"
+                  },
+                  {
+                    "end": 787,
+                    "start": 739,
+                    "word": "sawa"
+                  },
+                  {
+                    "end": 808,
+                    "start": 788,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 882,
+                    "start": 809,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 960,
+                    "start": 887,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 996,
+                    "start": 961,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 1011,
+                    "start": 997,
+                    "word": "la"
+                  },
+                  {
+                    "end": 1079,
+                    "start": 1012,
+                    "word": "Maria"
+                  }
+                ],
+                "until": 1079,
+                "utterances": "Ni watoto wangapi lazima waingie kwenye basi la Yohana ili kuwa na idadi sawa ya watoto kama basi la Maria"
+              }
+            ],
+            "sentence": "Ni watoto wangapi lazima waingie kwenye basi la Yohana ili kuwa na idadi sawa ya watoto kama basi la Maria?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 28,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto wawili kwenye basi la Yohana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 112,
+                    "start": 54,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 195,
+                    "start": 113,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 259,
+                    "start": 205,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 292,
+                    "start": 260,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 312,
+                    "start": 293,
+                    "word": "la"
+                  },
+                  {
+                    "end": 375,
+                    "start": 313,
+                    "word": "Yohana"
+                  }
+                ],
+                "until": 375,
+                "utterances": "Kuna watoto wawili kwenye basi la Yohana"
+              }
+            ],
+            "sentence": "Kuna watoto wawili kwenye basi la Yohana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2and5.jpg",
+      "page": 29,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kuna watoto 7 kwenye basi la Maria.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 107,
+                    "start": 54,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 172,
+                    "start": 108,
+                    "word": "7"
+                  },
+                  {
+                    "end": 226,
+                    "start": 197,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 266,
+                    "start": 227,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 280,
+                    "start": 267,
+                    "word": "la"
+                  },
+                  {
+                    "end": 341,
+                    "start": 281,
+                    "word": "Maria"
+                  }
+                ],
+                "until": 341,
+                "utterances": "Kuna watoto 7 kwenye basi la Maria"
+              }
+            ],
+            "sentence": "Kuna watoto 7 kwenye basi la Maria."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide66.jpg",
+      "page": 30,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hivyo watoto 5 lazima wajiunge na basi la Yohana ili kuwa sawa na basi la Maria.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 2,
+                    "word": "Hivyo"
+                  },
+                  {
+                    "end": 181,
+                    "start": 128,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 218,
+                    "start": 182,
+                    "word": "5"
+                  },
+                  {
+                    "end": 327,
+                    "start": 275,
+                    "word": "lazima"
+                  },
+                  {
+                    "end": 398,
+                    "start": 328,
+                    "word": "wajiunge"
+                  },
+                  {
+                    "end": 417,
+                    "start": 399,
+                    "word": "na"
+                  },
+                  {
+                    "end": 463,
+                    "start": 418,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 482,
+                    "start": 464,
+                    "word": "la"
+                  },
+                  {
+                    "end": 561,
+                    "start": 483,
+                    "word": "Yohana"
+                  },
+                  {
+                    "end": 638,
+                    "start": 601,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 664,
+                    "start": 639,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 711,
+                    "start": 665,
+                    "word": "sawa"
+                  },
+                  {
+                    "end": 731,
+                    "start": 712,
+                    "word": "na"
+                  },
+                  {
+                    "end": 776,
+                    "start": 732,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 784,
+                    "start": 777,
+                    "word": "la"
+                  },
+                  {
+                    "end": 846,
+                    "start": 785,
+                    "word": "Maria"
+                  }
+                ],
+                "until": 846,
+                "utterances": "Hivyo watoto 5 lazima wajiunge na basi la Yohana ili kuwa sawa na basi la Maria"
+              }
+            ],
+            "sentence": "Hivyo watoto 5 lazima wajiunge na basi la Yohana ili kuwa sawa na basi la Maria."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by1.jpg",
+      "page": 31,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwenye kiti cha kwanza kuna watoto 2.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 1,
+                    "word": "Kwenye"
+                  },
+                  {
+                    "end": 90,
+                    "start": 49,
+                    "word": "kiti"
+                  },
+                  {
+                    "end": 110,
+                    "start": 91,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 182,
+                    "start": 111,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 248,
+                    "start": 212,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 332,
+                    "start": 249,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 355,
+                    "start": 350,
+                    "word": "2"
+                  }
+                ],
+                "until": 355,
+                "utterances": "Kwenye kiti cha kwanza kuna watoto 2"
+              }
+            ],
+            "sentence": "Kwenye kiti cha kwanza, kuna watoto 2."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by2_split.jpg",
+      "page": 32,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwenye viti 2 kuna watoto 4.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 1,
+                    "word": "Kwenye"
+                  },
+                  {
+                    "end": 95,
+                    "start": 57,
+                    "word": "viti"
+                  },
+                  {
+                    "end": 124,
+                    "start": 96,
+                    "word": "2"
+                  },
+                  {
+                    "end": 196,
+                    "start": 125,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 282,
+                    "start": 197,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 298,
+                    "start": 283,
+                    "word": "4"
+                  }
+                ],
+                "until": 298,
+                "utterances": "Kwenye viti 2 kuna watoto 4"
+              }
+            ],
+            "sentence": "Kwenye viti 2, kuna watoto 4."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by3_split.jpg",
+      "page": 33,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwenye viti 3 kuna watoto 6.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "Kwenye"
+                  },
+                  {
+                    "end": 103,
+                    "start": 55,
+                    "word": "viti"
+                  },
+                  {
+                    "end": 141,
+                    "start": 129,
+                    "word": "3"
+                  },
+                  {
+                    "end": 218,
+                    "start": 186,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 272,
+                    "start": 219,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 316,
+                    "start": 273,
+                    "word": "6"
+                  }
+                ],
+                "until": 316,
+                "utterances": "Kwenye viti 3 kuna watoto 6"
+              }
+            ],
+            "sentence": "Kwenye viti 3, kuna watoto 6."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2by4_split.jpg",
+      "page": 34,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwenye viti 4 kuna watoto 8.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 1,
+                    "word": "Kwenye"
+                  },
+                  {
+                    "end": 121,
+                    "start": 54,
+                    "word": "viti"
+                  },
+                  {
+                    "end": 161,
+                    "start": 122,
+                    "word": "4"
+                  },
+                  {
+                    "end": 225,
+                    "start": 162,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 284,
+                    "start": 226,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 385,
+                    "start": 314,
+                    "word": "8"
+                  }
+                ],
+                "until": 385,
+                "utterances": "Kwenye viti 4 kuna watoto 8"
+              }
+            ],
+            "sentence": "Kwenye viti 4, kuna watoto 8."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide67.jpg",
+      "page": 35,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwenye viti 5 kuna watoto 10.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 1,
+                    "word": "Kwenye"
+                  },
+                  {
+                    "end": 104,
+                    "start": 55,
+                    "word": "viti"
+                  },
+                  {
+                    "end": 149,
+                    "start": 105,
+                    "word": "5"
+                  },
+                  {
+                    "end": 235,
+                    "start": 205,
+                    "word": "kuna"
+                  },
+                  {
+                    "end": 296,
+                    "start": 236,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 344,
+                    "start": 315,
+                    "word": "10"
+                  }
+                ],
+                "until": 344,
+                "utterances": "Kwenye viti 5 kuna watoto 10"
+              }
+            ],
+            "sentence": "Kwenye viti 5, kuna watoto 10."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sweets.jpg",
+      "page": 36,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Watoto 4 wanagawana pipi 12 kwa usawa kati yao wenyewe.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 18,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 122,
+                    "start": 82,
+                    "word": "4"
+                  },
+                  {
+                    "end": 291,
+                    "start": 185,
+                    "word": "wanagawana"
+                  },
+                  {
+                    "end": 348,
+                    "start": 292,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 415,
+                    "start": 377,
+                    "word": "12"
+                  },
+                  {
+                    "end": 544,
+                    "start": 521,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 603,
+                    "start": 545,
+                    "word": "usawa"
+                  },
+                  {
+                    "end": 667,
+                    "start": 604,
+                    "word": "kati"
+                  },
+                  {
+                    "end": 688,
+                    "start": 668,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 764,
+                    "start": 689,
+                    "word": "wenyewe"
+                  }
+                ],
+                "until": 764,
+                "utterances": "Watoto 4 wanagawana pipi 12 kwa usawa kati yao wenyewe"
+              }
+            ],
+            "sentence": "Watoto 4 wanagawana pipi 12 kwa usawa kati yao wenyewe."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Je kila mtoto anapata pipi ngapi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 136,
+                    "start": 105,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 203,
+                    "start": 137,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 274,
+                    "start": 204,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 319,
+                    "start": 275,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 398,
+                    "start": 320,
+                    "word": "ngapi"
+                  }
+                ],
+                "until": 398,
+                "utterances": "Je kila mtoto anapata pipi ngapi"
+              }
+            ],
+            "sentence": "Je, kila mtoto anapata pipi ngapi?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "silence three seconds.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3000,
+                    "start": 1,
+                    "word": "____"
+                  }
+                ],
+                "until": 3000,
+                "utterances": "____"
+              }
+            ],
+            "sentence": "____"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4by3_scatter_1.jpg",
+      "page": 37,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kama kila mtoto anapata pipi moja kutakuwa na pipi 8 zilizobaki.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 22,
+                    "word": "Kama"
+                  },
+                  {
+                    "end": 106,
+                    "start": 61,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 198,
+                    "start": 107,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 264,
+                    "start": 199,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 306,
+                    "start": 265,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 369,
+                    "start": 307,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 473,
+                    "start": 408,
+                    "word": "kutakuwa"
+                  },
+                  {
+                    "end": 492,
+                    "start": 474,
+                    "word": "na"
+                  },
+                  {
+                    "end": 545,
+                    "start": 493,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 587,
+                    "start": 571,
+                    "word": "8"
+                  },
+                  {
+                    "end": 698,
+                    "start": 588,
+                    "word": "zilizobaki"
+                  }
+                ],
+                "until": 698,
+                "utterances": "Kama kila mtoto anapata pipi moja kutakuwa na pipi 8 zilizobaki"
+              }
+            ],
+            "sentence": "Kama kila mtoto anapata pipi moja, kutakuwa na pipi 8 zilizobaki."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4by3_scatter_2.jpg",
+      "page": 38,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kama kila mtoto anapata pipi 2 kutakuwa na pipi 4 zilizobaki.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "Kama"
+                  },
+                  {
+                    "end": 96,
+                    "start": 55,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 165,
+                    "start": 97,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 236,
+                    "start": 166,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 343,
+                    "start": 237,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 359,
+                    "start": 344,
+                    "word": "2"
+                  },
+                  {
+                    "end": 439,
+                    "start": 360,
+                    "word": "kutakuwa"
+                  },
+                  {
+                    "end": 460,
+                    "start": 440,
+                    "word": "na"
+                  },
+                  {
+                    "end": 501,
+                    "start": 461,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 522,
+                    "start": 502,
+                    "word": "4"
+                  },
+                  {
+                    "end": 687,
+                    "start": 587,
+                    "word": "zilizobaki"
+                  }
+                ],
+                "until": 687,
+                "utterances": "Kama kila mtoto anapata pipi 2 kutakuwa na pipi 4 zilizobaki"
+              }
+            ],
+            "sentence": "Kama kila mtoto anapata pipi 2, kutakuwa na pipi 4 zilizobaki."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4by3_scatter_3.jpg",
+      "page": 39,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kama kila mtoto anapata pipi 3 hakutakuwa na pipi iliyobaki.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "Kama"
+                  },
+                  {
+                    "end": 96,
+                    "start": 55,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 158,
+                    "start": 97,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 229,
+                    "start": 159,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 283,
+                    "start": 230,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 328,
+                    "start": 312,
+                    "word": "3"
+                  },
+                  {
+                    "end": 458,
+                    "start": 366,
+                    "word": "hakutakuwa"
+                  },
+                  {
+                    "end": 477,
+                    "start": 459,
+                    "word": "na"
+                  },
+                  {
+                    "end": 532,
+                    "start": 478,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 635,
+                    "start": 533,
+                    "word": "iliyobaki"
+                  }
+                ],
+                "until": 635,
+                "utterances": "Kama kila mtoto anapata pipi 3 hakutakuwa na pipi iliyobaki"
+              }
+            ],
+            "sentence": "Kama kila mtoto anapata pipi 3, hakutakuwa na pipi iliyobaki."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "Slide68.jpg",
+      "page": 40,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "Kwa hivyo kila mtoto anapata pipi 3.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 1,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 102,
+                    "start": 32,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 157,
+                    "start": 123,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 236,
+                    "start": 158,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 329,
+                    "start": 262,
+                    "word": "anapata"
+                  },
+                  {
+                    "end": 370,
+                    "start": 330,
+                    "word": "pipi"
+                  },
+                  {
+                    "end": 399,
+                    "start": 371,
+                    "word": "3"
+                  }
+                ],
+                "until": 399,
+                "utterances": "Kwa hivyo kila mtoto anapata pipi 3"
+              }
+            ],
+            "sentence": "Kwa hivyo kila mtoto anapata pipi 3."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "",
+  "title": "Word Problems",
+  "titleimage": "{title:Word Problems}{author:RoboTutor}{level:1}"
+}
