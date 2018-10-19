@@ -1,7 +1,7 @@
 {
   "author": "RoboTutor",
   "data": [
-    {
+      {
       "image": null,
       "page": 2,
       "text": [
@@ -71,7 +71,7 @@
           }
         ]
       ]
-    },
+    },  
     {
       "image": "mangoes.jpg",
       "page": 3,
@@ -2034,7 +2034,7 @@
         ]
       ]
     },
-    {
+      {
       "image": "mandazi.jpg",
       "page": 31,
       "text": [
@@ -2103,7 +2103,46 @@
                 "utterances": "Ananunua mandazi matano zaidi"
               }
             ],
-            "sentence": "Ananunua mandazi matano zaidi. Ni mandazi mangapi anayo sasa?"
+            "sentence": "Ananunua mandazi matano zaidi."
+          },
+          {
+              "narration": [
+              {
+                "audio": "Ni mandazi mangapi anayo sasa.mp3",
+                  "from": 20,
+                  "segmentation": [
+
+                      {
+                          "word": "Ni",
+                          "start": 20,
+                          "end": 34
+                      },
+                      {
+                          "word": "mandazi",
+                          "start": 35,
+                          "end": 99
+                      },
+                      {
+                          "word": "mangapi",
+                          "start": 100,
+                          "end": 175
+                      },
+                      {
+                          "word": "anayo",
+                          "start": 176,
+                          "end": 229
+                      },
+                      {
+                          "word": "sasa",
+                          "start": 230,
+                          "end": 301
+                      }
+                  ],
+                "until": 301,
+                  "utterances": "Ni mandazi mangapi anayo sasa?"
+              }
+              ],
+              "sentence": "Ni mandazi mangapi anayo sasa?"
           },
           {
             "narration": [
@@ -2126,6 +2165,7 @@
         ]
       ]
     },
+    
     {
       "image": "4by1.jpg",
       "page": 32,
