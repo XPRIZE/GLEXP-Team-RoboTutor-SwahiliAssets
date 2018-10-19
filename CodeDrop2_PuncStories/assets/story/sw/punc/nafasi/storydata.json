@@ -1,0 +1,107 @@
+{
+  "author": "RoboTutor",
+  "data": [
+    {
+      "image": "Point to space.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nafasi.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 19,
+                    "word": "nafasi"
+                  }
+                ],
+                "until": 105,
+                "utterances": "nafasi"
+              }
+            ],
+            "sentence": "Nafasi"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hii ni nafasi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Hii"
+                  },
+                  {
+                    "end": 76,
+                    "start": 56,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 156,
+                    "start": 77,
+                    "word": "nafasi"
+                  }
+                ],
+                "until": 156,
+                "utterances": "Hii ni nafasi"
+              }
+            ],
+            "sentence": "Hii ni nafasi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tunaacha nafasi moja kati ya maneno.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 21,
+                    "word": "Tunaacha"
+                  },
+                  {
+                    "end": 162,
+                    "start": 95,
+                    "word": "nafasi"
+                  },
+                  {
+                    "end": 223,
+                    "start": 163,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 311,
+                    "start": 224,
+                    "word": "kati"
+                  },
+                  {
+                    "end": 328,
+                    "start": 312,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 400,
+                    "start": 329,
+                    "word": "maneno"
+                  }
+                ],
+                "until": 400,
+                "utterances": "Tunaacha nafasi moja kati ya maneno"
+              }
+            ],
+            "sentence": "Tunaacha nafasi moja kati ya maneno."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Nafasi",
+  "titleimage": "Point to space.jpg"
+}

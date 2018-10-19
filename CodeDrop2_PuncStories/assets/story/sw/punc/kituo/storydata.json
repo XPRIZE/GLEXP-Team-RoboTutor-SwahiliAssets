@@ -1,0 +1,153 @@
+{
+  "author": "RoboTutor",
+  "data": [
+    {
+      "image": "Point to period.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kituo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 2,
+                    "word": "kituo"
+                  }
+                ],
+                "until": 90,
+                "utterances": "kituo"
+              }
+            ],
+            "sentence": "Kituo"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "Hiki ni kituo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 2,
+                    "word": "Hiki"
+                  },
+                  {
+                    "end": 78,
+                    "start": 59,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 150,
+                    "start": 79,
+                    "word": "kituo"
+                  }
+                ],
+                "until": 150,
+                "utterances": "Hiki ni kituo"
+              }
+            ],
+            "sentence": "Hiki ni kituo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Tunaweka nukta mwisho wa sentensi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 21,
+                    "word": "Tunaweka"
+                  },
+                  {
+                    "end": 171,
+                    "start": 99,
+                    "word": "nukta"
+                  },
+                  {
+                    "end": 249,
+                    "start": 172,
+                    "word": "mwisho"
+                  },
+                  {
+                    "end": 266,
+                    "start": 250,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 356,
+                    "start": 267,
+                    "word": "sentensi"
+                  }
+                ],
+                "until": 356,
+                "utterances": "Tunaweka nukta mwisho wa sentensi"
+              }
+            ],
+            "sentence": "Tunaweka nukta mwisho wa sentensi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "Kwa mfano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 101,
+                    "start": 36,
+                    "word": "mfano"
+                  }
+                ],
+                "until": 101,
+                "utterances": "Kwa mfano"
+              }
+            ],
+            "sentence": "Kwa mfano:"
+          },
+          {
+            "narration": [
+              {
+                "audio": "Hii ni RoboTutor.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 2,
+                    "word": "Hii"
+                  },
+                  {
+                    "end": 125,
+                    "start": 102,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 227,
+                    "start": 126,
+                    "word": "RoboTutor"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Hii ni RoboTutor"
+              }
+            ],
+            "sentence": "Hii ni RoboTutor."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Kituo",
+  "titleimage": "Point to period.jpg"
+}
