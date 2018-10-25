@@ -303,31 +303,6 @@
       ]
     },
     {
-      "image": "nyoka.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "nyoka.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "nyoka"
-                  }
-                ],
-                "until": -1,
-                "utterances": "nyoka"
-              }
-            ],
-            "sentence": "nyoka"
-          }
-        ]
-      ]
-    },
-    {
       "image": "kuku.jpg",
       "text": [
         [

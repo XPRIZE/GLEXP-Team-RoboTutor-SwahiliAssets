@@ -228,31 +228,6 @@
       ]
     },
     {
-      "image": "bibo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "bibo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "bibo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "bibo"
-              }
-            ],
-            "sentence": "BIBO"
-          }
-        ]
-      ]
-    },
-    {
       "image": "bodaboda.jpg",
       "text": [
         [

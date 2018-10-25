@@ -28,31 +28,6 @@
       ]
     },
     {
-      "image": "ishara.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ishara.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ishara"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ishara"
-              }
-            ],
-            "sentence": "ISHARA"
-          }
-        ]
-      ]
-    },
-    {
       "image": "iliki.jpg",
       "text": [
         [
@@ -73,56 +48,6 @@
               }
             ],
             "sentence": "ILIKI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "imara.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "imara.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "imara"
-                  }
-                ],
-                "until": -1,
-                "utterances": "imara"
-              }
-            ],
-            "sentence": "IMARA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ikulu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ikulu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ikulu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ikulu"
-              }
-            ],
-            "sentence": "IKULU"
           }
         ]
       ]

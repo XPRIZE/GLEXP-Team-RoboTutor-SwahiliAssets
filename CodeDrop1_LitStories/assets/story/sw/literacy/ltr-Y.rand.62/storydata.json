@@ -28,31 +28,6 @@
       ]
     },
     {
-      "image": "yako.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "yako.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "yako"
-                  }
-                ],
-                "until": -1,
-                "utterances": "yako"
-              }
-            ],
-            "sentence": "yako"
-          }
-        ]
-      ]
-    },
-    {
       "image": "yai.jpg",
       "text": [
         [
@@ -73,31 +48,6 @@
               }
             ],
             "sentence": "yai"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "yadi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "yadi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "yadi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "yadi"
-              }
-            ],
-            "sentence": "yadi"
           }
         ]
       ]

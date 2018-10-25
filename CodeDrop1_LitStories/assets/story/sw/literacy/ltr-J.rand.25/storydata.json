@@ -78,31 +78,6 @@
       ]
     },
     {
-      "image": "joto.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "joto.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "joto"
-                  }
-                ],
-                "until": -1,
-                "utterances": "joto"
-              }
-            ],
-            "sentence": "JOTO"
-          }
-        ]
-      ]
-    },
-    {
       "image": "jicho.jpg",
       "text": [
         [
@@ -148,31 +123,6 @@
               }
             ],
             "sentence": "JANI"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "jike.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "jike.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "jike"
-                  }
-                ],
-                "until": -1,
-                "utterances": "jike"
-              }
-            ],
-            "sentence": "JIKE"
           }
         ]
       ]

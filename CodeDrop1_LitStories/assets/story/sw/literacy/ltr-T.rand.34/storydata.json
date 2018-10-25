@@ -141,31 +141,6 @@
       ]
     },
     {
-      "image": "tungule.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "tungule.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "tungule"
-                  }
-                ],
-                "until": -1,
-                "utterances": "tungule"
-              }
-            ],
-            "sentence": "TUNGULE"
-          }
-        ]
-      ]
-    },
-    {
       "image": "tausi.jpg",
       "text": [
         [

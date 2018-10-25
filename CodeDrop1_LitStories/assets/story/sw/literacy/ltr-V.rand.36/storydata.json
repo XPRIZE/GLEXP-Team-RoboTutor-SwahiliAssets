@@ -28,31 +28,6 @@
       ]
     },
     {
-      "image": "vidogo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "vidogo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "vidogo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "vidogo"
-              }
-            ],
-            "sentence": "VIDOGO"
-          }
-        ]
-      ]
-    },
-    {
       "image": "visu.jpg",
       "text": [
         [

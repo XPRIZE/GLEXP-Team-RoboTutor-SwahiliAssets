@@ -128,31 +128,6 @@
       ]
     },
     {
-      "image": "zulia.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "zulia.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "zulia"
-                  }
-                ],
-                "until": -1,
-                "utterances": "zulia"
-              }
-            ],
-            "sentence": "ZULIA"
-          }
-        ]
-      ]
-    },
-    {
       "image": "zuri.jpg",
       "text": [
         [

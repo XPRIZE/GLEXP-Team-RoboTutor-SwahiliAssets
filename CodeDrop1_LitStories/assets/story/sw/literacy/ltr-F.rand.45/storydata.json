@@ -28,31 +28,6 @@
       ]
     },
     {
-      "image": "faraja.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "faraja.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "faraja"
-                  }
-                ],
-                "until": -1,
-                "utterances": "faraja"
-              }
-            ],
-            "sentence": "faraja"
-          }
-        ]
-      ]
-    },
-    {
       "image": "familia.jpg",
       "text": [
         [
@@ -148,31 +123,6 @@
               }
             ],
             "sentence": "farasi"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "funzo.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "funzo.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "funzo"
-                  }
-                ],
-                "until": -1,
-                "utterances": "funzo"
-              }
-            ],
-            "sentence": "funzo"
           }
         ]
       ]

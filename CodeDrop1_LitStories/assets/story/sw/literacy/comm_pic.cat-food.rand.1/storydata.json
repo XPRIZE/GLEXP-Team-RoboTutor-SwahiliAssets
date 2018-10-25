@@ -328,31 +328,6 @@
       ]
     },
     {
-      "image": "mandazi.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "mandazi.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "mandazi"
-                  }
-                ],
-                "until": -1,
-                "utterances": "mandazi"
-              }
-            ],
-            "sentence": "mandazi"
-          }
-        ]
-      ]
-    },
-    {
       "image": "maji.jpg",
       "text": [
         [

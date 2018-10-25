@@ -3,31 +3,6 @@
   "copyright": "",
   "data": [
     {
-      "image": "ganda.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ganda.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ganda"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ganda"
-              }
-            ],
-            "sentence": "GANDA"
-          }
-        ]
-      ]
-    },
-    {
       "image": "goti.jpg",
       "text": [
         [

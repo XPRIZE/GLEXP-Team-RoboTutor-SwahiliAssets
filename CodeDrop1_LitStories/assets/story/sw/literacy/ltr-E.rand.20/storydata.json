@@ -28,31 +28,6 @@
       ]
     },
     {
-      "image": "eupe.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "eupe.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "eupe"
-                  }
-                ],
-                "until": -1,
-                "utterances": "eupe"
-              }
-            ],
-            "sentence": "EUPE"
-          }
-        ]
-      ]
-    },
-    {
       "image": "elimu.jpg",
       "text": [
         [
@@ -98,31 +73,6 @@
               }
             ],
             "sentence": "EMBE"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "erupe.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "erupe.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "erupe"
-                  }
-                ],
-                "until": -1,
-                "utterances": "erupe"
-              }
-            ],
-            "sentence": "ERUPE"
           }
         ]
       ]

@@ -78,31 +78,6 @@
       ]
     },
     {
-      "image": "lulu.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "lulu.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "lulu"
-                  }
-                ],
-                "until": -1,
-                "utterances": "lulu"
-              }
-            ],
-            "sentence": "lulu"
-          }
-        ]
-      ]
-    },
-    {
       "image": "laini.jpg",
       "text": [
         [

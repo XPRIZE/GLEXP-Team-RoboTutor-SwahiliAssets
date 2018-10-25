@@ -78,31 +78,6 @@
       ]
     },
     {
-      "image": "oka.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "oka.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "oka"
-                  }
-                ],
-                "until": -1,
-                "utterances": "oka"
-              }
-            ],
-            "sentence": "OKA"
-          }
-        ]
-      ]
-    },
-    {
       "image": "ogelea.jpg",
       "text": [
         [
@@ -123,31 +98,6 @@
               }
             ],
             "sentence": "OGELEA"
-          }
-        ]
-      ]
-    },
-    {
-      "image": "ombe.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "ombe.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "ombe"
-                  }
-                ],
-                "until": -1,
-                "utterances": "ombe"
-              }
-            ],
-            "sentence": "OMBE"
           }
         ]
       ]

@@ -78,31 +78,6 @@
       ]
     },
     {
-      "image": "dadako.jpg",
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "dadako.mp3",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": "dadako"
-                  }
-                ],
-                "until": -1,
-                "utterances": "dadako"
-              }
-            ],
-            "sentence": "DADAKO"
-          }
-        ]
-      ]
-    },
-    {
       "image": "dereva.jpg",
       "text": [
         [
