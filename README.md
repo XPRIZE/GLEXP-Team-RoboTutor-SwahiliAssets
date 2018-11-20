@@ -17,7 +17,11 @@ ZIP_CodeDrop1_NumberStories_SW.sh
 ZIP_CodeDrop1_ReadingStories_SW.sh
 ZIP_CodeDrop1_Songs_SW.sh`
 This will give you the following zip folders:
-	* CodeDrop1_LitAudio.1.1.0.zip	* CodeDrop1_LitStories.1.1.0.zip	* CodeDrop1_NumberStories.1.1.0.zip	* CodeDrop1_ReadingStories.1.1.0.zip	* CodeDrop1_Songs.1.1.0.zip
+	* CodeDrop1_LitAudio.1.1.0.zip
+	* CodeDrop1_LitStories.1.1.0.zip
+	* CodeDrop1_NumberStories.1.1.0.zip
+	* CodeDrop1_ReadingStories.1.1.0.zip
+	* CodeDrop1_Songs.1.1.0.zip
 4. Copy the resulting zip files into the assets folder of your local SystemBuild directory.
 
 
@@ -125,8 +129,3 @@ one single folder of thousands of audio files
 TODO
 
 ---
-
-
-## **Usage**
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />The RoboTutor Global Learning Xprize Submission</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
