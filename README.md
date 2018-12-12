@@ -2,7 +2,7 @@
 
 # Assets
 
-Welcome to RoboTutor: this version was uploaded to XPrize 11/20/2018. For subsequent changes, see [https://github.com/RoboTutorLLC/CodeDrop2_Assets](https://github.com/RoboTutorLLC/CodeDrop2_Assets).
+Welcome to RoboTutor: this version was uploaded to XPRIZE on 11/20/2018. For subsequent changes, see [https://github.com/RoboTutorLLC/CodeDrop2_Assets](https://github.com/RoboTutorLLC/CodeDrop2_Assets).
 
 ---
 
