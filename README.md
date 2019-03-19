@@ -18,7 +18,7 @@ This will give you the following zip folders:
 	* CodeDrop2_DemoVideos.1.1.0.zip
 	* CodeDrop2_Icons.1.1.0.zip
 	* CodeDrop2_Original.1.1.0.zip
-4. Copy the resulting zip files into the [assets]()https://github.com/XPRIZE/GLEXP-Team-RoboTutor-SystemBuild/tree/master/assets folder of your local SystemBuild directory.
+4. Copy the resulting zip files into the [assets](https://github.com/XPRIZE/GLEXP-Team-RoboTutor-SystemBuild/tree/master/assets) folder of your local SystemBuild directory.
 
 
 ## Installation process
