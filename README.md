@@ -11,18 +11,14 @@ Welcome to RoboTutor: this version was uploaded to XPRIZE on 11/20/2018. For sub
 1. Clone this repo into your development computer.
 2. Note that cloning this support repo will require up to a GB of space.
 3. Run the following scripts
-`ZIP_CodeDrop1_LitAudio_SW.sh
-ZIP_CodeDrop1_LitStories_SW.sh
-ZIP_CodeDrop1_NumberStories_SW.sh
-ZIP_CodeDrop1_ReadingStories_SW.sh
-ZIP_CodeDrop1_Songs_SW.sh`
+`ZIP_CodeDrop2_DemoVideos.sh
+ZIP_CodeDrop2_Icons.sh
+ZIP_CodeDrop2_Original_SW.sh`
 This will give you the following zip folders:
-	* CodeDrop1_LitAudio.1.1.0.zip
-	* CodeDrop1_LitStories.1.1.0.zip
-	* CodeDrop1_NumberStories.1.1.0.zip
-	* CodeDrop1_ReadingStories.1.1.0.zip
-	* CodeDrop1_Songs.1.1.0.zip
-4. Copy the resulting zip files into the assets folder of your local SystemBuild directory.
+	* CodeDrop2_DemoVideos.1.1.0.zip
+	* CodeDrop2_Icons.1.1.0.zip
+	* CodeDrop2_Original.1.1.0.zip
+4. Copy the resulting zip files into the [assets]()https://github.com/XPRIZE/GLEXP-Team-RoboTutor-SystemBuild/tree/master/assets folder of your local SystemBuild directory.
 
 
 ## Installation process
