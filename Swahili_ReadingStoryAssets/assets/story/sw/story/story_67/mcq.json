@@ -219,51 +219,6 @@
       "target": "kuirukia"
     }, 
     {
-      "distractor": null, 
-      "punctuation": ".", 
-      "sentence": "\"Tafadhali rafiki yangu, naomba kukopesha manyoya ili niweze kujitengenezea mbawa.", 
-      "stem": "\"Tafadhali rafiki yangu, naomba kukopesha manyoya ili niweze kujitengenezea", 
-      "target": "mbawa"
-    }, 
-    {
-      "distractor": {
-        "nonsensical": [
-          "lake", 
-          "hao", 
-          "yeye"
-        ], 
-        "nonsensical_english": [
-          "his", 
-          "mentioned", 
-          "it"
-        ], 
-        "plausible": [
-          "wote", 
-          "wao", 
-          "wangu"
-        ], 
-        "plausible_english": [
-          "everybody", 
-          "theirs", 
-          "my"
-        ], 
-        "ungrammatical": [
-          "ili", 
-          "kale", 
-          "kama"
-        ], 
-        "ungrammatical_english": [
-          "so", 
-          "antiquity", 
-          "that"
-        ]
-      }, 
-      "punctuation": ".\"", 
-      "sentence": "Nina hamu sana kuruka kama wewe.\"", 
-      "stem": "Nina hamu sana kuruka kama", 
-      "target": "wewe"
-    }, 
-    {
       "distractor": {
         "nonsensical": [
           "mti", 
