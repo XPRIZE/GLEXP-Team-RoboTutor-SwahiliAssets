@@ -1,131 +1,64 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Assets
+# Swahili Assets
 
-Welcome to RoboTutor: this version was uploaded to XPrize 11/20/2018. For subsequent changes, see (https://github.com/RoboTutorLLC/RoboTutor)[https://github.com/RoboTutorLLC/RoboTutor].
-
----
-
-## XPrize Pre-Installation process
-
-1. Clone this repo into your development computer.
-2. Note that cloning this support repo will require up to a GB of space.
-3. Run the following scripts
-`ZIP_CodeDrop1_LitAudio_SW.sh
-ZIP_CodeDrop1_LitStories_SW.sh
-ZIP_CodeDrop1_NumberStories_SW.sh
-ZIP_CodeDrop1_ReadingStories_SW.sh
-ZIP_CodeDrop1_Songs_SW.sh`
-This will give you the following zip folders:
-	* CodeDrop1_LitAudio.1.1.0.zip
-	* CodeDrop1_LitStories.1.1.0.zip
-	* CodeDrop1_NumberStories.1.1.0.zip
-	* CodeDrop1_ReadingStories.1.1.0.zip
-	* CodeDrop1_Songs.1.1.0.zip
-4. Copy the resulting zip files into the assets folder of your local SystemBuild directory.
-
-
-## Installation process
-Run the corresponding "ZIP...sh" file to compress the assets into a zip folder. Then either:
-
-- upload to Google Drive for sharing
-- run `adb push CodeDrop1_X.zip /sdcard/Download` to put the zipped folder onto your android device.
+This repository contains the assets needed to run the Swahili version of RoboTutor.
 
 ---
 
 ## Asset Repos
+Each of the repositories listed below has a different set of assets needed to run the Swahili version of RoboTutor.
 
-Hint: run `tree -d <asset_dir> | more` in your terminal to view the structure of an assets directory. Cycle through wih the `f` and `b` key.
+There are two ways to install each folder:
 
----
-
-### CodeDrop1_LitStories
-"Stories" in the Literacy Matrix
-
-##### story files
-
-- HF (high-frequency words)
-- A-Z (letters)
-- begin/end (words that begin or end w/ certain sound)
-- comm (common words)
-- ltr (letters)
-- syl (syllables)
-- vow (vowels)
+1. With your Android device plugged in, run the corresponding `PUSH_*.sh` script.
+2. Run the corresponding `ZIP_*.sh`, and then move all resulting .zip files into the "Download" directory of your tablet. Then start RoboTutor and it will unzip the files for you.
 
 
-
-##### audio files
-shared_lit audio
+--- 
 
 
-##### image files
-shared_literacy images
+### Swahili_TutorAudio
+Contains prompts that go with the tutors.
 
+Run `./PUSH_Swahili_TutorAudio.sh` to push to your device.
 
----
-### CodeDrop1_NumberStories
-"Stories" in the Math Matrix.
-
-##### story files
-
-- SS (shape to shape)
-- SD (shape to digit)
-- DD (digits to digits)
-- TD (text to digits)
-- 1..4 (1 to 4)
-- 0..10 (0 to 10)
-- 0..20 (0 to 20)
-- 0..50 (0 to 50)
-- 10..100 (10 to 100)
-- 50..100 (50 to 100)
-- 100..900 (100 to 900)
-
-
-
-##### audio files
-shared_math audio
-
-
-##### image files
-shared_math images
- 
-
----
-### CodeDrop1_ReadingStories
-"Stories" that are read, both in the Stories matrix and in the Literacy Matrix.
-
-##### story and image files
-each story has its own folder with storydata.json and image files
-
-##### audio files
-each story has its own audio files
-
+Run `./ZIP_Swahili_TutorAudio.sh` to create a zipped folder.
 
 ---
 
+### Swahili_ReadingStoryAssets
+Contains story JSON, images, and audio for reading stories.
 
-### CodeDrop1_Songs
-Stories that are classified as "songs", in both lit and math matrix.
+Run `./PUSH_Swahili_ReadingStoryAssets.sh` to push to your device.
 
-##### story and image files
-each story has its own folder with storydata.json and image files
+Run `./ZIP_Swahili_ReadingStoryAssets.sh` to create a zipped folder.
 
+--- 
 
-##### audio files
-each story has its own audio files
+### Swahili_WordAudio
+Contains mp3s of individual words.
 
+Run `./PUSH_Swahili_WordAudio.sh` to push to your device.
 
----
+Run `./ZIP_Swahili_WordAudio.sh` to create a zipped folder.
 
-### CodeDrop1_LitAudio
-A huuuuge folder of many of the single words needed for the Literacy Matrix
+--- 
 
-##### audio files
-one single folder of thousands of audio files
+### Swahili_OtherStoryAssets
+Contains story assets for other stories, like word problems, literacy stories, and number stories.
 
----
+Run `./PUSH_Swahili_OtherStoryAssets.sh` to push to your device.
 
-### CodeDrop1_UtilityAudio
-TODO
+Run `./ZIP_Swahili_OtherStoryAssets.sh` to create a zipped folder.
+
+--- 
+
+### Swahili_Misc
+Contains tapping demo videos (optional) and extra tutor thumbnails (optional).
+
+Run `./PUSH_Swahili_Misc.sh` to push to your device.
+
+Run `./ZIP_Swahili_Misc.sh` to create a zipped folder.
 
 ---
